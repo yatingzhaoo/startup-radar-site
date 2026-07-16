@@ -1,0 +1,198 @@
+:root {
+  color-scheme: light;
+  --bg: #f7f7f7;
+  --paper: #ffffff;
+  --text: #111111;
+  --muted: #666666;
+  --faint: #8a8a8a;
+  --line: #d8d8d8;
+  --soft-line: #ececec;
+  --link: #1d3f72;
+  --link-hover: #000000;
+  --active: #eeeeee;
+  --content-width: 820px;
+  font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  background: var(--bg);
+  color: var(--text);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+}
+
+button,
+a {
+  font: inherit;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+.page {
+  width: min(var(--content-width), calc(100vw - 28px));
+  margin: 0 auto;
+  padding: 18px 0 56px;
+}
+
+.siteHeader {
+  padding: 8px 0 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+h1 {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.dayFeed {
+  padding: 18px 0 30px;
+}
+
+.dayHead {
+  padding: 6px 0 12px;
+}
+
+.dayHead h2 {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+.section {
+  padding-top: 12px;
+}
+
+h3 {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.linkList,
+.readingList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.companyRow {
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  gap: 8px;
+  padding: 18px 0 20px;
+}
+
+.rowNumber {
+  color: var(--faint);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: 13px;
+  padding-top: 2px;
+  text-align: right;
+}
+
+.rowTitle {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.companyName {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.companyExplanation {
+  margin-top: 7px;
+  color: #202020;
+  font-size: 16px;
+  line-height: 1.72;
+}
+
+.readingRow {
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  gap: 8px;
+  padding: 13px 0;
+}
+
+.readingSection {
+  padding-top: 18px;
+}
+
+.readingItem {
+  padding: 4px 0;
+}
+
+.readingItem h4 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.readingItem p {
+  margin-top: 8px;
+  color: #202020;
+  font-size: 16px;
+  line-height: 1.72;
+}
+
+.loadingText {
+  color: var(--muted);
+  font-size: 15px;
+  margin: 24px 0;
+}
+
+@media (max-width: 720px) {
+  :root {
+    font-size: 14px;
+  }
+
+  .page {
+    width: calc(100vw - 20px);
+    padding-top: 10px;
+  }
+
+  h1 {
+    font-size: 21px;
+  }
+
+  .companyRow,
+  .readingRow {
+    grid-template-columns: 24px 1fr;
+    gap: 6px;
+  }
+
+  .rowNumber {
+    text-align: left;
+  }
+
+  .companyExplanation,
+  .readingItem p {
+    font-size: 15px;
+    line-height: 1.68;
+  }
+}

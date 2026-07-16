@@ -1,0 +1,27 @@
+{
+  "name": "startup-radar-site",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "node scripts/build-static.mjs",
+    "build:vite": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "generate:today": "node scripts/generate-static-day.mjs",
+    "validate:feed": "node scripts/validate-static-feed.mjs",
+    "update:data": "node scripts/update-data.mjs",
+    "analytics:posthog:7d": "node scripts/posthog-report.mjs 7",
+    "analytics:posthog:30d": "node scripts/posthog-report.mjs 30"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.4.1",
+    "@vitejs/plugin-react": "latest",
+    "fast-xml-parser": "^5.9.3",
+    "posthog-js": "^1.395.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest",
+    "vite": "latest"
+  }
+}

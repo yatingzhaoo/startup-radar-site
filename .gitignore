@@ -1,0 +1,6 @@
+.vercel
+.env*
+!.env.analytics.example
+node_modules
+dist
+*.png
