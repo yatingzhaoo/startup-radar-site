@@ -1,0 +1,8 @@
+{
+  "name": "startup-radar-vercel-redirect",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node -e \"require('fs').mkdirSync('public', { recursive: true })\""
+  }
+}

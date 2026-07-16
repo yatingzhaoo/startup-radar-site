@@ -1,0 +1,16 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "public",
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://startup-radar-site.pages.dev/",
+      "permanent": false
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://startup-radar-site.pages.dev/:path*",
+      "permanent": false
+    }
+  ]
+}
