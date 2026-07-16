@@ -1,7 +1,244 @@
 {
-  "generatedAt": "2026-07-15T17:33:55.916Z",
+  "generatedAt": "2026-07-16T09:26:53.482Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-07-16",
+      "companies": [
+        {
+          "id": 33013,
+          "name": "Operon",
+          "url": "https://operonsolutions.com/en",
+          "sourceUrl": "https://www.ycombinator.com/companies/operon",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Computer Vision",
+            "Manufacturing",
+            "Infrastructure"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 0,
+          "originalOneLiner": "Agentic data layer for manufacturing & process industries.",
+          "originalDescription": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility. On top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design.",
+          "story": "工业现场的难点通常不在概念，而在机器能不能稳定适应真实环境。Operon 想把原本靠人反复试错的一段做得更可复制。 这里没有 YC 批次或团队人数这类整齐字段，所以更应该看产品本身和来源信号；今天的信号主要来自 公开来源。",
+          "rank": 1
+        },
+        {
+          "id": 31531,
+          "name": "Manicule",
+          "url": "https://manicule.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/manicule",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "AgentRel — Devrel For Agents",
+          "originalDescription": "Manicule does AgentRel. We get companies discovered and used by AI agents. Think DevRel, rebuilt for a world where agents make all the decisions. We own developer documentation and technical content across social channels, end-to-end. We've grown 100% MoM over the last three months to $53K in monthly revenue, with customers like Supermemory, Greptile, Reducto, and Mastra. Getting discovered and used by agents is its own job now, and the market for it is broken. The SEO/GEO SaaS tools just show you data like where you rank in AI answers. The agencies are slow and lack know-how with agents. The one person who could own all of it end-to-end, a DevRel, is nearly impossible to hire: our customers have had roles open for months at $300K+ and still can't find anyone good. We solve all these gaps. Naman has been doing fractional DevRel since he was 13, working with companies like PromptLayer, Brightdata, and Courier.com. Shreyans has been building since 14 — he built an AI app that hit App Store Productivity Trending within a month, and was the founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
+          "story": "开发者工具的价值常常藏在少踩坑里。团队要交付业务功能，但会被集成、权限、调试和部署拖住。Manicule 想把其中一段基础工作做薄。 它值得先记下来，不是因为有漂亮标签，而是因为 公开来源 让我们能看到一个正在公开发布或被讨论的新产品。",
+          "rank": 2
+        },
+        {
+          "id": 31222,
+          "name": "Superset",
+          "url": "https://www.superset.sh/",
+          "sourceUrl": "https://www.ycombinator.com/companies/superset",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Consumer",
+            "B2B",
+            "Enterprise Software",
+            "AI"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Building the platform for software factories",
+          "originalDescription": "Superset is an open-source IDE that helps engineers run 100s of coding agents in parallel. Our desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
+          "story": "如果你是工程负责人，新功能上线前最怕的不是多写几行代码，而是底层系统不稳定、权限不清楚、故障没人知道从哪里查。Superset 想把原本需要人一步步处理的流程交给软件先整理、提醒或自动完成，让人只处理最重要的部分。 这里没有 YC 批次或团队人数这类整齐字段，所以更应该看产品本身和来源信号；今天的信号主要来自 公开来源。",
+          "rank": 3
+        },
+        {
+          "id": 30983,
+          "name": "Telemetron",
+          "url": "https://www.telemetron.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/telemetron-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Fall 2025",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Support and Operations Platform for Hardware Companies",
+          "originalDescription": "Telemetron is an AI-powered support platform tailored for hardware products (medical devices, consumer electronics, industrial hardware, robotics, and more). Our platform unifies ticketing, device diagnostics, order tracking, and product documentation into one intelligent system. Our AI agents connect directly to devices, APIs, and backend systems to deliver faster resolutions, smarter routing, and better support experiences.",
+          "story": "如果你每天开很多会、通勤、运动或到处见人，很多重要信息其实发生在电脑屏幕外。手机应用要你主动打开，但Telemetron 想把人工智能能力放进一个可以随身使用的设备里，让录音、提醒、健康记录或日常信息不只停留在手机应用里。 这里没有 YC 批次或团队人数这类整齐字段，所以更应该看产品本身和来源信号；今天的信号主要来自 公开来源。",
+          "rank": 4
+        },
+        {
+          "id": 31393,
+          "name": "KelAI",
+          "url": "https://kelaitech.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/kelai",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
+          "originalDescription": "Founded by former WorldQuant portfolio manager & head of event driven systematic strategies Jeremie Cohen, KelAI is building the autonomous alpha engine for hedge funds, traders and institutional investors. Investment teams now have more data, tools and compute than ever, but research still runs across siloed systems and inefficient workflows. KelAI turns that fragmented process into a compounding AI-native engine that continuously finds, tests and validates trading signals at a pace no human team can match.",
+          "story": "金融和保险里的很多工作并不是缺人判断，而是材料太散、规则太多、过程还必须可追溯。KelAI 想把这类判断前的准备工作自动化。 它值得先记下来，不是因为有漂亮标签，而是因为 公开来源 让我们能看到一个正在公开发布或被讨论的新产品。",
+          "rank": 5
+        },
+        {
+          "id": 31552,
+          "name": "Arctic Health",
+          "url": "https://arctic.health",
+          "sourceUrl": "https://www.ycombinator.com/companies/arctic-health",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "AI-native credentialing and contracting for healthcare",
+          "originalDescription": "Arctic Health is building AI-native credentialing and contracting for healthcare organizations. We automate the full workflow, from establishing payer contracts to enrolling each provider. We collect and validate organization and provider data according to each state and payer’s requirements, and submit on the organization's behalf. We then monitor status and compliance on an ongoing basis. Tools on the market today either perform small pieces of the workflow or price out small and mid-sized organizations. We handle the process end-to-end regardless of organization type or size. Our browser automations enable AI agents to submit and monitor across hundreds of payer portals, and our system is trained by experienced industry experts who handle every edge case. Healthcare organizations get one simple platform. We handle the rest.",
+          "story": "如果一个团队每天都要从老网站里查数据、提交表单或导出文件，实时浏览器自动化很容易变成黑盒。Arctic Health 想把这些网页动作变成更清楚的代码和脚本。 这类非 YC 来源的信息不会总是完整，但 公开来源 提供了一个入口，可以继续看官网、用户反应和后续更新。",
+          "rank": 6
+        },
+        {
+          "id": "hardware-based-hardware",
+          "name": "Based Hardware",
+          "url": "https://www.basedhardware.com/",
+          "sourceUrl": "https://www.basedhardware.com/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Smart Hardware",
+            "Design",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Open wearable AI hardware for builders.",
+          "originalDescription": "Based Hardware focuses on wearable AI devices and developer-friendly hardware kits for people experimenting with always-on personal assistants.",
+          "story": "如果你每天开很多会、通勤、运动或到处见人，很多重要信息其实发生在电脑屏幕外。手机应用要你主动打开，但Based Hardware 想把人工智能能力放进一个可以随身使用的设备里，让录音、提醒、健康记录或日常信息不只停留在手机应用里。 它被放进今天的列表，是因为它出现在 Smart hardware watchlist 这类公开来源里，至少说明有人正在把这个产品推到市场面前。",
+          "rank": 7
+        },
+        {
+          "id": "ph-inbix",
+          "name": "Inbix",
+          "url": "https://www.producthunt.com/products/inbix",
+          "sourceUrl": "https://www.producthunt.com/products/inbix",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Cloudflare-native Email Infrastructure for Developers",
+          "originalDescription": "Cloudflare-native Email Infrastructure for Developers",
+          "story": "如果你是工程负责人，新功能上线前最怕的不是多写几行代码，而是底层系统不稳定、权限不清楚、故障没人知道从哪里查。Inbix 想给工程团队提供底层工具，让他们不用从零搭建复杂系统，可以更快把产品做出来。 它被放进今天的列表，是因为它出现在 Product Hunt 这类公开来源里，至少说明有人正在把这个产品推到市场面前。",
+          "rank": 8
+        },
+        {
+          "id": "ph-codex-micro",
+          "name": "Codex Micro",
+          "url": "https://www.producthunt.com/products/openai",
+          "sourceUrl": "https://www.producthunt.com/products/openai",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Tactile controls for your Codex agents",
+          "originalDescription": "Tactile controls for your Codex agents",
+          "story": "工程团队不缺新工具，缺的是能减少等待和返工的工具。Codex Micro 如果能让一个复杂环节更可靠，就有机会嵌进日常开发流程。 这类非 YC 来源的信息不会总是完整，但 Product Hunt 提供了一个入口，可以继续看官网、用户反应和后续更新。",
+          "rank": 9
+        },
+        {
+          "id": "ph-graft-ai",
+          "name": "Graft AI",
+          "url": "https://www.producthunt.com/products/graft-ai",
+          "sourceUrl": "https://www.producthunt.com/products/graft-ai",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Turn company operations into a living map for agents",
+          "originalDescription": "Turn company operations into a living map for agents",
+          "story": "如果你是这类业务的一线负责人，最常见的痛苦往往不是一个惊天动地的大问题，而是一堆靠人、表格和邮件勉强维持的细碎流程。Graft AI 想把原本需要人一步步处理的流程交给软件先整理、提醒或自动完成，让人只处理最重要的部分。 它被放进今天的列表，是因为它出现在 Product Hunt 这类公开来源里，至少说明有人正在把这个产品推到市场面前。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "classic-basecamp-calm",
+          "title": "Shape Up: Betting",
+          "url": "https://basecamp.com/shapeup/1.1-chapter-02",
+          "source": "Basecamp",
+          "topic": "产品下注和规划",
+          "story": "很多关于产品下注和规划的问题，刚开始看都像常识，真正做起来才会发现细节很难。团队会在选择、沟通、执行或用户理解上反复踩坑，而这类文章的价值就是把这些坑讲清楚。读的时候不要只看结论，可以把它当成一个拆解样本：作者怎样发现真正的问题，怎样判断哪些事重要，怎样把一个产品或团队选择讲明白。",
+          "published": ""
+        },
+        {
+          "id": "classic-amplitude-north-star",
+          "title": "What is a North Star Metric?",
+          "url": "https://amplitude.com/blog/north-star-metric",
+          "source": "Amplitude",
+          "topic": "产品指标",
+          "story": "很多关于产品指标的问题，刚开始看都像常识，真正做起来才会发现细节很难。团队会在选择、沟通、执行或用户理解上反复踩坑，而这类文章的价值就是把这些坑讲清楚。读的时候不要只看结论，可以把它当成一个拆解样本：作者怎样发现真正的问题，怎样判断哪些事重要，怎样把一个产品或团队选择讲明白。",
+          "published": ""
+        },
+        {
+          "id": "classic-figma-config",
+          "title": "Config",
+          "url": "https://www.figma.com/blog/config-2024-recap/",
+          "source": "Figma",
+          "topic": "设计工具和产品发布",
+          "story": "很多关于设计工具和产品发布的问题，刚开始看都像常识，真正做起来才会发现细节很难。团队会在选择、沟通、执行或用户理解上反复踩坑，而这类文章的价值就是把这些坑讲清楚。读的时候不要只看结论，可以把它当成一个拆解样本：作者怎样发现真正的问题，怎样判断哪些事重要，怎样把一个产品或团队选择讲明白。",
+          "published": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-15",
       "companies": [
