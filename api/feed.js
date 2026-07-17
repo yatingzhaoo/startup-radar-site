@@ -54,7 +54,7 @@ export async function enrichFeedWithDeepSeek(feed, options = { days: 1, strict: 
       try {
         const stories = await generateCompleteStories(day.date, "company", day.companies, generateCompanyStories);
         for (const company of day.companies) {
-          company.story = stories[company.id];
+          company.story = normalizeGeneratedStory(stories[company.id], [company.name]);
         }
         const readingStories = await generateCompleteStories(day.date, "reading", day.readings, generateReadingStories);
         for (const reading of day.readings) {
@@ -285,14 +285,21 @@ async function generateCompanyStories(date, companies) {
   const result = {};
   for (const item of parsed.items || []) {
     if (item.id && item.story) {
-      result[item.id] = normalizeGeneratedStory(item.story);
+      result[item.id] = String(item.story).trim();
     }
   }
   return result;
 }
 
-function normalizeGeneratedStory(value) {
-  const normalized = String(value)
+function normalizeGeneratedStory(value, protectedTerms = []) {
+  const replacements = protectedTerms
+    .filter(Boolean)
+    .sort((left, right) => right.length - left.length)
+    .map((term, index) => ({ term, token: `__PROTECTED_TERM_${index}__` }));
+  let protectedValue = String(value);
+  for (const { term, token } of replacements) protectedValue = protectedValue.split(term).join(token);
+
+  let normalized = protectedValue
     .replace(/\s+/g, " ")
     .replace(/\s*[—–]+\s*/g, "：")
     .replace(/：+/g, "：")
@@ -313,6 +320,7 @@ function normalizeGeneratedStory(value) {
     .replace(/YC 秋季 (\d{4})批次/g, "YC 秋季 $1 批次")
     .trim();
 
+  for (const { term, token } of replacements) normalized = normalized.split(token).join(term);
   return normalized;
 }
 
@@ -323,8 +331,8 @@ function normalizeFeedText(feed) {
       ...day,
       companies: (day.companies || []).map((company) => ({
         ...company,
-        story: company.story ? normalizeGeneratedStory(company.story) : company.story,
-        explanation: company.explanation ? normalizeGeneratedStory(company.explanation) : company.explanation
+        story: company.story ? normalizeGeneratedStory(company.story, [company.name]) : company.story,
+        explanation: company.explanation ? normalizeGeneratedStory(company.explanation, [company.name]) : company.explanation
       })),
       readings: (day.readings || []).map((reading) => ({
         ...reading,

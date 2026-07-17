@@ -50,6 +50,7 @@ function assertFreshNarration(day) {
       const label = item.name || item.title || item.id;
       const story = String(item.story || "").trim();
       assert(story.length >= 100, `${day.date}: ${type} story is too short for ${label}`);
+      assert(!/[—–]/.test(story), `${day.date}: prohibited dash in ${type} story for ${label}`);
       assert(!fallbackPatterns.some((pattern) => pattern.test(story)), `${day.date}: fallback ${type} story for ${label}`);
     }
     for (let left = 0; left < items.length; left += 1) {
