@@ -7,6 +7,7 @@
     "dev": "vite --host 0.0.0.0",
     "build": "node scripts/build-static.mjs",
     "build:vite": "vite build",
+    "fix:fallbacks": "node scripts/repair-static-fallbacks.mjs",
     "preview": "vite preview --host 0.0.0.0",
     "generate:today": "node scripts/generate-static-day.mjs",
     "validate:feed": "node scripts/validate-static-feed.mjs",

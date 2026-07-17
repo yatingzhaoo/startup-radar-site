@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T19:37:53.919Z",
+  "generatedAt": "2026-07-17T19:41:41.295Z",
   "source": "github-static",
   "days": [
     {
@@ -632,7 +632,7 @@
           "teamSize": 0,
           "originalOneLiner": "Time-stamped feedback on your video from your team. And AI.",
           "originalDescription": "Time-stamped feedback on your video from your team. And AI.",
-          "story": "如果你是这类业务的一线负责人，最常见的痛苦往往不是一个惊天动地的大问题，而是一堆靠人、表格和邮件勉强维持的细碎流程。Review by Eddie AI 想让它把一个原来靠人工、表格、邮件或零散系统完成的事情，做成一个更集中的软件产品。 这里没有 YC 批次或团队人数这类整齐字段，所以更应该看产品本身和来源信号；今天的信号主要来自 Product Hunt。",
+          "story": "这是一家做视频协作反馈工具的公司。想象你是一个创意团队的负责人，刚完成一支广告片的粗剪，需要收集导演、文案和客户的意见。过去你只能靠邮件来回或开会时口头点评，很容易遗漏细节。Review by Eddie AI 让团队成员直接在视频时间轴上打点留言，还能借助人工智能生成摘要和建议。它把散乱的反馈变成结构化、可追溯的清单，让修改过程不再混乱。这家公司刚在 Product Hunt 上发布，适合那些每天要处理大量视频审阅的团队。",
           "rank": 8
         },
         {
@@ -678,12 +678,12 @@
       ],
       "readings": [
         {
-          "id": "classic-positioning",
-          "title": "Obviously Awesome",
-          "url": "https://www.aprildunford.com/obviously-awesome",
-          "source": "April Dunford",
-          "topic": "定位和产品叙事",
-          "story": "很多关于定位和产品叙事的问题，刚开始看都像常识，真正做起来才会发现细节很难。团队会在选择、沟通、执行或用户理解上反复踩坑，而这类文章的价值就是把这些坑讲清楚。读的时候不要只看结论，可以把它当成一个拆解样本：作者怎样发现真正的问题，怎样判断哪些事重要，怎样把一个产品或团队选择讲明白。",
+          "id": "classic-svpg-outcomes-hard",
+          "title": "Outcomes Are Hard",
+          "url": "https://www.svpg.com/outcomes-are-hard/",
+          "source": "Silicon Valley Product Group",
+          "topic": "产品结果和产出",
+          "story": "很多团队习惯了按功能交付来考核，老板问“这个季度做了什么”，大家列出一堆上线特性。但真正有价值的是产品是否改变了用户行为或业务指标，这就是从“产出”转向“结果”。可一旦开始追求结果，就会发现阻力重重：数据口径对不上、实验周期太长、团队不敢砍需求。这篇来自 SVPG 的文章，正是讲为什么这条路这么难走，以及团队在切换思维时最常卡在哪几个环节。读的时候可以留意作者如何区分“困难”和“不可能”，以及他给出的那些小切口建议：哪些是你可以明天就试着改一改的流程或会议方式。",
           "published": ""
         },
         {
@@ -692,7 +692,7 @@
           "url": "https://www.nngroup.com/articles/ten-usability-heuristics/",
           "source": "Nielsen Norman Group",
           "topic": "可用性和界面设计",
-          "story": "很多关于可用性和界面设计的问题，刚开始看都像常识，真正做起来才会发现细节很难。团队会在选择、沟通、执行或用户理解上反复踩坑，而这类文章的价值就是把这些坑讲清楚。读的时候不要只看结论，可以把它当成一个拆解样本：作者怎样发现真正的问题，怎样判断哪些事重要，怎样把一个产品或团队选择讲明白。",
+          "story": "你设计了一个界面，用户却总在某个按钮前犹豫，或者找不到常用功能。这时候回头翻翻 Nielsen 的十条启发式，会发现大部分问题都能对号入座。它不像操作手册那样告诉你具体怎么做，而是提供一套检查清单，让你在评审或测试时知道该看什么。读的时候可以试着拿自己最近的项目对照每一条，看看哪些地方被忽略了。",
           "published": ""
         },
         {
@@ -701,7 +701,7 @@
           "url": "https://www.intercom.com/blog/jobs-to-be-done/",
           "source": "Intercom",
           "topic": "用户任务和产品定位",
-          "story": "很多关于用户任务和产品定位的问题，刚开始看都像常识，真正做起来才会发现细节很难。团队会在选择、沟通、执行或用户理解上反复踩坑，而这类文章的价值就是把这些坑讲清楚。读的时候不要只看结论，可以把它当成一个拆解样本：作者怎样发现真正的问题，怎样判断哪些事重要，怎样把一个产品或团队选择讲明白。",
+          "story": "用户买一个产品，往往不是为了拥有它，而是为了完成某件事。Intercom 这篇关于 Jobs-to-be-Done 的文章把这种思路讲得很清楚：它帮你从“用户画像”转向“用户任务”，从而发现真正驱动购买的原因。读的时候可以关注作者如何区分“需求”和“任务”，以及怎样用这个框架来判断功能优先级。",
           "published": ""
         }
       ]
@@ -2241,7 +2241,7 @@
           "teamSize": 2,
           "originalOneLiner": "Figma + Cursor, for AI Filmmaking",
           "originalDescription": "Flick is an AI filmmaking software that lets people create Hollywood-level short films completely using AI end-to-end. There are many AI tools that can give you 8-second casual clips to post on social media, but when it comes to creating truly high-quality films with coherent storylines, consistent characters, and cinematic aesthetics, they don’t come close due to their lack of flexibility, creative control, and fragmented creative flow. Founded by an award-winning filmmaker and a founding engineer at Instagram, Flick defines an interface specifically designed for native AI filmmaking that feels natural and enables end-to-end creative flows. Think of Flick as Figma for AI filmmaking. There are 4 complete AI short films created using Flick that got 20+ awards in international film festivals already and our early creator residency community are generating several AI short films every week. We are also building a community where we produce our own AI films as well as collaborating with other well-known filmmakers to share their “behind-the-scenes” workflows as resuable templates to inspire users in our community. We not only build product, we also build world-class content. The whole film industry will be revolutionized by AI and our goal is to be “the product” that defines this category.",
-          "story": "如果你是这类业务的一线负责人，最常见的痛苦往往不是一个惊天动地的大问题，而是一堆靠人、表格和邮件勉强维持的细碎流程。Flick 想把原本需要人一步步处理的流程交给软件先整理、提醒或自动完成，让人只处理最重要的部分。 YC 秋季 2025 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
+          "story": "这是做人工智能电影制作软件的公司。想象你是一位独立电影导演，想用人工智能工具制作一部有连贯剧情、角色一致且画面精致的短片，但现有工具只能生成几秒钟的社交短视频，缺乏创意控制，创作流程也很零碎。Flick 定义了一套专为人工智能电影制作设计的界面，让你能像使用 Figma 做设计一样，端到端地完成电影创作。它由一位获奖电影人和 Instagram 创始工程师共同创立，已经有四部用 Flick 制作的短片在国际电影节上获得二十多个奖项，早期创作者社区每周都能产出多部短片，值得关注。",
           "rank": 5
         },
         {

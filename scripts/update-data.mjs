@@ -558,6 +558,7 @@ const BLOCKED_READING_KEYS = new Set(
     "https://review.firstround.com/stripe-patrick-collison-on-strategy-and-company-building/",
     "https://brianbalfour.com/essays/scientific-method-growth-experiments",
     "https://www.aprildunford.com/post/positioning-manifesto",
+    "https://www.aprildunford.com/obviously-awesome",
     "https://www.svpg.com/product-discovery-overview/",
     "https://linear.app/blog/the-growing-pains-of-high-growth-startups",
     "https://a16z.com/network-effects/",
