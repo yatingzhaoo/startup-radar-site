@@ -46,29 +46,45 @@ export default async function handler(request, response) {
   }
 }
 
-export async function enrichFeedWithDeepSeek(feed, options) {
+export async function enrichFeedWithDeepSeek(feed, options = { days: 1, strict: false }) {
   const targetDays = feed.days.slice(0, options.days);
 
   await Promise.all(
     targetDays.map(async (day) => {
       try {
-        const stories = await generateCompanyStories(day.date, day.companies);
+        const stories = await generateCompleteStories(day.date, "company", day.companies, generateCompanyStories);
         for (const company of day.companies) {
-          if (stories[company.id]) {
-            company.story = stories[company.id];
-          }
+          company.story = stories[company.id];
         }
-        const readingStories = await generateReadingStories(day.date, day.readings);
+        const readingStories = await generateCompleteStories(day.date, "reading", day.readings, generateReadingStories);
         for (const reading of day.readings) {
-          if (readingStories[reading.id]) {
-            reading.story = readingStories[reading.id];
-          }
+          reading.story = readingStories[reading.id];
         }
       } catch (error) {
+        if (options.strict) throw error;
         console.warn(`DeepSeek skipped for ${day.date}: ${error instanceof Error ? error.message : String(error)}`);
       }
     })
   );
+}
+
+async function generateCompleteStories(date, type, items, generator) {
+  const stories = {};
+  let remaining = items;
+
+  for (let attempt = 1; attempt <= 3 && remaining.length; attempt += 1) {
+    Object.assign(stories, await generator(date, remaining));
+    remaining = items.filter((item) => !stories[item.id]);
+    if (remaining.length && attempt < 3) {
+      console.warn(`DeepSeek ${type} retry ${attempt}/3 for ${date}: ${remaining.length} missing`);
+    }
+  }
+
+  if (remaining.length) {
+    const labels = remaining.map((item) => item.name || item.title || item.id);
+    throw new Error(`DeepSeek ${type} output missing for ${date}: ${labels.join(", ")}`);
+  }
+  return stories;
 }
 
 export async function readStoredFeed(options = {}) {

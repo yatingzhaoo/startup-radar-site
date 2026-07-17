@@ -28,8 +28,10 @@ for (const company of dayFeed.days?.[0]?.companies || []) {
   company.url = safeCompanyUrl(company);
 }
 validateSelection(dayFeed.days?.[0], date);
+let usedAi = false;
 if (process.env.DEEPSEEK_API_KEY) {
-  await enrichFeedWithDeepSeek(dayFeed, { days: 1 });
+  await enrichFeedWithDeepSeek(dayFeed, { days: 1, strict: true });
+  usedAi = true;
 } else if (process.env.ALLOW_NO_AI !== "1") {
   throw new Error("DEEPSEEK_API_KEY is required; set ALLOW_NO_AI=1 only for an explicit fallback build");
 }
@@ -48,7 +50,7 @@ console.log(JSON.stringify({
   date,
   companies: day.companies.map((company) => company.name),
   readings: day.readings.map((reading) => reading.title),
-  usedAi: Boolean(process.env.DEEPSEEK_API_KEY)
+  usedAi
 }, null, 2));
 
 function validateSelection(value, expectedDate) {

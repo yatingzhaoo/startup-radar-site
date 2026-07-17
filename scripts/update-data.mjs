@@ -565,6 +565,7 @@ const BLOCKED_READING_KEYS = new Set(
     "https://a16z.com/16-metrics/",
     "https://www.lennysnewsletter.com/p/how-notion-grows",
     "https://www.intercom.com/blog/retention-is-the-key-to-growth/",
+    "https://www.figma.com/blog/config-2024-recap/",
     "https://www.atlassian.com/agile/product-management/product-discovery",
     "https://maze.co/blog/product-discovery/",
     "https://www.productboard.com/blog/product-discovery/"
@@ -903,7 +904,7 @@ function storyScenario(company, chineseProduct) {
   }
 
   return pickForCompany(company, [
-    `如果你是这类业务的一线负责人，最常见的痛苦往往不是一个惊天动地的大问题，而是一堆靠人、表格和邮件勉强维持的细碎流程。${company.name} 想${normalizeAction(chineseProduct)}。`,
+    `${company.name} 处理的是一段仍然需要大量人工协调的工作。它想${normalizeAction(chineseProduct)}。`,
     `很多垂直行业的软件机会，看起来都只是把杂活整理好。${company.name} 面对的也是这种问题，关键在于能不能让用户少切系统、少追材料。`,
     `有些公司一开始并不容易一句话讲清，因为它们不是在做新入口，而是在重做某个后台流程。${company.name} 想把一段原本分散的工作收紧。`
   ]);
