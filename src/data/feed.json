@@ -1,7 +1,242 @@
 {
-  "generatedAt": "2026-07-16T09:26:53.482Z",
+  "generatedAt": "2026-07-17T09:20:31.810Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-07-17",
+      "companies": [
+        {
+          "id": 32164,
+          "name": "Prized",
+          "url": "https://prized.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/prized",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "SaaS",
+            "Productivity"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Lovable for internal tools",
+          "originalDescription": "Prized lets non-engineers build, deploy, and share secure internal tools with AI, no engineering required. You don't need to know where the data lives, what APIs to use, or which connectors you need. Just describe what you want (a customer lookup, a dashboard, an approval flow), and Prized builds the tool on top of the right company data inside a governed boundary. The people who feel the pain of missing internal tools most are non-engineers. They understand the workflow best but are blocked by the software layer, so they wait on engineering, duct-tape spreadsheets together, or increasingly rip company data into Claude Code and Cursor with no thought to permissions, sharing, or governance. Prized makes security the default, enforced in the infrastructure rather than left to whoever built the tool. Each tool gets access only to the tables and integrations it was explicitly granted, credentials are workspace-scoped so tools can't cross org boundaries, and outbound calls go through a controlled layer. As an employee builds and shares, a teammate forks it and re-points it at their own data, and over time the company builds up a library of governed tools it actually owns. Hudson was founding engineer at Gander (F24, acquired by Archer), then full-stack at Suno. Marinos studied CS and ME at Stanford and was on the same Gander team.",
+          "story": "工程团队不缺新工具，缺的是能减少等待和返工的工具。Prized 如果能让一个复杂环节更可靠，就有机会嵌进日常开发流程。 它值得先记下来，不是因为有漂亮标签，而是因为 公开来源 让我们能看到一个正在公开发布或被讨论的新产品。",
+          "rank": 1
+        },
+        {
+          "id": 32262,
+          "name": "Alkera AI",
+          "url": "https://alkera.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/alkera-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Data Science",
+            "Data Engineering",
+            "Enterprise Software"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Reliable and safe data engineering and data science agents",
+          "originalDescription": "Alkera is a data engineering/analysis/science agent that works in your IDE or CLI. If you’re tired of agents that produce false, or even dangerous, reports about your data, then Alkera is for you. Our agent is equipped with your data’s history and lineage, your team’s knowledge, and tailored plugins for data apps such as Snowflake and dbt. Simply install and connect your services to begin doing trusted agentic data work. We also offer VPC & on-prem deployment options for when data can't leave your boundary.",
+          "story": "工程团队不缺新工具，缺的是能减少等待和返工的工具。Alkera AI 如果能让一个复杂环节更可靠，就有机会嵌进日常开发流程。 这类非 YC 来源的信息不会总是完整，但 公开来源 提供了一个入口，可以继续看官网、用户反应和后续更新。",
+          "rank": 2
+        },
+        {
+          "id": 31513,
+          "name": "CharacterQuilt",
+          "url": "https://characterquilt.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/characterquilt",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "Computer use agents to deploy enterprise marketing campaigns",
+          "originalDescription": "CharacterQuilt builds computer use agents to deploy enterprise marketing campaigns. Marketers today don’t actually do much marketing at all. Today, over 80% of time spent on launching a marketing campaign is actually ops work: tweaking automation flows in Pardot, configuring audiences in LinkedIn, or wiring HTML emails in Marketo. What’s crazy about enterprise marketing is companies pay agencies millions of dollars just to deploy campaigns in their systems — and they still have to wait weeks for each one. CharacterQuilt is AI infrastructure for marketing teams: a brain that learns your brand, and agents that operate your existing tools. Marketing campaigns that used to take 3 agencies, 10 tools, and 6 weeks are now being built, designed, and deployed from CQ in an hour. Customers submit a brief like they would send to a human teammate or marketing agency, and they get back fully designed and deployed campaigns. Teams like 1upHealth, ABC Fitness, and Emplifi use us to: 1-) Build segments/audiences faster 2-) Create on-brand creative (AI is terrible at staying on-brand) 3-) Deploy campaigns automatically into HubSpot, WordPress, LinkedIn etc. We replicate your brand guidelines, deeply understand past campaigns, and work inside your systems. If you run demand gen or lifecycle at a B2B/B2C company and want to ship campaigns faster, send us a brief and we’ll build it in 15 minutes.",
+          "story": "假如你在诊所或医院负责一天的运营，最烦的往往不是一个大问题，而是病人信息、保险确认、医生安排和后续跟进散在很多地方。CharacterQuilt 想帮你把这些琐碎但不能出错的环节串起来。 它被放进今天的列表，是因为它出现在 公开来源 这类公开来源里，至少说明有人正在把这个产品推到市场面前。",
+          "rank": 3
+        },
+        {
+          "id": 31560,
+          "name": "Intelligence Factory",
+          "url": "https://intelligence-factory.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/intelligence-factory",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Human Intelligence for Robots",
+          "originalDescription": "Robotics is the new paradigm. With hardware converging, Intelligence is the biggest bottleneck. Our world was built for humans and we're giving robots the ability to reason and act like us. The way we learn any task - by seeing, doing, and feeling - is how we train robots. We're building general intelligence that works on any robot and fits seamlessly within our world.",
+          "story": "对普通用户来说，人工智能如果只藏在聊天框里，很多生活场景还是用不上。Intelligence Factory 选择做硬件，是想让设备自己收集信号、提醒用户或记录当下。 这类非 YC 来源的信息不会总是完整，但 公开来源 提供了一个入口，可以继续看官网、用户反应和后续更新。",
+          "rank": 4
+        },
+        {
+          "id": 31415,
+          "name": "Synphony",
+          "url": "https://www.synphony.co/",
+          "sourceUrl": "https://www.ycombinator.com/companies/synphony",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 10,
+          "originalOneLiner": "robots & software for farms",
+          "originalDescription": "Strawberry farming is a $3B industry in California alone with 60% labor cost using 40-year old software. Synphony provides strawberry picking robots and software services including: bed-level analytics, data pipeline integration, and agentic solutions. Synphony's \"side hustle\" is selling data, evals, and viral demos to robot foundation labs while building capacity for general robot deployments. We've started with strawberry farming for great margins and outdoor data moat, but also received requests for robots in semi-conductors and autonomous space labs. Synphony's team has won over 15 hackathons together (taking home 4 Jensen-signed GPUs!). Sean did ML research at NVIDIA and led AI products used by IRS and Citibank. Lucas' research spanned robotics, IoT devices, and neuromorphic computing. Alex architected an app with 400k users.",
+          "story": "智能硬件的机会在于它跟着人走，而不是等人坐到电脑前。想象你在会议、路上或健身时，手边没有时间整理信息，Synphony 想把这部分体验做进设备里。 它值得先记下来，不是因为有漂亮标签，而是因为 公开来源 让我们能看到一个正在公开发布或被讨论的新产品。",
+          "rank": 5
+        },
+        {
+          "id": 31177,
+          "name": "Prana",
+          "url": "https://pranadoc.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/prana-health",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "An AI primary care doctor in your pocket",
+          "originalDescription": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits. Most AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions. Safety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer 24/7 physician care for a fraction of the cost of traditional care. The Team: - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments. - Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals. - Sanjit Menon (CHO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine. Traction: Live in beta with early users.",
+          "story": "从病人预约到后续跟进，中间很多工作不是医学难题，却会消耗诊所大量时间。Prana 切入的是这些容易拖慢服务的后台环节。 这类非 YC 来源的信息不会总是完整，但 公开来源 提供了一个入口，可以继续看官网、用户反应和后续更新。",
+          "rank": 6
+        },
+        {
+          "id": "ph-chikitai",
+          "name": "ChikitAI",
+          "url": "https://www.producthunt.com/products/chikitai",
+          "sourceUrl": "https://www.producthunt.com/products/chikitai",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Health"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Agentic AI for Healthcare Triage and Care Automation",
+          "originalDescription": "Agentic AI for Healthcare Triage and Care Automation",
+          "story": "医疗团队每天都在和信息断点打交道，病人、保险、排班、账单和随访常常不在同一个地方。ChikitAI 想把其中一段流程变得更顺。 这里没有 YC 批次或团队人数这类整齐字段，所以更应该看产品本身和来源信号；今天的信号主要来自 Product Hunt。",
+          "rank": 7
+        },
+        {
+          "id": "hardware-even-realities",
+          "name": "Even Realities",
+          "url": "https://www.evenrealities.com/",
+          "sourceUrl": "https://www.evenrealities.com/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Smart Hardware"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Smart glasses focused on daily information, translation, and lightweight assistance.",
+          "originalDescription": "Even Realities makes smart glasses that try to be closer to normal eyewear while adding translation, navigation, and personal information features.",
+          "story": "智能硬件的机会在于它跟着人走，而不是等人坐到电脑前。想象你在会议、路上或健身时，手边没有时间整理信息，Even Realities 想把这部分体验做进设备里。 它值得先记下来，不是因为有漂亮标签，而是因为 Smart hardware watchlist 让我们能看到一个正在公开发布或被讨论的新产品。",
+          "rank": 8
+        },
+        {
+          "id": "ph-cito",
+          "name": "Cito",
+          "url": "https://www.producthunt.com/products/cito",
+          "sourceUrl": "https://www.producthunt.com/products/cito",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Hybrid academic search over 236M papers, built for agents",
+          "originalDescription": "Hybrid academic search over 236M papers, built for agents",
+          "story": "如果你是这类业务的一线负责人，最常见的痛苦往往不是一个惊天动地的大问题，而是一堆靠人、表格和邮件勉强维持的细碎流程。Cito 想把原本需要人一步步处理的流程交给软件先整理、提醒或自动完成，让人只处理最重要的部分。 它被放进今天的列表，是因为它出现在 Product Hunt 这类公开来源里，至少说明有人正在把这个产品推到市场面前。",
+          "rank": 9
+        },
+        {
+          "id": "ph-scribble-party",
+          "name": "Scribble Party",
+          "url": "https://www.producthunt.com/products/scribble-party",
+          "sourceUrl": "https://www.producthunt.com/products/scribble-party",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "Product"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "A local-first whiteboard studio for teachers and creators",
+          "originalDescription": "A local-first whiteboard studio for teachers and creators",
+          "story": "如果你是这类业务的一线负责人，最常见的痛苦往往不是一个惊天动地的大问题，而是一堆靠人、表格和邮件勉强维持的细碎流程。Scribble Party 想让它把一个原来靠人工、表格、邮件或零散系统完成的事情，做成一个更集中的软件产品。 它被放进今天的列表，是因为它出现在 Product Hunt 这类公开来源里，至少说明有人正在把这个产品推到市场面前。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "classic-amplitude-retention",
+          "title": "Retention Analysis",
+          "url": "https://amplitude.com/blog/retention-analysis",
+          "source": "Amplitude",
+          "topic": "留存分析",
+          "story": "很多关于留存分析的问题，刚开始看都像常识，真正做起来才会发现细节很难。团队会在选择、沟通、执行或用户理解上反复踩坑，而这类文章的价值就是把这些坑讲清楚。读的时候不要只看结论，可以把它当成一个拆解样本：作者怎样发现真正的问题，怎样判断哪些事重要，怎样把一个产品或团队选择讲明白。",
+          "published": ""
+        },
+        {
+          "id": "classic-first-round-pmf",
+          "title": "Vanta's Path to Product-Market Fit",
+          "url": "https://review.firstround.com/vantas-path-to-product-market-fit/",
+          "source": "First Round Review",
+          "topic": "产品市场匹配",
+          "story": "产品市场匹配常被说得很抽象，这篇把它拉回一家具体公司的过程。Vanta 早期不是先写很多代码，而是先反复确认客户真正愿意为哪件麻烦事付钱。它的价值在于让你看到一个公司怎样从错误想法里转出来，逐渐找到更清楚、更痛的客户问题。",
+          "published": ""
+        },
+        {
+          "id": "classic-intercom-onboarding",
+          "title": "The ultimate guide to onboarding",
+          "url": "https://www.intercom.com/blog/user-onboarding/",
+          "source": "Intercom",
+          "topic": "新用户体验和激活",
+          "story": "很多关于新用户体验和激活的问题，刚开始看都像常识，真正做起来才会发现细节很难。团队会在选择、沟通、执行或用户理解上反复踩坑，而这类文章的价值就是把这些坑讲清楚。读的时候不要只看结论，可以把它当成一个拆解样本：作者怎样发现真正的问题，怎样判断哪些事重要，怎样把一个产品或团队选择讲明白。",
+          "published": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-16",
       "companies": [
