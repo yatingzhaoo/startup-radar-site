@@ -1,7 +1,247 @@
 {
-  "generatedAt": "2026-07-17T19:41:41.295Z",
+  "generatedAt": "2026-07-18T08:58:30.870Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-07-18",
+      "companies": [
+        {
+          "id": 31171,
+          "name": "Overshoot",
+          "url": "https://www.ycombinator.com/companies/overshoot",
+          "sourceUrl": "https://www.ycombinator.com/companies/overshoot",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "AI Infra for real-time vision applications",
+          "originalDescription": "Overshoot makes it easy for developers to build and run real-time vision applications. AI can see and understand the physical world. This unlocks new applications in physical security, safety, gaming, robotics and general consumer products. Soon, video agents will watch your home and your pet when you’re away. However, existing platforms make it painful for developers to build these real-time applications. Slow inference. Limited model availability. Break at scale. Overshoot solves this. Today, 300+ developers connect live video feeds to the largest collection of Vision Language Models with 3 lines of code. And get responses in less than 200ms. 10x faster than any existing inference platform. Zero infra headache. Our moat is focus. Image and Video are fundamentally different modalities from text. By focusing on them, we are able to make strong technical leaps from codec, streaming protocols to inference engines. Younes and Zakaria are cousins. Zakaria graduated top of his class at LSE and MIT, and later built low-latency high-throughput pricing systems (surge) at Uber and inference engines at Meta. He previously built and sold a software product and won several prominent AI hackathons. Younes was a founding engineer at Cosmonio (later acquired by Intel). He built a training and serving Computer Vision platform from scratch. He witnessed firsthand customers abandoning traditional Computer Vision because it lacked the “general” intelligence LLMs have today. Together we’ve shipped large-scale systems and know where they break.",
+          "story": "这是做实时视觉应用人工智能基础设施的公司。想象你是一个正在开发智能安防摄像头的工程师，你希望摄像头能实时识别异常行为，但现有的推理平台要么响应慢，要么支持的模型少，部署起来还容易崩溃。Overshoot 让你用三行代码就能接入大量视觉语言模型，并且响应时间不到 200 毫秒，比现有平台快十倍。它专注于图像和视频处理，在编解码和流媒体协议上做了深度优化。目前已有 300 多位开发者在使用，来自 YC 2026 冬季批次，团队 5 人，位于旧金山。",
+          "rank": 1
+        },
+        {
+          "id": 32167,
+          "name": "Understudy Labs",
+          "url": "https://understudylabs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/understudy-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Open Source",
+            "AI",
+            "ML"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Effortlessly move to open weight models",
+          "originalDescription": "An open-source toolkit to capture traces, evaluate cheaper models against benchmarks, and ship specialist routes you own. Capture traces from LLM production workflows with a single install that deploys within coding agents you already use. Hosted infrastructure is optional. Evaluate the captured traces and set a benchmark for success. Every future model switch meets or exceeds it in A/B testing. Train and fine-tune a new model on prompts and weights you always own. Start locally and scale into cloud-hosted processes as you see success. Deploy a new model only when the held-out eval is beaten. Serve it wherever you want. Production data feeds back into training and compounds performance over time. Test. Learn. Deploy. Repeat.",
+          "story": "这家公司做的是帮助团队从闭源模型迁移到开源权重模型的工具。假如你是公司的机器学习负责人，正在评估是否将生产中的大语言模型换成更便宜的开源模型，但担心性能下降、迁移成本高。Understudy Labs 提供了一个开源工具包，先捕获生产中的调用轨迹，设定基准，然后在新模型上线前通过 A/B 测试确保性能不低于现有模型。你可以在本地训练和微调，数据始终归你所有。它来自 YC 2026 夏季批次，团队 2 人，位于旧金山。",
+          "rank": 2
+        },
+        {
+          "id": 33342,
+          "name": "Nex",
+          "url": "https://nex.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/nex",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AIOps",
+            "Workflow Automation"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "Turn manual workflows into AI agents",
+          "originalDescription": "Nex automates the messy business and GTM workflows that no tool could handle before, taking real actions across 1000+ integrations. Instead of just chatting, the agent writes code as it works to make workflows deterministic, fast, and cheap to re-run, and delivers real output: a Slack message, an opened PR, or a live structured data table. Built for teams.",
+          "story": "这是把手动工作流变成智能体的自动化平台。假如你是销售主管，每天要花大量时间在客户关系系统、邮件和聊天工具之间来回操作，比如更新商机状态、发送跟进消息、生成报价单。Nex 的智能体会直接在你的工作流中写代码来执行这些操作，结果是一个真实的 Slack 消息、一个合并请求或一张结构化数据表。它集成了超过 1000 个应用，让流程确定、快速且可重复。来自 YC 2026 夏季批次，团队 5 人，位于旧金山。",
+          "rank": 3
+        },
+        {
+          "id": 30689,
+          "name": "b12 Labs",
+          "url": "https://b12-labs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/b12-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AI-powered Drug Discovery",
+            "Robotics"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Making hard molecules for Pharma and Biotech",
+          "originalDescription": "b12 makes high-value molecules that are otherwise hard to make. We help pharma companies plan and make new drugs, accelerating early-stage drug discovery from years to months. Andres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (1000+ citations), and won the best paper award at the NeurIPS AI for Science conference. Zlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. Combined, we have an extensive network of hundreds of chemists, automation scientists, and AI 4 Science researchers. We run paid pilots with big pharma companies, demonstrating that our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the iteration cycle.",
+          "story": "这是用人工智能和机器人加速新药发现的公司。想象你是制药公司的药物化学家，正在为合成一种结构复杂的分子而苦恼，传统方法需要反复试错。b12 Labs 的智能体能在机器人实验室里自主思考和合成分子，将早期药物发现从几年缩短到几个月。他们的技术曾发表在《自然机器智能》上，并获得 NeurIPS 人工智能科学会议最佳论文奖。目前正在与大型制药公司进行付费试点，来自 YC 2025 夏季批次，团队 3 人，正在招聘。",
+          "rank": 4
+        },
+        {
+          "id": 31193,
+          "name": "9 Mothers",
+          "url": "https://9mothers.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/9-mothers-corporation",
+          "location": "Austin, TX, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 19,
+          "originalOneLiner": "Counter Drone Systems. $1.6m sales. We delivered for the DoW.",
+          "originalDescription": "We have sold $1.6m of systems to the DoW. Multiple systems delivered to the DoW. Our first product - EDDA - is a counter drone system - small, low power, low cost fully autonomous-capable. It's designed to be used on vehicles, bases, or carried - to stop group 1 suicide drones. We have multiple contracts, sales, etc. We have 3 more products with demand in various stages of development. More details at https://9mothers.com",
+          "story": "这是做反无人机系统的公司，产品已经卖给美国国防部。想象你是军事基地的安全负责人，面对成群的小型自杀式无人机，你需要一种便携、低成本又能自主拦截的方案。9 Mothers 的 EDDA 系统体积小、功耗低，可安装在车辆、基地或随身携带，专门对付第一类无人机。他们已经交付了多套系统，销售额达到 160 万美元，还有三款产品正在开发中。来自 YC 2026 春季批次，团队 19 人，正在招聘。",
+          "rank": 5
+        },
+        {
+          "id": 31535,
+          "name": "Arlo Industries",
+          "url": "https://arlo1.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/arlo-industries",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Hardware",
+            "Defense"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Track drones and missiles without radars - Accurate, Passive, Scalable",
+          "originalDescription": "Arlo Industries is building a network of sensors that precisely tracks stealthy drones and aerial threats better than radars. This capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems. Deo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise. The people behind Arlo1 includes a PhD in drones and autonomy and military experts. Arlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
+          "story": "这是用无源传感器网络追踪无人机和导弹的公司，不依赖传统雷达。想象你是防空系统的指挥官，雷达很难发现低空慢速的小型无人机，而且造价高昂。Arlo Industries 部署大量低成本传感器组成网格，新增传感器的成本线性增长，但追踪精度指数级提升，实现广域、持续、隐蔽的覆盖。创始人曾在以色列国防领域工作六年，亲历过铁穹等系统的实战。来自 YC 2026 春季批次，团队 3 人，正在招聘。",
+          "rank": 6
+        },
+        {
+          "id": "ph-basedash-suggestions",
+          "name": "Basedash Suggestions",
+          "url": "https://www.producthunt.com/products/basedash",
+          "sourceUrl": "https://www.producthunt.com/products/basedash",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Data"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Your AI data analyst, now with ideas of its own.",
+          "originalDescription": "Your AI data analyst, now with ideas of its own.",
+          "story": "这是一个自带想法的人工智能数据分析工具。假如你是市场分析师，每天要面对海量数据，却不知道从哪里开始分析。Basedash Suggestions 不仅能回答你的问题，还会主动提出它认为有价值的分析方向，帮你发现隐藏的洞察。它来自 Product Hunt，适合需要快速从数据中获得启发的人。",
+          "rank": 7
+        },
+        {
+          "id": "ph-aye",
+          "name": "Aye",
+          "url": "https://www.producthunt.com/products/aye-browser",
+          "sourceUrl": "https://www.producthunt.com/products/aye-browser",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Your teachable AI intern for everyday browser work",
+          "originalDescription": "Your teachable AI intern for everyday browser work",
+          "story": "这是一款可教的人工智能助手，帮你完成日常浏览器操作。想象你是一个经常需要填写表单、整理网页信息或者重复点击的运营人员，Aye 可以学习你的操作步骤，然后自动执行。你就像带了一个实习生，教一遍它就能帮你干活。来自 Product Hunt。",
+          "rank": 8
+        },
+        {
+          "id": "ph-bricksolvr",
+          "name": "BrickSolvr",
+          "url": "https://www.producthunt.com/products/bricksolvr",
+          "sourceUrl": "https://www.producthunt.com/products/bricksolvr",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Turn any 3D model into a buildable brick design",
+          "originalDescription": "Turn any 3D model into a buildable brick design",
+          "story": "这是把任意三维模型转换成积木搭建图纸的设计工具。假如你是积木爱好者或玩具设计师，想把自己建模的汽车或建筑变成可拼搭的积木套装，BrickSolvr 会自动分析模型结构，生成合理的积木分解方案和拼装步骤。来自 Product Hunt。",
+          "rank": 9
+        },
+        {
+          "id": "hardware-halliday",
+          "name": "Halliday",
+          "url": "https://www.hallidayglobal.com/",
+          "sourceUrl": "https://www.hallidayglobal.com/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Smart Hardware"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI glasses that put lightweight information in the user's field of view.",
+          "originalDescription": "Halliday works on smart glasses that combine a small display, voice interaction, and assistant features for translation, reminders, and everyday information.",
+          "story": "这是一款智能眼镜，把轻量信息投射到用户视野中，而不是像手机那样占用双手和视线。想象你正在参加国际会议，需要实时翻译对方的讲话，或者你在跑步时想看一眼导航。Halliday 的眼镜通过微型显示和语音交互，提供翻译、提醒和日常信息，让你不掏出手机就能获取。它不只是一个应用，而是把能力放进了眼镜这个随身设备里。来自智能硬件关注列表。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "classic-balfour-channels",
+          "title": "Traction vs. Growth",
+          "url": "https://brianbalfour.com/essays/traction-vs-growth",
+          "source": "Brian Balfour",
+          "topic": "增长阶段",
+          "story": "很多团队在早期拼命做增长，却发现用户来了又走，根本留不住。这时候才意识到，增长不是一开始就该全力追求的事。Brian Balfour 这篇讲的就是“牵引力”和“增长”的区别：前者是找到产品与市场的匹配点，后者才是规模化。读的时候可以留意作者怎么判断一个团队是否真的准备好了，而不是被数据假象带着走。",
+          "published": ""
+        },
+        {
+          "id": "classic-yc-start-startup",
+          "title": "How to Start a Startup",
+          "url": "https://www.ycombinator.com/library/4D-how-to-start-a-startup",
+          "source": "Y Combinator",
+          "topic": "创业起步",
+          "story": "创业这件事，听再多成功故事，轮到自己时还是不知道第一步该做什么。Y Combinator 这篇经典指南就是给这种迷茫准备的。它不讲大道理，而是从“该不该创业”开始，一步步拆解想法验证、团队搭建、产品迭代这些最实际的问题。读的时候可以重点看它怎么帮人把模糊的念头变成可执行的行动清单。",
+          "published": ""
+        },
+        {
+          "id": "classic-atlassian-roadmaps",
+          "title": "Product Roadmaps",
+          "url": "https://www.atlassian.com/agile/product-management/product-roadmaps",
+          "source": "Atlassian",
+          "topic": "产品路线图",
+          "story": "产品路线图听起来像是个计划工具，但大部分团队用着用着就变成了愿望清单，或者被需求压得动弹不得。Atlassian 这篇从敏捷开发的视角重新定义了路线图：它不是承诺，而是沟通和优先级的工具。读的时候可以学习它怎么区分“要做什么”和“为什么做”，以及如何让路线图真正帮团队对齐目标，而不是制造焦虑。",
+          "published": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-17",
       "companies": [
