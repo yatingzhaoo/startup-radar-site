@@ -1,7 +1,236 @@
 {
-  "generatedAt": "2026-07-18T08:58:30.870Z",
+  "generatedAt": "2026-07-19T09:17:16.197Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-07-19",
+      "companies": [
+        {
+          "id": 31463,
+          "name": "Armature",
+          "url": "https://armature.tech",
+          "sourceUrl": "https://www.ycombinator.com/companies/armature",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Armature builds, monitors and optimizes products' Agent Experience.",
+          "originalDescription": "Armature helps companies monitor, analyze, and optimize how AI agents experience their products. What we do today: - Automated testing: We run complex sessions against your MCPs/CLIs across all major harnesses and models to catch broken workflows before your users do. - AX analytics & benchmarking: No more black boxes. We trace agent sessions to show you exactly what the model \"thought\", what context it missed, and why it failed. We measure your AX against competitors to ensure you remain the preferred platform for agents to use. - Auto-remediation: Our MCP lets your internal coding agents plug into Armature to autonomously fix your product's AX based on our run data. Our vision for tomorrow: Reaching full understanding of how agents use your product and how you can improve it is only step one. The next step is to provide the foundational infrastructure for the Agent Experience, powering agent-native revenue, lifecycle marketing, and customer support for the next generation of software.",
+          "story": "这家公司做的是人工智能时代的用户体验监测，只不过用户变成了智能体。想象你是一家软件公司的工程负责人，你的产品开始被各种人工智能智能体调用，但你完全不知道它们在你的接口里遇到了什么障碍。Armature 能自动运行测试，追踪智能体每一步的思考轨迹，甚至让内部编码智能体根据运行数据自动修复体验问题。它来自 YC 2026 年春季批次，团队目前三人，正在把智能体体验变成一门可测量、可优化的工程学科。",
+          "rank": 1
+        },
+        {
+          "id": 30663,
+          "name": "Tesora",
+          "url": "https://tesora.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/tesora",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "API",
+            "Insurance",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Frontier AI for Actuaries",
+          "originalDescription": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change. The part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
+          "story": "这是为财产险精算师打造前沿人工智能智能体的公司。假如你是一名精算师，每天要花大量时间从不同系统拉数据、跑模型、部署费率表，真正需要判断力的工作反而被挤占。Tesora 的智能体能自动完成数据装配、方法运行和费率部署，你只需审核和做决策。它部署在你的基础设施上，数据不会用于训练任何模型，并且通过了 SOC 2 Type II 认证。这家公司来自 YC 2025 年夏季批次，团队四人，正在招聘，由人工智能技术专家和精算师共同打造。",
+          "rank": 2
+        },
+        {
+          "id": 30675,
+          "name": "BootLoop",
+          "url": "https://bootloop.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/bootloop",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Firmware in minutes, not months - rigorously tested on real hardware",
+          "originalDescription": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
+          "story": "这家公司切的是嵌入式固件开发，一个现有编码助手完全失效的领域。想象你是一名嵌入式工程师，拿到一块新芯片，要读几百页数据手册、画原理图、写底层驱动，再连上真实硬件反复调试。BootLoop 的智能体能自动消化数据手册和设计文件，按你的风格编写固件，并在真实硬件上自动测试。它来自 YC 2025 年夏季批次，团队三人，正在招聘，让固件开发从数月缩短到几分钟。",
+          "rank": 3
+        },
+        {
+          "id": 31436,
+          "name": "Prototyping.io",
+          "url": "https://www.prototyping.io",
+          "sourceUrl": "https://www.ycombinator.com/companies/prototypingio",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Autonomous manufacturing for mechanical parts",
+          "originalDescription": "Prototyping.io turns CAD designs into real mechanical parts through an AI-driven manufacturing system. We analyze designs for manufacturability and automate production workflows to deliver high-quality parts faster and at lower cost.",
+          "story": "这是一家做机械零件自主制造的公司。想象你是一名产品设计师，刚在 CAD 软件里完成一个精密零件，接下来要找人报价、等排期、反复沟通可制造性，一拖就是几周。Prototyping.io 的人工智能系统能自动分析设计是否适合制造，并驱动生产流程直接做出实物零件，更快也更便宜。它来自 YC 2026 年春季批次，团队两人，正在招聘，正在把从图纸到零件的路径压缩到极致。",
+          "rank": 4
+        },
+        {
+          "id": 31485,
+          "name": "ANORIA",
+          "url": "https://www.anoria.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/anoria",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "The first wearable that reads your emotions to enhance your EQ.",
+          "originalDescription": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
+          "story": "这是一款能读懂你情绪的可穿戴设备，不只是又一个记步数的手环。想象你刚结束一场紧张的会议，心里很烦躁但说不清原因，手环告诉你此刻的情绪状态、触发因素，甚至给出调节建议。ANORIA 把情绪识别从实验室带到了你的手腕上，它通过传感器和算法分析生理信号，让你像训练体能一样训练情商。它来自 YC 2026 年春季批次，团队五人，正在招聘，它之所以不是手机应用，是因为只有贴身佩戴的传感器才能实时捕捉那些你自己都未必意识到的情绪波动。",
+          "rank": 5
+        },
+        {
+          "id": 31434,
+          "name": "Adialante",
+          "url": "https://www.ycombinator.com/companies/adialante",
+          "sourceUrl": "https://www.ycombinator.com/companies/adialante",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Cancer screening without barriers",
+          "originalDescription": "We know how to improve cancer outcomes by 8x-10x: you catch it early. MRI is the most robust and powerful cancer-detection tool in the world, yet systems cost millions to purchase, take months to install, and require high levels of technical skill to operate. We've redesigned MRI from the ground up with new physics, algorithms, and hardware, all to bring cancer screening to the entire world. Our mobile MRI is an imaging clinic on wheels. No equipment to buy, no infrastructure needed. For a flat per-scan fee, any medical site can offer MRI cancer screening. Starting with prostate cancer. Then everything else.",
+          "story": "这是一家重新设计磁共振成像系统的公司，目标是让癌症筛查普及到全世界。想象你是一家社区诊所的运营负责人，想给患者提供核磁共振筛查，但设备动辄上千万、安装要数月、操作需要专业技师。Adialante 从物理原理、算法到硬件全部重新设计，做出了一个移动核磁共振车，按次收费，无需购买设备。它来自 YC 2026 年春季批次，团队四人，正在招聘，先从前列腺癌开始，再扩展到其他癌症。",
+          "rank": 6
+        },
+        {
+          "id": "hardware-friend",
+          "name": "Friend",
+          "url": "https://www.friend.com/",
+          "sourceUrl": "https://www.friend.com/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Smart Hardware",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "A wearable AI companion device.",
+          "originalDescription": "Friend is building a small wearable device around always-available companionship, voice interaction, and a different style of consumer AI interface.",
+          "story": "这家公司做的是一个可以全天佩戴的人工智能伴侣设备，不是手机应用，而是一个独立的硬件。想象你是一个经常感到孤独或者需要随时有人聊聊的普通人，你不想掏出手机打开应用，而是希望有个小东西挂在身上，随时可以自然对话。Friend 把语音交互和陪伴感做进了一个小巧的穿戴设备里，它来自智能硬件观察名单，代表了一种不同于屏幕的消费级人工智能交互方向。",
+          "rank": 7
+        },
+        {
+          "id": "ph-zoodata",
+          "name": "ZooData",
+          "url": "https://www.producthunt.com/products/zoodata",
+          "sourceUrl": "https://www.producthunt.com/products/zoodata",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Data"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "The data layer for AI agents",
+          "originalDescription": "The data layer for AI agents",
+          "story": "这是一家为人工智能智能体提供数据基础设施的公司。想象你是一个正在构建智能体应用的开发者，你的智能体需要从各种网站和接口获取结构化数据，但每次都要自己写爬虫、处理反爬、清洗格式，非常繁琐。ZooData 提供了一个统一的数据层，让智能体像调用数据库一样获取实时、干净的外部数据。它出现在 Product Hunt 上，代表了智能体生态里一个关键的基础设施层。",
+          "rank": 8
+        },
+        {
+          "id": "ph-pixycad",
+          "name": "PixyCAD",
+          "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
+          "sourceUrl": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Fast & precise 3D CAD built natively for iPad and Mac",
+          "originalDescription": "Fast & precise 3D CAD built natively for iPad and Mac",
+          "story": "这是一款原生运行在 iPad 和 Mac 上的三维 CAD 软件，强调快速和精确。想象你是一名工业设计师，出差时客户突然要改一个零件尺寸，你不想打开笨重的笔记本电脑，而是直接掏出 iPad，用手指或笔就能完成精确的三维建模。PixyCAD 利用苹果设备的触控和性能优势，把专业 CAD 带到了移动端。它出现在 Product Hunt 上，代表了专业设计工具向便携设备迁移的趋势。",
+          "rank": 9
+        },
+        {
+          "id": "ph-openmarkdown",
+          "name": "OpenMarkdown",
+          "url": "https://www.producthunt.com/products/openmarkdown",
+          "sourceUrl": "https://www.producthunt.com/products/openmarkdown",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "A markdown editor you and your agent co-edit",
+          "originalDescription": "A markdown editor you and your agent co-edit",
+          "story": "这是一个你和人工智能智能体可以共同编辑的 Markdown 编辑器。想象你是一个经常写技术文档或笔记的开发者，你习惯用 Markdown 记录思路，同时希望人工智能智能体能帮你补充内容、修正错误或整理结构。OpenMarkdown 让智能体和你在同一个文档里实时协作，就像两个人一起写一份笔记。它出现在 Product Hunt 上，代表了人类与智能体协作写作的新交互方式。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "classic-intercom-prioritization",
+          "title": "RICE: Simple prioritization for product managers",
+          "url": "https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/",
+          "source": "Intercom",
+          "topic": "产品优先级",
+          "story": "产品经理每天面对一大堆需求，每个都有人催。团队开会时大家各执一词，谁都觉得自己手里的功能最重要。这时候，怎么选才不会后悔？Intercom 这篇讲 RICE 框架的文章，不是简单给个公式，而是把优先级从“谁嗓门大”变成“谁证据足”。它帮你把范围、影响力、信心和努力四个维度拆开，让争论有据可依。读的时候可以留意作者怎么定义“信心”这个软指标，以及他们如何处理那些数据不全的情况：这才是真正卡住团队的地方。",
+          "published": ""
+        },
+        {
+          "id": "classic-openview-plg",
+          "title": "What is Product-Led Growth?",
+          "url": "https://openviewpartners.com/blog/what-is-product-led-growth/",
+          "source": "OpenView",
+          "topic": "产品驱动增长",
+          "story": "你大概听过“产品驱动增长”这个词，但真正落地时，很多团队发现它不只是让用户免费试用那么简单。OpenView 这篇文章是 PLG 领域的经典入门，它解释了为什么有些产品不用销售追着用户跑，用户自己就会用起来、邀请同事、甚至主动付费。文章没有堆砌概念，而是从“产品本身如何成为增长引擎”这个根本问题出发。读的时候可以重点看作者如何区分 PLG 和传统销售模式，以及他们提到的那些“产品内增长循环”到底长什么样：这能帮你判断自己的产品是否适合这条路。",
+          "published": ""
+        },
+        {
+          "id": "classic-maze-usability",
+          "title": "Usability Testing",
+          "url": "https://maze.co/guides/usability-testing/",
+          "source": "Maze",
+          "topic": "可用性测试",
+          "story": "做产品的人几乎都听过可用性测试，但真到自己上手时，往往会卡在第一步：到底测什么、找谁测、测完怎么用结果？团队里有人觉得太麻烦，有人觉得测一次就够了，还有人拿到一堆问题却不知道先改哪个。这篇文章的好处在于，它不急着给标准答案，而是先帮你理清可用性测试到底解决什么问题、在什么阶段做最有效。读的时候可以留意作者怎么把“测试”这件事拆成几个可操作的步骤，以及他如何判断哪些细节值得花时间、哪些可以跳过。这样看完，你不仅能照做，还能自己调整出适合团队的测试方式。",
+          "published": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-18",
       "companies": [
@@ -3085,248 +3314,6 @@
           "source": "Brian Balfour",
           "topic": "增长实验",
           "story": "这篇更像常青阅读，不是追新闻。主题和增长实验有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "companies": [
-        {
-          "id": "yc-30101",
-          "name": "Kilvin",
-          "url": "https://www.kilvin.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/kilvin",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Productivity",
-            "Data Engineering",
-            "Automation",
-            "AI"
-          ],
-          "batch": "Fall 2024",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Custom software for non-technical teams.",
-          "originalDescription": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams. With AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months. No engineers needed on your side. Just software that fits exactly how you work.",
-          "story": "如果你是工程负责人，新功能上线前最怕的不是多写几行代码，而是底层系统不稳定、权限不清楚、故障没人知道从哪里查。Kilvin 想把原本需要人一步步处理的流程交给软件先整理、提醒或自动完成，让人只处理最重要的部分。 YC 秋季 2024 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 1
-        },
-        {
-          "id": "yc-29254",
-          "name": "Reducto",
-          "url": "https://reducto.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/reducto",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Documents",
-            "Data Engineering",
-            "Enterprise Software",
-            "Search",
-            "AI"
-          ],
-          "batch": "Winter 2024",
-          "isHiring": true,
-          "teamSize": 30,
-          "originalOneLiner": "The complete agentic document platform",
-          "originalDescription": "Reducto is the agentic document platform for leading AI teams building systems to automate document workflows at enterprise scale. Our platform provides a comprehensive toolkit for working with documents the way a human would, combining custom in-house and leading frontier models to power efficient and accurate document workflows. Reducto is trusted by leading AI teams at companies like Harvey, Scale AI, and Vanta. We are built for enterprise workloads with flexible deployment options from the cloud to fully air-gapped environments, SOC II and HIPAA compliance, and zero data retention. Learn more: https://reducto.ai/ Find our YC deal: https://reducto.ai/yc",
-          "story": "假如你负责做一个重要决定，问题通常不是完全没有数据，而是数据散在报表、文档和系统里，没人能很快讲清楚发生了什么。Reducto 想把原本需要人一步步处理的流程交给软件先整理、提醒或自动完成，让人只处理最重要的部分。 它现在还不能只凭介绍就下结论，但YC 冬季 2024 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 2
-        },
-        {
-          "id": "yc-31311",
-          "name": "Cardinal",
-          "url": "https://trycardinal.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/trycardinal-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 0,
-          "originalOneLiner": "AI Platform for Precision Outbound",
-          "originalDescription": "Hey YC! We're Devi and Jianna - the founders of Cardinal. TL;DR: Cardinal is the AI platform for precision outbound. We run outbound for 40+ YC companies, like Mintlify, Greptile, and Luminai. The Problem “Spray and Pray” outbound is dead. The best teams at outbound do it with extreme precision. Finding things in common with your customers, staying in touch with them through their content, mapping inbound from signups and ads, tracking website visitors, monitoring various signals, etc. This sounds great in theory, but in reality involves stringing together 10+ tools and hiring a GTM engineer. That’s where Cardinal comes in. Cardinal is an AI platform for precision outbound. Our agents can create workflows that normally require the work of fulltime GTM engineers. If you're a founder or sales leader looking to bring AI into your sales org, would love to chat!",
-          "story": "客户沟通看起来是聊天，背后其实是大量记录、判断和下一步动作。Cardinal 想让团队更快知道该联系谁、说什么、何时交给人。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 冬季 2026 批次和还在招聘只是第一层信号。",
-          "rank": 3
-        },
-        {
-          "id": "yc-26662",
-          "name": "Paces",
-          "url": "https://paces.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/paces",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Proptech",
-            "Climate",
-            "Energy",
-            "Automation",
-            "AI"
-          ],
-          "batch": "Summer 2022",
-          "isHiring": true,
-          "teamSize": 50,
-          "originalOneLiner": "Agentic AI for Power Projects and AI Infrastructure",
-          "originalDescription": "Energy demand is skyrocketing, and renewable energy is the most scalable path forward. But today’s development process can’t move fast enough to meet global goals. Paces exists to change that. We are building AI agents, software and services to accelerate power and data center deployment and lower costs - unlocking one of the greatest opportunities of our time: transforming how infrastructure gets built and ensuring it’s built with renewable energy. Paces automates early-stage due diligence and provides the expertise to accelerate late-stage diligence, fast-tracking projects from siting to construction-ready. Our platform supports renewable energy and data center developers, real estate firms, and more by streamlining siting, interconnection, and permitting. With Paces, teams can de-risk decisions, shorten timelines, and get more renewable energy projects built.",
-          "story": "制造业和机器人项目经常卡在落地阶段，现场变化、设备约束和维护成本都会放大问题。Paces 试图把其中一块流程做成更稳定的工具。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 夏季 2022 批次和还在招聘只是第一层信号。",
-          "rank": 4
-        },
-        {
-          "id": "yc-31276",
-          "name": "Ritivel",
-          "url": "https://www.ritivel.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/ritivel",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Generative AI",
-            "Compliance",
-            "Enterprise Software",
-            "Regtech",
-            "Biotechnology"
-          ],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "AI-native platform for Life-Sciences Documentation",
-          "originalDescription": "Ritivel is an AI-native workspace for regulatory and medical writing teams at life sciences companies. Our AI agents draft CTDs, CSRs, INDs, and BLAs in minutes instead of weeks, helping drugs reach patients faster. Every month a drug is delayed from reaching the market costs pharma companies ~$45M in lost revenue and more importantly, delays treatment for thousands of patients who need it. Yet regulatory teams are stuck in a painful, months-long process: synthesizing thousands of pages of clinical data, hunting through SharePoint folders for the right documents, chasing colleagues for missing inputs, and manually drafting submissions. Ritivel deploys AI agents that transform how regulatory teams work. Our agents generate comprehensive first drafts directly in Microsoft Word, following FDA formatting requirements and pulling from your existing clinical data and prior submissions. Every data point includes citations linked back to the original source, so reviewers can verify with one click. Connected to SharePoint and Veeva, our agents automatically source the right documents. Integrated with Outlook, they handle reminder emails and follow-ups automatically. We're engineers who previously built AI copilots at Microsoft Research. After 50+ conversations with pharma professionals, we discovered the critical bottleneck in regulatory submissions and built Ritivel to solve it.",
-          "story": "假如你在诊所或医院负责一天的运营，最烦的往往不是一个大问题，而是病人信息、保险确认、医生安排和后续跟进散在很多地方。Ritivel 想帮你把这些琐碎但不能出错的环节串起来。 把它放进今天的列表，主要是因为它出现在YC 冬季 2026 批次，而且官网信息相对完整。",
-          "rank": 5
-        },
-        {
-          "id": "yc-30641",
-          "name": "Overdrive Health",
-          "url": "https://overdrive.health",
-          "sourceUrl": "https://www.ycombinator.com/companies/overdrive-health",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 1,
-          "originalOneLiner": "AI-Native Medical Billing Services",
-          "originalDescription": "Overdrive Health offers AI powered medical billing services, helping providers get paid more money in less time. Our technology enables us to provide the best quality insurance and patient billing services for a fraction of the usual cost",
-          "story": "医疗团队每天都在和信息断点打交道，病人、保险、排班、账单和随访常常不在同一个地方。Overdrive Health 想把其中一段流程变得更顺。 把它放进今天的列表，主要是因为它出现在YC 冬季 2026 批次，而且还在招聘。",
-          "rank": 6
-        },
-        {
-          "id": "yc-31302",
-          "name": "Remix",
-          "url": "https://remix.re",
-          "sourceUrl": "https://www.ycombinator.com/companies/remix-3",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Social media content auto-generated with your existing data",
-          "originalDescription": "Remix is the easiest way to create content with AI. Connect your accounts, drop in photos, voice notes, or messages, and Remix instantly creates posts in your style: articles, tweets, carousels, short-form videos, even content riffing on the latest trending formats. Chat with 100s of parallel AI agents that handle everything from picking your best photos to writing copy to applying edits, all at once. Instagram was the easiest way to create photos on mobile. Remix is the easiest way to create everything else. Try it for yourself. Download the app and we'll instantly generate content from your LinkedIn and Twitter.",
-          "story": "假如你负责做一个重要决定，问题通常不是完全没有数据，而是数据散在报表、文档和系统里，没人能很快讲清楚发生了什么。Remix 想把原本需要人一步步处理的流程交给软件先整理、提醒或自动完成，让人只处理最重要的部分。 把它放进今天的列表，主要是因为它出现在YC 冬季 2026 批次，而且官网信息相对完整。",
-          "rank": 7
-        },
-        {
-          "id": "yc-31214",
-          "name": "Pocket",
-          "url": "https://heypocket.com/now",
-          "sourceUrl": "https://www.ycombinator.com/companies/pocket",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "Take Notes in the Real World",
-          "originalDescription": "Pocket is a Y Combinator W26 company building a premium hardware plus software product in the AI voice recorder space. We are obsessed with quality and speed. We are scaling very fast in the US and now European markets and building a device experience that can become the category leader.",
-          "story": "很多垂直行业的软件机会，看起来都只是把杂活整理好。Pocket 面对的也是这种问题，关键在于能不能让用户少切系统、少追材料。 它现在还不能只凭介绍就下结论，但YC 冬季 2026 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 8
-        },
-        {
-          "id": "yc-30046",
-          "name": "Cekura",
-          "url": "https://www.cekura.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/cekura-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "SaaS",
-            "B2B"
-          ],
-          "batch": "Fall 2024",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "Voice AI and Chat AI agents: Testing and Observability",
-          "originalDescription": "Cekura helps Conversational AI companies with automated QA. From pre-production simulation and evaluations to production call monitoring, to assisting customers in setting up the CI/CD pipeline, we help in QA across the agent lifecycle. We are working with 75+ customers across healthcare, BFSI, logistics, recruitment, and retail. Some of the largest CCAS players and enterprises use Cekura to ship AI voice and chat agents reliably",
-          "story": "想象一个智能体在真实客户流程里操作失败，日志只有一半，权限、数据和工具状态都对不上。Cekura 试图把这些线索放进可复现的沙盒里，让工程团队能查清楚。 它现在还不能只凭介绍就下结论，但YC 秋季 2024 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 9
-        },
-        {
-          "id": "yc-30328",
-          "name": "Dalus",
-          "url": "https://dalus.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/dalus",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI-Powered Hardware System Design Software",
-          "originalDescription": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. With Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. With AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus. We started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at. We love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel) Read why we started Dalus: https://dalus.io/articles/why-dalus",
-          "story": "设想你在工厂或机器人团队里，真正头疼的不是演示能不能跑一次，而是任务每天变化、现场条件不稳定、调试成本很高。Dalus 想把现实世界里的生产、搬运、检测或操作任务做得更自动化、更稳定。 YC 冬季 2025 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "classic-svpg-discovery",
-          "title": "Product Discovery",
-          "url": "https://www.svpg.com/product-discovery/",
-          "source": "Silicon Valley Product Group",
-          "topic": "产品发现",
-          "story": "这篇更像常青阅读，不是追新闻。主题和产品发现有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        },
-        {
-          "id": "classic-intercom-growing",
-          "title": "Product strategy in a growing company",
-          "url": "https://www.intercom.com/blog/videos/talk-product-strategy-in-a-growing-company/",
-          "source": "Intercom",
-          "topic": "增长阶段的产品策略",
-          "story": "产品变大以后，策略为什么必须变化，这篇解释得很好。一个产品刚上线时，团队是在为自己想象中的用户设计；等真实用户开始大量使用，团队就必须根据真实行为调整。它提醒你，产品策略不是写完就不变的计划，而是随着用户、市场和公司阶段不断校准的判断。",
-          "published": ""
-        },
-        {
-          "id": "classic-pg-default-alive",
-          "title": "Default Alive or Default Dead?",
-          "url": "https://www.paulgraham.com/aord.html",
-          "source": "Paul Graham",
-          "topic": "公司生存和现金流",
-          "story": "这篇更像常青阅读，不是追新闻。主题和公司生存和现金流有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
           "published": ""
         }
       ]
