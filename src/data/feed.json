@@ -1,7 +1,247 @@
 {
-  "generatedAt": "2026-07-19T09:17:16.197Z",
+  "generatedAt": "2026-07-20T10:20:33.153Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-07-20",
+      "companies": [
+        {
+          "id": 33838,
+          "name": "Simantic",
+          "url": "https://simantic.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/simantic",
+          "location": "Waterloo, ON, Canada",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Hardware",
+            "Semiconductors",
+            "Electronics",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Firmware simulation for AI agents",
+          "originalDescription": "Simantic is modernizing the embedded firmware industry with hardware simulation developed for the adoption of AI in hardware engineering. Simantic gives both humans and AI the visibility into hardware previously limited by the physical world.",
+          "story": "Simantic 是一家做嵌入式固件仿真工具的公司，切的是芯片和硬件开发的基础设施。想象你是一个硬件工程团队的负责人，每次修改嵌入式代码都要烧录到真实芯片上测试，一烧就是几分钟甚至几小时，迭代慢得像在泥里走路。Simantic 用硬件仿真技术让智能体也能像人一样“看见”硬件内部状态，在虚拟环境里快速验证固件逻辑，把迭代周期从小时级压缩到秒级。团队只有四个人，来自 YC 秋季 2026 批次，正在招聘，说明这个方向已经跑通了初步验证。",
+          "rank": 1
+        },
+        {
+          "id": 31416,
+          "name": "Callab AI",
+          "url": "https://callab.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/callab-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 7,
+          "originalOneLiner": "AI voice agents for on-prem telephony stack.",
+          "originalDescription": "58% of the $400B call center industry runs on on-prem phone systems, and until now bringing AI voice automation to them meant ripping out their entire infrastructure first. That's the largest unserved segment in the market. Callab AI connects directly to legacy PBX systems like Avaya, Cisco UCM, and Mitel, and automates up to 70% of call volume with zero migration needed. We plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like Dunkin Donuts.",
+          "story": "Callab AI 做的是连接传统电话系统的语音智能体，切的是呼叫中心基础设施升级这个巨大市场。假如你是某个大型呼叫中心的运营负责人，公司还在用 Avaya 或 Cisco 的老式交换机，想引入人工智能语音客服就必须把整套系统换掉，成本高到不敢动。Callab AI 直接插进这些旧系统，无需替换任何硬件就能自动处理最多七成来电。YC 春季 2026 批次，团队七人，正在招聘，客户已经覆盖三大洲，包括 Dunkin Donuts 这样的品牌。",
+          "rank": 2
+        },
+        {
+          "id": 31214,
+          "name": "Pocket",
+          "url": "https://heypocket.com/now",
+          "sourceUrl": "https://www.ycombinator.com/companies/pocket",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 15,
+          "originalOneLiner": "Take Notes in the Real World",
+          "originalDescription": "Pocket is a Y Combinator W26 company building a premium hardware plus software product in the AI voice recorder space. We are obsessed with quality and speed. We are scaling very fast in the US and now European markets and building a device experience that can become the category leader.",
+          "story": "Pocket 是一家做人工智能语音记录硬件的公司，方向是随身设备而不是手机应用。想象你是一个会议很多的咨询顾问，每天要记大量要点，用手机录音不仅耗电快，还容易在嘈杂环境里录不清。Pocket 做了一台独立的硬件设备，把麦克风、降噪和人工智能转录都装进一个小盒子里，专注做好“在真实世界里记笔记”这一件事。它来自 YC 冬季 2026 批次，团队十五人，正在招聘，在美国和欧洲市场增长很快，目标是成为这个品类的领导者。",
+          "rank": 3
+        },
+        {
+          "id": 29740,
+          "name": "Redouble AI",
+          "url": "https://redouble.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/redouble-ai",
+          "location": "New York City, NY, USA; Remote",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Generative AI",
+            "B2B",
+            "Workflow Automation",
+            "Enterprise"
+          ],
+          "batch": "Summer 2024",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Java-native multi-agentic AI operating system for enterprise",
+          "originalDescription": "At Redouble AI we have developed Silverlake, a Java-native agentic AI operating system for enterprise. While other AI solutions force enterprise stakeholders to embrace unfamiliar concepts in an unfamiliar language, we do the opposite: we slot agentic AI right into the enterprise comfort zone - by mapping all agentic concepts onto established enterprise primitives in their own language, their own security model, their own infrastructure. It’s like moving from Bitcoin to Stablecoin, just for agentic AI. When we did YC we realized there was no framework or platform that gave us as enterprise and workflow automation veterans what we needed to build truly secure, reliable, and scalable agentic solutions for mission-critical workflows. That’s why we spent the past 18 months building Silverlake from the ground up. We empower the 12 million Java engineers worldwide to write and deploy their own AI, securely, at scale. They define an agent in a few lines of code, and our platform does everything else, from orchestration to permission control, from auditability to rate limiting, from long-running agents to autonomous coordinated networks that perform the work of entire departments. Silverlake has been developed with design partners across biopharma, insurance and financial services. For example, our agentic workflows write submission-ready Clinical Study Reports that are hundreds of pages long, analyze entire datarooms full of financial and operational data for private equity investors, and automate claims processing for a large insurance player. We are backed by Y Combinator, Exponential, Transpose Platform, Tiny VC, and the Oxford Seed Fund and advised by Java inventor James Gosling and automation guru Professor Christian Terwiesch.",
+          "story": "Redouble AI 做的是企业级的智能体操作系统，但特别之处在于它完全用 Java 构建，切的是大型企业不想学新语言的痛点。想象你是一家银行的技术负责人，团队全是 Java 工程师，想用人工智能智能体来自动化反洗钱审核流程，但市面上的方案都要求你学 Python 或者新框架。Redouble AI 的 Silverlake 平台把智能体概念映射成企业熟悉的角色、权限和基础设施，让一千二百万 Java 工程师直接用自己会的语言写智能体。YC 夏季 2024 批次，团队三人，花十八个月从零搭建了这个系统。",
+          "rank": 4
+        },
+        {
+          "id": 31294,
+          "name": "Dispatch",
+          "url": "https://dispatch.space/",
+          "sourceUrl": "https://www.ycombinator.com/companies/dispatch",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Satellites for Manufacturing in Space",
+          "originalDescription": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck. We just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg To scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
+          "story": "Dispatch 做的是可回收的太空返回飞行器，切的是空间制造这个前沿方向。想象你是一家半导体材料公司的研发负责人，你发现某些超纯晶体只能在微重力环境下生长，但造出来之后没法安全运回地球。Dispatch 造了一款带可重复使用隔热罩的返回舱，刚刚在莫哈韦沙漠用火箭发动机模拟了以二十倍音速重返大气的条件，隔热罩测试成功了。他们计划在轨道上建造自动化空间站，实现“无灯制造”并定期返回产品。YC 春季 2026 批次，团队两人，正在招聘。",
+          "rank": 5
+        },
+        {
+          "id": 31435,
+          "name": "Lumius",
+          "url": "https://www.lumius-imaging.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/lumius",
+          "location": "Durham, NC, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Fast, smart, accessible 3D ultrasound that anyone can use",
+          "originalDescription": "Ultrasound today is still mostly 2D. Clinicians have to imagine the 3D anatomy in their head while also moving the probe at the same time. This makes procedures like vascular access hard to learn and perform consistently, especially for beginners. ~50% fail on their first attempt. Hospitals also spend millions each year on 2D ultrasound training. Meanwhile, existing 3D ultrasound devices can cost >10× as much. Lumius is building fast, smart, and accessible 3D ultrasound systems to eliminate this 2D guesswork. Our technology shows a clear, real-time 3D view of what’s inside the body. It works over a large volume, not just a thin slice. The device is also affordable, compact, and portable. We are starting with vascular access, especially central line. Future use cases include blood clot detection, tumor diagnosis, and biopsy guidance. Our long-term vision is a universal 3D ultrasound platform that brings easy-to-use, real-time imaging to a wide range of clinical and eventually consumer applications.",
+          "story": "Lumius 做的是快速、智能、人人都能用的三维超声设备，切的是传统二维超声需要医生在脑中想象立体结构的痛点。想象你是一个刚毕业的住院医师，第一次给病人做中心静脉穿刺，手里拿着二维超声探头，脑子里要同时想象血管的三维走向，大约一半新手第一次会失败。Lumius 的设备直接显示实时的三维图像，覆盖一个大范围而不是一个薄片，而且价格只有现有三维超声的十分之一，小巧便携。他们从血管穿刺场景开始，未来可用于血栓检测和肿瘤诊断。YC 春季 2026 批次，团队四人，正在招聘。",
+          "rank": 6
+        },
+        {
+          "id": "hardware-limitless",
+          "name": "Limitless",
+          "url": "https://www.limitless.ai/",
+          "sourceUrl": "https://www.limitless.ai/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Smart Hardware",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Wearable AI pendant and meeting memory product.",
+          "originalDescription": "Limitless builds a wearable and software layer for remembering conversations, summarizing meetings, and helping people search what was said later.",
+          "story": "Limitless 做的是可穿戴的人工智能挂坠和会议记忆软件，切的是“记不住说过的话”这个日常麻烦。想象你是一个每天开五六个会的产品经理，会后总是想不起某个细节，翻录音又太耗时。Limitless 的挂坠可以戴在身上，自动记录对话并生成摘要，事后还能搜索任何一句话。它不是一个手机应用，而是一个专门的硬件加软件层，把麦克风和人工智能处理放在一个独立的设备里，让你不用掏出手机就能捕捉一切。",
+          "rank": 7
+        },
+        {
+          "id": "ph-lnkflow",
+          "name": "LnkFlow",
+          "url": "https://www.producthunt.com/products/lnkflow",
+          "sourceUrl": "https://www.producthunt.com/products/lnkflow",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Agentic click tracking that shows what grows your business",
+          "originalDescription": "Agentic click tracking that shows what grows your business",
+          "story": "LnkFlow 做的是智能化的链接点击追踪工具，切的是营销人员想知道“哪个渠道真正带来增长”的需求。想象你是一个增长团队的负责人，每天看一堆点击数据，但分不清哪些点击最后转化成了付费用户。LnkFlow 用智能体自动分析点击行为，直接告诉你哪些链接在推动业务增长，而不是只给你一堆数字。它来自 Product Hunt，适合那些想用人工智能替代手动数据分析的团队。",
+          "rank": 8
+        },
+        {
+          "id": "ph-reignat",
+          "name": "Reignat",
+          "url": "https://www.producthunt.com/products/reignat",
+          "sourceUrl": "https://www.producthunt.com/products/reignat",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Data"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Privacy-friendly web analytics with realtime AI insights",
+          "originalDescription": "Privacy-friendly web analytics with realtime AI insights",
+          "story": "Reignat 做的是注重隐私的网站分析工具，同时用人工智能提供实时洞察。想象你是一个独立站点的运营者，想了解访客行为但又不想用谷歌分析那样收集太多个人信息。Reignat 在保护访客隐私的前提下，用人工智能实时分析流量趋势，告诉你哪些页面最受欢迎、用户从哪里来，而且数据不会泄露给第三方。它来自 Product Hunt，适合对数据合规要求严格的小团队或个人站长。",
+          "rank": 9
+        },
+        {
+          "id": "hn-launch-48922706",
+          "name": "Coasty",
+          "url": "https://coasty.ai/docs",
+          "sourceUrl": "https://news.ycombinator.com/item?id=48922706",
+          "location": "Unknown",
+          "source": [
+            "Launch HN"
+          ],
+          "tags": [
+            "AI",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "YC S26) – An API for computer-use agents",
+          "originalDescription": "YC S26) – An API for computer-use agents",
+          "story": "Coasty 做的是让智能体操控电脑的接口，切的是开发者需要让智能体像人一样操作浏览器或桌面应用的需求。想象你是一个自动化工程师，想写一个智能体来自动填写企业管理系统里的表单，但每个系统的界面都不一样。Coasty 提供了一套接口，让智能体可以“看”屏幕、“点”按钮、“填”输入框，就像一个人在使用电脑那样。它来自 YC 夏季 2026 批次，目前以 Launch HN 形式发布，适合做 RPA 或浏览器自动化的团队。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "classic-svpg-discovery",
+          "title": "Product Discovery",
+          "url": "https://www.svpg.com/product-discovery/",
+          "source": "Silicon Valley Product Group",
+          "topic": "产品发现",
+          "story": "一个产品团队最怕的不是没想法，而是花几个月做出来才发现没人用。产品发现这个环节，很多团队以为就是开几个会、画几个原型，结果在用户理解、需求取舍上反复走弯路。这篇来自硅谷产品集团的文章，不是讲一套标准流程，而是告诉你那些看似简单的判断背后，作者是怎么拆问题的。读的时候可以留意：他是怎么发现真正值得解决的问题，又是怎么判断哪些功能该砍掉的。",
+          "published": ""
+        },
+        {
+          "id": "classic-intercom-growing",
+          "title": "Product strategy in a growing company",
+          "url": "https://www.intercom.com/blog/videos/talk-product-strategy-in-a-growing-company/",
+          "source": "Intercom",
+          "topic": "增长阶段的产品策略",
+          "story": "产品刚上线时，团队可以凭直觉做决定，因为用户少、场景简单。可一旦用户量上来，原来的策略就会失效，团队会陷入混乱：是该加功能还是优化现有功能？该服务所有用户还是只服务核心用户？Intercom 的这篇文章用真实案例解释了为什么增长阶段的产品策略必须改变。读的时候可以关注：作者如何根据用户行为和市场变化来调整方向，而不是死守最初计划。",
+          "published": ""
+        },
+        {
+          "id": "classic-basecamp-shape-up",
+          "title": "Shape Up",
+          "url": "https://basecamp.com/shapeup",
+          "source": "Basecamp",
+          "topic": "产品规划和执行",
+          "story": "很多产品团队陷入一个怪圈：定了截止日期却做不完，或者做完了发现不是用户要的。问题往往出在规划阶段：需求太模糊，或者范围太大。Basecamp 的《Shape Up》提供了一套不同的做法：先给问题“定形”，再设定时间盒，让团队在固定周期内自主决定怎么做。读的时候可以重点看：作者如何把一个模糊想法变成可执行的计划，以及怎么在过程中控制范围不失控。",
+          "published": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-19",
       "companies": [
@@ -3077,243 +3317,6 @@
           "source": "Paul Graham",
           "topic": "创业常见错误",
           "story": "这篇更像常青阅读，不是追新闻。主题和创业常见错误有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-06-12",
-      "companies": [
-        {
-          "id": "yc-30729",
-          "name": "Floot",
-          "url": "https://floot.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/floot",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "SaaS",
-            "No-code",
-            "Web Development",
-            "AI"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "The easiest way for non-coders to build apps with AI.",
-          "originalDescription": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. ✨ Try building an app at floot.com Existing AI app builders fall short of enabling non-coders to build real, serious apps. They often: - Break down when building anything more than a prototype or toy app - Have non-coders stuck with errors they don’t understand - Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc) The fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI. The result? Non-coders get excited, start building, hit a wall, and then abandon their projects. Floot is purpose-built for AI. Our secret sauce: 1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively. 2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding. Because of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects. We also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly. Plus, Floot is really fun to use! Try building an app at floot.com",
-          "story": "如果你是工程负责人，新功能上线前最怕的不是多写几行代码，而是底层系统不稳定、权限不清楚、故障没人知道从哪里查。Floot 想把两边原本很难找到彼此的人连接起来，比如买家和卖家、公司和服务商、需求方和供给方。 YC 夏季 2025 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 1
-        },
-        {
-          "id": "yc-29963",
-          "name": "Capitol AI",
-          "url": "https://www.capitol.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/capitol-ai",
-          "location": "Washington, DC, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "AI-Enhanced Learning",
-            "Workflow Automation",
-            "Analytics",
-            "Media",
-            "AI"
-          ],
-          "batch": "Summer 2024",
-          "isHiring": true,
-          "teamSize": 11,
-          "originalOneLiner": "Capitol: the sovereign operating system for intelligence.",
-          "originalDescription": "Capitol AI is building a sovereign operating system for intelligence, designed for regulated, high-stakes institutions such as professional services firms, financial services, and government agencies. These organizations are overwhelmed by data and experimenting with generic AI tools that lack auditability, repeatability, and secure deployment. As a result, critical decisions are increasingly shaped by systems they do not fully control. Capitol runs entirely inside enterprise infrastructure and transforms proprietary data into structured, decision-grade artifacts such as due diligence reports, regulatory documentation, and executive intelligence. The platform is model-agnostic, fully auditable, and operates with no data egress, giving institutions durable control over their data, workflows, and standards.",
-          "story": "开发者工具的价值常常藏在少踩坑里。团队要交付业务功能，但会被集成、权限、调试和部署拖住。Capitol AI 想把其中一段基础工作做薄。 它现在还不能只凭介绍就下结论，但YC 夏季 2024 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 2
-        },
-        {
-          "id": "yc-31100",
-          "name": "Sentrial",
-          "url": "https://sentrial.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/sentrial",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Datadog for Agent Reliability",
-          "originalDescription": "Sentrial is the monitoring platform for AI products in production. When your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
-          "story": "工程团队不缺新工具，缺的是能减少等待和返工的工具。Sentrial 如果能让一个复杂环节更可靠，就有机会嵌进日常开发流程。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 冬季 2026 批次和官网信息相对完整只是第一层信号。",
-          "rank": 3
-        },
-        {
-          "id": "yc-30970",
-          "name": "Exonic",
-          "url": "https://exonic.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/exonic",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Unsupervised Biological AI",
-          "originalDescription": "What if you could train a biological foundation model on... the entire internet? Exonic is pioneering a new generation of biological foundation models, focused on heterogeneous, unstructured, and noisy datasets. Our first application is the design of safer gene therapies. In 2025, we used AI to set a new state of the art in liver cancer targeted gene therapy, validated in vitro in our lab in San Francisco. So far in 2026, we have trained a new model with unprecedented zero-shot generalization on genomic regulatory expression in hold-out biosample datasets. More to be shared soon.",
-          "story": "从病人预约到后续跟进，中间很多工作不是医学难题，却会消耗诊所大量时间。Exonic 切入的是这些容易拖慢服务的后台环节。 它现在还不能只凭介绍就下结论，但YC 秋季 2025 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 4
-        },
-        {
-          "id": "yc-30430",
-          "name": "Almond",
-          "url": "https://almond.bot/",
-          "sourceUrl": "https://www.ycombinator.com/companies/almond-2",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Hardware",
-            "Robotics",
-            "Manufacturing",
-            "Automation"
-          ],
-          "batch": "Spring 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "A dual-arm robot built for physical AI.",
-          "originalDescription": "We build robots for physical AI. Meet Axol - A dual-arm robot designed for real-world tasks using AI.",
-          "story": "设想你在工厂或机器人团队里，真正头疼的不是演示能不能跑一次，而是任务每天变化、现场条件不稳定、调试成本很高。Almond 想把现实世界里的生产、搬运、检测或操作任务做得更自动化、更稳定。 YC 春季 2025 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 5
-        },
-        {
-          "id": "yc-30724",
-          "name": "Risely AI",
-          "url": "https://www.risely.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/risely-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": false,
-          "teamSize": 9,
-          "originalOneLiner": "AI agents that automate administrative work across college campuses.",
-          "originalDescription": "Risely’s AI agents will form the new operating system for universities, improving retention, staff productivity, and efficiency. Our platform integrates directly into existing university systems (SIS, LMS, CRM), learns each institution’s unique workflows, and deploys specialized AI agents. This dramatically reduces the $735 billion universities spend annually on administrative labor, expands staff capacity without increasing headcount, and improves the student experience. This hasn't been done before because university workflows require nuanced, autonomous judgment, exactly what agentic AI was designed to solve. Our team uniquely combines deep expertise in higher education, enterprise-scale AI, and regulated enterprise sales. Sadia previously built Salesforce’s Education Cloud from scratch, creating the core Student Information System widely used across higher education. She deeply understands university operations and maintains trusted relationships with hundreds of higher-ed CIOs and Provosts. Danial was one of DoorDash’s earliest engineers, where he architected and scaled complex systems from zero to billions of transactions, including their search, recommendation, and Voice AI platforms. He knows how to build robust AI solutions that reliably perform at enterprise scale. Shahryar was a GM at Airwallex, where he built the entire Americas business from 0 to 1 and drove 11x revenue growth. He’s also a master closer, single-handedly securing over $17M in enterprise deals at NerdWallet. He’s a relentless startup executor with deep expertise launching and scaling go-to-market machines in highly regulated industries. We launched six weeks ago and are already at $8k MRR, growing 55% week-over-week -- one of the fastest ramps ever in higher ed. Universities urgently need solutions that expand labor capacity and efficiency, especially as they face unprecedented budget pressure and staffing shortages. With unmatched buyer access, deep technical expertise, and rapid early traction, we are perfectly positioned to own this enormous market.",
-          "story": "工程团队不缺新工具，缺的是能减少等待和返工的工具。Risely AI 如果能让一个复杂环节更可靠，就有机会嵌进日常开发流程。 它现在还不能只凭介绍就下结论，但YC 夏季 2025 批次加上官网信息相对完整，足够作为一个后续观察点。",
-          "rank": 6
-        },
-        {
-          "id": "yc-27250",
-          "name": "Axle",
-          "url": "https://axle.insure",
-          "sourceUrl": "https://www.ycombinator.com/companies/axle",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Fintech",
-            "B2B",
-            "Insurance"
-          ],
-          "batch": "Summer 2022",
-          "isHiring": true,
-          "teamSize": 10,
-          "originalOneLiner": "AI-native clearinghouse for insurance",
-          "originalDescription": "Axle is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
-          "story": "金融和保险里的很多工作并不是缺人判断，而是材料太散、规则太多、过程还必须可追溯。Axle 想把这类判断前的准备工作自动化。 它现在还不能只凭介绍就下结论，但YC 夏季 2022 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 7
-        },
-        {
-          "id": "yc-31109",
-          "name": "Beacon Health",
-          "url": "https://www.beaconhealth.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/beacon-health",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "AI Employees for Primary Care",
-          "originalDescription": "Beacon Health (YC W26) is building AI employees that double revenue for primary care practices while also reducing the total cost of care. Primary care is the primary source of care for over 200M Americans, but physicians don’t have the bandwidth to manage their patient panels. Beacon Health builds AI employees that automate tedious background workflows - preventative screenings, prior authorizations, referrals, and risk adjustment. We handle these workflows from start to finish, directly in their EHR. We’re on a mission is to bring joy back to primary care.",
-          "story": "医疗团队每天都在和信息断点打交道，病人、保险、排班、账单和随访常常不在同一个地方。Beacon Health 想把其中一段流程变得更顺。 把它放进今天的列表，主要是因为它出现在YC 冬季 2026 批次，而且官网信息相对完整。",
-          "rank": 8
-        },
-        {
-          "id": "yc-30709",
-          "name": "Novaflow",
-          "url": "https://www.novaflowapp.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/novaflow",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "The AI data analyst for biology labs",
-          "originalDescription": "Novaflow is the AI data analyst for biology labs. -- Bioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. Researchers at leading institutions like UCSF, Mount Sinai, UC Berkeley, and Harvard are already using Novaflow in their labs.",
-          "story": "假如你在诊所或医院负责一天的运营，最烦的往往不是一个大问题，而是病人信息、保险确认、医生安排和后续跟进散在很多地方。Novaflow 想帮你把这些琐碎但不能出错的环节串起来。 把它放进今天的列表，主要是因为它出现在YC 夏季 2025 批次，而且还在招聘。",
-          "rank": 9
-        },
-        {
-          "id": "yc-31120",
-          "name": "Kyten Technologies",
-          "url": "https://kytentech.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/kyten-technologies",
-          "location": "Seattle, WA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Custom Aerospace-Grade Battery Packs",
-          "originalDescription": "Kyten Technologies is building a factory to manufacture custom aerospace-grade battery packs. 100,000+ drones, submarines, and satellites are being built in the US, but the legacy supply chain can't keep up. During our six years at Starlink, we put 5,000+ battery packs into space. Now, we're bringing rapid development and volume production of aerospace-grade battery packs to the entire industry.",
-          "story": "设想你在工厂或机器人团队里，真正头疼的不是演示能不能跑一次，而是任务每天变化、现场条件不稳定、调试成本很高。Kyten Technologies 想给工程团队提供底层工具，让他们不用从零搭建复杂系统，可以更快把产品做出来。 把它放进今天的列表，主要是因为它出现在YC 冬季 2026 批次，而且官网信息相对完整。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "classic-first-round-sales",
-          "title": "The Minimum Viable Sales Process",
-          "url": "https://review.firstround.com/the-minimum-viable-sales-process/",
-          "source": "First Round Review",
-          "topic": "早期销售",
-          "story": "这篇更像常青阅读，不是追新闻。主题和早期销售有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        },
-        {
-          "id": "classic-intercom-retention",
-          "title": "Retention is the Key to Growth",
-          "url": "https://www.intercom.com/blog/retention-is-the-key-to-growth/",
-          "source": "Intercom",
-          "topic": "留存和 SaaS 增长",
-          "story": "这篇更像常青阅读，不是追新闻。主题和留存和 SaaS 增长有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        },
-        {
-          "id": "classic-balfour-growth",
-          "title": "The Scientific Method for Growth Experiments",
-          "url": "https://brianbalfour.com/essays/scientific-method-growth-experiments",
-          "source": "Brian Balfour",
-          "topic": "增长实验",
-          "story": "这篇更像常青阅读，不是追新闻。主题和增长实验有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
           "published": ""
         }
       ]
