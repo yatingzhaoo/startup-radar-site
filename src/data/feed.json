@@ -1,7 +1,247 @@
 {
-  "generatedAt": "2026-07-20T10:20:33.153Z",
+  "generatedAt": "2026-07-21T09:38:01.177Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-07-21",
+      "companies": [
+        {
+          "id": 31246,
+          "name": "Inth",
+          "url": "https://inth.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/inth",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Compliance",
+            "Web Development",
+            "Trust & Safety"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Enterprise privacy governance for companies that ship fast",
+          "originalDescription": "Inth helps fast-moving software teams prevent privacy failures before they reach production. Privacy risk no longer lives in policy docs, dashboards, and questionnaires. It lives in code: consent flows, data deletion, vendors, logs, AI systems, and agent-written changes that move user data every day. Inth starts with c15t, an open-source consent and privacy SDK with 3M+ npm downloads, used by teams like Zed, Infisical, and Expo. From there, Inth expands into code-native workflows for consent management, data subject requests, policy enforcement, vendor oversight, and audit-ready evidence. We make privacy governance programmable, observable, and compliant by default.",
+          "story": "Inth 是一家做企业隐私治理的公司，专门服务那些快速迭代的软件团队。假如你是一家初创公司的合规负责人，每天最头疼的事情就是：代码里到处都可能泄露用户数据，但传统的隐私合规工具只停留在文档和问卷上，根本跟不上开发节奏。Inth 从开源的同意管理和隐私 SDK 起步，这个工具已经被下载超过三百万次，被 Zed、Infisical 等团队采用。它把隐私治理变成了可编程、可观测的代码原生流程，帮你自动处理同意管理、数据主体请求、供应商审查和审计证据，让合规成为默认设置而不是事后补救。值得关注的是，它来自 YC 2026 年春季批次，团队只有三人，但开源社区已经验证了需求。",
+          "rank": 1
+        },
+        {
+          "id": 32202,
+          "name": "Dialogus",
+          "url": "https://www.dialoguslabs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/dialogus",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "B2B",
+            "Customer Support"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Infra for enterprise voice agents.",
+          "originalDescription": "Dialogus builds voice agent infrastructure for enterprises. Most companies can demo an AI voice agent, but getting one into production is hard. Enterprise agents need to connect to phone systems, internal tools, databases, CRMs, messaging channels, human escalation flows, monitoring, and compliance processes. Dialogus provides the infrastructure to deploy production-grade voice agents that don’t just talk but complete real workflows. Our platform lets enterprises launch agents that collect information, validate it against internal systems, update records, send follow-up messages, and escalate edge cases to humans.",
+          "story": "Dialogus 做的是企业级语音智能体的基础设施。想象你是一家大型保险公司的技术负责人，想用语音智能体来处理理赔电话，但每次尝试都卡在：它需要连接电话系统、内部数据库、客户管理系统、人工升级流程和合规监控，而市面上大多数演示方案都做不到这一点。Dialogus 提供了一个生产级别的平台，让语音智能体不仅能说话，还能真正完成工作流程：收集信息、验证数据、更新记录、发送跟进消息，并在遇到异常时无缝转交给人工。这家公司来自 YC 2026 年夏季批次，团队三人，专注解决企业部署语音智能体的核心痛点。",
+          "rank": 2
+        },
+        {
+          "id": 30101,
+          "name": "Kilvin",
+          "url": "https://www.kilvin.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/kilvin",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Productivity",
+            "Data Engineering",
+            "Automation",
+            "AI"
+          ],
+          "batch": "Fall 2024",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Custom software for non-technical teams.",
+          "originalDescription": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams. With AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months. No engineers needed on your side. Just software that fits exactly how you work.",
+          "story": "Kilvin 是一个人工智能原生的软件工作室，专门为非技术团队定制软件。如果你是一个运营负责人，每天被迫使用那些通用的企业管理系统，但总找不到完全匹配工作流程的工具，你会理解 Kilvin 的价值。它用人工智能快速搭建私有、安全的自定义应用，几天内就能交付，而不是几个月。你不需要自己雇工程师，得到的软件完全贴合你的工作方式。这家公司来自 YC 2024 年秋季批次，目前正在招聘，团队三人，目标是用人工智能让每个团队都拥有量身定制的工具。",
+          "rank": 3
+        },
+        {
+          "id": 31445,
+          "name": "Harbor",
+          "url": "https://runharbor.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/runharbor",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "AI-native CRO for clinical trial operations",
+          "originalDescription": "Harbor is building an AI-native contract research organization (CRO) for clinical trials. We started with an AI-native system of record for clinical trial data (electronic data capture system), grew the software business to seven trials and ~$187k in contracted software revenue over the next twelve months, then expanded into full-service trial execution and signed our first CRO contract worth $1.93M over three years. Clinical trials consume 45% of all new drug and device development spend. While some of that goes to software, sites, and patients, the largest line items are services: project management, monitoring, data management, site coordination, source verification, query resolution, record reconciliation, and analysis. Today, drug and device companies outsource clinical operations to legacy CROs and their massive teams, which is why the CRO market is $82B annually. Harbor delivers the regulated services companies buy from legacy CROs, but built around our AI-native system of record from day one. Our software already automates the core data workflows: study build, data capture, query generation, monitoring, signing, and database lock. Because we own the system of record, we can expand into the surrounding service workflows: site contracting and billing, subject engagement and retention, statistics, reporting, and more. We built Harbor because we lived through the problem. Albert spent four years in clinical trials and regulatory strategy at a medical device startup, taking an unproven wearable from first-in-human trials to FDA authorization. Nate brings the technical depth, having built scalable software at Google and Ramp and served as employee #1 at a previous YC startup.",
+          "story": "Harbor 是一家用人工智能改造临床试验运营的公司。想象你是一家生物技术公司的临床运营总监，传统上需要外包给大型合同研究组织，流程缓慢且昂贵。Harbor 从一个人工智能原生的临床试验数据记录系统起步，在十二个月内签下了七个试验的软件合同，收入约十八万七千美元，然后扩展到完整的试验执行服务，签下了第一个价值一百九十三万美元的三年合同。临床试验消耗了所有新药和设备开发支出的百分之四十五，而合同研究组织市场每年高达八百二十亿美元。Harbor 来自 YC 2026 年春季批次，团队三人，正在用人工智能重塑这个巨大的服务市场。",
+          "rank": 4
+        },
+        {
+          "id": 31477,
+          "name": "BioStack Platforms",
+          "url": "https://www.getbiostack.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/biostack-platforms",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 0,
+          "originalOneLiner": "Real world training envs for healthcare AI models",
+          "originalDescription": "BioStack is building the data engine for healthcare and drug discovery AI. The bottleneck is not models. It is access to high-quality biological data. Clinical and experimental data is fragmented, unstructured, and locked inside hospitals, labs, and CROs, while generating new data is slow and expensive. BioStack fixes this with proprietary clinical and preclinical data pipelines that turn real biomedical workflows into ML-ready training environments. We structure longitudinal multimodal data across imaging, EHR, and experimental assays, then package it for post-training and reinforcement learning so models can learn how research and care actually happen. Instead of static datasets, BioStack gives AI labs workflow-aligned data and environments that improve reasoning, decision-making, and real-world performance in biology and medicine.",
+          "story": "BioStack 正在构建医疗和药物发现人工智能的数据引擎。如果你是一个研究人工智能的生物信息学家，你会发现最大的瓶颈不是模型，而是高质量生物数据的获取。临床和实验数据分散、非结构化，被锁在医院和实验室里，生成新数据又慢又贵。BioStack 用专有的临床和临床前数据管道，将真实的生物医学工作流程变成机器学习可用的训练环境。它处理影像、电子病历和实验检测等多模态纵向数据，并打包用于后训练和强化学习，让模型学会研究和诊疗的真实过程。这家公司来自 YC 2026 年春季批次，正在招聘，团队规模待定，但方向直击医疗人工智能的核心痛点。",
+          "rank": 5
+        },
+        {
+          "id": 29783,
+          "name": "Guardian RF",
+          "url": "https://guardianrf.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/guardian-rf",
+          "location": "Washington, DC, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2024",
+          "isHiring": true,
+          "teamSize": 15,
+          "originalOneLiner": "Drone detection for US defense and national security",
+          "originalDescription": "The rise of low-cost commercial drones has introduced a new class of asymmetric threats to U.S. national security. Off-the-shelf platforms now deliver ISR, contraband, or payloads with precision, while operating below radar coverage and beyond line-of-sight. These systems—often costing under $1,000—are capable of neutralizing multi-million-dollar defense assets. For drone detection to be viable at scale, sensors must achieve cost parity with the threat. In response, the Department of Defense established multiple initiatives to counter the rapid proliferation of uncrewed aerial systems. The Joint Counter-small UAS Office (JCO) coordinates policy and acquisition across services. The Base Defense Cross-Functional Team enables persistent perimeter security for CONUS and OCONUS installations. Falcon Peak, Red Sands, and related exercises are accelerating deployment of counter-UAS technologies in complex environments. This threat is no longer exclusive to military operations overseas. It now directly targets the U.S. homeland. In 2025, an executive order designated the protection of American airspace sovereignty a national priority, recognizing that uncrewed systems present both surveillance and kinetic risks within the United States. That same year, a domestic extremist plotted to destroy a Tennessee power substation using a drone rigged with C-4 explosives—a plan disrupted by undercover federal agents. In July 2025, an unauthorized drone collided with a rescue helicopter during disaster response operations in Kerr County, Texas, forcing an emergency landing and halting flood relief efforts. These are not isolated incidents—they reflect a broader shift in drone-enabled threats against homeland infrastructure and public safety. Guardian RF builds passive, radiofrequency-based drone detection systems for force protection and critical infrastructure defense inside the United States. Our systems are fielded under an AFWERX Direct-to-Phase-II SBIR with the 30th Security Forces Squadron at Vandenberg Space Force Base, deployed by local and state law enforcement, and integrated into commercial security operations. We were selected as a finalist for Falcon Peak 25.2, the Department of Defense’s premier counter-UAS exercise. Scout is a passive RF sensor for fixed, mobile, or temporary deployments. It detects and classifies drone control signals—including modified variants of DJI, Crossfire, and ExpressLRS—at standoff ranges. Scout supports direct integration into TAK and other operational APIs and is managed through GRF-SECURE, our secure interface for live monitoring, threat alerting, and forensic review. Mosaic extends coverage in austere environments, enabling persistent low-altitude monitoring and classification of non–Remote ID drones across complex terrain—without active emissions or mesh dependency. Built in the United States, Guardian RF delivers scalable, automated, and cost-aligned drone detection—passive by design and hardened for real-world deployment across the homeland.",
+          "story": "Guardian RF 专注于为美国国防和国家安全提供无人机检测方案。假如你是一个军事基地的安全负责人，现在面临的新威胁是：低成本商用无人机可以携带侦察设备或违禁品，在雷达覆盖范围之外精确飞行，而一架不到一千美元的无人机可能瘫痪价值数百万美元的防御资产。Guardian RF 的传感器成本与威胁本身相当，使得大规模部署成为可能。美国国防部已经设立了多个反小型无人机项目，Guardian RF 的技术正好满足这些项目的需求。这家公司来自 YC 2024 年夏季批次，团队已有十五人，正在招聘，是国防科技领域值得关注的初创公司。",
+          "rank": 6
+        },
+        {
+          "id": "hardware-omi",
+          "name": "Omi",
+          "url": "https://www.omi.me/",
+          "sourceUrl": "https://www.omi.me/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Smart Hardware"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Wearable AI device for memory, voice notes, and assistant workflows.",
+          "originalDescription": "Omi works on a wearable AI device that records context, turns spoken information into memory, and connects that memory to assistant-style software.",
+          "story": "Omi 是一款可穿戴的人工智能设备，不是手机上的又一个应用，而是戴在身上随时记录上下文、把语音信息变成记忆，并连接智能助手工作流程的硬件。想象你是一个经常开会的咨询顾问，每天有大量对话信息需要整理，手机录音太麻烦，事后整理笔记更是耗时。Omi 通过传感器和随身佩戴的场景，自动捕捉重要内容并转化为结构化记忆，再与你的智能助手联动，让你不再错过任何细节。这款设备来自智能硬件观察名单，虽然公开信息不多，但可穿戴人工智能硬件是当前的热门方向，值得关注。",
+          "rank": 7
+        },
+        {
+          "id": "ph-diffsmith",
+          "name": "Diffsmith",
+          "url": "https://www.producthunt.com/products/diffsmith-code-review-studio",
+          "sourceUrl": "https://www.producthunt.com/products/diffsmith-code-review-studio",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Comment on your AI agent's code & collaborate on changes",
+          "originalDescription": "Comment on your AI agent's code & collaborate on changes",
+          "story": "Diffsmith 是一个开发者工具，让你可以直接在人工智能智能体生成的代码上评论并协作修改。假如你是一个软件工程师，正在使用智能体自动生成代码，但修改时通常要复制粘贴到其他工具，非常麻烦。Diffsmith 让你像在文档上批注一样，直接在代码变动上提意见，智能体根据评论调整，实现真正的协作。这个产品来自 Product Hunt，虽然团队和融资信息未公开，但解决了人工智能辅助编程中一个很实际的痛点。",
+          "rank": 8
+        },
+        {
+          "id": "ph-openchatcut",
+          "name": "OpenChatCut",
+          "url": "https://www.producthunt.com/products/openchatcut",
+          "sourceUrl": "https://www.producthunt.com/products/openchatcut",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Open-source AI agent video editor with a real timeline",
+          "originalDescription": "Open-source AI agent video editor with a real timeline",
+          "story": "OpenChatCut 是一个开源的人工智能智能体视频编辑器，拥有真实的时间线。假如你是一个视频创作者，用人工智能工具剪辑时，常常发现它们只能做简单的拼接，无法像专业软件那样精细调整。OpenChatCut 结合了智能体的自动剪辑能力和传统时间线的精确控制，让你既能用自然语言指挥剪辑，又能手动微调每一帧。这个产品来自 Product Hunt，开源意味着社区可以持续改进，对视频创作者来说是一个值得尝试的工具。",
+          "rank": 9
+        },
+        {
+          "id": "ph-rerun",
+          "name": "Rerun",
+          "url": "https://www.producthunt.com/products/rerun-2",
+          "sourceUrl": "https://www.producthunt.com/products/rerun-2",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "The easiest way to build AI agents for all your tasks",
+          "originalDescription": "The easiest way to build AI agents for all your tasks",
+          "story": "Rerun 号称是构建人工智能智能体的最简单方式，可以处理你所有的任务。想象你是一个运营主管，每天花大量时间处理重复性工作，比如数据录入、报告生成和邮件回复。Rerun 让你通过自然语言描述任务，就能自动创建智能体来执行，无需编写代码。这个产品来自 Product Hunt，虽然细节有限，但低门槛构建智能体的理念符合当前人工智能应用民主化的趋势。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "classic-reforge-retention",
+          "title": "Retention + Engagement",
+          "url": "https://www.reforge.com/blog/retention-engagement",
+          "source": "Reforge",
+          "topic": "留存和参与度",
+          "story": "做产品的人几乎都会遇到这个困惑：用户来了，但很快就走了。你试过发推送、改界面、加功能，留存数字却纹丝不动。问题往往不在某个具体动作，而在于你根本不知道用户为什么留下或离开。Reforge 这篇文章的好处是，它不给你一堆速效技巧，而是带你重新理解“留存”这件事本身。读的时候可以留意作者如何区分不同阶段的留存，以及他怎样把模糊的“用户参与度”变成可讨论、可诊断的东西。",
+          "published": ""
+        },
+        {
+          "id": "classic-pg-fr",
+          "title": "Founder Mode",
+          "url": "https://paulgraham.com/foundermode.html",
+          "source": "Paul Graham",
+          "topic": "创始人和管理",
+          "story": "很多创始人刚开始带团队时，会不自觉套用大公司的管理方式：定流程、分层级、让高管接手。但公司小、产品还不成熟时，这套做法常常让创始人离用户和一线越来越远。Paul Graham 在这篇文章里把这种困境讲得很透。读的时候可以留意：他如何区分“创始人该亲自管的事”和“该放手的事”，以及为什么有些看起来正确的方法反而会卡住公司的发展节奏。",
+          "published": ""
+        },
+        {
+          "id": "classic-yc-build-users-want",
+          "title": "Build Something People Want",
+          "url": "https://www.ycombinator.com/library/4i-build-something-people-want",
+          "source": "Y Combinator",
+          "topic": "产品需求",
+          "story": "每个做产品的人都知道要“做用户想要的东西”，但真正动手时，最难的往往不是技术，而是判断什么才是用户真正想要的。团队容易陷入自己想出来的功能，或者被少数用户带偏。Y Combinator 这篇经典文章把“找到需求”这件事拆成了可操作的步骤。读的时候可以跟着它的逻辑走一遍：看它怎么定义“想要”，怎么验证假设，以及怎样在早期避免浪费资源做没人用的东西。",
+          "published": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-20",
       "companies": [
@@ -3080,243 +3320,6 @@
           "source": "Silicon Valley Product Group",
           "topic": "产品团队和功能团队",
           "story": "这篇更像常青阅读，不是追新闻。主题和产品团队和功能团队有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-06-13",
-      "companies": [
-        {
-          "id": "yc-32227",
-          "name": "Context.dev",
-          "url": "https://context.dev",
-          "sourceUrl": "https://www.ycombinator.com/companies/contextdev",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "APIs"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 1,
-          "originalOneLiner": "We give AI agents realtime web context.",
-          "originalDescription": "Context.dev provides AI agents and software products with realtime web context at scale through a single API layer. We help developers build smarter agents & products that depend on accurate, fresh web data. If you need structured data from the internet, you need Context.dev Proud to power agentic products at Mintlify, Super, Vizzy, Klarna, and 250 other companies.",
-          "story": "工程团队不缺新工具，缺的是能减少等待和返工的工具。Context.dev 如果能让一个复杂环节更可靠，就有机会嵌进日常开发流程。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 夏季 2026 批次和官网信息相对完整只是第一层信号。",
-          "rank": 1
-        },
-        {
-          "id": "yc-31345",
-          "name": "Replicas",
-          "url": "https://tryreplicas.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/replicas",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Run any coding agent harness in the cloud",
-          "originalDescription": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets. Replicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
-          "story": "如果你在工程团队里同时积着很多小任务，最烦的是每个任务都要有人开环境、跑代码、等测试、修持续集成。Replicas 想把 Claude Code 或 Codex 这类代码智能体放到云端沙盒里，从 Slack、Linear、GitHub 直接派活，让多个任务并行跑起来。它还会把失败的测试和代码评审反馈再喂回任务里。它值得看，是因为代码智能体真要进入团队工作流，运行环境、反馈循环和预览链接会比单次生成代码更重要。",
-          "rank": 2
-        },
-        {
-          "id": "yc-30254",
-          "name": "hud",
-          "url": "https://www.hud.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/hud",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Reinforcement Learning"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "Platform for building RL environments and evals",
-          "originalDescription": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs. People don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks. We're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
-          "story": "开发者工具的价值常常藏在少踩坑里。团队要交付业务功能，但会被集成、权限、调试和部署拖住。hud 想把其中一段基础工作做薄。 把它放进今天的列表，主要是因为它出现在YC 冬季 2025 批次，而且还在招聘。",
-          "rank": 3
-        },
-        {
-          "id": "yc-31296",
-          "name": "Unifold",
-          "url": "https://unifold.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/unifold",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Multi-chain deposit and payment infrastructure",
-          "originalDescription": "Launch crypto deposits in minutes. Unifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works. If you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.",
-          "story": "假如你在金融机构工作，每天要判断一笔申请、一次交易或一份材料到底靠不靠谱，麻烦常常在于信息又多又散，还必须留下清楚记录。Unifold 想帮你先整理材料、找出异常。 YC 冬季 2026 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 4
-        },
-        {
-          "id": "yc-31205",
-          "name": "Human Archive",
-          "url": "https://www.humanarchive.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/human-archive",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Multimodal data provider for robotics and world modeling",
-          "originalDescription": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments. We have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then post-process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. We believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset.",
-          "story": "制造业和机器人项目经常卡在落地阶段，现场变化、设备约束和维护成本都会放大问题。Human Archive 试图把其中一块流程做成更稳定的工具。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 冬季 2026 批次和还在招聘只是第一层信号。",
-          "rank": 5
-        },
-        {
-          "id": "yc-30266",
-          "name": "Cenote",
-          "url": "https://www.joincenote.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/cenote",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Robotic Process Automation",
-            "Health Tech",
-            "B2B",
-            "Healthcare"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "AI agents that convert and retain patients for digital clinics",
-          "originalDescription": "Cenote builds AI sales reps for online health clinics and deploys them for abandoned-cart and win-back campaigns. Today, digital and telehealth clinics rely on generic text blasts or human follow-up for speed-to-lead and customer reactivation. Since the lead has often gone cold and the outreach isn’t personalized, conversion is frequently below 1%. Cenote’s AI agents reach out immediately, communicate on the patient’s preferred schedule, and operate across channels—dramatically increasing conversion rates and unlocking revenue that otherwise goes unrealized.",
-          "story": "假如你在诊所或医院负责一天的运营，最烦的往往不是一个大问题，而是病人信息、保险确认、医生安排和后续跟进散在很多地方。Cenote 想帮你把这些琐碎但不能出错的环节串起来。 YC 冬季 2025 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 6
-        },
-        {
-          "id": "yc-31113",
-          "name": "CellType",
-          "url": "https://www.celltype.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/celltype",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "The agentic drug company. We simulate human biology.",
-          "originalDescription": "CellType is building an agentic drug company. AI agents that run the full drug discovery pipeline on top of biological foundation models that simulate human biology. Our core technology, developed with Google DeepMind, has already discovered and validated a new cancer treatment signal. We’re working with Top 10 pharma.",
-          "story": "想象你在药物研发团队里，真正昂贵的不是提出一个假设，而是一路做实验、筛选靶点、验证信号，最后才知道方向对不对。CellType 想把智能体放到药物发现流程里，基于模拟人体生物学的基础模型去寻找和验证治疗信号。它不是普通诊所软件，而是更接近“用智能体跑药物研发流程”的公司。它值得看，是因为公开资料里提到与 Google DeepMind 相关的核心技术，并且已经发现和验证了一个癌症治疗信号。",
-          "rank": 7
-        },
-        {
-          "id": "yc-31441",
-          "name": "Infera",
-          "url": "https://www.infera.bio",
-          "sourceUrl": "https://www.ycombinator.com/companies/infera",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "SaaS",
-            "B2B",
-            "Biotech",
-            "Automation",
-            "AI"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Control lab instruments with natural language.",
-          "originalDescription": "Describe an experiment in plain English, and Infera turns it into a validated, instrument-ready run across the equipment your lab already uses. Infera handles the protocol logic, vendor-specific scripts, data, inventory, and institutional knowledge in one system. An AI-native compiler for the lab: one system from intent to execution.",
-          "story": "医疗团队每天都在和信息断点打交道，病人、保险、排班、账单和随访常常不在同一个地方。Infera 想把其中一段流程变得更顺。 把它放进今天的列表，主要是因为它出现在YC 春季 2026 批次，而且官网信息相对完整。",
-          "rank": 8
-        },
-        {
-          "id": "yc-29796",
-          "name": "Finosu",
-          "url": "https://www.finosu.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/finosu",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Fintech",
-            "B2B",
-            "Lending",
-            "Consumer Finance"
-          ],
-          "batch": "Summer 2024",
-          "isHiring": true,
-          "teamSize": 7,
-          "originalOneLiner": "AI Native Consumer Loan Servicer",
-          "originalDescription": "Hi - Mark and Gab here! We met while working at Alt, a marketplace for collectibles, where we built a $200 million specialty finance business line. At Alt, we faced the complex challenges that come with servicing consumer loans. We spent countless hours and resources developing internal tools to manage loan payments, communicate with borrowers, and keep track of loan performance—all while ensuring a positive experience for our customers. However, after dealing with the headaches of manual data entry, fragmented systems, delayed payments, lack of personalized borrower engagement, and the stress of maintaining accurate records, we knew there had to be a better way to service consumer loans. So, we started Finosu to build the servicer we wish we had—an AI-powered consumer loan servicer designed to streamline and enhance every aspect of the loan servicing process. Our mission is to transform loan servicing into a seamless, efficient, and customer-centric experience. The operational cost of servicing loans reaches into the tens of billions a year and that is money out of the pocket of lenders, borrowers, investors, and ultimately the consumers as a cost of doing business – we are changing that.",
-          "story": "金融和保险里的很多工作并不是缺人判断，而是材料太散、规则太多、过程还必须可追溯。Finosu 想把这类判断前的准备工作自动化。 它现在还不能只凭介绍就下结论，但YC 夏季 2024 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 9
-        },
-        {
-          "id": "yc-29467",
-          "name": "Powder",
-          "url": "https://www.powderfi.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/powder",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2024",
-          "isHiring": true,
-          "teamSize": 6,
-          "originalOneLiner": "AI Agents for precise document analysis",
-          "originalDescription": "Powder is an AI tool that helps wealth advisors rapidly create sales proposals that are personalized for each prospective client. Using LLMs, Powder is able to automate a series of manual tasks such as understanding documents and conversations to create mind-blowing analysis that builds immediate trust. Powder has 3 main features to automate sales workflows - 1. Brokerage, tax and estate document parser thats fast and accurate. 2. Meeting notetaker thats able to capture personalized insights. 3. Portfolio analysis tool that optimizes portfolio returns, risk and fees. Our app saves hours of time and creates a pinpoint proposal that lifts a firm's ability to win new business.",
-          "story": "如果一笔交易或一份保单要靠人来回核对文件，速度慢只是表面问题，真正麻烦的是漏看和无法解释。Powder 想让这段流程更清楚。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 冬季 2024 批次和还在招聘只是第一层信号。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "classic-intercom-no",
-          "title": "Product strategy means saying no",
-          "url": "https://www.intercom.com/blog/product-strategy-means-saying-no/",
-          "source": "Intercom",
-          "topic": "产品策略和取舍",
-          "story": "产品策略里最难的一件事是拒绝，这篇讲得很直接。一个产品团队每天都会听到很多需求，每个需求单独看都可能合理，但都做进去以后，产品就会变得松散。Intercom 这篇文章的价值在于，它把策略讲得很朴素。策略不是把所有机会都排进路线图，而是决定哪些事情不做。",
-          "published": ""
-        },
-        {
-          "id": "classic-stripe-increment",
-          "title": "Introducing Increment",
-          "url": "https://stripe.com/blog/increment",
-          "source": "Stripe",
-          "topic": "工程组织和产品质量",
-          "story": "Stripe 怎么看待工程质量和产品速度，这篇是一个很好的入口。它不是在讲某个具体功能，而是在表达一种产品和工程文化。Stripe 认为很多看似很小的工程实践，比如测试、部署、代码审查和开发工具，其实会长期影响公司做产品的速度和质量。读它时可以重点想一个问题，优秀公司为什么会认真研究这些不显眼的基础工作。",
-          "published": ""
-        },
-        {
-          "id": "classic-pg-mistakes",
-          "title": "The 18 Mistakes That Kill Startups",
-          "url": "https://www.paulgraham.com/startupmistakes.html",
-          "source": "Paul Graham",
-          "topic": "创业常见错误",
-          "story": "这篇更像常青阅读，不是追新闻。主题和创业常见错误有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
           "published": ""
         }
       ]
