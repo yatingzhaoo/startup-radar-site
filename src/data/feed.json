@@ -1,7 +1,259 @@
 {
-  "generatedAt": "2026-07-21T09:38:01.177Z",
+  "generatedAt": "2026-07-22T09:37:58.740Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-07-22",
+      "companies": [
+        {
+          "id": 32259,
+          "name": "screenpipe",
+          "url": "https://screenpipe.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/screenpipe",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "SaaS",
+            "B2B",
+            "Enterprise",
+            "Enterprise Software",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 6,
+          "originalOneLiner": "Record how you work and turn that into agents",
+          "originalDescription": "screenpipe record and learns how you work and turns it into a searchable memory, SOPs, and AI agents. Data is stored on your device or where your team choose, open source.",
+          "story": "screenpipe 做的是工作记录与智能体自动化。想象你是一个每天在多个软件间切换的咨询顾问，会议、邮件、代码、文档散落各处，很难回忆起两周前某个决策的依据。screenpipe 记录你的工作过程，把屏幕、音频、操作都变成可搜索的记忆，还能自动生成标准操作流程和智能体。数据存在本地或团队指定的位置，完全开源，让你不用再担心信息丢失或重复劳动。这家公司来自 YC 夏季 2026 批次，团队 6 人，正在招聘。",
+          "rank": 1
+        },
+        {
+          "id": 32227,
+          "name": "Context.dev",
+          "url": "https://context.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/contextdev",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "APIs"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 1,
+          "originalOneLiner": "We give AI agents realtime web context.",
+          "originalDescription": "Context.dev gives AI agents structured data from any website through a single API. We help developers build smarter agents & products that depend on accurate, fresh web data. If you need structured data from the internet, you need Context.dev Proud to power agentic products at Mintlify, Super, Vizzy, Klarna, and 280 other companies.",
+          "story": "Context.dev 为人工智能智能体提供实时的网页结构化数据。假如你是一个开发智能购物助手的工程师，你的智能体需要从电商网站抓取最新价格和库存，但传统爬虫经常被反爬或返回杂乱内容。Context.dev 通过一个接口就能让智能体拿到干净、实时的网页数据。它已经服务了 Mintlify、Super、Vizzy、Klarna 等 280 多家公司，来自 YC 夏季 2026 批次，目前单人创业但产品已被广泛采用。",
+          "rank": 2
+        },
+        {
+          "id": 29963,
+          "name": "Capitol AI",
+          "url": "https://www.capitol.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/capitol-ai",
+          "location": "Washington, DC, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AI-Enhanced Learning",
+            "Workflow Automation",
+            "Analytics",
+            "Media",
+            "AI"
+          ],
+          "batch": "Summer 2024",
+          "isHiring": true,
+          "teamSize": 11,
+          "originalOneLiner": "Capitol: the sovereign operating system for intelligence.",
+          "originalDescription": "Capitol AI is building a sovereign operating system for intelligence, designed for regulated, high-stakes institutions such as professional services firms, financial services, and government agencies. These organizations are overwhelmed by data and experimenting with generic AI tools that lack auditability, repeatability, and secure deployment. As a result, critical decisions are increasingly shaped by systems they do not fully control. Capitol runs entirely inside enterprise infrastructure and transforms proprietary data into structured, decision-grade artifacts such as due diligence reports, regulatory documentation, and executive intelligence. The platform is model-agnostic, fully auditable, and operates with no data egress, giving institutions durable control over their data, workflows, and standards.",
+          "story": "Capitol AI 为受监管的高风险机构打造智能操作系统。如果你是一家金融服务公司的风控分析师，每天要处理海量内部数据和监管文件，用通用人工智能工具又担心数据泄露和不可追溯。Capitol 完全运行在企业内部基础设施上，把专有数据转化为尽职调查报告、监管文档等结构化的决策级产物，而且模型无关、全流程可审计、数据不出域。这家公司来自 YC 夏季 2024 批次，团队 11 人，正在招聘。",
+          "rank": 3
+        },
+        {
+          "id": 32782,
+          "name": "Denta",
+          "url": "https://trydenta.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/denta",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Dental",
+            "Healthcare IT",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 1,
+          "originalOneLiner": "The dental practice that runs itself",
+          "originalDescription": "Denta is the practice management platform that puts dental practices on autopilot. When a dentist starts a new practice, instead of finding an accounting firm, hiring two front desk workers, and then spending their nights posting insurance payments, they use Denta. I started Denta to help operate my Dad's 10 practices in Iowa. In supporting those, I realized the most painful part was both people and agents having messy access to fragmented data. So I solved for that and now spend my time automating work for dentists!",
+          "story": "Denta 是让牙科诊所自动运营的管理平台。想象你是一位刚开业的牙医，原本需要找会计公司、雇两个前台、每晚手动处理保险支付。Denta 把这一切自动化：从患者预约、保险理赔到账务管理，全部在平台上自动完成。创始人为了帮父亲运营在爱荷华的 10 家诊所而开发了这个系统，发现最痛的是人员和智能体对碎片化数据的混乱访问。来自 YC 夏季 2026 批次，单人创业但产品已在实际场景中验证。",
+          "rank": 4
+        },
+        {
+          "id": 30533,
+          "name": "Pelica",
+          "url": "https://www.pelica.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/pelica",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "Healthcare",
+            "Healthcare IT",
+            "AI"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Transforming healthcare operations with AI agents",
+          "originalDescription": "Pelica is the AI-native operating system for value-based care organizations. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality/Stars, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
+          "story": "Pelica 是为价值导向型医疗组织打造的人工智能原生操作系统。假如你是一家医疗集团的护理质量负责人，每天要处理来自理赔、电子病历、药房、实验室等系统的碎片数据，还要手动联系患者做预防保健。Pelica 把所有这些数据统一成一个实时记录，并给每个团队配备一个人工智能副驾驶：它不仅能分析数据，还能自动通过多渠道联系患者、为现场代表准备拜访资料。团队因此可以把时间花在医患关系上，而不是行政杂务。来自 YC 春季 2025 批次，团队 5 人，正在招聘。",
+          "rank": 5
+        },
+        {
+          "id": 31385,
+          "name": "Zolvo",
+          "url": "https://zolvo.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/zolvo",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "AI Back-Office Automation for Commercial Lenders",
+          "originalDescription": "Commercial lenders manage billions in assets on legacy software and manual workflows, their systems live on people’s heads like its the 90s. Zolvo replaces the entire back office with AI: automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring. Our clients go live in weeks and eliminate hours of daily manual work per operator, allowing teams to only handle exceptions. We're building the future of commercial lending.",
+          "story": "Zolvo 用人工智能自动化商业贷款的后台操作。如果你是一家商业银行的贷款运营主管，你的团队每天还在用上世纪的方式手动处理发票对账、催收和资金监控。Zolvo 用人工智能接管这些工作：自动数据录入、发票核对、催收外呼、借款人监控，几周内就能上线，每个操作员每天省下数小时，只需处理异常情况。这家公司来自 YC 春季 2026 批次，团队 3 人，正在重新定义商业贷款的后台流程。",
+          "rank": 6
+        },
+        {
+          "id": "hardware-oura",
+          "name": "Oura",
+          "url": "https://ouraring.com/",
+          "sourceUrl": "https://ouraring.com/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "Smart Hardware",
+            "Design",
+            "Health"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Smart ring for sleep, readiness, and health tracking.",
+          "originalDescription": "Oura builds a smart ring that collects sleep and body signals, then helps users understand recovery, readiness, and longer-term health patterns.",
+          "story": "Oura 是一款智能戒指，不是手机应用，而是一个戴在手指上的传感器，全天候采集睡眠、心率、体温等身体信号。假如你是一个注重健康的运动用户，早上醒来想知道自己的恢复状态和今天适合多大强度的训练。Oura 把传感器放在贴近脉搏的指尖位置，比手环更不显眼，却能连续监测并给出 readiness 评分、睡眠分析和长期健康趋势。它不依赖手机屏幕，而是把能力嵌入到你日常佩戴的戒指里，让你随时了解自己的身体。",
+          "rank": 7
+        },
+        {
+          "id": "ph-redential",
+          "name": "Redential",
+          "url": "https://www.producthunt.com/products/redential",
+          "sourceUrl": "https://www.producthunt.com/products/redential",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "Design",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "A developer credential that proves what you built",
+          "originalDescription": "A developer credential that proves what you built",
+          "story": "Redential 是一种证明开发者实际构建过什么的数字凭证。假如你是一个招聘技术团队的负责人，每天收到大量简历，但很难验证候选人是否真的主导过某个项目。Redential 让开发者用代码签名的方式，将他们的 GitHub 提交、产品发布等成果绑定到一个可验证的凭证上，雇主可以直接查验。它来自 Product Hunt，为技术招聘提供了一种更可信的评估方式。",
+          "rank": 8
+        },
+        {
+          "id": "ph-ai-agents-in-chat",
+          "name": "AI Agents in Chat",
+          "url": "https://www.producthunt.com/products/cometchat",
+          "sourceUrl": "https://www.producthunt.com/products/cometchat",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Your Chat UI Just Got an AI Roommate",
+          "originalDescription": "Your Chat UI Just Got an AI Roommate",
+          "story": "AI Agents in Chat 给你的聊天界面增加了一个人工智能室友。想象你是一个每天在 Slack 或微信上处理大量消息的销售主管，经常需要快速查找客户历史、安排会议或生成跟进邮件。这个工具在你的聊天窗口里放了一个智能体，它能理解上下文、主动提供帮助，就像房间里多了一个随时待命的助手。它来自 Product Hunt，让聊天界面从被动沟通变成主动协作。",
+          "rank": 9
+        },
+        {
+          "id": "ph-remote-openclaw",
+          "name": "Remote OpenClaw",
+          "url": "https://www.producthunt.com/products/remote-openclaw-2",
+          "sourceUrl": "https://www.producthunt.com/products/remote-openclaw-2",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "13,000+ MCP servers, skills & plugins for AI coding agents",
+          "originalDescription": "13,000+ MCP servers, skills & plugins for AI coding agents",
+          "story": "Remote OpenClaw 是一个汇集了 13000 多个 MCP 服务器、技能和插件的平台，专为人工智能编程智能体设计。假如你是一个用 Claude Code 或 Codex 写代码的工程负责人，你的智能体需要访问数据库、调用接口或读取文件，但每次都要手动配置。Remote OpenClaw 提供现成的工具集，智能体可以直接调用，大大扩展了它们的能力边界。它来自 Product Hunt，是人工智能编程生态中一个快速增长的工具市场。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "classic-intercom-no",
+          "title": "Product strategy means saying no",
+          "url": "https://www.intercom.com/blog/product-strategy-means-saying-no/",
+          "source": "Intercom",
+          "topic": "产品策略和取舍",
+          "story": "每个产品团队都遇到过这种情况：需求源源不断，每个看起来都有道理，但产品却越来越臃肿。真正好的策略不是决定做什么，而是决定不做什么。这篇文章来自 Intercom，它把“拒绝”这件事讲得很接地气，没有复杂的理论，而是直接告诉你为什么说“不”才是策略的核心。读的时候可以留意作者是怎么判断哪些需求该拒绝的，这种取舍背后的思考方式比结论更有价值。",
+          "published": ""
+        },
+        {
+          "id": "classic-stripe-increment",
+          "title": "Introducing Increment",
+          "url": "https://stripe.com/blog/increment",
+          "source": "Stripe",
+          "topic": "工程组织和产品质量",
+          "story": "一个团队做产品久了，总会遇到这样的困惑：为什么有些看起来很小的工程习惯，比如写测试、做代码审查、优化部署流程，会在几个月甚至几年后变成决定产品速度的关键？很多人觉得这些是“基础工作”，不值得花太多精力，但真正优秀的公司却会认真研究它们。Stripe 的这篇博客就是从一个工程团队的角度，解释为什么这些不显眼的基础实践会长期影响产品质量和交付速度。读的时候可以留意作者如何把看似琐碎的工程细节，串联成一种可持续的产品文化，以及他们如何判断哪些实践值得长期投入。",
+          "published": ""
+        },
+        {
+          "id": "classic-pg-default-alive",
+          "title": "Default Alive or Default Dead?",
+          "url": "https://www.paulgraham.com/aord.html",
+          "source": "Paul Graham",
+          "topic": "公司生存和现金流",
+          "story": "创业公司常把“活下去”挂在嘴边，但多数人第一反应是看账上还剩多少钱。其实更关键的问题不是“还能撑多久”，而是“如果不融资，公司靠自身运营能不能活下去”。很多团队在早期只顾增长，忽略了单位经济模型，等到钱快烧完才发现产品本身根本养不活自己。Paul Graham 这篇经典文章就是帮创业者建立这个判断框架。读的时候可以重点关注：作者如何用“默认生存”和“默认死亡”两个状态，把复杂的财务问题简化成一个可操作的思维工具；以及他为什么强调“知道自己是默认死亡”反而是好事。",
+          "published": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-21",
       "companies": [
@@ -3078,248 +3330,6 @@
           "source": "First Round Review",
           "topic": "市场平台和供需冷启动",
           "story": "这篇更像常青阅读，不是追新闻。主题和市场平台和供需冷启动有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-06-14",
-      "companies": [
-        {
-          "id": "yc-31375",
-          "name": "Hub",
-          "url": "https://hub.xyz",
-          "sourceUrl": "https://www.ycombinator.com/companies/hub",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Robotics",
-            "Crowdsourcing",
-            "Big Data",
-            "Infrastructure",
-            "AI"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 10,
-          "originalOneLiner": "Real-world training data for frontier AI labs and robotics.",
-          "originalDescription": "Hub is a distributed real-world data infrastructure company that captures the lived richness of human experience, including voice, nuance, and perspective to train the next generation of AI models. Through HubApp, our global network spanning 150+ countries sources high-fidelity, original data that cannot be found on the public web or generated synthetically. We provide a completely automated pipeline coupled with human-in-the-loop validation to deliver production-ready multimodal data to frontier AI labs and Fortune 500 companies.",
-          "story": "前沿 AI 和机器人公司越来越缺真实世界数据，而这类数据很难只靠公开网页补齐。公开网页上的数据不够训练模型理解真实的人怎么说话、怎么做事、怎么表达细微情绪。Hub 通过覆盖很多国家的人群网络收集语音、场景和多模态数据，再经过人工验证后交给 AI 实验室或大公司。",
-          "rank": 1
-        },
-        {
-          "id": "yc-31378",
-          "name": "GodHands",
-          "url": "https://godhands.dev",
-          "sourceUrl": "https://www.ycombinator.com/companies/godhands",
-          "location": "San Francisco, CA, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Robotic Process Automation",
-            "Workflow Automation",
-            "AI"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Deterministic Computer Use Infra for AI Agents",
-          "originalDescription": "GodHands is a deterministic computer use layer that enables AI agents to reliably operate across browser and desktop apps. We make real-world workflows even on legacy or non-API systems more deterministic and predictable, without completely relying on fragile vision-based approaches. By leveraging our infrastructure, your agent can seamlessly operate across new or internal enterprise applications without requiring custom integrations or per-app handling.",
-          "story": "工业现场的难点通常不在概念，而在机器能不能稳定适应真实环境。GodHands 想把原本靠人反复试错的一段做得更可复制。 把它放进今天的列表，主要是因为它出现在YC 秋季 2026 批次，而且官网信息相对完整。",
-          "rank": 2
-        },
-        {
-          "id": "yc-30288",
-          "name": "Harper",
-          "url": "https://www.harperinsure.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/harper",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Fintech",
-            "Insurance",
-            "AI"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 25,
-          "originalOneLiner": "AI-native commercial insurance brokerage",
-          "originalDescription": "At Harper, we are building a fully autonomous commercial insurance brokerage powered by AI. Our initial focus is on mid-sized businesses with complex insurance needs, but our vision is to eventually serve every business in the country. By leveraging AI to automate key workflows in the insurance process, we efficiently secure optimal coverage for each client's unique requirements at competitive prices and with rapid turnaround. Our AI system learns from the expertise of our brokers, accumulating not just knowledge but also the specific workflows, data, and capabilities that pave the way to full autonomy.",
-          "story": "假如你在金融机构工作，每天要判断一笔申请、一次交易或一份材料到底靠不靠谱，麻烦常常在于信息又多又散，还必须留下清楚记录。Harper 想帮你先整理材料、找出异常。 YC 冬季 2025 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 3
-        },
-        {
-          "id": "yc-30946",
-          "name": "Sourcebot",
-          "url": "https://www.sourcebot.dev/",
-          "sourceUrl": "https://www.ycombinator.com/companies/sourcebot",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Open Source"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Helping humans and AI agents understand massive codebases",
-          "originalDescription": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks. Understanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase. Sourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval. We met a decade ago at McGill University and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
-          "story": "开发者工具的价值常常藏在少踩坑里。团队要交付业务功能，但会被集成、权限、调试和部署拖住。Sourcebot 想把其中一段基础工作做薄。 它现在还不能只凭介绍就下结论，但YC 秋季 2025 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 4
-        },
-        {
-          "id": "yc-30884",
-          "name": "Flick",
-          "url": "https://flick.art",
-          "sourceUrl": "https://www.ycombinator.com/companies/flick",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Figma + Cursor, for AI Filmmaking",
-          "originalDescription": "Flick is an AI filmmaking software that lets people create Hollywood-level short films completely using AI end-to-end. There are many AI tools that can give you 8-second casual clips to post on social media, but when it comes to creating truly high-quality films with coherent storylines, consistent characters, and cinematic aesthetics, they don’t come close due to their lack of flexibility, creative control, and fragmented creative flow. Founded by an award-winning filmmaker and a founding engineer at Instagram, Flick defines an interface specifically designed for native AI filmmaking that feels natural and enables end-to-end creative flows. Think of Flick as Figma for AI filmmaking. There are 4 complete AI short films created using Flick that got 20+ awards in international film festivals already and our early creator residency community are generating several AI short films every week. We are also building a community where we produce our own AI films as well as collaborating with other well-known filmmakers to share their “behind-the-scenes” workflows as resuable templates to inspire users in our community. We not only build product, we also build world-class content. The whole film industry will be revolutionized by AI and our goal is to be “the product” that defines this category.",
-          "story": "这是做人工智能电影制作软件的公司。想象你是一位独立电影导演，想用人工智能工具制作一部有连贯剧情、角色一致且画面精致的短片，但现有工具只能生成几秒钟的社交短视频，缺乏创意控制，创作流程也很零碎。Flick 定义了一套专为人工智能电影制作设计的界面，让你能像使用 Figma 做设计一样，端到端地完成电影创作。它由一位获奖电影人和 Instagram 创始工程师共同创立，已经有四部用 Flick 制作的短片在国际电影节上获得二十多个奖项，早期创作者社区每周都能产出多部短片，值得关注。",
-          "rank": 5
-        },
-        {
-          "id": "yc-30415",
-          "name": "Avallon AI",
-          "url": "https://www.avallon.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/avallon-ai",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2025",
-          "isHiring": true,
-          "teamSize": 7,
-          "originalOneLiner": "AI agents for insurance claims operations",
-          "originalDescription": "Avallon automates insurance claims operations with AI agents that handle routine calls and documents processing.",
-          "story": "金融和保险里的很多工作并不是缺人判断，而是材料太散、规则太多、过程还必须可追溯。Avallon AI 想把这类判断前的准备工作自动化。 它现在还不能只凭介绍就下结论，但YC 春季 2025 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 6
-        },
-        {
-          "id": "yc-30205",
-          "name": "Scout",
-          "url": "https://scoutforschools.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/scout-4",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Education",
-            "Workflow Automation"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 8,
-          "originalOneLiner": "AI-powered student information system for K-12 schools",
-          "originalDescription": "The student information system (SIS) is the core system of record in every K-12 school. It tracks students, attendance, grades, schedules, staff, and more - kind of like the ERP for schools. Legacy SIS providers do just about that, and not much more. School districts layer dozens of tools on top of their SIS to fill in the gaps. Scout is an AI-powered student information system that automates school- and district-wide busywork, from day-to-day operations like attendance tracking to annual compliance reports. Our mission is to help school districts run like high-performing organizations, enabling them to provide high-quality, personalized instruction to every student.",
-          "story": "假如你负责做一个重要决定，问题通常不是完全没有数据，而是数据散在报表、文档和系统里，没人能很快讲清楚发生了什么。Scout 想帮公司处理人力、工资、合规这类麻烦但必须准确完成的后台工作。 把它放进今天的列表，主要是因为它出现在YC 冬季 2025 批次，而且还在招聘。",
-          "rank": 7
-        },
-        {
-          "id": "yc-31489",
-          "name": "Eden Robotics",
-          "url": "https://www.edenrobotics.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/eden-robotics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Autonomous services for humanity.",
-          "originalDescription": "We're building robots that just work and use them to deliver autonomous services at scale. Our first use case is semi-humanoid robots for manufacturing and logistics. Unlike traditional robotics companies, we don't sell robots, we provide physical agents for hire where companies pay for the robots based on usage, decreasing the barrier to entry and expanding the robotics market as a whole.",
-          "story": "机器人创业正在从“卖机器”转向“卖可用劳动力”。Eden Robotics 的看点不只是机器人本身，也包括按使用付费的商业模式。很多企业想试机器人，但买设备、维护和调试的成本很高。它让客户不用一次性买机器，可以像使用外包服务一样按量付费。这个模式会降低尝试门槛，但关键仍然是现场表现。",
-          "rank": 8
-        },
-        {
-          "id": "yc-29735",
-          "name": "FINNY AI",
-          "url": "https://www.finny.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/finny-ai",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Fintech",
-            "Machine Learning",
-            "Finance",
-            "Sales Enablement",
-            "Automation"
-          ],
-          "batch": "Summer 2024",
-          "isHiring": true,
-          "teamSize": 28,
-          "originalOneLiner": "The organic growth engine for financial advisors",
-          "originalDescription": "FINNY is the AI-native organic growth engine for financial advisors, focused on helping them grow their practices Our goal is to empower financial advisors to reach the right potential clients at the right time, with the right message. We are building a world where anyone who wants financial advice can connect with the right advisor, while helping advisors ensure organic growth, the most existential problem advisors face. The organic growth process has historically been highly inefficient and full of noise. Advisors often waste 60+ hours of business development to convert 1 new client. At FINNY, we are certain we can do better with AI. With our tool, advisors can: - Identify prospects within their target niche, aggregating thousands of data points per lead - Prioritize prospects based on their predicted likelihood of converting using F-Score, a score unique to each advisor and prospect pair - Automate the outreach and meeting scheduling with their high priority prospects In essence, FINNY does all the rote work for the advisors, letting them focus on what actually matters: the client relationship.",
-          "story": "假如你在金融机构工作，每天要判断一笔申请、一次交易或一份材料到底靠不靠谱，麻烦常常在于信息又多又散，还必须留下清楚记录。FINNY AI 想帮你先整理材料、找出异常。 YC 夏季 2024 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 9
-        },
-        {
-          "id": "yc-30880",
-          "name": "Nessie",
-          "url": "https://nessielabs.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/nessie",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "A shared context layer for you, your team, and your agents.",
-          "originalDescription": "Knowledge work is being restructured by AI. Strategy happens in Claude. Research happens in ChatGPT. Building happens in Claude Code. The people defining the next decade of work are already thinking with AI every day. But none of that thinking compounds. Every session starts from zero. The reasoning behind decisions, the context behind strategies, the evolution of ideas across hundreds of conversations - all of it evaporates. Nessie is the infrastructure that makes it permanent. We auto-sync AI conversations across every major provider - ChatGPT, Claude, Gemini, Perplexity, Claude Code, OpenClaw, Codex, and more - and structure them into queryable, trustworthy context available to both humans and agents. No browser extension. No manual capture. Your thinking flows in automatically and compounds over time. Today, Nessie is the memory layer that makes every AI interaction smarter - grounded in your actual reasoning, not the median. Your agents start with your accumulated thinking instead of a blank slate. Your decisions have provenance, traceable back to the conversation where the thinking happened. Where we are going: the AI-native organization of the near future is a small team running thousands of agents. Those agents are powerful but amnesiac - they make decisions, form hypotheses, discover patterns, and forget everything between sessions. The organization's collective intelligence exists nowhere. There is no layer that integrates what the organization knows, what it has decided, and how its thinking has evolved. Nessie is that layer. Not another workspace. Not another wiki. The connective tissue that makes AI-native organizations possible. Science has journals. Law has case law. Software has git. AI-native knowledge work has nothing. We are building the infrastructure for cumulative thinking in the AI era. We are two Yale CS grads and former Amazon engineers. Backed by BoxGroup, Pioneer Fund, Y Combinator, Precursor, and more. https://nessielabs.com",
-          "story": "工程团队不缺新工具，缺的是能减少等待和返工的工具。Nessie 如果能让一个复杂环节更可靠，就有机会嵌进日常开发流程。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 秋季 2025 批次和还在招聘只是第一层信号。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "classic-intercom-job-stories",
-          "title": "Designing Features Using Job Stories",
-          "url": "https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/",
-          "source": "Intercom",
-          "topic": "用户场景和产品设计",
-          "story": "这篇更像常青阅读，不是追新闻。主题和用户场景和产品设计有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        },
-        {
-          "id": "classic-julie-pm",
-          "title": "What Makes a Great Product Manager",
-          "url": "https://medium.com/the-year-of-the-looking-glass/what-makes-a-great-product-manager-5d19e0960d54",
-          "source": "Julie Zhuo",
-          "topic": "产品管理",
-          "story": "这篇更像常青阅读，不是追新闻。主题和产品管理有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        },
-        {
-          "id": "classic-svpg-product-teams",
-          "title": "Product vs. Feature Teams",
-          "url": "https://www.svpg.com/product-vs-feature-teams/",
-          "source": "Silicon Valley Product Group",
-          "topic": "产品团队和功能团队",
-          "story": "这篇更像常青阅读，不是追新闻。主题和产品团队和功能团队有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
           "published": ""
         }
       ]
