@@ -1,7 +1,250 @@
 {
-  "generatedAt": "2026-07-23T09:35:10.695Z",
+  "generatedAt": "2026-07-24T09:32:18.566Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-07-24",
+      "companies": [
+        {
+          "id": 30729,
+          "name": "Floot",
+          "url": "https://floot.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/floot",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "SaaS",
+            "No-code",
+            "Web Development",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "The easiest way for non-coders to build apps with AI.",
+          "originalDescription": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. ✨ Try building an app at floot.com Existing AI app builders fall short of enabling non-coders to build real, serious apps. They often: - Break down when building anything more than a prototype or toy app - Have non-coders stuck with errors they don’t understand - Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc) The fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI. The result? Non-coders get excited, start building, hit a wall, and then abandon their projects. Floot is purpose-built for AI. Our secret sauce: 1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively. 2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding. Because of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects. We also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly. Plus, Floot is really fun to use! Try building an app at floot.com",
+          "story": "这是做无代码应用构建平台的公司。想象你是一个不懂编程的创业者，想快速验证一个想法，但现有的人工智能建站工具总在复杂逻辑上崩溃，留下一堆看不懂的错误信息。Floot从底层为人工智能重新设计了整个开发环境，而非简单拼凑现有工具。你只需用自然语言描述需求，就能构建真正可运行、可扩展的网页应用。它来自YC夏季2025批次，团队4人正在招聘，值得关注。",
+          "rank": 1
+        },
+        {
+          "id": 31233,
+          "name": "Chasi",
+          "url": "https://chasi.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/chasi",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "AI Revenue Engine for the Equipment Industry",
+          "originalDescription": "Chasi deploys AI agents that help equipment dealers sell more, respond faster, and maximize fleet utilization - 24/7. One-third of the cost to build and maintain the physical world goes to equipment, yet fleet utilization across the industry often sits below 60%. Billions in assets sit idle while dealers drown in phone calls, emails, and manual data entry. Missed quotes, slow follow-ups, and disconnected systems mean lost revenue every day. Chasi plugs into a dealer's existing stack to deploy AI agents that handle sales, rentals, and service requests around the clock. The result: faster response times, higher utilization, and stronger margins, without adding headcount. We automate the busywork so teams can focus on what actually grows the business: customer relationships. Akash Pavan and Sarman Aulakh have built tractors, race cars, and robots, and previously led AI deployments at Tesla, Boeing, and Cummins, where they saw firsthand how much operational value gets left on the table in equipment-heavy industries. Chasi is live across equipment businesses in the US and Europe.",
+          "story": "这家公司切的是设备经销行业的智能销售。假如你是一个工程设备经销商的销售主管，每天被电话和邮件淹没，报价回复慢，大量设备闲置。Chasi部署的人工智能智能体能自动处理销售、租赁和服务请求，全天候运转。它直接接入你现有的企业管理系统，提升响应速度和设备利用率。团队2人，来自YC冬季2026批次，正在招聘。",
+          "rank": 2
+        },
+        {
+          "id": 31008,
+          "name": "Moss",
+          "url": "https://moss.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/moss",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "SaaS"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Real-time semantic search for Conversational AI",
+          "originalDescription": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural. If you’ve ever built a conversational or voice AI product, you’ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs. Moss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70–90% token savings compared to traditional pipelines.",
+          "story": "这是做对话式人工智能实时语义搜索基础设施的公司。如果你是一个语音助手开发者，一定经历过用户提问后那令人尴尬的停顿，因为每次检索都要跨网络和数据库。Moss用Rust和WebAssembly构建了优化的向量索引，能在浏览器、手机和服务器上原生运行，将检索延迟压缩到10毫秒以内。它让人工智能交互感觉真正自然。团队5人，来自YC秋季2025批次，正在招聘。",
+          "rank": 3
+        },
+        {
+          "id": 31205,
+          "name": "Human Archive",
+          "url": "https://www.humanarchive.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/human-archive",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Multimodal data provider for robotics and world modeling",
+          "originalDescription": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments. We have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then post-process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. We believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset.",
+          "story": "这家公司为机器人和世界模型提供多模态数据。假如你是一个机器人研究团队的负责人，正苦于缺乏真实世界的高质量训练数据。Human Archive设计定制硬件在住宅和工厂采集并标注多模态数据，涵盖视觉、触觉等多种维度，并经过脱敏和质检。他们来自YC冬季2026批次，团队4人正在招聘，目标是加速具身智能的突破。",
+          "rank": 4
+        },
+        {
+          "id": 31239,
+          "name": "Fort",
+          "url": "https://fort.cx",
+          "sourceUrl": "https://www.ycombinator.com/companies/fort",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Strength Tracking Wearable",
+          "originalDescription": "Fort is a wearable that tracks strength training for people who care about longevity. Other wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
+          "story": "这是一个追踪力量训练的可穿戴设备。想象你是一个注重长期健康的人，每天去健身房举铁，但其他手环让你手动记录每组次数，反馈也忽略疲劳。Fort通过心率与运动数据自动识别你的训练，并给出有意义的建议。它不是一个手机应用，而是戴在身上的传感器，无需手动输入就能理解你的力量训练。团队3人，来自YC冬季2026批次，正在招聘。",
+          "rank": 5
+        },
+        {
+          "id": 31340,
+          "name": "Illume Labs",
+          "url": "https://www.illumelabs.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/illume-labs",
+          "location": "Boston, MA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Generative AI",
+            "Health Tech",
+            "Biotech",
+            "Health & Wellness",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "24/7 Personal Health & Longevity Companion",
+          "originalDescription": "Illume is a 24/7 AI personal health & longevity companion that connects your wearables, blood panels, and genomic data to text you personalized and actionable insights. We pull in your health data and fuse it into one secure model. You get daily text updates on what changed, what it means, and what to do next; conversational health Q&A like \"What should I do to improve my bloodwork?\"; cross-data trend detection that catches patterns individual platforms miss; and a full platform to dig deeper, explore your health data, and text your Illume agent anytime. We're 3 MIT grads & friends, with experience at Windsurf, MIT CSAIL, Eli Lilly, & the Broad Institute.",
+          "story": "这是做个人健康与长寿人工智能助手的公司。假如你是一个关注健康数据的人，手边有手表、血检报告和基因检测结果，但信息分散，不知道如何综合解读。Illume把所有数据融合成一个安全模型，每天给你发短信：指标变化意味着什么，下一步该做什么。你还可以随时问它健康问题。团队3人来自MIT，有Windsurf和Broad研究所经验，来自YC夏季2026批次。",
+          "rank": 6
+        },
+        {
+          "id": "ph-buzz",
+          "name": "Buzz",
+          "url": "https://www.producthunt.com/products/buzz-3",
+          "sourceUrl": "https://www.producthunt.com/products/buzz-3",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Your people, your agents, your project — all in one place",
+          "originalDescription": "Your people, your agents, your project — all in one place",
+          "story": "这是一个把团队成员、人工智能智能体和项目集中管理的协作平台。想象你是一个项目负责人，团队既有真人也有多个人工智能助手，沟通和任务分散在Slack、邮件和不同工具里。Buzz提供一个统一空间，让所有人（包括智能体）协作、共享上下文，避免信息断裂。它来自Product Hunt，目前没有融资信息，但概念新颖，适合多智能体工作流。",
+          "rank": 7
+        },
+        {
+          "id": "hardware-whoop",
+          "name": "Whoop",
+          "url": "https://www.whoop.com/",
+          "sourceUrl": "https://www.whoop.com/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Smart Hardware",
+            "Health",
+            "Data"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Wearable health and performance tracking hardware.",
+          "originalDescription": "Whoop makes a wearable that tracks recovery, sleep, strain, and health signals, then turns that data into coaching for athletes and everyday users.",
+          "story": "这是一个专注于健康和运动表现的可穿戴设备。假如你是一个运动员或健身爱好者，想知道自己是否充分恢复、睡眠质量如何、今天该练多大强度。Whoop腕带24小时监测心率、睡眠和运动负荷，并用算法给出恢复分数和训练建议。它不只是一个手机应用，而是贴身传感器，数据自动同步，无需手动记录。它来自智能硬件关注列表，非YC公司。",
+          "rank": 8
+        },
+        {
+          "id": "ph-harnessrouter",
+          "name": "HarnessRouter",
+          "url": "https://www.producthunt.com/products/epsilla",
+          "sourceUrl": "https://www.producthunt.com/products/epsilla",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Bring the world's best AI agents into your app, with one API",
+          "originalDescription": "Bring the world's best AI agents into your app, with one API",
+          "story": "这是一个通过单一接口接入多种人工智能智能体的开发者工具。想象你是一个应用开发者，想在你的产品里集成最好的人工智能助手，但每个智能体都有自己的接口和协议。HarnessRouter提供统一接口，你只需调用一次就能路由到不同智能体，简化集成。它来自Product Hunt，目前没有融资信息，适合需要灵活调用多种人工智能能力的团队。",
+          "rank": 9
+        },
+        {
+          "id": "non-yc-sierra",
+          "name": "Sierra",
+          "url": "https://sierra.ai/",
+          "sourceUrl": "https://sierra.ai/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Design",
+            "Sales"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI agents for customer service and enterprise workflows.",
+          "originalDescription": "Sierra helps companies build customer-facing AI agents that can answer questions, take actions, and connect to business systems without acting like a generic chatbot.",
+          "story": "这是为企业构建客户服务人工智能智能体的平台。想象你是一个客服主管，每天处理大量重复问题，而客户需要的是能真正解决问题、而非只给通用回答的助手。Sierra的智能体可以理解上下文、执行操作（如退款、改订单），并连接到企业系统。它来自非YC关注列表，由前Salesforce联合创始人创立，已获得知名投资。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "classic-nng-personas",
+          "title": "Personas Make Users Memorable for Product Team Members",
+          "url": "https://www.nngroup.com/articles/persona/",
+          "source": "Nielsen Norman Group",
+          "topic": "用户理解和产品团队",
+          "story": "做产品时，团队每天要面对大量用户反馈和数据，但人脑很难同时记住几十个不同的面孔和需求。这时候，一个具体的人物画像就像锚点，能把零散的信息聚合成一个活生生的人，让每个决策都有明确的“为谁而做”。这篇文章来自用户研究领域的权威机构，它不只是在教你怎么画一张人物卡片，而是告诉你为什么团队需要这样一个共同记忆点，以及如何避免画像沦为墙上的装饰。读的时候可以留意作者是怎么用一个简单的工具，解决团队沟通中“我以为你懂用户”的常见偏差。",
+          "published": ""
+        },
+        {
+          "id": "classic-intercom-job-stories",
+          "title": "Designing Features Using Job Stories",
+          "url": "https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/",
+          "source": "Intercom",
+          "topic": "用户场景和产品设计",
+          "story": "做产品时，团队常把用户需求写成“用户想要X功能”，但写出来才发现大家理解不一样，开发做出来也不对。问题出在哪里？出在我们描述需求的方式太模糊，没有讲清楚用户到底在什么场景、为了什么目标、遇到了什么障碍。Intercom这篇文章提出的“Job Stories”就是来替换这种模糊描述的。它不直接给答案，而是教你如何把需求变成一个场景、动机和结果的故事。读的时候，可以重点看作者是怎么把一句笼统的需求拆成可验证、可排序的片段，以及这种拆法如何帮团队减少争论、更快做决定。",
+          "published": ""
+        },
+        {
+          "id": "classic-increment-planning",
+          "title": "Planning for Momentum",
+          "url": "https://increment.com/planning/planning-for-momentum/",
+          "source": "Increment",
+          "topic": "产品规划和工程协作",
+          "story": "很多产品团队不是没有想法，而是做着做着就乱掉了：今天加这个功能，明天改那个优先级，一个月下来发现重要的事一件没做完。这种节奏混乱往往不是因为大家不努力，而是规划本身没有给团队一个清晰的节奏感。Increment这篇关于“Planning for Momentum”的文章，就是讲怎么让规划不只是排期表，而是帮助团队保持前进动力。它适合那些正在苦恼“为什么我们总是赶不上进度”或者“为什么产品路线图写着写着就没人看了”的团队。读的时候，可以留意作者是怎么描述“什么该做、什么该推迟、什么该直接砍掉”的判断标准，以及这些标准如何帮团队对齐。",
+          "published": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-23",
       "companies": [
@@ -3088,249 +3331,6 @@
           "source": "Linear",
           "topic": "交互设计和产品细节",
           "story": "这篇更像常青阅读，不是追新闻。主题和交互设计和产品细节有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-06-16",
-      "companies": [
-        {
-          "id": "yc-30319",
-          "name": "Corsair",
-          "url": "https://www.corsair.dev",
-          "sourceUrl": "https://www.ycombinator.com/companies/corsair",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "B2B",
-            "Workflow Automation",
-            "Open Source",
-            "Personalization"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Integration Layer for AI Agents",
-          "originalDescription": "What Corsair is: Corsair gives you (or your agent) safe access to hundreds of integrations. It natively handles all integration plumbing. The only code you write is the code that's specific to your use case. Your data stays yours. Why we wrote it: Integrations make products capable. Integrations are also frustrating to write. If you look at any codebase with integrations, 95% of the code is identical. It's all just basic plumbing. The part of the integration that is unique to a codebase and actually adds value is probably just a few lines. We shouldn't waste time writing and maintaining the 95% for a few lines. The developer community has just accepted that we do. Corsair handles the 95% so you don't have to. It's really hard to get wrong.",
-          "story": "工程团队不缺新工具，缺的是能减少等待和返工的工具。Corsair 如果能让一个复杂环节更可靠，就有机会嵌进日常开发流程。 它现在还不能只凭介绍就下结论，但YC 冬季 2025 批次加上官网信息相对完整，足够作为一个后续观察点。",
-          "rank": 1
-        },
-        {
-          "id": "yc-30879",
-          "name": "Hypercubic",
-          "url": "https://www.hypercubic.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/hypercubic",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Agentic AI for Mainframe Operations and Modernization",
-          "originalDescription": "Hypercubic is an AI-native platform for mainframe operations and modernization. We help enterprises understand and modernize their mission-critical legacy systems. About 70% of the Fortune 500 companies still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more. These systems, originally built in the 1960s–90s, still power trillions in global infrastructure today but have become increasingly opaque as original developers retire or leave the workforce. We are pioneering a new class of intelligence capable of understanding, reasoning about, and rebuilding the world’s foundational infrastructure. Learn more at hypercubic.ai",
-          "story": "如果一笔交易或一份保单要靠人来回核对文件，速度慢只是表面问题，真正麻烦的是漏看和无法解释。Hypercubic 想让这段流程更清楚。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 秋季 2025 批次和还在招聘只是第一层信号。",
-          "rank": 2
-        },
-        {
-          "id": "yc-31128",
-          "name": "Cumulus Labs",
-          "url": "https://cumuluslabs.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/cumulus-labs",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The Fastest Multimodal Inference OS",
-          "originalDescription": "Cumulus Labs lets engineering teams ship AI in production without needing a dedicated ML platform team. Right now, companies building AI products are forced to stitch together separate vendors for routing, observability, evaluation, fine-tuning, and inference. This fragmented approach is brittle, expensive, and is a common reason enterprises fail with AI. We replace that entire stack with a single unified platform. Developers can keep their existing code while instantly upgrading to a unified platform that handles routing, semantic caching, continuous shadow evaluation, simulated data, and one-click fine-tuning. Behind the platform is Ion, our proprietary inference engine running on a custom NVIDIA Grace GPU fleet. Ion uses in-house custom GPU kernels to deliver 30 to 50 percent more throughput than standard vLLM or SGLang, giving our customers SOTA inference economics.",
-          "story": "企业里的智能体一旦在生产环境里出错，麻烦常常不是“它错了”，而是没人能重建当时的状态。Cumulus Labs 想给团队一个安全的调试环境，把失败现场重新搭出来。 把它放进今天的列表，主要是因为它出现在YC 冬季 2026 批次，而且官网信息相对完整。",
-          "rank": 3
-        },
-        {
-          "id": "yc-30845",
-          "name": "Structured AI",
-          "url": "https://www.getstructured.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/structured-ai",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Computer Vision",
-            "Construction",
-            "Architecture",
-            "AI"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 10,
-          "originalOneLiner": "AI workforce for Construction Engineering",
-          "originalDescription": "Structured AI is building the AI workforce for construction design engineering, starting with AI agents that perform quality control on technical documents and drawings. Our agents learn your standards, apply the right building codes, and automatically review your drawings, so you see fewer clashes, fewer inconsistencies, and fewer costly RFIs and change orders. ⚙️ Automates QA/QC across mechanical, electrical, structural and more 🧩 Used by multi-disciplinary design firms to deliver projects faster with less risk 🚀 Mission: Free engineers to focus on creative design, not repetitive admin",
-          "story": "假如你在工厂负责质检，最怕的是产品出了小缺陷却没被发现。人眼检查会累，传统视觉规则又很脆弱，一换零件或产线就要重新调。Structured AI 想把工厂质检从人工看、手写规则和慢慢标注，变成更快部署的视觉检测流程。 YC 秋季 2025 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 4
-        },
-        {
-          "id": "yc-28802",
-          "name": "Sohar Health",
-          "url": "https://www.soharhealth.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/sohar-health",
-          "location": "New York, NY, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Health Tech",
-            "Digital Health",
-            "API",
-            "Data Science"
-          ],
-          "batch": "Summer 2023",
-          "isHiring": true,
-          "teamSize": 8,
-          "originalOneLiner": "AI-powered insurance verification to boost patient conversion.",
-          "originalDescription": "Sohar Health is an AI-driven front-end RCM solution that transforms insurance verification processes for healthcare providers, enabling faster patient conversions and reducing administrative workloads. With a 95% automation rate, our API-first platform seamlessly integrates into existing workflows to provide real-time claim accuracy and eligibility checks. Key performance metrics showcase the power of our technology: Median latency of just 6 seconds, ensuring real-time eligibility; over 90% of checks returned within 30 seconds for increased patient conversion; 96% accuracy in identifying and verifying benefits details; Industry-leading 99% accuracy for eligibility determination; >90% carve-out detection rate, mitigating surprise billing risks; a 60% success rate with our Insurance Discovery API, helping identify coverage for self-pay patients. Our customers include outpatient clinics, specialty practices, and digital health platforms looking to streamline front-end claim management. By reducing errors and maximizing clean claim submissions, Sohar Health empowers healthcare organizations to convert and retain more patients, reduce operating costs, and increase their top-line revenue.",
-          "story": "从病人预约到后续跟进，中间很多工作不是医学难题，却会消耗诊所大量时间。Sohar Health 切入的是这些容易拖慢服务的后台环节。 它现在还不能只凭介绍就下结论，但YC 夏季 2023 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 5
-        },
-        {
-          "id": "yc-30445",
-          "name": "Mbodi AI",
-          "url": "https://www.mbodi.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/mbodi-ai",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Robotics",
-            "Automation",
-            "AI"
-          ],
-          "batch": "Spring 2025",
-          "isHiring": true,
-          "teamSize": 6,
-          "originalOneLiner": "Industrial Robots that Learn and Operate Like Humans",
-          "originalDescription": "Teach robots new skills through natural language and run reliably in production in minutes. Mbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
-          "story": "工业现场的难点通常不在概念，而在机器能不能稳定适应真实环境。Mbodi AI 想把原本靠人反复试错的一段做得更可复制。 它现在还不能只凭介绍就下结论，但YC 春季 2025 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 6
-        },
-        {
-          "id": "yc-29339",
-          "name": "Clarion",
-          "url": "https://clarionhealth.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/clarion",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Health Tech",
-            "Digital Health",
-            "Healthcare",
-            "AI"
-          ],
-          "batch": "Winter 2024",
-          "isHiring": true,
-          "teamSize": 14,
-          "originalOneLiner": "The AI communication layer for healthcare",
-          "originalDescription": "Clarion is building the most advanced AI communication layer for healthcare. Our AI agents handle the overwhelming volume of calls and messages that clinics face daily—from scheduling to billing to prescription refills—freeing staff to focus on patient care. We're an in-person company based in New York. Today, clinics miss 30-40% of inbound calls due to staffing shortages. We're solving this by automating complex workflows end-to-end, already serving tens of thousands of patients monthly across virtual care companies, health systems, and a $5B health insurance company. We've raised $5.4M from Accel, Y Combinator, Sequoia (scout), and healthcare founders from Ophelia, Medallion, and Counsel Health. Our founders bring both clinical and technical expertise—our CEO Ryan is a Stanford/Harvard-trained physician who was on the founding teams of Two Chairs and Ophelia, while our CTO Jeffrey built voice AI at Amazon Alexa and led AI/ML teams at Salesforce. Join us as we transform healthcare communication—creating a future where patients get faster resolutions and providers reclaim time for what matters most.",
-          "story": "从病人预约到后续跟进，中间很多工作不是医学难题，却会消耗诊所大量时间。Clarion 切入的是这些容易拖慢服务的后台环节。 它现在还不能只凭介绍就下结论，但YC 冬季 2024 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 7
-        },
-        {
-          "id": "yc-31129",
-          "name": "Verdex",
-          "url": "https://www.verdexai.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/verdex",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "AI Verification for Insurance",
-          "originalDescription": "Verdex is an AI insurance adjuster. We use data streams like satellite imagery to verify claims, allowing insurers to process it immediately and save billions of dollars. We are currently helping insure over 11% of all American farmland.",
-          "story": "如果一笔交易或一份保单要靠人来回核对文件，速度慢只是表面问题，真正麻烦的是漏看和无法解释。Verdex 想让这段流程更清楚。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 冬季 2026 批次和官网信息相对完整只是第一层信号。",
-          "rank": 8
-        },
-        {
-          "id": "yc-31142",
-          "name": "Beyond Reach Labs",
-          "url": "https://www.beyondreachlabs.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/beyond-reach-labs",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "Space solar arrays that grow to the size of a football field in orbit",
-          "originalDescription": "At Beyond Reach Labs we are building solar panels for Space that grow from the size of a dining table to a football field in orbit. Mitch and Pele met 13 years ago as freshmen at UPenn studying mechanical engineering. Mitch recently got his PhD at Carnegie Mellon working with NASA on kilometer-scale deployable structures, and Pele spent seven years at SpaceX leading Dragon parachute engineering, safely returning astronauts from space. The collective satellites today use around 20MW, roughly the output of a datacenter on earth, but by 2030 there is a demand for over 10GW, a 500x increase, largely driven by orbital datacenters, space stations, and lunar outposts. If you want more power, your only option is to launch larger solar panels, which quickly become fragile or impractically expensive. As a result, power constraints already determine whether missions or industries can exist at all. But at Beyond Reach Labs we have introduced a new class of deployable solar panels giving satellites 10x more usable power without increasing launch mass or volume. This works because our patented deployable design changes geometry in space, allowing for us to reach 10x longer while remaining rigid.",
-          "story": "工业现场的难点通常不在概念，而在机器能不能稳定适应真实环境。Beyond Reach Labs 想把原本靠人反复试错的一段做得更可复制。 把它放进今天的列表，主要是因为它出现在YC 冬季 2026 批次，而且官网信息相对完整。",
-          "rank": 9
-        },
-        {
-          "id": "yc-30302",
-          "name": "Misprint",
-          "url": "https://www.misprint.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/misprint",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Marketplace",
-            "Consumer"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Misprint is building Robinhood for Pokemon cards",
-          "originalDescription": "Misprint is an all-in-one marketplace that solves the biggest pain point in the collectibles world: opaque pricing. Collectors, investors, and hobbyists currently rely on scattered data from auction houses, online forums, and reseller platforms, making it difficult to know the true value of their items. Misprint streamlines the process by combining accurate pricing analytics with a seamless buy/sell marketplace, making it easier than ever to understand and monetize collectible assets. Existing marketplaces lack robust, real-time analytics because accurate valuations require deep expertise in both the collectibles domain and advanced pricing algorithms. Misprint’s unique blend of insider trading card knowledge and machine learning allows us to fill this gap. Building these pricing models requires extensive data infrastructure, deep domain expertise, and cutting-edge ML. Recent surges in the trading card market show that collectors crave transparent valuations. The global collectibles market is worth tens of billions of dollars. Eva has experienced the scale of this industry firsthand, generating $500k ARR within three months of taking her Pokemon card-selling side hustle full-time. With additional segments like sports cards, comics, and emerging collectible categories, the growth runway is immense. Co-founders Eva and Jon have been best friends since Exeter, combining finance expertise, a passion for collectibles, and mathematical rigor. By merging Goldman Sachs-level financial analytics with top-tier mathematical talent, Misprint is uniquely positioned to become the go-to platform for fair, transparent pricing in the collectibles space.",
-          "story": "金融和保险里的很多工作并不是缺人判断，而是材料太散、规则太多、过程还必须可追溯。Misprint 想把这类判断前的准备工作自动化。 把它放进今天的列表，主要是因为它出现在YC 冬季 2025 批次，而且还在招聘。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "classic-julie-designers",
-          "title": "How to Work with Designers",
-          "url": "https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146",
-          "source": "Julie Zhuo",
-          "topic": "设计协作",
-          "story": "这篇更像常青阅读，不是追新闻。主题和设计协作有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        },
-        {
-          "id": "classic-lenny-b2b",
-          "title": "How the Biggest B2B Businesses Find Their First 10 Customers",
-          "url": "https://www.lennysnewsletter.com/p/how-the-biggest-b2b-businesses",
-          "source": "Lenny's Newsletter",
-          "topic": "B2B 早期客户",
-          "story": "这篇更像常青阅读，不是追新闻。主题和B2B 早期客户有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        },
-        {
-          "id": "classic-pg-startupideas",
-          "title": "How to Get Startup Ideas",
-          "url": "https://www.paulgraham.com/startupideas.html",
-          "source": "Paul Graham",
-          "topic": "创业想法和用户问题",
-          "story": "判断一个创业想法是不是从真实问题里长出来，这篇很有帮助。它的重点不是教你坐在房间里想点子，而是提醒你去观察自己或身边人反复遇到的麻烦。读它的时候，可以把每天看到的新公司反过来问一遍，它解决的是不是一个真实存在的问题，还是只是一个听起来很聪明的概念。",
           "published": ""
         }
       ]
