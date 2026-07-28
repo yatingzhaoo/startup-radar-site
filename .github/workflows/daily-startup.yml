@@ -42,7 +42,7 @@ jobs:
           TODAY="$(TZ=America/Los_Angeles date +%F)"
           git config user.name "daily-startup-radar-bot"
           git config user.email "daily-startup-radar-bot@users.noreply.github.com"
-          git add src/data/feed.json
+          git add src/data/feed.json src/data/reading-history.json
           if git diff --cached --quiet; then
             echo "No content change"
             exit 0

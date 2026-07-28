@@ -489,7 +489,7 @@ function readingThemeKey(reading) {
   if (text.includes("startup") || text.includes("founder") || text.includes("ramen profitable") || text.includes("default alive")) return "startup-building";
   if (text.includes("engineering") || text.includes("api") || text.includes("infrastructure") || text.includes("quality")) return "engineering";
   if (text.includes("marketplace")) return "marketplace";
-  if (text.includes("ai") || text.includes("agent") || text.includes("model")) return "ai";
+  if (/\b(ai|agents?|agentic|models?)\b/.test(text)) return "ai";
   return normalizedTextKey(reading.topic || reading.title || "");
 }
 
@@ -510,8 +510,14 @@ function isBlockedReadingDomain(value = "") {
 function isCollectionReadingUrl(value = "") {
   try {
     const url = new URL(value);
+    const host = url.hostname.replace(/^www\./, "").toLowerCase();
     const pathname = url.pathname.toLowerCase();
-    return pathname.includes("/series/") || pathname.includes("/collections/") || pathname.includes("/topics/");
+    if (pathname.includes("/series/") || pathname.includes("/collections/") || pathname.includes("/topics/")) return true;
+    if (host === "gov.uk" && pathname === "/service-manual") return true;
+    if (host === "m3.material.io" && (pathname === "/" || pathname === "")) return true;
+    if (host === "developer.apple.com" && pathname === "/design/human-interface-guidelines/") return true;
+    if (host === "basecamp.com" && (pathname === "/shapeup" || pathname === "/gettingreal")) return true;
+    return false;
   } catch {
     return false;
   }
@@ -569,7 +575,11 @@ const BLOCKED_READING_KEYS = new Set(
     "https://www.figma.com/blog/config-2024-recap/",
     "https://www.atlassian.com/agile/product-management/product-discovery",
     "https://maze.co/blog/product-discovery/",
-    "https://www.productboard.com/blog/product-discovery/"
+    "https://www.productboard.com/blog/product-discovery/",
+    "https://a16z.com/marketplace-100/",
+    "https://www.gov.uk/service-manual",
+    "https://m3.material.io/",
+    "https://developer.apple.com/design/human-interface-guidelines/"
   ].map((url) => normalizedUrlKey(url))
 );
 

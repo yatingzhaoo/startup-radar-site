@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { enrichFeedWithDeepSeek } from "../api/feed.js";
@@ -12,15 +12,24 @@ import {
 const here = dirname(fileURLToPath(import.meta.url));
 const root = dirname(here);
 const feedPath = join(root, "src/data/feed.json");
+const readingHistoryPath = join(root, "src/data/reading-history.json");
 const date = process.argv[2] || currentLosAngelesDate();
 const existingFeed = JSON.parse(readFileSync(feedPath, "utf8"));
 const historyDays = (existingFeed.days || []).filter((day) => day.date !== date && day.date <= date);
+const storedReadingHistory = readReadingHistory();
+const sharedReadingHistory = await readSharedReadingHistory();
+const knownReadingHistory = mergeReadingHistory([
+  ...storedReadingHistory,
+  ...feedReadingHistory(existingFeed, "startup-radar"),
+  ...feedReadingHistory(sharedReadingHistory, "daily-reading")
+]);
+const usedReadingKeys = new Set(knownReadingHistory.map((entry) => entry.key).filter(Boolean));
 
 const dayFeed = await generateLiveFeed({
   daysBack: 1,
   today: date,
   initialExcludedCompanyIds: collectCompanyKeys(historyDays),
-  initialUsedReadingKeys: collectReadingKeys(historyDays),
+  initialUsedReadingKeys: usedReadingKeys,
   checkReadingLinks: true
 });
 
@@ -37,6 +46,10 @@ if (process.env.DEEPSEEK_API_KEY) {
 }
 
 const day = dayFeed.days[0];
+const updatedReadingHistory = mergeReadingHistory([
+  ...knownReadingHistory,
+  ...day.readings.map((reading) => readingHistoryEntry(reading, date, "startup-radar"))
+]);
 const feed = {
   generatedAt: new Date().toISOString(),
   source: "github-static",
@@ -45,6 +58,7 @@ const feed = {
 
 mkdirSync(dirname(feedPath), { recursive: true });
 writeFileSync(feedPath, `${JSON.stringify(feed, null, 2)}\n`);
+writeFileSync(readingHistoryPath, `${JSON.stringify({ updatedAt: new Date().toISOString(), readings: updatedReadingHistory }, null, 2)}\n`);
 console.log(JSON.stringify({
   ok: true,
   date,
@@ -77,13 +91,68 @@ function collectCompanyKeys(days) {
   return new Set(days.flatMap((day) => day.companies || []).flatMap((company) => companyDedupeKeys(company)));
 }
 
-function collectReadingKeys(days) {
-  return new Set(
-    days
-      .flatMap((day) => day.readings || [])
+function readReadingHistory() {
+  if (!existsSync(readingHistoryPath)) return [];
+  try {
+    return JSON.parse(readFileSync(readingHistoryPath, "utf8")).readings || [];
+  } catch {
+    return [];
+  }
+}
+
+async function readSharedReadingHistory() {
+  const localPath = join(root, "../daily-reading-feed/data/fallback-feed.mjs");
+  try {
+    const source = existsSync(localPath)
+      ? readFileSync(localPath, "utf8")
+      : await fetch(
+          "https://raw.githubusercontent.com/yatingzhaoo/daily-reading-feed/main/data/fallback-feed.mjs",
+          { signal: AbortSignal.timeout(10000) }
+        ).then((response) => {
+          if (!response.ok) throw new Error(`Shared reading history returned ${response.status}`);
+          return response.text();
+        });
+    const match = source.match(/^const fallbackFeed = ([\s\S]+);\s*export default fallbackFeed;\s*$/);
+    if (!match) throw new Error("Shared reading history has an unknown format");
+    return JSON.parse(match[1]);
+  } catch (error) {
+    if (storedReadingHistory.length) {
+      console.warn(`Shared reading history unavailable; using the stored ledger: ${error.message}`);
+      return { days: [] };
+    }
+    throw error;
+  }
+}
+
+function feedReadingHistory(feed, site) {
+  return (feed?.days || []).flatMap((day) =>
+    (day.readings || [])
       .filter((reading) => !isBlockedReading(reading))
-      .map((reading) => readingDedupeKey(reading))
-      .filter(Boolean)
+      .map((reading) => readingHistoryEntry(reading, day.date, site))
+  );
+}
+
+function readingHistoryEntry(reading, usedAt, site) {
+  return {
+    key: readingDedupeKey(reading),
+    title: reading.title || "",
+    url: reading.url || "",
+    usedAt,
+    site
+  };
+}
+
+function mergeReadingHistory(entries) {
+  const byKey = new Map();
+  for (const entry of entries) {
+    if (!entry?.key) continue;
+    const previous = byKey.get(entry.key);
+    if (!previous || String(entry.usedAt || "") < String(previous.usedAt || "")) {
+      byKey.set(entry.key, entry);
+    }
+  }
+  return [...byKey.values()].sort(
+    (left, right) => String(right.usedAt || "").localeCompare(String(left.usedAt || "")) || left.key.localeCompare(right.key)
   );
 }
 
