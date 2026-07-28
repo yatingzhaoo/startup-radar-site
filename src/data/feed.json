@@ -1,7 +1,250 @@
 {
-  "generatedAt": "2026-07-27T10:51:07.371Z",
+  "generatedAt": "2026-07-28T09:46:06.300Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-07-28",
+      "companies": [
+        {
+          "id": 29365,
+          "name": "Ellipsis",
+          "url": "https://ellipsis.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/ellipsis",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Machine Learning",
+            "AI"
+          ],
+          "batch": "Winter 2024",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Cloud platform for coding agents",
+          "originalDescription": "Ellipsis is a cloud platform that allows engineering teams to deploy fleets of coding agents. Each agent gets an isolated sandbox, scoped permissions, and hard budget caps. Full observability included. Get started with a $100 credit at www.ellipsis.dev. You can deploy agents for feature development, code review, and workflow automation. Creating an agent is simple: simply commit a YAML file to Github. Spawn agents from Github/Linear/Slack/etc., or via a REST API or our CLI. Organizations get full observability and governance of their cloud coding agents. Agent session logs are downloadable so companies own their own data. Full documentation: https://www.ellipsis.dev/docs",
+          "story": "这是一家做代码智能体云平台的公司。想象你是一位工程负责人，团队每天要处理大量功能开发、代码审查和自动化任务，但每个智能体都需要单独配置环境、权限和预算，管理起来很头疼。Ellipsis 让你只需在 GitHub 上提交一个 YAML 文件就能创建智能体，每个智能体有独立的沙箱和预算上限。你可以从 GitHub、Linear、Slack 等工具触发它们，还能通过 REST 接口或命令行调用。所有智能体的会话日志都可下载，确保数据归你所有。这家公司来自 YC 冬季 2024 批次，正在招聘，团队目前只有两人，但已经为工程团队提供了完整的可观测性和治理能力。",
+          "rank": 1
+        },
+        {
+          "id": 31000,
+          "name": "Vector Legal",
+          "url": "https://www.ycombinator.com/companies/vector-legal",
+          "sourceUrl": "https://www.ycombinator.com/companies/vector-legal",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "A premier AI-native law firm & legal operating system for Startups.",
+          "originalDescription": "A modern solution for Startup legal. Vector combines premier lawyers/paralegals (averaging 10+ years of Big Law experience) + custom-built AI, so our clients get world class startup legal service at a fraction of Big Law rates. See our client testimonials - https://www.vectorlegal.com/testimonials. Services: fundraise & priced rounds | customer contracts | international flips | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
+          "story": "这是一家面向初创公司的法律服务和操作系统公司。假如你是一家初创公司的创始人，需要处理融资、客户合同、股权结构等法律事务，但传统大律所收费高昂，小律所又缺乏经验。Vector Legal 结合了平均十年以上大律所经验的律师和自建的人工智能，提供世界级的法律服务，价格却只有大律所的一小部分。服务涵盖融资轮次、客户合同、国际翻转、复杂公司设立、股权管理、数据室、电子签名等。这家公司来自 YC 冬季 2026 批次，正在招聘，团队已有五人，并且官网上有客户推荐信。",
+          "rank": 2
+        },
+        {
+          "id": 30903,
+          "name": "Kestrel AI",
+          "url": "https://usekestrel.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/kestrel-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AIOps",
+            "Developer Tools",
+            "DevOps",
+            "Infrastructure"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI Agents for Platform Engineering",
+          "originalDescription": "Kestrel is the AI automation layer for platform engineering teams. Platform teams use Kestrel to automate incident response, cloud provisioning, CI/CD, security, and developer requests across their stack. Kestrel turns natural-language prompts into deterministic, production-ready workflows with 25+ integrations, 140+ pre-built actions, and support for custom HTTP and webhook actions. Developer-first, with a CLI, Python SDK, and MCP server to manage workflows from where platform teams already work.",
+          "story": "这是一家做平台工程人工智能自动化的公司。如果你是一位平台工程师，每天要应对事件响应、云资源调配、持续集成部署、安全和开发者请求，工作繁琐又容易出错。Kestrel 让你用自然语言描述需求，就能生成确定性的生产级工作流。它集成了超过 25 种工具，内置 140 多个预构建动作，还支持自定义 HTTP 和 Webhook。你可以通过命令行、Python 开发包或 MCP 服务器来管理工作流，完全融入你已有的工作环境。这家公司来自 YC 秋季 2025 批次，团队目前两人，但已经为平台工程团队提供了强大的自动化层。",
+          "rank": 3
+        },
+        {
+          "id": 30754,
+          "name": "Locata",
+          "url": "https://www.locatahealth.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/locata",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "AI Referral Automation for Primary Care Clinics",
+          "originalDescription": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care. Primary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers. Alejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users. Within two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
+          "story": "这是一家做初级保健诊所转诊自动化平台的公司。想象你是一家初级保健诊所的后台工作人员，每天要处理大量转诊事务：提交预授权、更新信息、随访患者，流程复杂且容易出错。Locata 的人工智能智能体能自动完成每一步，让你能专注于患者护理。在美国每年超过一亿次专科转诊中，只有一半真正完成，患者往往因此延误治疗。Locata 每周为行政人员节省数小时，确保转诊流程顺畅。这家公司来自 YC 夏季 2025 批次，正在招聘，团队已有四人。",
+          "rank": 4
+        },
+        {
+          "id": 29987,
+          "name": "Syntra",
+          "url": "https://www.syntra.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/syntra",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Big Data",
+            "Healthcare IT"
+          ],
+          "batch": "Summer 2024",
+          "isHiring": true,
+          "teamSize": 10,
+          "originalOneLiner": "Medical chart intelligence",
+          "originalDescription": "Syntra is a real-time medical AI audit platform for revenue, compliance, and care quality. In our first year post launch, Syntra has already audited over 1M patient encounters and over $200M in insurance collections, supporting hundreds of practice locations nationwide. Our customers start with Syntra’s chart and claim audit and build additional agents from there. Our agents learn each practice’s workflows, payer rules, and software stack on its own, enabling us to give every clinic in the country the operating efficiency they need to stay independent.",
+          "story": "这是一家做医疗病历智能审计平台的公司。如果你是一家独立诊所的运营负责人，每天要面对保险报销、合规审查和质量监控，手工处理病历和索赔既耗时又容易出错。Syntra 实时审计病历和索赔，上线第一年就审计了超过一百万次患者就诊和两亿美元以上的保险收款，服务全国数百家诊所。它的智能体能够自主学习每家诊所的工作流程、支付方规则和软件系统，让诊所获得运营效率，保持独立运营。这家公司来自 YC 夏季 2024 批次，正在招聘，团队已有十人。",
+          "rank": 5
+        },
+        {
+          "id": 30541,
+          "name": "Code Four",
+          "url": "https://codefour.us/",
+          "sourceUrl": "https://www.ycombinator.com/companies/code-four",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "GovTech",
+            "Computer Vision"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Modernizing the police workflow.",
+          "originalDescription": "Code Four slashes the administrative burden on law enforcement through AI-driven automation. Officers spend up to a third of their shifts manually transcribing body camera footage, creating inaccuracies, reducing transparency, and cutting into frontline duties. We're here to eliminate these inefficiencies by integrating with body cameras, record management systems, and digital evidence management systems—acting as a software layer for data processing. We free the most overworked and underappreciated people in the world: police officers.",
+          "story": "这是一家通过人工智能自动化减轻执法人员行政负担的公司。想象你是一名警察，每天需要花多达三分之一的值班时间手动转录执法记录仪视频，这不仅容易出错，还减少了你在街头的执勤时间。Code Four 与执法记录仪、记录管理系统和数字证据管理系统集成，自动处理数据，让警官能专注于一线工作。这家公司来自 YC 春季 2025 批次，正在招聘，团队目前三人。",
+          "rank": 6
+        },
+        {
+          "id": "hardware-brilliant-labs",
+          "name": "Brilliant Labs",
+          "url": "https://brilliant.xyz/",
+          "sourceUrl": "https://brilliant.xyz/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Smart Hardware",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Open AI glasses and lightweight wearable computing devices.",
+          "originalDescription": "Brilliant Labs makes AI glasses and developer-friendly wearable hardware that can bring camera, display, and assistant functions closer to everyday use.",
+          "story": "这是一家做人工智能眼镜和可穿戴硬件的公司。与手机上的应用不同，Brilliant Labs 把摄像头、显示和人工智能助手直接集成到眼镜里，让你在走路、开会或做手工时都能随时调用。如果你是一个需要频繁查阅信息或拍照记录的开发者或创意工作者，这副眼镜能让你解放双手，在真实场景中自然交互。它还是开发者友好的开源平台，你可以自己编写功能。这家公司入选了智能硬件关注名单，虽然团队规模未公开，但产品已经面世，值得关注。",
+          "rank": 7
+        },
+        {
+          "id": "ph-liminal",
+          "name": "Liminal",
+          "url": "https://www.producthunt.com/products/liminal-4",
+          "sourceUrl": "https://www.producthunt.com/products/liminal-4",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "A workspace & 2nd brain for you, your agent, and your team",
+          "originalDescription": "A workspace & 2nd brain for you, your agent, and your team",
+          "story": "这是一个为你、你的智能体和团队打造的“第二大脑”工作空间。如果你是一个会议很多的咨询顾问或项目经理，每天要处理大量信息、任务和协作，Liminal 能帮你把想法、文件和智能体整合在一起，让工作更有条理。它来自 Product Hunt，虽然团队和融资信息未公开，但产品概念切中了知识工作者信息过载的痛点。",
+          "rank": 8
+        },
+        {
+          "id": "ph-qsa-sh",
+          "name": "qsa.sh",
+          "url": "https://www.producthunt.com/products/qsa-sh-quick-security-audit",
+          "sourceUrl": "https://www.producthunt.com/products/qsa-sh-quick-security-audit",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "Product"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "External security scan of your own IP, in your terminal",
+          "originalDescription": "External security scan of your own IP, in your terminal",
+          "story": "这是一个在终端里就能对自己 IP 进行外部安全扫描的工具。如果你是一名运维工程师或安全分析师，想要快速检查自己服务器的暴露面，但又不想用复杂的在线平台，qsa.sh 让你直接在命令行里运行扫描，结果一目了然。它来自 Product Hunt，适合需要轻量级安全自检的场景。",
+          "rank": 9
+        },
+        {
+          "id": "ph-recipebook-by-shofo",
+          "name": "RecipeBook by Shofo",
+          "url": "https://www.producthunt.com/products/recipebook-by-shofo",
+          "sourceUrl": "https://www.producthunt.com/products/recipebook-by-shofo",
+          "location": "Unknown",
+          "source": [
+            "Product Hunt"
+          ],
+          "tags": [
+            "AI",
+            "Data"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Buy video training data by the hour featuring 25M+ clips",
+          "originalDescription": "Buy video training data by the hour featuring 25M+ clips",
+          "story": "这是一个按小时购买视频训练数据的平台，拥有超过两千五百万个视频片段。如果你是一名人工智能研究员，正在训练视觉语言模型，需要大量高质量视频数据，RecipeBook 让你按需购买，节省自己爬取和清洗的时间。它来自 Product Hunt，虽然团队和融资信息未公开，但数据是人工智能训练的关键资源，这个平台直接解决了数据获取的难题。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "classic-pg-ramen",
+          "title": "Ramen Profitable",
+          "url": "https://paulgraham.com/ramenprofitable.html",
+          "source": "Paul Graham",
+          "topic": "早期公司生存",
+          "story": "创业公司烧钱烧到心慌，账上现金一天天减少，这是每个创始人最焦虑的时刻。你可能会想，要不要先做个大产品再找用户，或者干脆去融资。但保罗·格雷厄姆提出了一个更朴素的办法：先做到“拉面盈利”，即收入刚好覆盖创始人的基本生活开销。这篇文章值得读，因为它把生存问题拆成了最实际的步骤，告诉你为什么早期利润比规模更重要。读的时候可以留意作者如何用简单数字判断公司是否健康，以及他为什么认为这种状态能让你在谈判中更有底气。",
+          "published": ""
+        },
+        {
+          "id": "classic-miro-design-thinking",
+          "title": "Design Thinking",
+          "url": "https://miro.com/blog/design-thinking/",
+          "source": "Miro",
+          "topic": "设计思维",
+          "story": "你开了一个工作坊，让大家贴满便利贴，画用户旅程图，但最后发现什么都没改变。设计思维听起来很美好，真正落地时却容易变成形式主义。这篇文章来自Miro，它没有只讲理论，而是告诉你设计思维到底怎么用，从共情到测试每个阶段该做什么。读的时候可以重点看它如何把抽象概念变成可操作的活动，比如怎样提问才能挖出真实需求，以及如何避免让原型测试变成走过场。",
+          "published": ""
+        },
+        {
+          "id": "classic-svpg-outcomes",
+          "title": "Outcomes vs. Outputs",
+          "url": "https://www.svpg.com/outcomes-over-output/",
+          "source": "Silicon Valley Product Group",
+          "topic": "产品结果和产出",
+          "story": "团队辛辛苦苦上线了一个功能，用户量没涨，老板却只看你交付了多少个需求。产品经理经常被“产出”绑架，比如完成了多少任务、发了多少版本，却忘了问这些到底带来了什么改变。这篇文章来自硅谷产品集团，它帮你区分“产出”和“结果”，并解释了为什么盯着结果才能做出好产品。读的时候可以关注作者如何把抽象概念变成团队可以衡量的目标，以及他建议怎样和老板沟通才能让大家都关注真正的价值。",
+          "published": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "companies": [
@@ -3094,242 +3337,6 @@
           "source": "Lenny's Newsletter",
           "topic": "市场平台",
           "story": "这篇更像常青阅读，不是追新闻。主题和市场平台有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "companies": [
-        {
-          "id": "yc-31176",
-          "name": "Rhizome AI",
-          "url": "https://rhizomeai.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/rhizome-ai",
-          "location": "New York City, NY, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 1,
-          "originalOneLiner": "Agent Platform for Life Sciences",
-          "originalDescription": "It takes 500,000 days of office work to bring a drug to market. We want to make it 5. To get there, we need agents doing most of the work. Today, our research agent is the best way to know what the FDA thinks. Users ask a question and get an answer backed by up to 1,000 documents, where each statement has a citation. It’s the best because we have the best retrieval engine. We’ve tuned it on our life science-specific dataset, and we find what others miss. As more teams use Rhizome, we gain more data on what regulatory professionals actually need, which makes retrieval even better. This flywheel is how we become the retrieval engine that powers all human and agent work in life sciences. Chetan started his career as a research engineer, but quickly realized he enjoyed building more than research. He joined EvolutionaryScale as their sole founding product engineer, launching their developer-scientist platform and scaling to tens of thousands of users and billions of API calls. He was also #16 at Instabase helping banks with document processing, closing $7m as the technical closer. Agents can do magical things today, but most in life sciences only use them to edit emails. Agents are missing the context they need to 100x the number of drugs we can bring to market. Rhizome AI is focused on that critical problem.",
-          "story": "工程团队不缺新工具，缺的是能减少等待和返工的工具。Rhizome AI 如果能让一个复杂环节更可靠，就有机会嵌进日常开发流程。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 冬季 2026 批次和还在招聘只是第一层信号。",
-          "rank": 1
-        },
-        {
-          "id": "yc-27881",
-          "name": "Inkeep",
-          "url": "https://inkeep.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/inkeep",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Workflow Automation",
-            "Customer Support",
-            "No-code",
-            "AI Assistant"
-          ],
-          "batch": "Winter 2023",
-          "isHiring": true,
-          "teamSize": 18,
-          "originalOneLiner": "Build AI Agent teammates and automations in code or no-code",
-          "originalDescription": "Inkeep is the only agent platform designed to help both developers and non-developers ship Agent-powered assistants and automations. Companies like Anthropic, Midjourney, Clay, PostHog, and Postman deploy Inkeep Agents at scale to help with everything from support to sales. Highlights: - A No-Code Builder and Developer Framework with full 2-way sync - Unified search and RAG for knowledge bases, docs, and company data - MCPs and integrations with your apps, APIs, and software - Intelligent insights and monitoring over how Agents perform With Inkeep Agents, enterprises and high-growth teams empower their employees with AI teammates that help get work done and automate repeatable tasks. Backed by Khosla Ventures, Y-Combinator, Great Point Ventures and leading CEOs and founders.",
-          "story": "工程团队不缺新工具，缺的是能减少等待和返工的工具。Inkeep 如果能让一个复杂环节更可靠，就有机会嵌进日常开发流程。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 冬季 2023 批次和还在招聘只是第一层信号。",
-          "rank": 2
-        },
-        {
-          "id": "yc-31057",
-          "name": "Valgo",
-          "url": "https://valgo.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/valgo",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Insurance risk layer for physical AI",
-          "originalDescription": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk. Our team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs with leading expertise in safety of physical AI systems. Sydney wrote the textbook on validating safety-critical systems and teaches the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB and an actuary who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
-          "story": "如果一笔交易或一份保单要靠人来回核对文件，速度慢只是表面问题，真正麻烦的是漏看和无法解释。Valgo 想让这段流程更清楚。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 冬季 2026 批次和官网信息相对完整只是第一层信号。",
-          "rank": 3
-        },
-        {
-          "id": "yc-31382",
-          "name": "Kinro",
-          "url": "https://www.kinro.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/kinro",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Autonomous insurance brokerage for small businesses",
-          "originalDescription": "We are building the first autonomous insurance brokerage. We hit $1M in annual revenue building insurance workflows for brokers. Then we realized the bigger opportunity was replacing them. In the US, there are 36 million SMBs, and 77% are underinsured because distribution is broken. Brokers can’t serve low-premium SMBs profitably: a $2K policy takes almost as much work as a $20K one. Kinro changes that. Our AI agents handle the full broker workflow 24/7, from finding prospects to binding policies. In 3 weeks, we got licensed in 24 states and appointed by 10 carriers. Last week, our agents autonomously bound 9 policies. Before Kinro, Pierre was an AI researcher at DeepMind. Corentin was Chief Insurance Officer at an insurtech. Parth built ML systems at Zoox.",
-          "story": "公开资料里已经提到收入、州牌照和保险公司合作，这些比单纯概念更硬。小企业保险分销很适合被自动化重做。小企业保费不高，但经纪人服务它们也要花不少时间，所以传统经纪人并不总愿意认真做。Kinro 想用智能体自动完成保险经纪流程，从找客户到绑定保单都尽量自动化。",
-          "rank": 4
-        },
-        {
-          "id": "yc-30491",
-          "name": "Novoflow",
-          "url": "https://www.novoflow.io/",
-          "sourceUrl": "https://www.ycombinator.com/companies/novoflow",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2025",
-          "isHiring": true,
-          "teamSize": 6,
-          "originalOneLiner": "AI employees that automate medical operations for clinics.",
-          "originalDescription": "Novoflow is building AI employees that automate medical operations for clinics. Novoflow built the universal bridge into EHR systems—so every workflow, from scheduling to billing, can finally run on AI. The first product is an AI employee that talks to patients and uses computer agents to book, reschedule, and recover cancelled appointments. Built for healthcare providers and hospitals.",
-          "story": "假如你在诊所或医院负责一天的运营，最烦的往往不是一个大问题，而是病人信息、保险确认、医生安排和后续跟进散在很多地方。Novoflow 想帮你把这些琐碎但不能出错的环节串起来。 YC 春季 2025 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 5
-        },
-        {
-          "id": "yc-29611",
-          "name": "mdhub",
-          "url": "https://www.mdhub.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/mdhub",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2024",
-          "isHiring": true,
-          "teamSize": 11,
-          "originalOneLiner": "AI-native operating system for behavioral health clinics.",
-          "originalDescription": "mdhub is the AI-native operating system for behavioral health. We combine AI workers with a purpose-built EHR, CRM, and RCM into one platform where clinical teams and AI collaborate across every workflow. Mid to large-sized behavioral health clinics run on disconnected legacy systems that weren't designed for today's demand. The result: clinician burnout, admin bloat, and patients waiting weeks for care. mdhub replaces the entire fragmented stack with a single AI-first platform. Our AI workers: Emma, AI Clinical Assistant: automates documentation and gives clinicians back hours every day. Sarah, AI Admissions Coordinator: handles 100% of inbound calls, verifies insurance, and books patients 24/7. Eric, AI Billing Agent: manages coding, claims submission, and denial management same-day. Our platform: mdhub EHR: the first clinical workspace built for AI from day one. Documentation, intake, treatment planning, e-prescribing, and billing in one place. mdhub CRM: every lead captured, every follow-up automated, nothing falls through the cracks. mdhub RCM: end-to-end revenue cycle management. From claim submission to collections, AI-powered and fully integrated. We're not another EHR with AI bolted on. We're not a point solution. We're the full operating system where AI workers and human teams run a clinic together. Hundreds of mid to large-sized behavioral health clinics use mdhub today, including some of the largest organizations in the country. One platform, less overhead, more patients seen.",
-          "story": "行为健康诊所最缺的往往不是表格，而是能把护理记录、合规材料和保险审核连起来的后台能力。mdhub 想让诊所少在行政流程里空转。 它现在还不能只凭介绍就下结论，但YC 夏季 2024 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 6
-        },
-        {
-          "id": "yc-30662",
-          "name": "DeepAware AI",
-          "url": "https://roboticscenter.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/deepaware-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Robotics",
-            "Supply Chain",
-            "Data Engineering"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Robots, parts & RL environments - delivered in 72 hrs or pickup in SF.",
-          "originalDescription": "DeepAware (Silicon Valley Robotics Center roboticscenter.ai) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup. Beyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
-          "story": "设想你在工厂或机器人团队里，真正头疼的不是演示能不能跑一次，而是任务每天变化、现场条件不稳定、调试成本很高。DeepAware AI 想把分散的数据收集起来，整理成普通人能看懂、能拿来做决定的信息。 YC 夏季 2025 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 7
-        },
-        {
-          "id": "yc-30977",
-          "name": "Rovi Health",
-          "url": "https://www.rovi.health",
-          "sourceUrl": "https://www.ycombinator.com/companies/rovi-health",
-          "location": "New York, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Consumer Health Services",
-            "Health Tech",
-            "Digital Health",
-            "Healthcare",
-            "Health Insurance"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI healthcare concierge for employees",
-          "originalDescription": "We deliver high-quality, cost-effective healthcare to employees through text. Employers cut 10–20% of healthcare spend. Employees get concierge care that improves outcomes. Our AI agents analyze clinical data to identify care needs. We treat common conditions through our integrated virtual clinic. For more complex care, our agents find the best in-network providers using millions of price and quality data points, and handle end-to-end appointment booking.",
-          "story": "假如你在诊所或医院负责一天的运营，最烦的往往不是一个大问题，而是病人信息、保险确认、医生安排和后续跟进散在很多地方。Rovi Health 想帮你把这些琐碎但不能出错的环节串起来。 YC 秋季 2025 批次 这个背景让它值得先记录下来，后面更应该看的是客户案例和产品落地。",
-          "rank": 8
-        },
-        {
-          "id": "yc-30635",
-          "name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
-          "url": "https://gru.space",
-          "sourceUrl": "https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Moon Hotel -> The Intergalactic Construction Company of Earth",
-          "originalDescription": "GRU Space is building permanent lunar infrastructure to make humanity interplanetary within our lifetime, starting with the first hotel on the Moon. In just 6 weeks, we built the world's first Moon factory: patent-pending hardware that turns lunar regolith into bricks and inflates modular pressurized habitats designed to withstand lunar temperature and pressure extremes. Our first mission lands on the Moon in 2027 to demonstrate in-situ brick manufacturing and habitat deployment. A second mission lays the hotel's foundation inside a lunar cave, and a third opens the first lunar hotel, targeted for 2032. We don’t stop at Moon hotels. GRU’s long-term plan: 1. Build the first hotel on the Moon. GRU solves off‑world surface habitation. 2. Become the Moon Base Company of America: build roads, mass drivers, warehouses, and physical infrastructure. 3. Repeat on Mars and build the first cities there. 4. Own property on the Moon and Mars as these economies grow. 5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond—reaching our final form: Galactic Resource Utilization. GRU Space is backed by investors in SpaceX and Anduril, is part of Nvidia's Inception program, and our launch generated 1B+ views across 60+ countries, earning invitations to the White House, Senate, and Pentagon.",
-          "story": "制造业和机器人项目经常卡在落地阶段，现场变化、设备约束和维护成本都会放大问题。Galactic Resource Utilization Space, Inc. (GRU Space) 试图把其中一块流程做成更稳定的工具。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 冬季 2026 批次和还在招聘只是第一层信号。",
-          "rank": 9
-        },
-        {
-          "id": "yc-29646",
-          "name": "Corgi Insurance",
-          "url": "https://corgi.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/corgi-insurance",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Fintech",
-            "Insurance"
-          ],
-          "batch": "Summer 2024",
-          "isHiring": true,
-          "teamSize": 150,
-          "originalOneLiner": "Corgi is building an AI financial infrastructure company",
-          "originalDescription": "Corgi is a full-stack insurance carrier building better, faster insurance products for startups. We’re not a broker, so we underwrite and issue policies directly, with fewer handoffs and less friction. Cutting out intermediaries lets us tailor coverage to how your company actually operates and price risk more efficiently.",
-          "story": "金融和保险里的很多工作并不是缺人判断，而是材料太散、规则太多、过程还必须可追溯。Corgi Insurance 想把这类判断前的准备工作自动化。 它现在还不能只凭介绍就下结论，但YC 夏季 2024 批次加上还在招聘，足够作为一个后续观察点。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "classic-nng-service-blueprint",
-          "title": "Service Blueprints: Definition",
-          "url": "https://www.nngroup.com/articles/service-blueprints-definition/",
-          "source": "Nielsen Norman Group",
-          "topic": "服务设计和流程",
-          "story": "这篇更像常青阅读，不是追新闻。主题和服务设计和流程有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        },
-        {
-          "id": "classic-pg-ds",
-          "title": "Do Things that Don't Scale",
-          "url": "https://www.paulgraham.com/ds.html",
-          "source": "Paul Graham",
-          "topic": "早期产品和用户",
-          "story": "早期产品最容易被误解的一点，这篇讲得很清楚。刚开始的公司不要急着把一切自动化，也不要太早追求看起来很规模化的增长。创始人应该亲自找用户、亲自服务用户，甚至做一些看起来很笨的事情。对产品判断来说，这篇文章有用的地方在于它提醒你，早期产品的核心不是流程漂亮，而是能不能让一小群人真的喜欢。",
-          "published": ""
-        },
-        {
-          "id": "classic-first-round-pmf",
-          "title": "Paths to Product-Market Fit",
-          "url": "https://review.firstround.com/series/product-market-fit/",
-          "source": "First Round Review",
-          "topic": "产品市场匹配",
-          "story": "产品市场匹配常被说得很抽象，这组内容把它拉回真实公司的过程。不同公司找到 PMF 的路径很不一样，有的是从非常具体的客户痛点开始，有的是先抓住一个小众但强烈的使用场景。它的价值在于让你看到真实公司的转折点，而不是只看成功后的总结。读它时可以重点看创始人怎么发现用户真的需要这个东西。",
           "published": ""
         }
       ]
