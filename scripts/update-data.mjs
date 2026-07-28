@@ -498,6 +498,20 @@ export function isBlockedReading(reading) {
   return Boolean((key && BLOCKED_READING_KEYS.has(key)) || isBlockedReadingDomain(reading.url) || isCollectionReadingUrl(reading.url));
 }
 
+export function isInsightfulReading(reading) {
+  const title = cleanText(reading.title || "").toLowerCase();
+  const introductoryPatterns = [
+    /^what is\b/,
+    /\b101\b/,
+    /\bcheat sheet\b/,
+    /\beverything you need to know\b/,
+    /\b(?:definition|basics?|beginner'?s guide|complete guide)\b/,
+    /^(?:ux debt|design thinking|mental models?|product discovery|product-market fit)$/,
+    /^(?:user journey map|service blueprints?|feature prioritization|retention analysis|usability testing)$/
+  ];
+  return !introductoryPatterns.some((pattern) => pattern.test(title));
+}
+
 function isBlockedReadingDomain(value = "") {
   try {
     const host = new URL(value).hostname.replace(/^www\./, "").toLowerCase();
@@ -576,6 +590,7 @@ const BLOCKED_READING_KEYS = new Set(
     "https://www.atlassian.com/agile/product-management/product-discovery",
     "https://maze.co/blog/product-discovery/",
     "https://www.productboard.com/blog/product-discovery/",
+    "https://www.nngroup.com/articles/ux-debt/",
     "https://a16z.com/marketplace-100/",
     "https://www.gov.uk/service-manual",
     "https://m3.material.io/",
@@ -1446,6 +1461,7 @@ export async function generateLiveFeed({
 function pickUniqueReadings(readings, usedReadingKeys, count = 3) {
   const candidates = readings
     .filter((reading) => !isBlockedReading(reading))
+    .filter((reading) => isInsightfulReading(reading))
     .filter((reading) => {
       const key = readingDedupeKey(reading);
       return key && !usedReadingKeys.has(key);
@@ -1460,6 +1476,7 @@ function pickUniqueReadings(readings, usedReadingKeys, count = 3) {
 async function pickHealthyReadings(readings, usedReadingKeys, count = 3) {
   const candidates = readings
     .filter((reading) => !isBlockedReading(reading))
+    .filter((reading) => isInsightfulReading(reading))
     .filter((reading) => {
       const key = readingDedupeKey(reading);
       return key && !usedReadingKeys.has(key);

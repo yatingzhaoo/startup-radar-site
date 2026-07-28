@@ -225,12 +225,12 @@
           "published": ""
         },
         {
-          "id": "classic-nng-ux-debt",
-          "title": "UX Debt",
-          "url": "https://www.nngroup.com/articles/ux-debt/",
-          "source": "Nielsen Norman Group",
-          "topic": "产品体验债务",
-          "story": "产品做得久了，总会有一些体验上的小问题被攒下来，就像欠债一样，利息越滚越高。这篇文章把这种“UX债”怎么产生、怎么累积、怎么还，讲得很清楚。读的时候可以关注作者怎么把模糊的体验问题拆成可以衡量和优先级排序的具体事项，这对实际工作很有启发。",
+          "id": "classic-pg-users",
+          "title": "What I've Learned from Users",
+          "url": "https://paulgraham.com/users.html",
+          "source": "Paul Graham",
+          "topic": "用户理解和创业判断",
+          "story": "创业者每天都会面对很多问题，最响亮的那个却未必最重要。有人以为融资困难是不会讲故事，往下追才发现公司本身表现不好；有人苦恼获客，真正的问题却是连自己都不愿意用这个产品。Paul Graham 根据长期观察 YC 创业公司的经验，解释了为什么创始人容易看错问题的轻重。这篇值得读，是因为它最后落到一个很有力量的判断：速度不是同时做更多事，而是更快找到当下最该解决的问题，再用一周左右的行动验证它。",
           "published": ""
         }
       ]

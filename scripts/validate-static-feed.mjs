@@ -1,7 +1,12 @@
 import { readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { companyDedupeKeys, isBlockedReading, readingDedupeKey } from "./update-data.mjs";
+import {
+  companyDedupeKeys,
+  isBlockedReading,
+  isInsightfulReading,
+  readingDedupeKey
+} from "./update-data.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const root = dirname(here);
@@ -26,6 +31,7 @@ for (const day of feed.days || []) {
   for (const reading of day.readings) {
     if (day.date === expectedDate) {
       assert(!isBlockedReading(reading), `${day.date}: blocked reading ${reading.title}`);
+      assert(isInsightfulReading(reading), `${day.date}: introductory or low-insight reading ${reading.title}`);
     }
     assert(/^https:\/\//.test(reading.url || ""), `${day.date}: invalid reading URL for ${reading.title}`);
     const key = readingDedupeKey(reading);

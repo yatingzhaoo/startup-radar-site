@@ -7,6 +7,7 @@ import {
   generateLiveFeed,
   isClearlyNotCompanyEntity,
   isBlockedReading,
+  isInsightfulReading,
   readingDedupeKey
 } from "./update-data.mjs";
 
@@ -76,6 +77,9 @@ function validateSelection(value, expectedDate) {
   if (invalidCompany) throw new Error(`Non-company entity selected: ${invalidCompany.name}`);
   for (const item of [...value.companies, ...value.readings]) {
     if (!/^https:\/\//.test(item.url || "")) throw new Error(`Invalid URL for ${item.name || item.title}`);
+  }
+  for (const reading of value.readings) {
+    if (!isInsightfulReading(reading)) throw new Error(`Introductory or low-insight reading selected: ${reading.title}`);
   }
 }
 
