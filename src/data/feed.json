@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T20:22:35.210Z",
+  "generatedAt": "2026-07-28T20:37:00.496Z",
   "source": "github-static",
   "days": [
     {
@@ -424,23 +424,27 @@
           "rank": 9
         },
         {
-          "id": "ph-grok-4-5",
-          "name": "Grok 4.5",
-          "url": "https://www.producthunt.com/products/grok",
-          "sourceUrl": "https://www.producthunt.com/products/grok",
-          "location": "Unknown",
+          "id": 30160,
+          "name": "Quantstruct",
+          "url": "https://quantstruct.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/quantstruct",
+          "location": "San Francisco, CA, USA",
           "source": [
-            "Product Hunt"
+            "Y Combinator"
           ],
           "tags": [
-            "AI"
+            "Artificial Intelligence",
+            "Developer Tools",
+            "B2B",
+            "API",
+            "Automation"
           ],
-          "batch": "",
+          "batch": "Winter 2025",
           "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "SpaceXAI's model for coding, agentic tasks & knowledge work",
-          "originalDescription": "SpaceXAI's model for coding, agentic tasks & knowledge work",
-          "story": "Grok 4.5 是 SpaceXAI 推出的模型，专注于编程、智能体任务和知识工作。想象你是一个软件工程师，需要快速编写一个复杂算法或处理大量文档分析。Grok 4.5 在代码生成、工具调用和推理方面做了优化，能更准确地理解你的意图并生成高质量输出。它在 Product Hunt 上发布，作为 SpaceXAI 的模型，继承了之前版本的对话风格，但在编码和智能体场景上表现更突出。",
+          "teamSize": 2,
+          "originalOneLiner": "AI documentation engineer – test & autoimprove stale product docs",
+          "originalDescription": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications. Quantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams. Traditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
+          "story": "这家公司做的是开发工具里的文档自动化。假如你是一个负责产品文档的技术写手，每次产品更新后都要手动测试接口、截图、录视频，还要核对风格指南，经常发现文档已经过时，客户抱怨查不到正确信息。Quantstruct 用多个智能体自动搜索现有知识库，测试文档是否有效，然后通过浏览器操控企业软件，生成带截图和视频的文档。它还能根据产品发布或未满足的客户查询找出知识库的缺口。传统的人工智能生成工具容易编造关键接口字段，纯智能体方法输出又不可预测，而 Quantstruct 把测试和生成结合起来，让文档更准确。这家公司来自 YC 冬季 2025 批次，目前团队两人，值得关注的是它瞄准了一个很具体又很痛的场景：技术写手和产品团队花大量时间维护文档，而 Quantstruct 用自动化大幅降低这个负担。",
           "rank": 10
         }
       ],
@@ -1139,44 +1143,45 @@
           "rank": 8
         },
         {
-          "id": "ph-ai-agents-in-chat",
-          "name": "AI Agents in Chat",
-          "url": "https://www.producthunt.com/products/cometchat",
-          "sourceUrl": "https://www.producthunt.com/products/cometchat",
-          "location": "Unknown",
+          "id": 32418,
+          "name": "Traceforce",
+          "url": "https://www.traceforce.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/traceforce",
+          "location": "San Francisco, CA, USA",
           "source": [
-            "Product Hunt"
+            "Y Combinator"
           ],
           "tags": [
-            "AI",
-            "Design"
+            "Artificial Intelligence",
+            "SaaS",
+            "Security",
+            "Cybersecurity",
+            "Enterprise"
           ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Your Chat UI Just Got an AI Roommate",
-          "originalDescription": "Your Chat UI Just Got an AI Roommate",
-          "story": "AI Agents in Chat 给你的聊天界面增加了一个人工智能室友。想象你是一个每天在 Slack 或微信上处理大量消息的销售主管，经常需要快速查找客户历史、安排会议或生成跟进邮件。这个工具在你的聊天窗口里放了一个智能体，它能理解上下文、主动提供帮助，就像房间里多了一个随时待命的助手。它来自 Product Hunt，让聊天界面从被动沟通变成主动协作。",
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Securing AI native apps directly on devices",
+          "originalDescription": "AI apps such as ChatGPT and Claude have become part of everyone's daily workflow, but they introduce new security risks that traditional security tools weren't built to handle. Security teams at companies from startups to Fortune 500s, are struggling to keep up. Traceforce gives a company’s security team visibility of how AI apps are being used across company’s devices, and the ability to detect and prevent security breaches and unsafe actions as early as possible.",
+          "story": "这是做人工智能应用安全的公司。想象你是某家公司的安全负责人，员工们每天都在用 ChatGPT 和 Claude 这类人工智能工具写代码、回邮件、整理数据，但你完全不知道这些对话会不会把客户名单或源代码泄露出去。传统安全工具根本看不懂人工智能应用里的行为，Traceforce 能直接装在每台公司电脑上，让你看到谁在用哪些人工智能工具、做了什么操作，还能在数据刚要被发出去的那一刻拦住它。这家公司来自 YC 夏季 2026 批次，正在招人，团队目前只有两人，说明他们刚起步但方向很明确：帮企业堵住人工智能时代的新漏洞。",
           "rank": 9
         },
         {
-          "id": "ph-remote-openclaw",
-          "name": "Remote OpenClaw",
-          "url": "https://www.producthunt.com/products/remote-openclaw-2",
-          "sourceUrl": "https://www.producthunt.com/products/remote-openclaw-2",
-          "location": "Unknown",
+          "id": 31088,
+          "name": "RunAnywhere",
+          "url": "https://www.runanywhere.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/runanywhere",
+          "location": "San Francisco, CA, USA",
           "source": [
-            "Product Hunt"
+            "Y Combinator"
           ],
-          "tags": [
-            "AI"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "13,000+ MCP servers, skills & plugins for AI coding agents",
-          "originalDescription": "13,000+ MCP servers, skills & plugins for AI coding agents",
-          "story": "Remote OpenClaw 是一个汇集了 13000 多个 MCP 服务器、技能和插件的平台，专为人工智能编程智能体设计。假如你是一个用 Claude Code 或 Codex 写代码的工程负责人，你的智能体需要访问数据库、调用接口或读取文件，但每次都要手动配置。Remote OpenClaw 提供现成的工具集，智能体可以直接调用，大大扩展了它们的能力边界。它来自 Product Hunt，是人工智能编程生态中一个快速增长的工具市场。",
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "The default way of running on-device AI at Scale",
+          "originalDescription": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
+          "story": "这家公司解决的是在设备本地运行人工智能的难题。假如你是工厂的工程负责人，想在产线摄像头上加一个视觉检测模型，结果发现每款芯片的推理引擎都不一样，模型太大跑不动，功耗还超标。RunAnywhere 给你一套统一的软件开发包，写一次就能部署到成千上万台不同设备上，同时还有一个后台面板让你远程管理所有模型、设置规则、查看运行效果。它来自 YC 冬季 2026 批次，团队五人，正在招聘，核心是把边缘人工智能从“每个设备单独调”变成像用云服务一样简单。",
           "rank": 10
         }
       ],
@@ -2046,24 +2051,26 @@
           "rank": 6
         },
         {
-          "id": "ph-basedash-suggestions",
-          "name": "Basedash Suggestions",
-          "url": "https://www.producthunt.com/products/basedash",
-          "sourceUrl": "https://www.producthunt.com/products/basedash",
-          "location": "Unknown",
+          "id": 30894,
+          "name": "Unsiloed AI",
+          "url": "https://www.unsiloed.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/unsiloed-ai",
+          "location": "San Francisco, CA, USA",
           "source": [
-            "Product Hunt"
+            "Y Combinator"
           ],
           "tags": [
-            "AI",
-            "Data"
+            "Artificial Intelligence",
+            "B2B",
+            "Infrastructure",
+            "APIs"
           ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Your AI data analyst, now with ideas of its own.",
-          "originalDescription": "Your AI data analyst, now with ideas of its own.",
-          "story": "这是一个自带想法的人工智能数据分析工具。假如你是市场分析师，每天要面对海量数据，却不知道从哪里开始分析。Basedash Suggestions 不仅能回答你的问题，还会主动提出它认为有价值的分析方向，帮你发现隐藏的洞察。它来自 Product Hunt，适合需要快速从数据中获得启发的人。",
+          "batch": "Fall 2025",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "API for parsing multimodal unstructured data",
+          "originalDescription": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets. Our APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
+          "story": "这家公司做的是多模态非结构化数据的解析基础设施。想象你是一个正在搭建企业知识库的机器学习工程师，面对大量包含文字、表格、图片和图表的混合文档，通用大模型解析器和OCR经常出错，导致后续的检索增强生成管道和自动化流程频频崩溃。Unsiloed AI 构建了先进的视觉语言模型，通过接口就能把混乱的文档变成结构化、可查询、大模型可直接使用的资产。它已经为初创公司和纳斯达克上市企业解析了数十万份文档，在公开基准测试上持续优于 LlamaIndex、Gemini、Mistral 等方案。作为 YC 2025 年秋季批次的公司，团队只有两人但正在招聘，说明他们用极小的规模做出了扎实的基础设施层产品。",
           "rank": 7
         },
         {
@@ -2281,23 +2288,27 @@
           "rank": 6
         },
         {
-          "id": "ph-in-parallel-mcp",
-          "name": "In Parallel MCP",
-          "url": "https://www.producthunt.com/products/in-parallel",
-          "sourceUrl": "https://www.producthunt.com/products/in-parallel",
-          "location": "Unknown",
+          "id": 28887,
+          "name": "Skyvern",
+          "url": "https://www.skyvern.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/skyvern",
+          "location": "San Francisco, CA, USA; Remote",
           "source": [
-            "Product Hunt"
+            "Y Combinator"
           ],
           "tags": [
-            "AI"
+            "Artificial Intelligence",
+            "Robotic Process Automation",
+            "Workflow Automation",
+            "Open Source",
+            "API"
           ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Your context, available to every agent.",
-          "originalDescription": "Your context, available to every agent.",
-          "story": "In Parallel MCP 是一个让你上下文能被每个智能体访问的工具。想象你是一个开发者，同时使用多个智能体，每个都要重新告诉它你的项目和偏好，非常低效。In Parallel MCP 把你的上下文统一起来，让所有智能体都能共享，省去重复配置。这个产品来自 Product Hunt，虽然团队和融资信息不多，但解决的是智能体协作中的真实痛点，值得关注。",
+          "batch": "Summer 2023",
+          "isHiring": true,
+          "teamSize": 10,
+          "originalOneLiner": "Open Source AI Agent to automate browser workflows via an API",
+          "originalDescription": "Skyvern helps companies automate browser based workflows using LLMs and Computer Vision, fully automating manual workflows and replacing brittle or unreliable scripts. Examples include: 1. Automating materials procurement from commerce websites 2. Completing complex multi-step workflows (ie getting an insurance quote from Geico.com) 3. Automatically logging into portals and downloading invoices 4. Navigating legacy content systems to do data extraction or data entry",
+          "story": "这家公司做的是用人工智能自动化浏览器操作，属于企业流程自动化方向。想象你是一个采购主管，每天要登录几十个供应商网站查询价格、下单、下载发票，重复又容易出错。Skyvern 就像一个能看懂网页的智能助手，你只需要告诉它目标，它就能像人一样点击、填写、导航，完成从采购到保险报价、数据录入等各种复杂操作。它基于视觉语言模型和大语言模型，不需要依赖脆弱的脚本或接口，即使网页改版也能适应。这家公司来自 YC 夏季 2023 批次，团队 10 人，正在招聘，并且产品开源，已经吸引了不少企业的关注。",
           "rank": 7
         },
         {
@@ -2559,24 +2570,21 @@
           "rank": 8
         },
         {
-          "id": "ph-codex-micro",
-          "name": "Codex Micro",
-          "url": "https://www.producthunt.com/products/openai",
-          "sourceUrl": "https://www.producthunt.com/products/openai",
-          "location": "Unknown",
+          "id": 31360,
+          "name": "Lightsprint",
+          "url": "https://lightsprint.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/lightsprint",
+          "location": "San Francisco, CA, USA",
           "source": [
-            "Product Hunt"
+            "Y Combinator"
           ],
-          "tags": [
-            "AI",
-            "Developer Tools"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Tactile controls for your Codex agents",
-          "originalDescription": "Tactile controls for your Codex agents",
-          "story": "这家公司为 Codex 智能体提供触觉控制工具。想象你正在用 Codex 编写代码，但智能体执行时你只能看不能干预，遇到错误要等它跑完才能调整。Codex Micro 让你在智能体运行过程中实时暂停、修改指令或重新定向，像给自动驾驶加了一个方向盘。它出现在 Product Hunt 上，适合希望更精细控制编码智能体的开发者。",
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Collaborative product development with cloud agents",
+          "originalDescription": "Lightsprint is a collaborative platform for software teams to plan visually, preview live and ship with an army of cloud agents. Your whole team, including non-engineers, can now ship end to end reliably. The company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
+          "story": "这家公司做的是软件开发协作工具，但不止是画图或写文档。想象你是一个产品经理，每天要和技术、设计、测试反复沟通需求，改来改去，上线前还总出问题。Lightsprint 让你和整个团队，包括不懂代码的同事，都能在同一个可视化平台上规划功能、预览效果，然后直接交给云端智能体去完成开发和测试。你不再需要等工程师排期，也不用担心沟通走样。团队只有三个人，但正在招聘，说明这个工具已经开始被真正需要。",
           "rank": 9
         },
         {
@@ -2773,43 +2781,44 @@
           "rank": 7
         },
         {
-          "id": "ph-review-by-eddie-ai",
-          "name": "Review by Eddie AI",
-          "url": "https://www.producthunt.com/products/eddie-your-ai-video-editor",
-          "sourceUrl": "https://www.producthunt.com/products/eddie-your-ai-video-editor",
-          "location": "Unknown",
+          "id": 31518,
+          "name": "Runtime",
+          "url": "https://www.runtm.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/runtime",
+          "location": "San Francisco, CA, USA",
           "source": [
-            "Product Hunt"
+            "Y Combinator"
           ],
-          "tags": [
-            "AI"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Time-stamped feedback on your video from your team. And AI.",
-          "originalDescription": "Time-stamped feedback on your video from your team. And AI.",
-          "story": "这是一家做视频协作反馈工具的公司。想象你是一个创意团队的负责人，刚完成一支广告片的粗剪，需要收集导演、文案和客户的意见。过去你只能靠邮件来回或开会时口头点评，很容易遗漏细节。Review by Eddie AI 让团队成员直接在视频时间轴上打点留言，还能借助人工智能生成摘要和建议。它把散乱的反馈变成结构化、可追溯的清单，让修改过程不再混乱。这家公司刚在 Product Hunt 上发布，适合那些每天要处理大量视频审阅的团队。",
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Build and run internal agents, without managing the infrastructure",
+          "originalDescription": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely. Eng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod. We're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
+          "story": "这家公司切的是企业内部的编码智能体管理。想象你是工程负责人，团队里产品经理、设计师和市场人员都想用编码智能体来改代码或建新应用，但你完全看不到他们在做什么，也不知道会不会搞坏生产环境。Runtime 提供沙盒环境、会话级监控和可配置护栏，让非工程师也能安全地使用编码智能体，而你随时能看到一切。它已经和一些快速增长的 YC 公司合作，值得关注是因为它来自 YC 2026 春季批次，正在招聘，团队虽然只有三人，但解决的是工程团队放权与安全之间的真实痛点。",
           "rank": 8
         },
         {
-          "id": "ph-velo-3-0",
-          "name": "Velo 3.0",
-          "url": "https://www.producthunt.com/products/velo-4",
-          "sourceUrl": "https://www.producthunt.com/products/velo-4",
-          "location": "Unknown",
+          "id": 30903,
+          "name": "Kestrel AI",
+          "url": "https://usekestrel.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/kestrel-ai",
+          "location": "San Francisco, CA, USA",
           "source": [
-            "Product Hunt"
+            "Y Combinator"
           ],
           "tags": [
-            "AI"
+            "AIOps",
+            "Developer Tools",
+            "DevOps",
+            "Infrastructure"
           ],
-          "batch": "",
+          "batch": "Fall 2025",
           "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI video infrastructure to explain, train, and sell faster.",
-          "originalDescription": "AI video infrastructure to explain, train, and sell faster.",
-          "story": "开发者工具的价值常常藏在少踩坑里。团队要交付业务功能，但会被集成、权限、调试和部署拖住。Velo 3.0 想把其中一段基础工作做薄。 这里没有 YC 批次或团队人数这类整齐字段，所以更应该看产品本身和来源信号；今天的信号主要来自 Product Hunt。",
+          "teamSize": 2,
+          "originalOneLiner": "AI Agents for Platform Engineering",
+          "originalDescription": "Kestrel is the AI automation layer for platform engineering teams. Platform teams use Kestrel to automate incident response, cloud provisioning, CI/CD, security, and developer requests across their stack. Kestrel turns natural-language prompts into deterministic, production-ready workflows with 25+ integrations, 140+ pre-built actions, and support for custom HTTP and webhook actions. Developer-first, with a CLI, Python SDK, and MCP server to manage workflows from where platform teams already work.",
+          "story": "这是做平台工程自动化层的公司。假如你是平台工程团队的成员，每天要处理事件响应、云资源调配、CI/CD、安全审计和开发者的各种请求，忙得焦头烂额。Kestrel AI 让你用自然语言描述需求，就能自动生成确定性的生产级工作流，集成了超过 25 种工具、140 多个预置动作，还支持自定义 HTTP 和 webhook。它提供命令行界面、Python 开发包和 MCP 服务器，让你在熟悉的环境里管理一切。值得关注是因为它来自 YC 2025 秋季批次，团队两人，定位清晰，直接面向平台工程这个刚需场景。",
           "rank": 9
         },
         {
