@@ -5,6 +5,7 @@ import { enrichFeedWithDeepSeek } from "../api/feed.js";
 import {
   companyDedupeKeys,
   generateLiveFeed,
+  isClearlyNotCompanyEntity,
   isBlockedReading,
   readingDedupeKey
 } from "./update-data.mjs";
@@ -15,7 +16,7 @@ const feedPath = join(root, "src/data/feed.json");
 const readingHistoryPath = join(root, "src/data/reading-history.json");
 const date = process.argv[2] || currentLosAngelesDate();
 const existingFeed = JSON.parse(readFileSync(feedPath, "utf8"));
-const historyDays = (existingFeed.days || []).filter((day) => day.date !== date && day.date <= date);
+const historyDays = (existingFeed.days || []).filter((day) => day.date !== date);
 const storedReadingHistory = readReadingHistory();
 const sharedReadingHistory = await readSharedReadingHistory();
 const knownReadingHistory = mergeReadingHistory([
@@ -71,6 +72,8 @@ function validateSelection(value, expectedDate) {
   if (value?.date !== expectedDate) throw new Error(`Generated ${value?.date || "nothing"}, expected ${expectedDate}`);
   if (value.companies?.length !== 10) throw new Error(`Expected 10 companies, received ${value.companies?.length || 0}`);
   if (value.readings?.length !== 3) throw new Error(`Expected 3 readings, received ${value.readings?.length || 0}`);
+  const invalidCompany = value.companies.find(isClearlyNotCompanyEntity);
+  if (invalidCompany) throw new Error(`Non-company entity selected: ${invalidCompany.name}`);
   for (const item of [...value.companies, ...value.readings]) {
     if (!/^https:\/\//.test(item.url || "")) throw new Error(`Invalid URL for ${item.name || item.title}`);
   }

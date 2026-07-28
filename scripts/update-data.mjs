@@ -950,6 +950,7 @@ async function getCompanies(excludedIds = new Set(), date = TODAY) {
     .slice(0, 300);
 
   const externalCandidates = externalCompanies
+    .filter(isVerifiedCompanySource)
     .filter((company) => !hasAnyKey(excludedIds, companyDedupeKeys(company)))
     .map((company) => ({
       company,
@@ -1015,6 +1016,25 @@ async function getExternalCompanies() {
     seen.add(key);
     return true;
   });
+}
+
+function isVerifiedCompanySource(company) {
+  const sources = Array.isArray(company.source) ? company.source : [company.source];
+  // Product Hunt describes launches, which may be a model version, feature, or
+  // plug-in rather than a company. Keep it out until the launch is resolved to
+  // a verified company entity.
+  return !sources.includes("Product Hunt");
+}
+
+export function isClearlyNotCompanyEntity(company) {
+  const name = cleanText(company?.name || "");
+  const sources = Array.isArray(company?.source) ? company.source : [company?.source];
+  if (!name || !sources.includes("Product Hunt")) return false;
+
+  const modelFamilies = /\b(?:chatgpt|claude|codex|deepseek|gemini|grok|llama|mistral|qwen|sora|veo)\b/i;
+  const releaseVersion = /\b(?:v(?:ersion)?\s*)?\d+(?:\.\d+)+(?:\b|$)/i;
+  const featureLaunch = /(?:\bsuggestions?\b|\bagents?\s+in\s+chat\b|\breview\s+by\b|\bremote\s+openclaw\b|\bin\s+parallel\s+mcp\b)/i;
+  return modelFamilies.test(name) || releaseVersion.test(name) || featureLaunch.test(name);
 }
 
 async function getCuratedNonYcCompanies() {

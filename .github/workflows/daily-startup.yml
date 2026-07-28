@@ -5,6 +5,12 @@ on:
     - cron: "17 0 * * *"
       timezone: "America/Los_Angeles"
   workflow_dispatch:
+    inputs:
+      repair_company_entities:
+        description: "Replace model or feature launches incorrectly listed as companies"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -28,6 +34,7 @@ jobs:
       - run: npm ci
 
       - name: Generate and verify today's feed
+        if: ${{ !inputs.repair_company_entities }}
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: |
@@ -35,6 +42,16 @@ jobs:
           TODAY="$(TZ=America/Los_Angeles date +%F)"
           node scripts/generate-static-day.mjs "$TODAY"
           node scripts/validate-static-feed.mjs "$TODAY"
+          npm run build
+
+      - name: Repair non-company entries
+        if: ${{ inputs.repair_company_entities }}
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          test -n "$DEEPSEEK_API_KEY"
+          npm run fix:company-entities
+          node scripts/validate-static-feed.mjs
           npm run build
 
       - name: Save the successful feed
@@ -47,5 +64,9 @@ jobs:
             echo "No content change"
             exit 0
           fi
-          git commit -m "Update startup radar ${TODAY}"
+          if [ "${{ inputs.repair_company_entities }}" = "true" ]; then
+            git commit -m "Remove non-company entries from startup radar"
+          else
+            git commit -m "Update startup radar ${TODAY}"
+          fi
           git push
