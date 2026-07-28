@@ -73,7 +73,15 @@ async function generateCompleteStories(date, type, items, generator) {
   let remaining = items;
 
   for (let attempt = 1; attempt <= 3 && remaining.length; attempt += 1) {
-    Object.assign(stories, await generator(date, remaining));
+    try {
+      Object.assign(stories, await generator(date, remaining));
+    } catch (error) {
+      if (attempt >= 3) throw error;
+      console.warn(
+        `DeepSeek ${type} retry ${attempt}/3 for ${date}: ${error instanceof Error ? error.message : String(error)}`
+      );
+      continue;
+    }
     remaining = items.filter((item) => !stories[item.id]);
     if (remaining.length && attempt < 3) {
       console.warn(`DeepSeek ${type} retry ${attempt}/3 for ${date}: ${remaining.length} missing`);
