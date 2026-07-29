@@ -1,7 +1,262 @@
 {
-  "generatedAt": "2026-07-28T20:37:00.496Z",
+  "generatedAt": "2026-07-29T09:48:19.247Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-07-29",
+      "companies": [
+        {
+          "id": 30662,
+          "name": "DeepAware AI (Robotics Center of Silicon Valley)",
+          "url": "https://roboticscenter.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/deepaware-ai-robotics-center-of-silicon-valley",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Robotics",
+            "Supply Chain",
+            "Data Engineering"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Robots, parts & RL envs & evals - delivered in 48 hrs / pickup in SF.",
+          "originalDescription": "DeepAware (Robotics Center of Silicon Valley, https://roboticscenter.ai/) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup. Beyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
+          "story": "DeepAware 是一家为企业和研究人员快速提供机器人硬件及相关服务的公司。想象你是一个机器人实验室的负责人，急需一台机械臂或一批传感器来完成一个紧急项目，但传统采购要等好几周甚至几个月。DeepAware 承诺 72 小时内发货或在旧金山湾区自提，不仅卖硬件，还帮你采集遥操作数据、搭建强化学习环境，甚至把机器人部署到实际生产中。它的客户包括人工智能实验室、工业运营团队和活动制作方，团队只有 4 人但正在招聘，说明这个模式正在快速验证中。",
+          "rank": 1
+        },
+        {
+          "id": 30691,
+          "name": "Embedder",
+          "url": "https://www.embedder.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/embedder",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Hardware",
+            "B2B",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": false,
+          "teamSize": 6,
+          "originalOneLiner": "Hardware-Aware AI for Embedded Software Development",
+          "originalDescription": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
+          "story": "Embedder 是一个为嵌入式软件开发设计的人工智能智能体。假如你是一名嵌入式工程师，每天要翻阅几百页的芯片数据手册，写底层代码，再反复烧录、测试、调试，一个 bug 可能卡好几天。Embedder 能自动阅读你的原理图和文档，生成代码，直接烧录到开发板上，然后用团队已有的调试工具、逻辑分析仪和示波器在真实芯片上运行测试，发现错误后自己修复。它已经支持超过 500 种微控制器和 3000 多种外设，并与多家顶级半导体生态合作，让嵌入式开发从手工作坊变成自动化流水线。",
+          "rank": 2
+        },
+        {
+          "id": 32518,
+          "name": "Agency Tool Company",
+          "url": "https://agencytool.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/agency-tool-company",
+          "location": "Denver, CO, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Robotics",
+            "Automation",
+            "Infrastructure",
+            "Self-Driving Vehicles"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Reliable infrastructure to build, deploy and manage real-world robots.",
+          "originalDescription": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics. Our second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets. Jack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had.",
+          "story": "Agency Tool Company 为机器人团队提供从实验室到现场的快速部署工具。如果你负责一支农业或物流机器人车队，最头疼的莫过于每次更新软件都要花几小时通过 Docker 拉取镜像，网络一断就得重来。ATC Deploy 只传输改动过的字节，断点续传，比传统方式快 20 倍。它的第二个产品 ATC Build 把嵌入式编译作为持续集成服务，让开发者在真实硬件上跑测试，支持 Nvidia Jetson、树莓派等平台。创始人曾创办 Scythe Robotics，在全美部署了数百台自动割草机，这次他们想解决整个行业部署环节的瓶颈。",
+          "rank": 3
+        },
+        {
+          "id": 30042,
+          "name": "Vortexify",
+          "url": "https://www.vortexify.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/vortexify",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Supply Chain",
+            "Big Data",
+            "Operations",
+            "AI",
+            "AI Assistant"
+          ],
+          "batch": "Fall 2024",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Build full-stack applications for business operations with AI",
+          "originalDescription": "Vortexify is an AI application platform that enables developers and domain experts to build production-ready software with AI agents. Instead of writing thousands of lines of code, users can connect enterprise data, describe the problem they want to solve, and collaborate with AI agents to generate secure applications for data-intensive business processes. The platform contextualizes millions of rows of data, and provides the runtime, execution engine, and UI framework agents need to generate and deploy custom applications through two integrated products: the Agent Data Warehouse, a data foundation for enterprise data, and the App Playground, where AI agents build and deploy applications using that data. The Agent Data Warehouse connects to enterprise systems, continuously ingests and contextualizes operational data, and provides a unified understanding of your business. By transforming raw enterprise data into AI-ready context, the ADW enables agents to reason across systems and build intelligent applications. The App Playground is a development environment built on top of the Agent Data Warehouse where developers, engineers, and domain experts collaborate with AI agents throughout the entire application lifecycle. Agents help users discover and define business problems, explore and understand enterprise data, plan and design solutions, and ultimately generate production-ready applications, including business logic, data pipelines, workflows, automations, analytics, and custom user interfaces.",
+          "story": "Vortexify 是一个让人工智能智能体帮你构建业务应用的低代码平台。想象你是一个运营分析师，每周要花大量时间写 SQL 和 Python 来处理上百万行的订单数据，而业务部门又总催着要新的报表工具。用 Vortexify，你只需连接企业数据源，用自然语言描述问题，智能体就会自动生成一个安全的、可运行的全栈应用。平台内置了智能体数据仓库和应用程序工作台，前者持续吸收和关联运营数据，后者让智能体根据这些数据构建和部署应用。它面向开发者和领域专家，把数据密集型流程的自动化门槛大幅降低。",
+          "rank": 4
+        },
+        {
+          "id": 30605,
+          "name": "Dedalus Labs",
+          "url": "https://www.dedaluslabs.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/dedalus-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Workflow Automation",
+            "DevOps"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 10,
+          "originalOneLiner": "Compute substrate for AI agents",
+          "originalDescription": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <250ms.",
+          "story": "Dedalus Labs 为人工智能智能体提供永不休眠的持久化计算环境。如果你在运行一个需要长期监控股票市场或实时处理客户消息的智能体，最怕的就是服务器重启或会话超时导致任务中断。Dedalus Labs 的持久化计算机能在 250 毫秒内启动一个长期运行、有状态的智能体，它不会因为空闲而休眠，可以持续工作。团队目前 10 人，正在招聘，说明产品已经进入快速迭代阶段。",
+          "rank": 5
+        },
+        {
+          "id": 29611,
+          "name": "mdhub",
+          "url": "https://www.mdhub.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/mdhub",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2024",
+          "isHiring": true,
+          "teamSize": 11,
+          "originalOneLiner": "AI-native operating system for behavioral health clinics.",
+          "originalDescription": "mdhub is the AI-native operating system for behavioral health. We combine AI workers with a purpose-built EHR, CRM, and RCM into one platform where clinical teams and AI collaborate across every workflow. Mid to large-sized behavioral health clinics run on disconnected legacy systems that weren't designed for today's demand. The result: clinician burnout, admin bloat, and patients waiting weeks for care. mdhub replaces the entire fragmented stack with a single AI-first platform. Our AI workers: Emma, AI Clinical Assistant: automates documentation and gives clinicians back hours every day. Sarah, AI Admissions Coordinator: handles 100% of inbound calls, verifies insurance, and books patients 24/7. Eric, AI Billing Agent: manages coding, claims submission, and denial management same-day. Our platform: mdhub EHR: the first clinical workspace built for AI from day one. Documentation, intake, treatment planning, e-prescribing, and billing in one place. mdhub CRM: every lead captured, every follow-up automated, nothing falls through the cracks. mdhub RCM: end-to-end revenue cycle management. From claim submission to collections, AI-powered and fully integrated. We're not another EHR with AI bolted on. We're not a point solution. We're the full operating system where AI workers and human teams run a clinic together. Hundreds of mid to large-sized behavioral health clinics use mdhub today, including some of the largest organizations in the country. One platform, less overhead, more patients seen.",
+          "story": "mdhub 是一个为行为健康诊所打造的人工智能原生操作系统。假设你是一家中等规模心理诊所的运营负责人，每天要面对好几个互不连通的系统：电子病历、客户管理、计费软件，还要花大量时间处理电话预约和保险理赔。mdhub 用一个平台整合了所有流程，并内置了多个智能体：Emma 帮临床医生自动写病历，Sarah 全天候接听电话、核实保险并预约患者，Eric 负责编码、提交理赔和处理拒付。诊所不再需要拼凑多个老旧系统，患者等待时间也从几周缩短到当天。团队 11 人且正在扩张，说明已有客户在跑。",
+          "rank": 6
+        },
+        {
+          "id": "non-yc-lovable",
+          "name": "Lovable",
+          "url": "https://lovable.dev/",
+          "sourceUrl": "https://lovable.dev/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI product builder for turning prompts into applications.",
+          "originalDescription": "Lovable lets people describe an app or product idea and generate working software faster, especially for early prototypes and small product teams.",
+          "story": "Lovable 是一个让人用自然语言描述想法就能生成应用的人工智能产品构建工具。假如你是一个产品经理，想快速验证一个 App 原型，但开发资源排期要等好几周。用 Lovable，你只需用文字描述功能，它就能生成可运行的软件，特别适合早期原型和小型产品团队快速试错。它来自非 YC 的观察名单，在开发者社区中已有一定口碑。",
+          "rank": 7
+        },
+        {
+          "id": "non-yc-harvey",
+          "name": "Harvey",
+          "url": "https://www.harvey.ai/",
+          "sourceUrl": "https://www.harvey.ai/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI platform for legal and professional services work.",
+          "originalDescription": "Harvey builds AI tools for lawyers and professional services teams, focusing on research, drafting, document analysis, and workflows that need accuracy and auditability.",
+          "story": "Harvey 是为律师和专业服务团队打造的人工智能平台。想象你是一个律所的初级律师，每天要花大量时间检索判例、起草合同和审查文件，还要确保每一条引文都准确无误。Harvey 专注于法律场景，能辅助研究、起草和文档分析，并强调输出的准确性和可审计性。它来自非 YC 的观察名单，在专业服务领域引起了广泛关注。",
+          "rank": 8
+        },
+        {
+          "id": "non-yc-clay",
+          "name": "Clay",
+          "url": "https://www.clay.com/",
+          "sourceUrl": "https://www.clay.com/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "Design",
+            "Sales",
+            "Data"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Data enrichment and go-to-market automation platform.",
+          "originalDescription": "Clay gives sales and growth teams a way to gather customer data, enrich leads, and build outbound workflows without stitching together many small tools.",
+          "story": "Clay 是一个数据丰富和营销自动化平台。如果你是一个销售主管，需要从各种渠道收集潜在客户信息，再手动清洗、丰富数据，然后设计外联流程，往往要拼凑五六个工具。Clay 让你在一个平台上完成数据查找、丰富和自动化工作流，无需写代码。它来自非 YC 的观察名单，在营销和销售团队中增长迅速。",
+          "rank": 9
+        },
+        {
+          "id": "non-yc-cognition",
+          "name": "Cognition",
+          "url": "https://www.cognition.ai/",
+          "sourceUrl": "https://www.cognition.ai/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI software engineering agents.",
+          "originalDescription": "Cognition works on AI systems that can take on software engineering tasks, plan changes, use developer tools, and move beyond single code suggestions.",
+          "story": "Cognition 致力于开发能自主完成软件工程任务的人工智能系统。假设你是一个工程负责人，手头有一个遗留系统需要重构，涉及多个模块和大量代码修改。Cognition 的智能体可以理解项目结构，规划变更，使用开发工具，并逐步执行，而不仅仅是给出代码片段。它来自非 YC 的观察名单，在开发者社区中因其展示的端到端能力而备受关注。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "classic-pg-ambitious",
+          "title": "Frighteningly Ambitious Startup Ideas",
+          "url": "https://www.paulgraham.com/ambitious.html",
+          "source": "Paul Graham",
+          "topic": "大想法和切入口",
+          "story": "很多人想做大事，却不知道从哪里开始。Paul Graham 的这篇文章不是给你一个现成的创业点子，而是教你如何识别那些真正值得投入的、有潜力改变世界的大想法。读的时候，注意他如何区分“看似疯狂”和“真正有远见”，以及他为什么认为某些看似困难的问题反而是最好的机会。",
+          "published": ""
+        },
+        {
+          "id": "classic-elad-scaling",
+          "title": "High Growth Handbook",
+          "url": "https://growth.eladgil.com/",
+          "source": "Elad Gil",
+          "topic": "公司扩张",
+          "story": "公司从几个人扩张到几百人，很多问题会突然冒出来。Elad Gil 的这本书像是你的私人顾问，告诉你哪些坑可以避开，哪些事必须提前做。读的时候，关注他如何拆解招聘、组织架构和文化传承这些难题，以及他如何判断哪些事情在哪个阶段最重要。",
+          "published": ""
+        },
+        {
+          "id": "classic-pg-mistakes",
+          "title": "The 18 Mistakes That Kill Startups",
+          "url": "https://www.paulgraham.com/startupmistakes.html",
+          "source": "Paul Graham",
+          "topic": "创业常见错误",
+          "story": "创业失败的原因往往不是单一的，而是多个错误叠加的结果。Paul Graham 总结了 18 个最常见的错误，从产品到团队到融资，几乎覆盖了所有可能的方向。读的时候，别只是对照自己的情况，而是看他如何分析每个错误背后的逻辑，以及他为什么认为某些错误是致命的。",
+          "published": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-28",
       "companies": [
@@ -3099,243 +3354,6 @@
           "source": "First Round Review",
           "topic": "产品市场匹配和用户研究",
           "story": "这篇更像常青阅读，不是追新闻。主题和产品市场匹配和用户研究有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-06-19",
-      "companies": [
-        {
-          "id": "yc-31241",
-          "name": "Corelayer",
-          "url": "https://www.corelayer.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/corelayer",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "B2B",
-            "Enterprise Software"
-          ],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "AI on-call engineer for data-heavy, regulated industries",
-          "originalDescription": "Corelayer is the AI-native platform for production software support, built for data-heavy, regulated industries like finance and healthcare. It continuously monitors alerts, logs, infrastructure, and underlying data for issues and uses agents to debug and suggest fixes. We're helping teams at companies ranging from growth-stage fintechs to S&P 500 financial institutions spend less time on support and more on high-leverage work.",
-          "story": "想象你负责一家金融或医疗公司的线上系统，半夜告警响了，问题可能来自日志、数据库、基础设施，也可能只是某个数据状态不对。工程师最耗时间的地方，是把线索从一堆监控和系统里捞出来。Corelayer 想做一个人工智能值班工程师，持续看告警、日志和底层数据，先帮团队定位问题、解释原因、建议修复方向。它值得看，是因为受监管行业的软件支持既要求速度，也要求可追溯，单纯聊天机器人很难满足。",
-          "rank": 1
-        },
-        {
-          "id": "yc-30726",
-          "name": "Socratix AI",
-          "url": "https://getsocratix.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/socratix-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "AI coworkers for fraud and risk teams.",
-          "originalDescription": "Socratix builds AI coworkers for fraud and risk teams so that humans don't have to spend their days drowning in alerts and spreadsheets. Today, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. Socratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount. We've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and risk. We're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution.",
-          "story": "金融和保险里的很多工作并不是缺人判断，而是材料太散、规则太多、过程还必须可追溯。Socratix AI 想把这类判断前的准备工作自动化。 把它放进今天的列表，主要是因为它出现在YC 夏季 2025 批次，而且还在招聘。",
-          "rank": 2
-        },
-        {
-          "id": "yc-31470",
-          "name": "Tasklet",
-          "url": "https://tasklet.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/tasklet-2",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 8,
-          "originalOneLiner": "Agents that own the work",
-          "originalDescription": "AI chatbots can answer questions, but they can't do your work — they aren't connected to your tools, can't take actions, and stop running when you close the tab. Meanwhile, knowledge workers are still spending most of their day switching between dozens of SaaS apps, manually stitching together workflows that should be automated. Tasklet is the AI agent that actually does the work. It connects to every tool you use — via thousands of built-in integrations, any HTTP API, or MCP servers — and takes real actions on your behalf: pulling reports, updating CRMs, triaging emails, processing data, and more. When it needs a UI, it generates one on the fly. When it needs to crunch numbers or do bulk operations, it writes and runs code in a cloud sandbox. When it needs to interact with a website that doesn't have an API, it uses a real browser. And because it runs in the cloud 24/7, you can set up triggers to have it take ongoing responsibility for workflows — not just do something once, but handle it going forward. The product is deliberately simple: a chat interface where you talk to an extremely capable agent. But underneath that simplicity is a cloud-native agent runtime, best-in-class context engineering, a universal connections layer, and multi-model support that keeps us on the frontier as AI improves. We think legacy SaaS is being unbundled by agents, and Tasklet is the operating system that ties it all together.",
-          "story": "AI agent 正在从“回答问题”走向“接管工作”，Tasklet 正好押在这个方向上。很多办公室工作都散在 CRM、邮箱、表格和内部系统里。人们每天要拉报表、更新客户状态、处理重复请求。普通聊天机器人只能告诉你怎么做，Tasklet 想直接替你做。它会连接工具、调用 API、打开网页甚至跑代码。",
-          "rank": 3
-        },
-        {
-          "id": "yc-29847",
-          "name": "Bucket Robotics",
-          "url": "https://bucket.bot",
-          "sourceUrl": "https://www.ycombinator.com/companies/bucket-robotics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Robotic Process Automation",
-            "Robotics",
-            "Computer Vision",
-            "Manufacturing"
-          ],
-          "batch": "Summer 2024",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Defect detection for manufacturing built from CAD and synthetic data.",
-          "originalDescription": "Bucket Robotics builds deployable computer vision systems for manufacturing — without labeling, long pilots, or fragile rules. We turn CAD and sample data into production-ready vision models that run on existing cameras and edge hardware. No manual labeling. No cold-start problem. Models deploy in minutes and adapt as parts, defects, and lines change. Our roots are in self-driving cars (Argo AI, Uber ATG, Stack AV), where we learned how to ship perception systems that operators trust in messy, real-world environments. We’re applying that playbook to factories: robust sensing, fast iteration, and tooling engineers actually enjoy using. Manufacturers struggle with inspection because parts are too variable for rules-based vision and too expensive to inspect by hand. Legacy systems are rigid, hardware-locked, and slow to customize. We take the opposite approach: software-first vision that fits into existing automation and scales across SKUs, facilities, and workflows. American Manufacturing is in the middle of a $700B automation push — but quality is still a trust problem. Bucket Robotics is building the vision infrastructure that lets factories automate inspection with confidence.",
-          "story": "假如你在工厂负责质检，每天要判断零件有没有划痕、变形、装错或漏装。人工检查很累，传统视觉系统又常常要拍很多真实缺陷照片、慢慢标注、反复调规则，一换零件就要重新折腾。Bucket Robotics 想用工厂本来就有的 CAD 文件和少量样品数据，生成能在现有摄像头和边缘设备上运行的视觉检测模型。它值得放进列表，不是因为名字里有 Robotics，而是因为制造业正在花大量钱做自动化，但质量检测仍然是很难被放心交给机器的一环。",
-          "rank": 4
-        },
-        {
-          "id": "yc-30174",
-          "name": "Revise Robotics",
-          "url": "https://www.reviserobotics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/revise-robotics",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Robotic Process Automation",
-            "ClimateTech",
-            "Electronics"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Automating refurbishment of $1T in consumer electronics",
-          "originalDescription": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets. Our first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
-          "story": "想象你在一家电子垃圾回收和翻新工厂，传送带上来了几百台旧笔记本。每台电脑都要判断型号、测试能不能开机、清除硬盘、拍照、定价，再放到二手平台上卖。Revise Robotics 想用一套带人工智能的机器人系统，把这些步骤尽量自动做完，让工厂不用靠人大量翻看和处理旧设备。它值得留意，是因为消费电子翻新背后有很大的二手市场，也有减少电子垃圾的现实需求。",
-          "rank": 5
-        },
-        {
-          "id": "yc-30690",
-          "name": "Flai",
-          "url": "https://www.useflai.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/flai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 23,
-          "originalOneLiner": "We Bring Customers to Your Dealership",
-          "originalDescription": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue. We built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away. The result: No more missed opportunities, no more losing customers to competitors. Our founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges. We're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
-          "story": "假如你经营一家汽车经销商，很多潜在客户会在晚上或周末打电话，想约试驾、问库存、预约保养，或者处理召回。店里没人接电话时，这些客户很容易转头找另一家。Flai 想用语音人工智能助手全天接听电话，帮经销商安排试驾、预约换油、跟进召回活动，让销售机会不要因为没人在线而丢掉。它值得看，是因为汽车经销商的线索很贵，而“及时接住客户”这件事直接关系到收入。",
-          "rank": 6
-        },
-        {
-          "id": "yc-30623",
-          "name": "Playgent",
-          "url": "https://useplaygent.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/playgent",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "SaaS",
-            "Infrastructure",
-            "AI"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Sandboxes for AI agents",
-          "originalDescription": "When enterprise agents fail in production, the conditions that caused the failure are critical: user state, data, tool calls, and context. Without a way to recreate these conditions, teams can't fix what broke. Playgent provides infrastructure to create high-fidelity sandbox environments for AI agents. Our environments come packaged as a single MCP url where tool calls are mocked, authentication is abstracted away, and test data can be initialized via natural language or JSON specifications. Teams can use Playgent to reproduce production failures in safe, scoped environments that accurately reconstruct state. Finally, export runs as OTel traces from Playgent's environment to plug directly into your observability tools or RL pipelines.",
-          "story": "假如你负责把智能体接进公司系统，最怕的不是它偶尔答错一句话，而是它在真实环境里失败后，你根本复现不了当时发生了什么。用户状态、数据、工具调用和上下文都变了，工程团队只能猜。Playgent 想给智能体创建高保真的沙盒环境，把生产里的失败条件安全地重建出来，让团队能调试、追踪并接进现有观测工具。它值得看，是因为智能体要进企业生产环境，测试和复现能力会先变成基础设施问题。",
-          "rank": 7
-        },
-        {
-          "id": "yc-30515",
-          "name": "Libretto",
-          "url": "https://libretto.sh",
-          "sourceUrl": "https://www.ycombinator.com/companies/libretto",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Turn website workflows into reliable APIs",
-          "originalDescription": "Libretto is an open-source CLI that lets agents turn website workflows into fast, reusable scripts you can deploy The problem: Most browser automation tools work by sending an AI agent to operate a website in real time, like a robot typing and clicking on your behalf. This is slow, expensive, and unpredictable. They rely on fragile DOM parsing that breaks on legacy and complex sites, and you can never fully trust what the agent will do on unintuitive or inconsistent workflows. Our approach: Libretto helps your coding agents generate workflows as actual, readable code during development, not at runtime. Under the hood it combines Playwright with direct in-session network/API calls for reliability and bot detection evasion. It also supports step-through debugging and a read-only mode to prevent accidental data changes while your agent builds and debugs workflows. This makes Libretto cheaper, faster, and easier to maintain, especially for more complex websites and high stakes workflows.",
-          "story": "如果你让智能体去操作一个复杂网站，它可能要一边看页面一边点击，速度慢、成本高，还容易被页面变化弄坏。Libretto 的思路不是让智能体每次都实时乱点，而是把网站流程变成可以复用、可以读、可以调试的脚本。这样同一个登录、查询、提交或导出流程，下次就不必重新让智能体摸索。它值得留意，是因为很多公司想用智能体处理网页工作流，但真正难的是让这些流程稳定、便宜、可维护。",
-          "rank": 8
-        },
-        {
-          "id": "yc-30778",
-          "name": "Perspectives Health",
-          "url": "https://perspectiveshealth.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/perspectives-health",
-          "location": "Chicago, IL, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Workflow Automation",
-            "Healthcare",
-            "Mental Health",
-            "Healthcare IT"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Automating away admin for behavioral health clinics",
-          "originalDescription": "America is facing an addiction and mental health crisis. We're building a suite of AI agents to automate away the tasks that occupy half of the time and resources of behavioral health clinics—documentation, compliance, audits, utilization review, and more.",
-          "story": "如果你在心理健康或成瘾治疗诊所工作，很多时间并不花在面对病人，而是花在文档、合规、审计和保险审核上。治疗师和运营人员要把每次服务写清楚，证明护理必要性，还要应付各种审查。Perspectives Health 想用一组人工智能助手，把这些后台行政任务自动化掉，让诊所把更多时间留给病人。它值得看，是因为行为健康服务需求很高，但诊所的人力和行政负担长期很重。",
-          "rank": 9
-        },
-        {
-          "id": "yc-31188",
-          "name": "Maywood",
-          "url": "https://maywoodai.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/maywood",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "The first finance-compliant proactive AI that runs 24/7",
-          "originalDescription": "Maywood is the first finance-compliant proactive AI that runs 24/7, working across your network, pipeline, and active processes, running constantly in the background and surfacing things you'd otherwise miss. It tracks relationships and sector context to flag when a target is gearing up for a process (and drafts the outreach in your voice), watches network activity across LinkedIn, news, and conference follow-ups, and surfaces where active processes stand, including what's at risk since you last looked. It also auto-updates CRMs and trackers and creates meeting briefs that includes relationship history, recent activity, deal context, external research, talking points that can pull from internal and external data sources. Dealmakers interact with it over email, Teams, or the platform itself.",
-          "story": "如果一笔交易或一份保单要靠人来回核对文件，速度慢只是表面问题，真正麻烦的是漏看和无法解释。Maywood 想让这段流程更清楚。 值得留意的不是标签本身，而是它能不能把这个具体流程真的跑顺；YC 冬季 2026 批次和还在招聘只是第一层信号。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "classic-linear-method",
-          "title": "The Linear Method",
-          "url": "https://linear.app/method",
-          "source": "Linear",
-          "topic": "产品质量和团队方法",
-          "story": "这篇更像常青阅读，不是追新闻。主题和产品质量和团队方法有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        },
-        {
-          "id": "classic-37signals-getting-real",
-          "title": "Getting Real",
-          "url": "https://basecamp.com/gettingreal",
-          "source": "37signals",
-          "topic": "小团队产品方法",
-          "story": "这篇更像常青阅读，不是追新闻。主题和小团队产品方法有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
-          "published": ""
-        },
-        {
-          "id": "classic-lenny-marketplaces",
-          "title": "How to Kickstart and Scale a Marketplace",
-          "url": "https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace",
-          "source": "Lenny's Newsletter",
-          "topic": "市场平台",
-          "story": "这篇更像常青阅读，不是追新闻。主题和市场平台有关，属于隔几年回头看仍然有用的产品和策略文章。读的时候不用急着找最新信息，可以重点看作者怎样判断取舍，怎样理解用户，怎样把一个产品方向讲清楚。",
           "published": ""
         }
       ]

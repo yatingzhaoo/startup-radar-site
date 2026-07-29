@@ -1,11 +1,25 @@
 {
-  "updatedAt": "2026-07-28T20:22:35.212Z",
+  "updatedAt": "2026-07-29T09:48:19.249Z",
   "readings": [
     {
-      "key": "paulgraham.com/users.html",
-      "title": "What I've Learned from Users",
-      "url": "https://paulgraham.com/users.html",
-      "usedAt": "2026-07-28",
+      "key": "growth.eladgil.com",
+      "title": "High Growth Handbook",
+      "url": "https://growth.eladgil.com/",
+      "usedAt": "2026-07-29",
+      "site": "startup-radar"
+    },
+    {
+      "key": "paulgraham.com/ambitious.html",
+      "title": "Frighteningly Ambitious Startup Ideas",
+      "url": "https://www.paulgraham.com/ambitious.html",
+      "usedAt": "2026-07-29",
+      "site": "startup-radar"
+    },
+    {
+      "key": "paulgraham.com/startupmistakes.html",
+      "title": "The 18 Mistakes That Kill Startups",
+      "url": "https://www.paulgraham.com/startupmistakes.html",
+      "usedAt": "2026-07-29",
       "site": "startup-radar"
     },
     {
@@ -26,6 +40,13 @@
       "key": "paulgraham.com/ramenprofitable.html",
       "title": "Ramen Profitable",
       "url": "https://paulgraham.com/ramenprofitable.html",
+      "usedAt": "2026-07-28",
+      "site": "startup-radar"
+    },
+    {
+      "key": "paulgraham.com/users.html",
+      "title": "What I've Learned from Users",
+      "url": "https://paulgraham.com/users.html",
       "usedAt": "2026-07-28",
       "site": "startup-radar"
     },
