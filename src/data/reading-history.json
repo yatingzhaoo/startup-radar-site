@@ -1,12 +1,551 @@
 {
-  "updatedAt": "2026-07-29T09:48:19.249Z",
+  "updatedAt": "2026-08-08T23:54:06.258Z",
   "readings": [
+    {
+      "key": "lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+      "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+      "usedAt": "2026-08-08",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/the-simple-math-behind-a-3x-venture-fund-why-your-best-investment-needs-to-return-the-whole-thing",
+      "title": "The Simple Math Behind a 3x Venture Fund: Why Your Best Investment Needs to Return the Whole Thing",
+      "url": "https://www.saastr.com/the-simple-math-behind-a-3x-venture-fund-why-your-best-investment-needs-to-return-the-whole-thing/",
+      "usedAt": "2026-08-08",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "usedAt": "2026-08-08",
+      "site": "startup-radar"
+    },
+    {
+      "key": "andrewchen.com/chapter-one-cold-start",
+      "title": "The Cold Start Problem",
+      "url": "https://andrewchen.com/chapter-one-cold-start/",
+      "usedAt": "2026-08-05",
+      "site": "daily-reading"
+    },
+    {
+      "key": "caseyaccidental.com/p/what-type-of-job-is-this-my-first-year-as-chief-product-officer",
+      "title": "What Type of Job Is This: My First Year as Chief Product Officer",
+      "url": "https://www.caseyaccidental.com/p/what-type-of-job-is-this-my-first-year-as-chief-product-officer",
+      "usedAt": "2026-08-05",
+      "site": "daily-reading"
+    },
+    {
+      "key": "frankchimero.com/blog/2018/the-good-room",
+      "title": "The Good Room",
+      "url": "https://frankchimero.com/blog/2018/the-good-room/",
+      "usedAt": "2026-08-05",
+      "site": "daily-reading"
+    },
+    {
+      "key": "inkandswitch.com/backchannel",
+      "title": "Backchannel: A Relationship-Based Digital Identity System",
+      "url": "https://www.inkandswitch.com/backchannel",
+      "usedAt": "2026-08-05",
+      "site": "daily-reading"
+    },
+    {
+      "key": "inkandswitch.com/end-user-programming",
+      "title": "End-User Programming: Empowered Computing",
+      "url": "https://www.inkandswitch.com/end-user-programming",
+      "usedAt": "2026-08-05",
+      "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/how-we-design-at-intercom",
+      "title": "How We Do Product Design at Intercom",
+      "url": "https://www.intercom.com/blog/how-we-design-at-intercom/",
+      "usedAt": "2026-08-05",
+      "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/product-principles-deliver-outcomes",
+      "title": "How We Focus on Delivering Outcomes",
+      "url": "https://www.intercom.com/blog/product-principles-deliver-outcomes/",
+      "usedAt": "2026-08-05",
+      "site": "daily-reading"
+    },
+    {
+      "key": "nfx.com/post/70-percent-value-network-effects",
+      "title": "70 Percent of Value in Tech Is Driven by Network Effects",
+      "url": "https://www.nfx.com/post/70-percent-value-network-effects",
+      "usedAt": "2026-08-05",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/applied-intuitions-path-to-product-market-fit",
+      "title": "Applied Intuition's Path to Product-Market Fit",
+      "url": "https://review.firstround.com/applied-intuitions-path-to-product-market-fit/",
+      "usedAt": "2026-08-05",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/classpass-founder-on-how-marketplace-startups-can-achieve-product-market-fit",
+      "title": "ClassPass' Founder on How Marketplace Startups Can Achieve Product-Market Fit",
+      "url": "https://review.firstround.com/classpass-founder-on-how-marketplace-startups-can-achieve-product-market-fit/",
+      "usedAt": "2026-08-05",
+      "site": "daily-reading"
+    },
+    {
+      "key": "andrewchen.com/solve-a-hard-problem-cold-start-problem",
+      "title": "Solve a Hard Problem",
+      "url": "https://andrewchen.com/solve-a-hard-problem-cold-start-problem/",
+      "usedAt": "2026-08-04",
+      "site": "daily-reading"
+    },
+    {
+      "key": "caseyaccidental.com/p/why-management-advice-breaks-for",
+      "title": "Why Management Advice Breaks for Founders",
+      "url": "https://www.caseyaccidental.com/p/why-management-advice-breaks-for",
+      "usedAt": "2026-08-04",
+      "site": "daily-reading"
+    },
+    {
+      "key": "frankchimero.com/blog/2020/who-cares",
+      "title": "Who Cares?",
+      "url": "https://frankchimero.com/blog/2020/who-cares/",
+      "usedAt": "2026-08-04",
+      "site": "daily-reading"
+    },
+    {
+      "key": "inkandswitch.com/potluck",
+      "title": "Potluck: Dynamic Documents as Personal Software",
+      "url": "https://www.inkandswitch.com/potluck",
+      "usedAt": "2026-08-04",
+      "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/product-designer-impact",
+      "title": "How to have impact as a product designer",
+      "url": "https://www.intercom.com/blog/product-designer-impact/",
+      "usedAt": "2026-08-04",
+      "site": "daily-reading"
+    },
+    {
+      "key": "linear.app/method/manage-design-projects",
+      "title": "Manage design projects",
+      "url": "https://linear.app/method/manage-design-projects",
+      "usedAt": "2026-08-04",
+      "site": "daily-reading"
+    },
+    {
+      "key": "nfx.com/post/network-economy",
+      "title": "Status, Wealth, & Power: Network Effects Demand a New Social Contract",
+      "url": "https://www.nfx.com/post/network-economy",
+      "usedAt": "2026-08-04",
+      "site": "daily-reading"
+    },
+    {
+      "key": "producttalk.org/shifting-from-outputs-to-outcomes",
+      "title": "Shifting from Outputs to Outcomes",
+      "url": "https://www.producttalk.org/shifting-from-outputs-to-outcomes/",
+      "usedAt": "2026-08-04",
+      "site": "daily-reading"
+    },
+    {
+      "key": "reforge.com/blog/product-roadmaps",
+      "title": "Drive Real Growth With 4D Product Roadmaps",
+      "url": "https://www.reforge.com/blog/product-roadmaps",
+      "usedAt": "2026-08-04",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/clays-path-to-product-market-fit",
+      "title": "Clay's Path to Product-Market Fit",
+      "url": "https://review.firstround.com/clays-path-to-product-market-fit/",
+      "usedAt": "2026-08-04",
+      "site": "daily-reading"
+    },
+    {
+      "key": "a16z.com/13-metrics-for-marketplace-companies",
+      "title": "13 Metrics for Marketplace Companies",
+      "url": "https://a16z.com/13-metrics-for-marketplace-companies/",
+      "usedAt": "2026-08-03",
+      "site": "daily-reading"
+    },
+    {
+      "key": "andrewchen.com/growth-stalls",
+      "title": "What to Do When Product Growth Stalls",
+      "url": "https://andrewchen.com/growth-stalls/",
+      "usedAt": "2026-08-03",
+      "site": "daily-reading"
+    },
+    {
+      "key": "caseyaccidental.com/p/second-products",
+      "title": "When and How to Build Second Products",
+      "url": "https://www.caseyaccidental.com/p/second-products",
+      "usedAt": "2026-08-03",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2015/3/14/platform-risk",
+      "title": "Platform Risk",
+      "url": "https://www.eugenewei.com/blog/2015/3/14/platform-risk",
+      "usedAt": "2026-08-03",
+      "site": "daily-reading"
+    },
+    {
+      "key": "frankchimero.com/blog/2013/the-cloud-is-heavy",
+      "title": "The Cloud Is Heavy and Design Isn't Invisible",
+      "url": "https://frankchimero.com/blog/2013/the-cloud-is-heavy/",
+      "usedAt": "2026-08-03",
+      "site": "daily-reading"
+    },
+    {
+      "key": "inkandswitch.com/embark",
+      "title": "Embark: Dynamic Documents for Making Plans",
+      "url": "https://www.inkandswitch.com/embark",
+      "usedAt": "2026-08-03",
+      "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/design-principles-choosing-the-right-patterns",
+      "title": "Design principles: choosing the right patterns",
+      "url": "https://www.intercom.com/blog/design-principles-choosing-the-right-patterns/",
+      "usedAt": "2026-08-03",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/dbt-labs-path-to-product-market-fit",
+      "title": "dbt Labs' Path to Product-Market Fit",
+      "url": "https://review.firstround.com/dbt-labs-path-to-product-market-fit/",
+      "usedAt": "2026-08-03",
+      "site": "daily-reading"
+    },
+    {
+      "key": "sachinrekhi.com/p/playing-to-win-roger-martin",
+      "title": "Playing to Win by Roger Martin",
+      "url": "https://www.sachinrekhi.com/p/playing-to-win-roger-martin",
+      "usedAt": "2026-08-03",
+      "site": "daily-reading"
+    },
+    {
+      "key": "stratechery.com/2017/defining-aggregators",
+      "title": "Defining Aggregators",
+      "url": "https://stratechery.com/2017/defining-aggregators/",
+      "usedAt": "2026-08-03",
+      "site": "daily-reading"
+    },
+    {
+      "key": "a16z.com/good-news-ai-will-eat-application-software",
+      "title": "AI Will Eat Application Software",
+      "url": "https://a16z.com/good-news-ai-will-eat-application-software/",
+      "usedAt": "2026-08-02",
+      "site": "daily-reading"
+    },
+    {
+      "key": "andrewchen.com/more-retention-more-viral-growth",
+      "title": "Why the Best Way to Drive Viral Growth Is to Increase Retention and Engagement",
+      "url": "https://andrewchen.com/more-retention-more-viral-growth/",
+      "usedAt": "2026-08-02",
+      "site": "daily-reading"
+    },
+    {
+      "key": "caseyaccidental.com/p/caseys-guide-to-finding-product-market-fit",
+      "title": "Casey's Guide to Finding Product-Market Fit",
+      "url": "https://www.caseyaccidental.com/p/caseys-guide-to-finding-product-market-fit",
+      "usedAt": "2026-08-02",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2017/1/24/facts-are-still-high-cost-low-virality",
+      "title": "Facts Are Still High Cost, Low Virality",
+      "url": "https://www.eugenewei.com/blog/2017/1/24/facts-are-still-high-cost-low-virality",
+      "usedAt": "2026-08-02",
+      "site": "daily-reading"
+    },
+    {
+      "key": "frankchimero.com/blog/2014/designing-in-the-borderlands",
+      "title": "Designing in the Borderlands",
+      "url": "https://frankchimero.com/blog/2014/designing-in-the-borderlands/",
+      "usedAt": "2026-08-02",
+      "site": "daily-reading"
+    },
+    {
+      "key": "inkandswitch.com/muse",
+      "title": "Muse: Designing a Studio for Ideas",
+      "url": "https://www.inkandswitch.com/muse",
+      "usedAt": "2026-08-02",
+      "site": "daily-reading"
+    },
+    {
+      "key": "nfx.com/post/network-effects-facebook",
+      "title": "Network Effects Predict the Future of Facebook",
+      "url": "https://www.nfx.com/post/network-effects-facebook",
+      "usedAt": "2026-08-02",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/how-product-strategy-fails-in-the-real-world-what-to-avoid-when-building-highly-technical-products",
+      "title": "How Product Strategy Fails in the Real World",
+      "url": "https://review.firstround.com/how-product-strategy-fails-in-the-real-world-what-to-avoid-when-building-highly-technical-products/",
+      "usedAt": "2026-08-02",
+      "site": "daily-reading"
+    },
+    {
+      "key": "sachinrekhi.com/p/top-10-deliverables-of-product-managers",
+      "title": "The Top Deliverables of Product Managers",
+      "url": "https://www.sachinrekhi.com/p/top-10-deliverables-of-product-managers",
+      "usedAt": "2026-08-02",
+      "site": "daily-reading"
+    },
+    {
+      "key": "stratechery.com/2015/aggregation-theory",
+      "title": "Aggregation Theory",
+      "url": "https://stratechery.com/2015/aggregation-theory/",
+      "usedAt": "2026-08-02",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2018/5/21/invisible-asymptotes",
+      "title": "Invisible Asymptotes",
+      "url": "https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes",
+      "usedAt": "2026-08-01",
+      "site": "daily-reading"
+    },
+    {
+      "key": "frankchimero.com/blog/2013/what-screens-want",
+      "title": "What Screens Want",
+      "url": "https://frankchimero.com/blog/2013/what-screens-want/",
+      "usedAt": "2026-08-01",
+      "site": "daily-reading"
+    },
+    {
+      "key": "linear.app/method/write-issues-not-user-stories",
+      "title": "Write issues not user stories",
+      "url": "https://linear.app/method/write-issues-not-user-stories",
+      "usedAt": "2026-08-01",
+      "site": "daily-reading"
+    },
+    {
+      "key": "linear.app/now/behind-the-latest-design-refresh",
+      "title": "A calmer interface for a product in motion",
+      "url": "https://linear.app/now/behind-the-latest-design-refresh",
+      "usedAt": "2026-08-01",
+      "site": "daily-reading"
+    },
+    {
+      "key": "nfx.com/post/network-effects-manual",
+      "title": "The Network Effects Manual: 16 Different Network Effects",
+      "url": "https://www.nfx.com/post/network-effects-manual",
+      "usedAt": "2026-08-01",
+      "site": "daily-reading"
+    },
+    {
+      "key": "nfx.com/post/viral-effects-vs-network-effects",
+      "title": "Viral Effects Are Not Network Effects",
+      "url": "https://www.nfx.com/post/viral-effects-vs-network-effects",
+      "usedAt": "2026-08-01",
+      "site": "daily-reading"
+    },
+    {
+      "key": "paulgraham.com/top.html",
+      "title": "The Top Idea in Your Mind",
+      "url": "https://www.paulgraham.com/top.html",
+      "usedAt": "2026-08-01",
+      "site": "daily-reading"
+    },
+    {
+      "key": "producttalk.org/2016/08/opportunity-solution-tree",
+      "title": "Opportunity Solution Trees: Visualize Discovery and Drive Outcomes",
+      "url": "https://www.producttalk.org/2016/08/opportunity-solution-tree/",
+      "usedAt": "2026-08-01",
+      "site": "daily-reading"
+    },
+    {
+      "key": "worrydream.com/learnableprogramming",
+      "title": "Learnable Programming",
+      "url": "https://worrydream.com/LearnableProgramming/",
+      "usedAt": "2026-08-01",
+      "site": "daily-reading"
+    },
+    {
+      "key": "worrydream.com/mediaforthinkingtheunthinkable",
+      "title": "Media for Thinking the Unthinkable",
+      "url": "https://worrydream.com/MediaForThinkingTheUnthinkable/",
+      "usedAt": "2026-08-01",
+      "site": "daily-reading"
+    },
+    {
+      "key": "cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network",
+      "title": "Come for the Tool, Stay for the Network",
+      "url": "https://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network",
+      "usedAt": "2026-07-31",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2019/2/19/status-as-a-service",
+      "title": "Status as a Service",
+      "url": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service",
+      "usedAt": "2026-07-31",
+      "site": "daily-reading"
+    },
+    {
+      "key": "frankchimero.com/blog/2015/the-webs-grain",
+      "title": "The Web's Grain",
+      "url": "https://frankchimero.com/blog/2015/the-webs-grain/",
+      "usedAt": "2026-07-31",
+      "site": "daily-reading"
+    },
+    {
+      "key": "kk.org/thetechnium/1000-true-fans",
+      "title": "1,000 True Fans",
+      "url": "https://kk.org/thetechnium/1000-true-fans/",
+      "usedAt": "2026-07-31",
+      "site": "daily-reading"
+    },
+    {
+      "key": "linear.app/now/why-is-quality-so-rare",
+      "title": "Why is quality so rare?",
+      "url": "https://linear.app/now/why-is-quality-so-rare",
+      "usedAt": "2026-07-31",
+      "site": "daily-reading"
+    },
+    {
+      "key": "nfx.com/post/ai-first-marketplace",
+      "title": "The AI-First Marketplace",
+      "url": "https://www.nfx.com/post/ai-first-marketplace",
+      "usedAt": "2026-07-31",
+      "site": "daily-reading"
+    },
+    {
+      "key": "nfx.com/post/marketplace-expansion-framework",
+      "title": "Growth Frameworks for Your Marketplace",
+      "url": "https://www.nfx.com/post/marketplace-expansion-framework",
+      "usedAt": "2026-07-31",
+      "site": "daily-reading"
+    },
+    {
+      "key": "paulgraham.com/taste.html",
+      "title": "Taste for Makers",
+      "url": "https://www.paulgraham.com/taste.html",
+      "usedAt": "2026-07-31",
+      "site": "daily-reading"
+    },
+    {
+      "key": "sarahtavel.medium.com/the-hierarchy-of-engagement-expanded-648329d60804",
+      "title": "The Hierarchy of Engagement, Expanded",
+      "url": "https://sarahtavel.medium.com/the-hierarchy-of-engagement-expanded-648329d60804",
+      "usedAt": "2026-07-31",
+      "site": "daily-reading"
+    },
+    {
+      "key": "worrydream.com/ladderofabstraction",
+      "title": "Up and Down the Ladder of Abstraction",
+      "url": "https://worrydream.com/LadderOfAbstraction/",
+      "usedAt": "2026-07-31",
+      "site": "daily-reading"
+    },
+    {
+      "key": "andymatuschak.org/books",
+      "title": "Why books don't work",
+      "url": "https://andymatuschak.org/books/",
+      "usedAt": "2026-07-30",
+      "site": "daily-reading"
+    },
+    {
+      "key": "figma.com/blog/how-we-run-eng-crits-at-figma",
+      "title": "How We Engineer Feedback at Figma with Eng Crits",
+      "url": "https://www.figma.com/blog/how-we-run-eng-crits-at-figma/",
+      "usedAt": "2026-07-30",
+      "site": "daily-reading"
+    },
+    {
+      "key": "figma.com/blog/what-is-good-design-in-the-age-of-ai",
+      "title": "What is Good Design in the Age of AI?",
+      "url": "https://www.figma.com/blog/what-is-good-design-in-the-age-of-ai/",
+      "usedAt": "2026-07-30",
+      "site": "daily-reading"
+    },
+    {
+      "key": "joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed",
+      "title": "The Iceberg Secret, Revealed",
+      "url": "https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/",
+      "usedAt": "2026-07-30",
+      "site": "daily-reading"
+    },
+    {
+      "key": "linear.app/blog/building-at-the-early-stage",
+      "title": "Building at the early stage",
+      "url": "https://linear.app/blog/building-at-the-early-stage",
+      "usedAt": "2026-07-30",
+      "site": "daily-reading"
+    },
+    {
+      "key": "linear.app/blog/zero-bugs-policy",
+      "title": "Why we committed to a zero-bugs policy",
+      "url": "https://linear.app/blog/zero-bugs-policy",
+      "usedAt": "2026-07-30",
+      "site": "daily-reading"
+    },
+    {
+      "key": "maggieappleton.com/tools-for-thought",
+      "title": "Tools for Thought as Cultural Practices, not Computational Objects",
+      "url": "https://maggieappleton.com/tools-for-thought",
+      "usedAt": "2026-07-30",
+      "site": "daily-reading"
+    },
+    {
+      "key": "numinous.productions/ttft",
+      "title": "How can we develop transformative tools for thought?",
+      "url": "https://numinous.productions/ttft/",
+      "usedAt": "2026-07-30",
+      "site": "daily-reading"
+    },
+    {
+      "key": "paulgraham.com/greatwork.html",
+      "title": "How to Do Great Work",
+      "url": "https://www.paulgraham.com/greatwork.html",
+      "usedAt": "2026-07-30",
+      "site": "daily-reading"
+    },
+    {
+      "key": "paulgraham.com/makersschedule.html",
+      "title": "Maker's Schedule, Manager's Schedule",
+      "url": "https://www.paulgraham.com/makersschedule.html",
+      "usedAt": "2026-07-30",
+      "site": "daily-reading"
+    },
+    {
+      "key": "dovetail.com/blog/mediated-meaning-ais-role-in-the-research-craft",
+      "title": "Mediated meaning: AI’s role in the research craft",
+      "url": "https://dovetail.com/blog/mediated-meaning-ais-role-in-the-research-craft/",
+      "usedAt": "2026-07-29",
+      "site": "daily-reading"
+    },
+    {
+      "key": "dovetail.com/blog/past-present-future-of-usability-with-jakob-nielsen",
+      "title": "The past, present, and future of design and usability with Jakob Nielsen",
+      "url": "https://dovetail.com/blog/past-present-future-of-usability-with-jakob-nielsen/",
+      "usedAt": "2026-07-29",
+      "site": "daily-reading"
+    },
     {
       "key": "growth.eladgil.com",
       "title": "High Growth Handbook",
       "url": "https://growth.eladgil.com/",
       "usedAt": "2026-07-29",
       "site": "startup-radar"
+    },
+    {
+      "key": "intercom.com/blog/intercom-product-principles-opinionated-by-default-flexible-under-hood",
+      "title": "Building Product That's Opinionated but Flexible",
+      "url": "https://www.intercom.com/blog/intercom-product-principles-opinionated-by-default-flexible-under-hood/",
+      "usedAt": "2026-07-29",
+      "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/retain-users-with-value-based-onboarding",
+      "title": "How To Retain More Users With Value-Based Onboarding",
+      "url": "https://www.intercom.com/blog/retain-users-with-value-based-onboarding/",
+      "usedAt": "2026-07-29",
+      "site": "daily-reading"
     },
     {
       "key": "paulgraham.com/ambitious.html",
@@ -21,6 +560,69 @@
       "url": "https://www.paulgraham.com/startupmistakes.html",
       "usedAt": "2026-07-29",
       "site": "startup-radar"
+    },
+    {
+      "key": "producttalk.org/continuous-discovery-mindsets",
+      "title": "The Best Continuous Discovery Teams Cultivate These Mindsets",
+      "url": "https://www.producttalk.org/continuous-discovery-mindsets/",
+      "usedAt": "2026-07-29",
+      "site": "daily-reading"
+    },
+    {
+      "key": "producttalk.org/getting-started-with-discovery",
+      "title": "Everyone Can Do Continuous Discovery: Here's How",
+      "url": "https://www.producttalk.org/getting-started-with-discovery/",
+      "usedAt": "2026-07-29",
+      "site": "daily-reading"
+    },
+    {
+      "key": "reforge.com/blog/growth-system",
+      "title": "Building Growth: Product, Process, and Team",
+      "url": "https://www.reforge.com/blog/growth-system",
+      "usedAt": "2026-07-29",
+      "site": "daily-reading"
+    },
+    {
+      "key": "reforge.com/blog/product-specializations",
+      "title": "The Growing Specialization of Product Management",
+      "url": "https://www.reforge.com/blog/product-specializations",
+      "usedAt": "2026-07-29",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/dear-pms-its-time-to-rethink-agile-at-enterprise-startups",
+      "title": "Dear PMs, It's Time to Rethink Agile at Enterprise Startups",
+      "url": "https://review.firstround.com/dear-pms-its-time-to-rethink-agile-at-enterprise-startups/",
+      "usedAt": "2026-07-29",
+      "site": "daily-reading"
+    },
+    {
+      "key": "slack.design/articles/the-story-of-slack-clips",
+      "title": "The story of Slack Clips: Prototyping the path to audio and video messages",
+      "url": "https://slack.design/articles/the-story-of-slack-clips/",
+      "usedAt": "2026-07-29",
+      "site": "daily-reading"
+    },
+    {
+      "key": "dovetail.com/blog/enhancing-channels-onboarding-and-ai-powered-topics",
+      "title": "Context is key: the story behind how we enhanced our Channels onboarding and AI-powered topics",
+      "url": "https://dovetail.com/blog/enhancing-channels-onboarding-and-ai-powered-topics/",
+      "usedAt": "2026-07-28",
+      "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/intercom-product-principles",
+      "title": "Foundations to Build On: Intercom's Principles for Building Product",
+      "url": "https://www.intercom.com/blog/intercom-product-principles/",
+      "usedAt": "2026-07-28",
+      "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/maximizing-user-research-product",
+      "title": "Maximizing User Research Across a Product's Lifecycle",
+      "url": "https://www.intercom.com/blog/maximizing-user-research-product/",
+      "usedAt": "2026-07-28",
+      "site": "daily-reading"
     },
     {
       "key": "nngroup.com/articles/ux-debt",
@@ -51,10 +653,66 @@
       "site": "startup-radar"
     },
     {
+      "key": "producttalk.org/discovery-in-startups",
+      "title": "How Continuous Discovery Works in Early-Stage Startups",
+      "url": "https://www.producttalk.org/discovery-in-startups/",
+      "usedAt": "2026-07-28",
+      "site": "daily-reading"
+    },
+    {
+      "key": "producttalk.org/user-research-and-continuous-discovery",
+      "title": "The Role of User Research in a Continuous Discovery World",
+      "url": "https://www.producttalk.org/user-research-and-continuous-discovery/",
+      "usedAt": "2026-07-28",
+      "site": "daily-reading"
+    },
+    {
       "key": "reforge.com/blog/growth-models",
       "title": "Growth Models",
       "url": "https://www.reforge.com/blog/growth-models",
       "usedAt": "2026-07-28",
+      "site": "startup-radar"
+    },
+    {
+      "key": "reforge.com/blog/product-work-beyond-product-market-fit",
+      "title": "Product Work Beyond Product-Market Fit",
+      "url": "https://www.reforge.com/blog/product-work-beyond-product-market-fit",
+      "usedAt": "2026-07-28",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/25-hard-questions-every-founder-should-ask-themselves",
+      "title": "25 Hard Questions Every Founder Should Ask Themselves",
+      "url": "https://review.firstround.com/25-hard-questions-every-founder-should-ask-themselves/",
+      "usedAt": "2026-07-28",
+      "site": "daily-reading"
+    },
+    {
+      "key": "slack.design/articles/should-we-make-it-a-preference-on-customization-defaults-and-accessibility",
+      "title": "Should we make it a preference?: On customization, defaults, and accessibility",
+      "url": "https://slack.design/articles/should-we-make-it-a-preference-on-customization-defaults-and-accessibility/",
+      "usedAt": "2026-07-28",
+      "site": "daily-reading"
+    },
+    {
+      "key": "smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi",
+      "title": "Ten Data-Backed Truths Of User Experience ROI",
+      "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+      "usedAt": "2026-07-28",
+      "site": "daily-reading"
+    },
+    {
+      "key": "uxmatters.com/mt/archives/2024/03/conversational-ai-search-engines-implications-for-usability-and-the-user-experience.php",
+      "title": "Conversational AI Search Engines: Implications for Usability and the User Experience",
+      "url": "https://www.uxmatters.com/mt/archives/2024/03/conversational-ai-search-engines-implications-for-usability-and-the-user-experience.php",
+      "usedAt": "2026-07-28",
+      "site": "daily-reading"
+    },
+    {
+      "key": "a16z.com/the-new-business-of-ai-and-how-its-different-from-traditional-software",
+      "title": "The New Business of AI",
+      "url": "https://a16z.com/the-new-business-of-ai-and-how-its-different-from-traditional-software/",
+      "usedAt": "2026-07-27",
       "site": "startup-radar"
     },
     {
@@ -79,11 +737,25 @@
       "site": "daily-reading"
     },
     {
+      "key": "paulgraham.com/startupideas.html",
+      "title": "How to Get Startup Ideas",
+      "url": "https://www.paulgraham.com/startupideas.html",
+      "usedAt": "2026-07-27",
+      "site": "startup-radar"
+    },
+    {
       "key": "reforge.com/blog/product-strategy-guide",
       "title": "4 Elements of an Effective Product Strategy",
       "url": "https://www.reforge.com/blog/product-strategy-guide",
       "usedAt": "2026-07-27",
       "site": "daily-reading"
+    },
+    {
+      "key": "reforge.com/blog/product-strategy-stack",
+      "title": "The Product Strategy Stack",
+      "url": "https://www.reforge.com/blog/product-strategy-stack",
+      "usedAt": "2026-07-27",
+      "site": "startup-radar"
     },
     {
       "key": "review.firstround.com/dont-serve-burnt-pizza-and-other-lessons-in-building-minimum-lovable-products",
@@ -289,6 +961,13 @@
       "site": "daily-reading"
     },
     {
+      "key": "intercom.com/blog/using-job-stories-design-features-ui-ux",
+      "title": "Designing Features Using Job Stories",
+      "url": "https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/",
+      "usedAt": "2026-07-24",
+      "site": "startup-radar"
+    },
+    {
       "key": "lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
       "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
       "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
@@ -429,6 +1108,13 @@
       "site": "daily-reading"
     },
     {
+      "key": "svpg.com/product-vs-feature-teams",
+      "title": "Product vs. Feature Teams",
+      "url": "https://www.svpg.com/product-vs-feature-teams/",
+      "usedAt": "2026-07-23",
+      "site": "startup-radar"
+    },
+    {
       "key": "zapier.com/blog/zapier-for-enterprise-automation",
       "title": "Zapier for enterprise orchestration: Scaling automation on a trusted platform",
       "url": "https://zapier.com/blog/zapier-for-enterprise-automation",
@@ -462,6 +1148,13 @@
       "url": "https://www.intercom.com/blog/giving-your-ai-agent-system-access/",
       "usedAt": "2026-07-22",
       "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/product-strategy-means-saying-no",
+      "title": "Product strategy means saying no",
+      "url": "https://www.intercom.com/blog/product-strategy-means-saying-no/",
+      "usedAt": "2026-07-22",
+      "site": "startup-radar"
     },
     {
       "key": "lennysnewsletter.com/p/how-to-take-a-sabbatical",
@@ -558,6 +1251,13 @@
       "key": "paulgraham.com/foundermode.html",
       "title": "Founder Mode",
       "url": "https://paulgraham.com/foundermode.html",
+      "usedAt": "2026-07-21",
+      "site": "startup-radar"
+    },
+    {
+      "key": "reforge.com/blog/retention-engagement",
+      "title": "Retention + Engagement",
+      "url": "https://www.reforge.com/blog/retention-engagement",
       "usedAt": "2026-07-21",
       "site": "startup-radar"
     },
@@ -681,6 +1381,13 @@
       "site": "daily-reading"
     },
     {
+      "key": "svpg.com/product-discovery",
+      "title": "Product Discovery",
+      "url": "https://www.svpg.com/product-discovery/",
+      "usedAt": "2026-07-20",
+      "site": "startup-radar"
+    },
+    {
       "key": "zapier.com/blog/automate-chatgpt",
       "title": "How to automate ChatGPT (GPT-5.6 Sol, GPT-5.6 Terra, and more)",
       "url": "https://zapier.com/blog/automate-chatgpt",
@@ -709,6 +1416,13 @@
       "site": "daily-reading"
     },
     {
+      "key": "intercom.com/blog/rice-simple-prioritization-for-product-managers",
+      "title": "RICE: Simple prioritization for product managers",
+      "url": "https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/",
+      "usedAt": "2026-07-19",
+      "site": "startup-radar"
+    },
+    {
       "key": "lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
       "title": "Adam Mosseri: AI is a tailwind for authenticity",
       "url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
@@ -728,6 +1442,13 @@
       "url": "https://www.nngroup.com/articles/dropdown-list/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "usedAt": "2026-07-19",
       "site": "daily-reading"
+    },
+    {
+      "key": "openviewpartners.com/blog/what-is-product-led-growth",
+      "title": "What is Product-Led Growth?",
+      "url": "https://openviewpartners.com/blog/what-is-product-led-growth/",
+      "usedAt": "2026-07-19",
+      "site": "startup-radar"
     },
     {
       "key": "producttalk.org/beyond-black-box-scores-how-musubi-trains-custom-ai-for-trust-and-safety-teams",
@@ -768,6 +1489,13 @@
       "key": "atlassian.com/agile/product-management/product-roadmaps",
       "title": "Product Roadmaps",
       "url": "https://www.atlassian.com/agile/product-management/product-roadmaps",
+      "usedAt": "2026-07-18",
+      "site": "startup-radar"
+    },
+    {
+      "key": "brianbalfour.com/essays/traction-vs-growth",
+      "title": "Traction vs. Growth",
+      "url": "https://brianbalfour.com/essays/traction-vs-growth",
       "usedAt": "2026-07-18",
       "site": "startup-radar"
     },
@@ -884,6 +1612,13 @@
       "site": "daily-reading"
     },
     {
+      "key": "intercom.com/blog/user-onboarding",
+      "title": "The ultimate guide to onboarding",
+      "url": "https://www.intercom.com/blog/user-onboarding/",
+      "usedAt": "2026-07-17",
+      "site": "startup-radar"
+    },
+    {
       "key": "lennysnewsletter.com/p/how-figma-builds-product",
       "title": "How Figma builds product",
       "url": "https://www.lennysnewsletter.com/p/how-figma-builds-product",
@@ -940,6 +1675,13 @@
       "site": "daily-reading"
     },
     {
+      "key": "amplitude.com/blog/north-star-metric",
+      "title": "What is a North Star Metric?",
+      "url": "https://amplitude.com/blog/north-star-metric",
+      "usedAt": "2026-07-16",
+      "site": "startup-radar"
+    },
+    {
       "key": "basecamp.com/shapeup/1.1-chapter-02",
       "title": "Shape Up: Betting",
       "url": "https://basecamp.com/shapeup/1.1-chapter-02",
@@ -980,6 +1722,13 @@
       "url": "https://martinfowler.com/articles/harness-engineering.html",
       "usedAt": "2026-07-16",
       "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/vantas-path-to-product-market-fit",
+      "title": "Vanta's Path to Product-Market Fit",
+      "url": "https://review.firstround.com/vantas-path-to-product-market-fit/",
+      "usedAt": "2026-07-16",
+      "site": "startup-radar"
     },
     {
       "key": "slack.design/articles/craft-in-design-what-it-is-why-it-matters",
@@ -1024,6 +1773,13 @@
       "site": "daily-reading"
     },
     {
+      "key": "intercom.com/blog/jobs-to-be-done",
+      "title": "Jobs-to-be-Done",
+      "url": "https://www.intercom.com/blog/jobs-to-be-done/",
+      "usedAt": "2026-07-15",
+      "site": "startup-radar"
+    },
+    {
       "key": "leaddev.com/technical-direction/microservice-dogma-nearly-tanked-our-seed-round",
       "title": "Microservice dogma nearly tanked our seed round",
       "url": "https://leaddev.com/technical-direction/microservice-dogma-nearly-tanked-our-seed-round?utm_source=leaddev&#038;utm_medium=RSS",
@@ -1043,6 +1799,13 @@
       "url": "https://newsletter.pragmaticengineer.com/p/opencode",
       "usedAt": "2026-07-15",
       "site": "daily-reading"
+    },
+    {
+      "key": "nngroup.com/articles/ten-usability-heuristics",
+      "title": "10 Usability Heuristics for User Interface Design",
+      "url": "https://www.nngroup.com/articles/ten-usability-heuristics/",
+      "usedAt": "2026-07-15",
+      "site": "startup-radar"
     },
     {
       "key": "research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions",
@@ -1584,13 +2347,6 @@
       "site": "daily-reading"
     },
     {
-      "key": "brianbalfour.com/essays/traction-vs-growth",
-      "title": "Traction vs. Growth",
-      "url": "https://brianbalfour.com/essays/traction-vs-growth",
-      "usedAt": "2026-07-07",
-      "site": "daily-reading"
-    },
-    {
       "key": "greatlittle.software/blog/how-to-come-up-with-a-passion-project",
       "title": "How to come up with a passion project",
       "url": "https://greatlittle.software/blog/how-to-come-up-with-a-passion-project/",
@@ -1598,30 +2354,9 @@
       "site": "daily-reading"
     },
     {
-      "key": "intercom.com/blog/rice-simple-prioritization-for-product-managers",
-      "title": "RICE: Simple prioritization for product managers",
-      "url": "https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/",
-      "usedAt": "2026-07-07",
-      "site": "daily-reading"
-    },
-    {
-      "key": "intercom.com/blog/using-job-stories-design-features-ui-ux",
-      "title": "Designing Features Using Job Stories",
-      "url": "https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/",
-      "usedAt": "2026-07-07",
-      "site": "daily-reading"
-    },
-    {
       "key": "nngroup.com/articles/service-blueprints-definition",
       "title": "Service Blueprints: Definition",
       "url": "https://www.nngroup.com/articles/service-blueprints-definition/",
-      "usedAt": "2026-07-07",
-      "site": "daily-reading"
-    },
-    {
-      "key": "openviewpartners.com/blog/what-is-product-led-growth",
-      "title": "What is Product-Led Growth?",
-      "url": "https://openviewpartners.com/blog/what-is-product-led-growth/",
       "usedAt": "2026-07-07",
       "site": "daily-reading"
     },
@@ -1654,13 +2389,6 @@
       "site": "daily-reading"
     },
     {
-      "key": "intercom.com/blog/user-onboarding",
-      "title": "The ultimate guide to onboarding",
-      "url": "https://www.intercom.com/blog/user-onboarding/",
-      "usedAt": "2026-07-06",
-      "site": "daily-reading"
-    },
-    {
       "key": "miro.com/blog/design-thinking",
       "title": "Design Thinking",
       "url": "https://miro.com/blog/design-thinking/",
@@ -1668,30 +2396,9 @@
       "site": "daily-reading"
     },
     {
-      "key": "nngroup.com/articles/ten-usability-heuristics",
-      "title": "10 Usability Heuristics for User Interface Design",
-      "url": "https://www.nngroup.com/articles/ten-usability-heuristics/",
-      "usedAt": "2026-07-06",
-      "site": "daily-reading"
-    },
-    {
-      "key": "reforge.com/blog/retention-engagement",
-      "title": "Retention + Engagement",
-      "url": "https://www.reforge.com/blog/retention-engagement",
-      "usedAt": "2026-07-06",
-      "site": "daily-reading"
-    },
-    {
-      "key": "review.firstround.com/vantas-path-to-product-market-fit",
-      "title": "Vanta's Path to Product-Market Fit",
-      "url": "https://review.firstround.com/vantas-path-to-product-market-fit/",
-      "usedAt": "2026-07-06",
-      "site": "daily-reading"
-    },
-    {
-      "key": "svpg.com/product-discovery",
-      "title": "Product Discovery",
-      "url": "https://www.svpg.com/product-discovery/",
+      "key": "paulgraham.com/schlep.html",
+      "title": "Schlep Blindness",
+      "url": "https://www.paulgraham.com/schlep.html",
       "usedAt": "2026-07-06",
       "site": "daily-reading"
     },
@@ -1710,23 +2417,9 @@
       "site": "daily-reading"
     },
     {
-      "key": "amplitude.com/blog/north-star-metric",
-      "title": "What is a North Star Metric?",
-      "url": "https://amplitude.com/blog/north-star-metric",
-      "usedAt": "2026-07-05",
-      "site": "daily-reading"
-    },
-    {
       "key": "anthropic.com/engineering/building-effective-agents",
       "title": "Building Effective Agents",
       "url": "https://www.anthropic.com/engineering/building-effective-agents",
-      "usedAt": "2026-07-05",
-      "site": "daily-reading"
-    },
-    {
-      "key": "intercom.com/blog/product-strategy-means-saying-no",
-      "title": "Product strategy means saying no",
-      "url": "https://www.intercom.com/blog/product-strategy-means-saying-no/",
       "usedAt": "2026-07-05",
       "site": "daily-reading"
     },
@@ -1738,30 +2431,23 @@
       "site": "daily-reading"
     },
     {
-      "key": "paulgraham.com/startupideas.html",
-      "title": "How to Get Startup Ideas",
-      "url": "https://www.paulgraham.com/startupideas.html",
+      "key": "review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit",
+      "title": "How Superhuman Built an Engine to Find Product-Market Fit",
+      "url": "https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/",
       "usedAt": "2026-07-05",
       "site": "daily-reading"
     },
     {
-      "key": "svpg.com/product-vs-feature-teams",
-      "title": "Product vs. Feature Teams",
-      "url": "https://www.svpg.com/product-vs-feature-teams/",
-      "usedAt": "2026-07-05",
-      "site": "daily-reading"
-    },
-    {
-      "key": "a16z.com/the-new-business-of-ai-and-how-its-different-from-traditional-software",
-      "title": "The New Business of AI",
-      "url": "https://a16z.com/the-new-business-of-ai-and-how-its-different-from-traditional-software/",
+      "key": "lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace",
+      "title": "How to Kickstart and Scale a Marketplace",
+      "url": "https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace",
       "usedAt": "2026-07-04",
       "site": "daily-reading"
     },
     {
-      "key": "intercom.com/blog/jobs-to-be-done",
-      "title": "Jobs-to-be-Done",
-      "url": "https://www.intercom.com/blog/jobs-to-be-done/",
+      "key": "linear.app/method",
+      "title": "The Linear Method",
+      "url": "https://linear.app/method",
       "usedAt": "2026-07-04",
       "site": "daily-reading"
     },
@@ -1780,13 +2466,6 @@
       "site": "daily-reading"
     },
     {
-      "key": "reforge.com/blog/product-strategy-stack",
-      "title": "The Product Strategy Stack",
-      "url": "https://www.reforge.com/blog/product-strategy-stack",
-      "usedAt": "2026-07-04",
-      "site": "daily-reading"
-    },
-    {
       "key": "svpg.com/outcomes-over-output",
       "title": "Outcomes vs. Outputs",
       "url": "https://www.svpg.com/outcomes-over-output/",
@@ -1801,37 +2480,9 @@
       "site": "startup-radar"
     },
     {
-      "key": "paulgraham.com/schlep.html",
-      "title": "Schlep Blindness",
-      "url": "https://www.paulgraham.com/schlep.html",
-      "usedAt": "2026-06-20",
-      "site": "startup-radar"
-    },
-    {
-      "key": "review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit",
-      "title": "How Superhuman Built an Engine to Find Product-Market Fit",
-      "url": "https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/",
-      "usedAt": "2026-06-20",
-      "site": "startup-radar"
-    },
-    {
       "key": "basecamp.com/gettingreal",
       "title": "Getting Real",
       "url": "https://basecamp.com/gettingreal",
-      "usedAt": "2026-06-19",
-      "site": "startup-radar"
-    },
-    {
-      "key": "lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace",
-      "title": "How to Kickstart and Scale a Marketplace",
-      "url": "https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace",
-      "usedAt": "2026-06-19",
-      "site": "startup-radar"
-    },
-    {
-      "key": "linear.app/method",
-      "title": "The Linear Method",
-      "url": "https://linear.app/method",
       "usedAt": "2026-06-19",
       "site": "startup-radar"
     }
