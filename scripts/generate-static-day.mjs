@@ -25,7 +25,12 @@ const knownReadingHistory = mergeReadingHistory([
   ...feedReadingHistory(existingFeed, "startup-radar"),
   ...feedReadingHistory(sharedReadingHistory, "daily-reading")
 ]);
-const usedReadingKeys = new Set(knownReadingHistory.map((entry) => entry.key).filter(Boolean));
+const readingCooldownDays = positiveInteger(process.env.READING_COOLDOWN_DAYS, 30);
+const readingCooldownStart = shiftDate(date, -(readingCooldownDays - 1));
+const recentReadingHistory = knownReadingHistory.filter(
+  (entry) => entry.usedAt >= readingCooldownStart && entry.usedAt <= date
+);
+const usedReadingKeys = new Set(recentReadingHistory.map((entry) => entry.key).filter(Boolean));
 
 const dayFeed = await generateLiveFeed({
   daysBack: 1,
@@ -66,6 +71,7 @@ console.log(JSON.stringify({
   date,
   companies: day.companies.map((company) => company.name),
   readings: day.readings.map((reading) => reading.title),
+  readingCooldownDays,
   usedAi
 }, null, 2));
 
@@ -110,18 +116,20 @@ function readReadingHistory() {
 async function readSharedReadingHistory() {
   const localPath = join(root, "../daily-reading-feed/data/fallback-feed.mjs");
   try {
-    const source = existsSync(localPath)
-      ? readFileSync(localPath, "utf8")
-      : await fetch(
-          "https://raw.githubusercontent.com/yatingzhaoo/daily-reading-feed/main/data/fallback-feed.mjs",
-          { signal: AbortSignal.timeout(10000) }
-        ).then((response) => {
-          if (!response.ok) throw new Error(`Shared reading history returned ${response.status}`);
-          return response.text();
-        });
-    const match = source.match(/^const fallbackFeed = ([\s\S]+);\s*export default fallbackFeed;\s*$/);
-    if (!match) throw new Error("Shared reading history has an unknown format");
-    return JSON.parse(match[1]);
+    if (existsSync(localPath)) {
+      const source = readFileSync(localPath, "utf8");
+      const match = source.match(/^const fallbackFeed = ([\s\S]+);\s*export default fallbackFeed;\s*$/);
+      if (!match) throw new Error("Shared reading history has an unknown format");
+      return JSON.parse(match[1]);
+    }
+
+    return await fetch(
+      "https://daily-reading-feed.pages.dev/feed.json",
+      { signal: AbortSignal.timeout(10000) }
+    ).then((response) => {
+      if (!response.ok) throw new Error(`Shared reading history returned ${response.status}`);
+      return response.json();
+    });
   } catch (error) {
     if (storedReadingHistory.length) {
       console.warn(`Shared reading history unavailable; using the stored ledger: ${error.message}`);
@@ -154,7 +162,7 @@ function mergeReadingHistory(entries) {
   for (const entry of entries) {
     if (!entry?.key) continue;
     const previous = byKey.get(entry.key);
-    if (!previous || String(entry.usedAt || "") < String(previous.usedAt || "")) {
+    if (!previous || String(entry.usedAt || "") > String(previous.usedAt || "")) {
       byKey.set(entry.key, entry);
     }
   }
@@ -170,4 +178,15 @@ function currentLosAngelesDate() {
     month: "2-digit",
     day: "2-digit"
   }).format(new Date());
+}
+
+function shiftDate(value, offsetDays) {
+  const shifted = new Date(`${value}T00:00:00.000Z`);
+  shifted.setUTCDate(shifted.getUTCDate() + offsetDays);
+  return shifted.toISOString().slice(0, 10);
+}
+
+function positiveInteger(value, fallback) {
+  const parsed = Number.parseInt(value || "", 10);
+  return Number.isInteger(parsed) && parsed > 0 ? parsed : fallback;
 }

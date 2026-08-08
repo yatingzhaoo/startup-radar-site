@@ -21,7 +21,42 @@ const SOURCES = {
   productHunt: "https://www.producthunt.com/feed",
   techCrunchStartups: "https://techcrunch.com/category/startups/feed/",
   techCrunchAI: "https://techcrunch.com/category/artificial-intelligence/feed/",
-  techCrunchMain: "https://techcrunch.com/feed/"
+  techCrunchMain: "https://techcrunch.com/feed/",
+  lenny: "https://www.lennysnewsletter.com/feed",
+  intercom: "https://www.intercom.com/blog/feed/",
+  yCombinatorBlog: "https://www.ycombinator.com/blog/rss",
+  openAiNews: "https://openai.com/news/rss.xml",
+  githubBlog: "https://github.blog/feed/",
+  cloudflareBlog: "https://blog.cloudflare.com/rss/",
+  stripeBlog: "https://stripe.com/blog/feed.rss",
+  sequoia: "https://sequoiacap.com/feed/",
+  googleDeepMind: "https://deepmind.google/blog/rss.xml",
+  microsoftResearch: "https://www.microsoft.com/en-us/research/feed/",
+  nvidiaBlog: "https://blogs.nvidia.com/feed/",
+  huggingFace: "https://huggingface.co/blog/feed.xml",
+  pragmaticEngineer: "https://newsletter.pragmaticengineer.com/feed",
+  latentSpace: "https://www.latent.space/feed",
+  crunchbaseNews: "https://news.crunchbase.com/feed/",
+  saastr: "https://www.saastr.com/feed/",
+  smashingMagazine: "https://www.smashingmagazine.com/feed/",
+  nielsenNormanGroup: "https://www.nngroup.com/feed/rss/",
+  lightspeed: "https://lsvp.com/feed/",
+  menloVentures: "https://menlovc.com/feed/",
+  awsMachineLearning: "https://aws.amazon.com/blogs/machine-learning/feed/",
+  googleAi: "https://blog.google/technology/ai/rss/",
+  appleMachineLearning: "https://machinelearning.apple.com/rss.xml",
+  mozillaAi: "https://blog.mozilla.ai/rss/",
+  mitTechnologyReview: "https://www.technologyreview.com/feed/",
+  ventureBeatAi: "https://venturebeat.com/category/ai/feed/",
+  wiredBusiness: "https://www.wired.com/feed/category/business/latest/rss",
+  svpg: "https://www.svpg.com/feed/",
+  aListApart: "https://alistapart.com/main/feed/",
+  stackOverflowBlog: "https://stackoverflow.blog/feed/",
+  martinFowler: "https://martinfowler.com/feed.atom",
+  googleResearch: "https://research.google/blog/rss/",
+  netflixTechBlog: "https://netflixtechblog.com/feed",
+  spotifyEngineering: "https://engineering.atspotify.com/feed/",
+  slackEngineering: "https://slack.engineering/feed/"
 };
 
 const CURATED_HARDWARE_COMPANIES = [
@@ -476,7 +511,15 @@ export function readingDedupeKey(reading) {
 }
 
 export function readingSourceKey(reading) {
-  return normalizedTextKey(reading.source || "");
+  const source = normalizedTextKey(reading.source || "");
+  if (source.startsWith("techcrunch")) return "techcrunch";
+  if (source === "hacker news") return "hacker-news";
+  if (source) return source;
+  try {
+    return new URL(reading.url || "").hostname.replace(/^www\./, "").toLowerCase();
+  } catch {
+    return "";
+  }
 }
 
 function readingThemeKey(reading) {
@@ -598,7 +641,12 @@ const BLOCKED_READING_KEYS = new Set(
   ].map((url) => normalizedUrlKey(url))
 );
 
-const BLOCKED_READING_DOMAINS = new Set(["medium.com"]);
+const BLOCKED_READING_DOMAINS = new Set([
+  "medium.com",
+  "twitter.com",
+  "x.com",
+  "xcancel.com"
+]);
 
 function hasAnyKey(seenKeys, keys) {
   return keys.some((key) => seenKeys.has(key));
@@ -1276,10 +1324,10 @@ function seededNoise(input) {
 }
 
 function normalizeRssItem(item, source) {
-  const title = cleanText(item.title);
-  const link = item.link || item.guid?.text || item.guid || "";
-  const description = cleanText(item.description || item["content:encoded"] || "");
-  const date = item.pubDate || item.published || item.updated || "";
+  const title = feedText(item.title);
+  const link = feedLink(item.link) || feedText(item.guid) || "";
+  const description = feedText(item.description || item.summary || item["content:encoded"] || item.content);
+  const date = feedText(item.pubDate || item.published || item.updated || item["dc:date"] || "");
 
   return {
     id: `${source}-${Buffer.from(link || title).toString("base64url").slice(0, 12)}`,
@@ -1289,6 +1337,19 @@ function normalizeRssItem(item, source) {
     published: date,
     story: readingStory({ title, source, description })
   };
+}
+
+function feedText(value) {
+  if (typeof value === "string" || typeof value === "number") return cleanText(value);
+  if (!value || typeof value !== "object") return "";
+  return cleanText(value.text || value["#text"] || value._ || value.value || "");
+}
+
+function feedLink(value) {
+  if (typeof value === "string") return value;
+  const links = Array.isArray(value) ? value : value ? [value] : [];
+  const link = links.find((item) => item?.rel === "alternate") || links[0];
+  return typeof link === "string" ? link : link?.href || feedText(link);
 }
 
 function readingStory(item) {
@@ -1312,23 +1373,57 @@ async function getRssReadings() {
   const feeds = [
     ["TechCrunch Startups", SOURCES.techCrunchStartups],
     ["TechCrunch AI", SOURCES.techCrunchAI],
-    ["TechCrunch", SOURCES.techCrunchMain]
+    ["TechCrunch", SOURCES.techCrunchMain],
+    ["Lenny's Newsletter", SOURCES.lenny],
+    ["Intercom", SOURCES.intercom],
+    ["Y Combinator", SOURCES.yCombinatorBlog],
+    ["OpenAI", SOURCES.openAiNews],
+    ["GitHub", SOURCES.githubBlog],
+    ["Cloudflare", SOURCES.cloudflareBlog],
+    ["Stripe", SOURCES.stripeBlog],
+    ["Sequoia Capital", SOURCES.sequoia],
+    ["Google DeepMind", SOURCES.googleDeepMind],
+    ["Microsoft Research", SOURCES.microsoftResearch],
+    ["NVIDIA", SOURCES.nvidiaBlog],
+    ["Hugging Face", SOURCES.huggingFace],
+    ["The Pragmatic Engineer", SOURCES.pragmaticEngineer],
+    ["Latent Space", SOURCES.latentSpace],
+    ["Crunchbase News", SOURCES.crunchbaseNews],
+    ["SaaStr", SOURCES.saastr],
+    ["Smashing Magazine", SOURCES.smashingMagazine],
+    ["Nielsen Norman Group", SOURCES.nielsenNormanGroup],
+    ["Lightspeed", SOURCES.lightspeed],
+    ["Menlo Ventures", SOURCES.menloVentures],
+    ["AWS Machine Learning", SOURCES.awsMachineLearning],
+    ["Google AI", SOURCES.googleAi],
+    ["Apple Machine Learning Research", SOURCES.appleMachineLearning],
+    ["Mozilla AI", SOURCES.mozillaAi],
+    ["MIT Technology Review", SOURCES.mitTechnologyReview],
+    ["VentureBeat AI", SOURCES.ventureBeatAi],
+    ["WIRED Business", SOURCES.wiredBusiness],
+    ["Silicon Valley Product Group", SOURCES.svpg],
+    ["A List Apart", SOURCES.aListApart],
+    ["Stack Overflow Blog", SOURCES.stackOverflowBlog],
+    ["Martin Fowler", SOURCES.martinFowler],
+    ["Google Research", SOURCES.googleResearch],
+    ["Netflix TechBlog", SOURCES.netflixTechBlog],
+    ["Spotify Engineering", SOURCES.spotifyEngineering],
+    ["Slack Engineering", SOURCES.slackEngineering]
   ];
 
-  const results = [];
-
-  for (const [source, url] of feeds) {
+  const batches = await Promise.all(feeds.map(async ([source, url]) => {
     try {
       const parsed = await readRss(url);
       const channel = parsed.rss?.channel || parsed.feed;
       const items = Array.isArray(channel?.item) ? channel.item : Array.isArray(channel?.entry) ? channel.entry : [];
-      results.push(...items.slice(0, 5).map((item) => normalizeRssItem(item, source)));
+      return items.slice(0, 10).map((item) => normalizeRssItem(item, source));
     } catch (error) {
       console.warn(`RSS skipped: ${source}: ${error.message}`);
+      return [];
     }
-  }
+  }));
 
-  return results;
+  return batches.flat();
 }
 
 function getEvergreenReadings(date = TODAY) {
@@ -1358,23 +1453,84 @@ function evergreenStory(item) {
 }
 
 async function getHnReadings() {
-  try {
-    const data = await readJson(SOURCES.hn);
-    return data.hits
-      .filter((hit) => hit.title && hit.url)
-      .slice(0, 6)
-      .map((hit) => ({
-        id: `hn-${hit.objectID}`,
-        title: cleanText(hit.title),
-        url: hit.url,
-        source: "Hacker News",
-        published: hit.created_at,
-        story: `这条正在 Hacker News 这类技术社区里被讨论。标题是 “${cleanText(hit.title)}”。它的价值不只在原文，还在于它可能代表工程师、创业者或早期用户正在关心的一个问题。读它时可以先问，为什么技术社区会讨论它，它背后是不是有新工具、新公司或新的技术路线。`
-      }));
-  } catch (error) {
-    console.warn(`HN skipped: ${error.message}`);
-    return [];
+  const queries = [SOURCES.hn, SOURCES.hnLaunch];
+  const batches = await Promise.all(queries.map(async (url) => {
+    try {
+      const data = await readJson(url);
+      return data.hits
+        .filter((hit) => hit.title && hit.url)
+        .slice(0, 12)
+        .map((hit) => ({
+          id: `hn-${hit.objectID}`,
+          title: cleanText(hit.title),
+          url: hit.url,
+          source: "Hacker News",
+          published: hit.created_at,
+          story: `这条正在 Hacker News 这类技术社区里被讨论。标题是 “${cleanText(hit.title)}”。它的价值不只在原文，还在于它可能代表工程师、创业者或早期用户正在关心的一个问题。读它时可以先问，为什么技术社区会讨论它，它背后是不是有新工具、新公司或新的技术路线。`
+        }));
+    } catch (error) {
+      console.warn(`HN skipped: ${error.message}`);
+      return [];
+    }
+  }));
+
+  return dedupeReadings(batches.flat());
+}
+
+async function getLiveReadingCandidates() {
+  const [rssReadings, hnReadings] = await Promise.all([
+    getRssReadings(),
+    getHnReadings()
+  ]);
+
+  return dedupeReadings([...rssReadings, ...hnReadings]).sort(
+    (left, right) => readingTimestamp(right) - readingTimestamp(left)
+  );
+}
+
+function dailyReadingCandidates(liveReadings, date) {
+  const end = Date.parse(`${date}T23:59:59.999Z`);
+  const start = end - 14 * 86400000;
+  const recent = liveReadings.filter((reading) => {
+    const timestamp = readingTimestamp(reading);
+    return timestamp > 0 && timestamp >= start && timestamp <= end;
+  });
+
+  return dedupeReadings([
+    ...capLiveReadingCandidates(recent),
+    ...getEvergreenReadings(date)
+  ]);
+}
+
+function capLiveReadingCandidates(readings, count = 48, perSource = 4) {
+  const selected = [];
+  const sourceCounts = new Map();
+
+  for (const reading of readings) {
+    const source = readingSourceKey(reading) || "unknown";
+    const sourceCount = sourceCounts.get(source) || 0;
+    if (sourceCount >= perSource) continue;
+    selected.push(reading);
+    sourceCounts.set(source, sourceCount + 1);
+    if (selected.length >= count) break;
   }
+
+  return selected;
+}
+
+function readingTimestamp(reading) {
+  const value = Date.parse(reading.published || "");
+  return Number.isFinite(value) ? value : 0;
+}
+
+function dedupeReadings(readings) {
+  const seen = new Set();
+  return readings.filter((reading) => {
+    const key = readingDedupeKey(reading);
+    if (!key || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
 async function main() {
@@ -1430,6 +1586,7 @@ export async function generateLiveFeed({
   const days = [];
   const excludedCompanyIds = new Set(initialExcludedCompanyIds);
   const usedReadingKeys = new Set(initialUsedReadingKeys);
+  const liveReadingCandidates = await getLiveReadingCandidates();
 
   for (let index = 0; index < daysBack; index += 1) {
     const date = shiftDate(today, -index);
@@ -1440,7 +1597,7 @@ export async function generateLiveFeed({
       }
     }
 
-    const readingCandidates = getEvergreenReadings(date);
+    const readingCandidates = dailyReadingCandidates(liveReadingCandidates, date);
     const readings = checkReadingLinks
       ? await pickHealthyReadings(readingCandidates, usedReadingKeys)
       : pickUniqueReadings(readingCandidates, usedReadingKeys);
@@ -1482,16 +1639,18 @@ async function pickHealthyReadings(readings, usedReadingKeys, count = 3) {
       return key && !usedReadingKeys.has(key);
     });
 
-  const checks = await Promise.all(
-    candidates.map(async (reading) => ({
-      reading,
-    healthy: await isHealthyLink(reading.url)
-    }))
-  );
-  const healthy = checks
-    .filter((item) => item.healthy)
-    .map((item) => item.reading)
-    .slice(0, 24);
+  const healthy = [];
+  const batchSize = 18;
+  const healthyTarget = 12;
+  for (let index = 0; index < candidates.length && healthy.length < healthyTarget; index += batchSize) {
+    const checks = await Promise.all(
+      candidates.slice(index, index + batchSize).map(async (reading) => ({
+        reading,
+        healthy: await isHealthyLink(reading.url)
+      }))
+    );
+    healthy.push(...checks.filter((item) => item.healthy).map((item) => item.reading));
+  }
 
   return pickDiverseReadings(healthy, {
     usedReadingKeys,
