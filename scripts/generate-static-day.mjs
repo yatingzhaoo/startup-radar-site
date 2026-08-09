@@ -27,8 +27,9 @@ const knownReadingHistory = mergeReadingHistory([
 ]);
 const readingCooldownDays = positiveInteger(process.env.READING_COOLDOWN_DAYS, 30);
 const readingCooldownStart = shiftDate(date, -(readingCooldownDays - 1));
+const readingCooldownEnd = shiftDate(date, readingCooldownDays - 1);
 const recentReadingHistory = knownReadingHistory.filter(
-  (entry) => entry.usedAt >= readingCooldownStart && entry.usedAt <= date
+  (entry) => entry.usedAt >= readingCooldownStart && entry.usedAt <= readingCooldownEnd
 );
 const usedReadingKeys = new Set(recentReadingHistory.map((entry) => entry.key).filter(Boolean));
 
