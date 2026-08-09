@@ -22,6 +22,7 @@ export function renderPage(feed, error) {
   const content = days.length
     ? days.map((day) => renderDay(day)).join("")
     : `<p class="loadingText">${escapeHtml(error ? "内容读取失败，请稍后再试。" : "暂无内容。")}</p>`;
+  const dateNavigation = days.length ? renderDateNavigation(days) : "";
 
   return `<!doctype html>
 <html lang="zh-CN">
@@ -32,15 +33,18 @@ export function renderPage(feed, error) {
     <style>${CSS}</style>
   </head>
   <body>
+    ${dateNavigation}
     <main class="page">${content}</main>
+    ${days.length ? renderDateNavigationScript() : ""}
     ${renderAnalyticsScript()}
   </body>
 </html>`;
 }
 
 function renderDay(day) {
-  return `<section class="dayFeed">
-  <div class="dayHead"><h2>${escapeHtml(day.date || "")}</h2></div>
+  const date = escapeHtml(day.date || "");
+  return `<section class="dayFeed" id="date-${escapeAttribute(day.date || "")}" data-date="${escapeAttribute(day.date || "")}">
+  <div class="dayHead"><h2>${date}</h2></div>
   <section class="section">
     <h3>值得关注的十家新公司</h3>
     <ol class="linkList">${(day.companies || []).slice(0, 10).map((company, index) => renderCompany(company, index)).join("")}</ol>
@@ -50,6 +54,47 @@ function renderDay(day) {
     <ol class="readingList">${(day.readings || []).slice(0, 3).map((reading, index) => renderReading(reading, index)).join("")}</ol>
   </section>
 </section>`;
+}
+
+function renderDateNavigation(days) {
+  return `<nav class="dateRail" aria-label="按日期快速跳转"><ol>${days.map((day, index) => {
+    const date = escapeAttribute(day.date || "");
+    return `<li><a class="dateTick${index === 0 ? " isActive" : ""}" href="#date-${date}" ${index === 0 ? 'aria-current="date" ' : ""}aria-label="跳转到 ${date}" data-date="${date}"><span class="visuallyHidden">${date}</span></a></li>`;
+  }).join("")}</ol></nav>`;
+}
+
+function renderDateNavigationScript() {
+  return `<script>
+(function () {
+  var links = Array.prototype.slice.call(document.querySelectorAll(".dateTick"));
+  var sections = Array.prototype.slice.call(document.querySelectorAll(".dayFeed[data-date]"));
+  var frame = null;
+
+  function updateActiveDate() {
+    frame = null;
+    var targetY = window.innerHeight * 0.28;
+    var closest = sections.reduce(function (best, section) {
+      var distance = Math.abs(section.getBoundingClientRect().top - targetY);
+      return !best || distance < best.distance ? { date: section.getAttribute("data-date"), distance: distance } : best;
+    }, null);
+
+    links.forEach(function (link) {
+      var active = closest && link.getAttribute("data-date") === closest.date;
+      link.classList.toggle("isActive", Boolean(active));
+      if (active) link.setAttribute("aria-current", "date");
+      else link.removeAttribute("aria-current");
+    });
+  }
+
+  function requestUpdate() {
+    if (frame === null) frame = window.requestAnimationFrame(updateActiveDate);
+  }
+
+  updateActiveDate();
+  window.addEventListener("scroll", requestUpdate, { passive: true });
+  window.addEventListener("resize", requestUpdate);
+})();
+</script>`;
 }
 
 function renderCompany(company, index) {
@@ -209,11 +254,35 @@ const CSS = `
 }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); }
+html { scroll-behavior: smooth; }
 a { color: var(--link); text-decoration: none; font: inherit; }
 a:hover { color: var(--link-hover); text-decoration: underline; }
 .page { width: min(var(--content-width), calc(100vw - 28px)); margin: 0 auto; padding: 18px 0 56px; }
+.dateRail { position: fixed; z-index: 10; top: 50%; left: 16px; transform: translateY(-50%); }
+.dateRail ol { display: flex; flex-direction: column; gap: 0; margin: 0; padding: 0; list-style: none; }
+.dateTick { position: relative; display: block; width: 44px; height: 20px; }
+.dateTick::before {
+  position: absolute; top: 9px; left: 4px; width: 10px; border-top: 3px solid #c8c8c8;
+  content: ""; transition: width 140ms ease, border-color 140ms ease;
+}
+.dateTick::after {
+  position: absolute; top: 50%; left: 30px; padding: 3px 7px; border: 1px solid #ececec;
+  border-radius: 4px; background: rgba(255, 255, 255, 0.96); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  color: var(--muted); content: attr(data-date); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: 12px; line-height: 1.4; opacity: 0; pointer-events: none; transform: translate(4px, -50%);
+  transition: opacity 120ms ease, transform 120ms ease; white-space: nowrap;
+}
+.dateTick:hover, .dateTick:focus-visible { text-decoration: none; }
+.dateTick:hover::before, .dateTick:focus-visible::before { width: 16px; border-color: #777777; }
+.dateTick:hover::after, .dateTick:focus-visible::after { opacity: 1; transform: translate(0, -50%); }
+.dateTick.isActive::before { width: 18px; border-color: #5e5e5e; }
+.dateTick:focus-visible { outline: 2px solid var(--link); outline-offset: 1px; }
+.visuallyHidden {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden;
+  clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
 h1, h2, h3, h4, p { margin: 0; }
-.dayFeed { padding: 18px 0 30px; }
+.dayFeed { padding: 18px 0 30px; scroll-margin-top: 18px; }
 .dayHead { padding: 6px 0 12px; }
 .dayHead h2 {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
@@ -252,7 +321,11 @@ h3 { font-size: 17px; font-weight: 700; }
 .loadingText { color: var(--muted); font-size: 15px; margin: 24px 0; }
 @media (max-width: 720px) {
   :root { font-size: 14px; }
-  .page { width: calc(100vw - 20px); padding-top: 10px; }
+  .page { width: auto; margin: 0 10px 0 42px; padding-top: 10px; }
+  .dateRail { left: 4px; }
+  .dateTick { width: 34px; height: 18px; }
+  .dateTick::before { top: 8px; }
+  .dateTick::after { display: none; }
   .companyRow, .readingRow { grid-template-columns: 24px 1fr; gap: 6px; }
   .rowNumber { text-align: left; }
   .companyExplanation, .readingItem p { font-size: 15px; line-height: 1.68; }

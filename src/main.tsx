@@ -1,5 +1,5 @@
 import { createRoot } from "react-dom/client";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import feedData from "./data/feed.json";
 import { capturePageview, initializeAnalytics, installGlobalClickTracking } from "./analytics";
 import "./styles.css";
@@ -396,9 +396,15 @@ function isRealLink(url?: string) {
   return Boolean(url) && !url.includes("example.com");
 }
 
+function dateAnchor(date: string) {
+  return `date-${date}`;
+}
+
 function App() {
   const [dailyFeeds, setDailyFeeds] = useState<DailyFeed[]>(fallbackFeeds);
   const [isRefreshing, setIsRefreshing] = useState(true);
+  const [activeDate, setActiveDate] = useState(fallbackFeeds[0]?.date ?? "");
+  const scrollFrame = useRef<number | null>(null);
 
   useEffect(() => {
     let cancelled = false;
@@ -432,11 +438,64 @@ function App() {
     };
   }, []);
 
+  useEffect(() => {
+    if (!dailyFeeds.length) return;
+
+    const updateActiveDate = () => {
+      scrollFrame.current = null;
+      const targetY = window.innerHeight * 0.28;
+      const closest = dailyFeeds
+        .map((day) => ({
+          date: day.date,
+          distance: Math.abs((document.getElementById(dateAnchor(day.date))?.getBoundingClientRect().top ?? Number.POSITIVE_INFINITY) - targetY)
+        }))
+        .sort((a, b) => a.distance - b.distance)[0];
+
+      if (closest) setActiveDate(closest.date);
+    };
+
+    const onScroll = () => {
+      if (scrollFrame.current === null) {
+        scrollFrame.current = window.requestAnimationFrame(updateActiveDate);
+      }
+    };
+
+    updateActiveDate();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll);
+
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      window.removeEventListener("resize", onScroll);
+      if (scrollFrame.current !== null) window.cancelAnimationFrame(scrollFrame.current);
+    };
+  }, [dailyFeeds]);
+
   return (
-    <main className="page">
-      {isRefreshing ? <p className="loadingText">正在读取今日内容...</p> : null}
-      {dailyFeeds.map((day) => (
-        <section className="dayFeed" key={day.date}>
+    <>
+      {dailyFeeds.length ? (
+        <nav className="dateRail" aria-label="按日期快速跳转">
+          <ol>
+            {dailyFeeds.map((day) => (
+              <li key={day.date}>
+                <a
+                  className={`dateTick${activeDate === day.date ? " isActive" : ""}`}
+                  href={`#${dateAnchor(day.date)}`}
+                  aria-current={activeDate === day.date ? "date" : undefined}
+                  aria-label={`跳转到 ${day.date}`}
+                  data-date={day.date}
+                >
+                  <span className="visuallyHidden">{day.date}</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+        </nav>
+      ) : null}
+      <main className="page">
+        {isRefreshing ? <p className="loadingText">正在读取今日内容...</p> : null}
+        {dailyFeeds.map((day) => (
+        <section className="dayFeed" id={dateAnchor(day.date)} data-date={day.date} key={day.date}>
           <div className="dayHead">
             <h2>{day.date}</h2>
           </div>
@@ -487,8 +546,9 @@ function App() {
             </ol>
           </section>
         </section>
-      ))}
-    </main>
+        ))}
+      </main>
+    </>
   );
 }
 
