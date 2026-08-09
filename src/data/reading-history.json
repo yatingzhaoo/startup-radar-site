@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T23:54:06.258Z",
+  "updatedAt": "2026-08-09T00:05:29.126Z",
   "readings": [
     {
       "key": "lennysnewsletter.com/p/community-wisdom-crafting-outreach",
@@ -20,6 +20,48 @@
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "usedAt": "2026-08-08",
+      "site": "startup-radar"
+    },
+    {
+      "key": "github.com/ryancswallace/jobman",
+      "title": "Show HN: Jobman – nohup with retries, timeouts, and dependencies",
+      "url": "https://github.com/ryancswallace/jobman",
+      "usedAt": "2026-08-07",
+      "site": "startup-radar"
+    },
+    {
+      "key": "lsvp.com/founder/phill-duggan",
+      "title": "Phil Duggan",
+      "url": "https://lsvp.com/founder/phill-duggan/",
+      "usedAt": "2026-08-07",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "usedAt": "2026-08-07",
+      "site": "startup-radar"
+    },
+    {
+      "key": "cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+      "title": "AMD buys Taalas, chip startup that hardwires AI models into its silicon",
+      "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+      "usedAt": "2026-08-06",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+      "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "usedAt": "2026-08-06",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse",
+      "title": "Flock Highlighted Police Departments Using Its Tech. Now 4 Face Allegations of Misuse",
+      "url": "https://www.wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse/",
+      "usedAt": "2026-08-06",
       "site": "startup-radar"
     },
     {
@@ -93,6 +135,27 @@
       "site": "daily-reading"
     },
     {
+      "key": "smlcrft.com/thoughts/its-open",
+      "title": "Show HN: Small Craft launches Seamside (Web3 P2P hosting/collab)",
+      "url": "https://smlcrft.com/thoughts/its-open/",
+      "usedAt": "2026-08-05",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships",
+      "title": "Trump&#8217;s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "usedAt": "2026-08-05",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms",
+      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+      "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+      "usedAt": "2026-08-05",
+      "site": "startup-radar"
+    },
+    {
       "key": "andrewchen.com/solve-a-hard-problem-cold-start-problem",
       "title": "Solve a Hard Problem",
       "url": "https://andrewchen.com/solve-a-hard-problem-cold-start-problem/",
@@ -107,11 +170,25 @@
       "site": "daily-reading"
     },
     {
+      "key": "edotenv.com",
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "url": "https://edotenv.com/",
+      "usedAt": "2026-08-04",
+      "site": "startup-radar"
+    },
+    {
       "key": "frankchimero.com/blog/2020/who-cares",
       "title": "Who Cares?",
       "url": "https://frankchimero.com/blog/2020/who-cares/",
       "usedAt": "2026-08-04",
       "site": "daily-reading"
+    },
+    {
+      "key": "github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+      "usedAt": "2026-08-04",
+      "site": "startup-radar"
     },
     {
       "key": "inkandswitch.com/potluck",
@@ -126,6 +203,13 @@
       "url": "https://www.intercom.com/blog/product-designer-impact/",
       "usedAt": "2026-08-04",
       "site": "daily-reading"
+    },
+    {
+      "key": "lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
+      "title": "What if you’re not supposed to have a long-term plan?",
+      "url": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
+      "usedAt": "2026-08-04",
+      "site": "startup-radar"
     },
     {
       "key": "linear.app/method/manage-design-projects",
@@ -212,6 +296,20 @@
       "site": "daily-reading"
     },
     {
+      "key": "latent.space/p/inference-eng",
+      "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
+      "url": "https://www.latent.space/p/inference-eng",
+      "usedAt": "2026-08-03",
+      "site": "startup-radar"
+    },
+    {
+      "key": "news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager",
+      "title": "Why The Product Manager To CEO Pipeline Is The Underrated Crash Course For Leadership In Tech",
+      "url": "https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/",
+      "usedAt": "2026-08-03",
+      "site": "startup-radar"
+    },
+    {
       "key": "review.firstround.com/dbt-labs-path-to-product-market-fit",
       "title": "dbt Labs' Path to Product-Market Fit",
       "url": "https://review.firstround.com/dbt-labs-path-to-product-market-fit/",
@@ -231,6 +329,13 @@
       "url": "https://stratechery.com/2017/defining-aggregators/",
       "usedAt": "2026-08-03",
       "site": "daily-reading"
+    },
+    {
+      "key": "technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "usedAt": "2026-08-03",
+      "site": "startup-radar"
     },
     {
       "key": "a16z.com/good-news-ai-will-eat-application-software",
@@ -275,11 +380,32 @@
       "site": "daily-reading"
     },
     {
+      "key": "lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
+      "usedAt": "2026-08-02",
+      "site": "startup-radar"
+    },
+    {
+      "key": "lsvp.com/founder/jason-chen",
+      "title": "Jason Chen",
+      "url": "https://lsvp.com/founder/jason-chen/",
+      "usedAt": "2026-08-02",
+      "site": "startup-radar"
+    },
+    {
       "key": "nfx.com/post/network-effects-facebook",
       "title": "Network Effects Predict the Future of Facebook",
       "url": "https://www.nfx.com/post/network-effects-facebook",
       "usedAt": "2026-08-02",
       "site": "daily-reading"
+    },
+    {
+      "key": "nngroup.com/articles/no-new-name-ux",
+      "title": "No New Name Has Replaced “UX”",
+      "url": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "usedAt": "2026-08-02",
+      "site": "startup-radar"
     },
     {
       "key": "review.firstround.com/how-product-strategy-fails-in-the-real-world-what-to-avoid-when-building-highly-technical-products",
@@ -317,6 +443,20 @@
       "site": "daily-reading"
     },
     {
+      "key": "latent.space/p/ainews-not-much-happened-today-038",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
+      "usedAt": "2026-08-01",
+      "site": "startup-radar"
+    },
+    {
+      "key": "lennysnewsletter.com/p/community-wisdom-getting-started",
+      "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+      "usedAt": "2026-08-01",
+      "site": "startup-radar"
+    },
+    {
       "key": "linear.app/method/write-issues-not-user-stories",
       "title": "Write issues not user stories",
       "url": "https://linear.app/method/write-issues-not-user-stories",
@@ -343,6 +483,13 @@
       "url": "https://www.nfx.com/post/viral-effects-vs-network-effects",
       "usedAt": "2026-08-01",
       "site": "daily-reading"
+    },
+    {
+      "key": "nngroup.com/news/item/people-culture-generalist-remote",
+      "title": "Job Opening: People & Culture Generalist (Remote, US Based)",
+      "url": "https://www.nngroup.com/news/item/people-culture-generalist-remote/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "usedAt": "2026-08-01",
+      "site": "startup-radar"
     },
     {
       "key": "paulgraham.com/top.html",
@@ -408,6 +555,20 @@
       "site": "daily-reading"
     },
     {
+      "key": "lsvp.com/founder/hanying-hu",
+      "title": "Hanying Hu",
+      "url": "https://lsvp.com/founder/hanying-hu/",
+      "usedAt": "2026-07-31",
+      "site": "startup-radar"
+    },
+    {
+      "key": "news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion",
+      "title": "The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth Fusion Lead With Billion-Dollar Deals",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
+      "usedAt": "2026-07-31",
+      "site": "startup-radar"
+    },
+    {
       "key": "nfx.com/post/ai-first-marketplace",
       "title": "The AI-First Marketplace",
       "url": "https://www.nfx.com/post/ai-first-marketplace",
@@ -420,6 +581,13 @@
       "url": "https://www.nfx.com/post/marketplace-expansion-framework",
       "usedAt": "2026-07-31",
       "site": "daily-reading"
+    },
+    {
+      "key": "nngroup.com/articles/mentorship",
+      "title": "Why You Need Mentorship and How to Get It Right",
+      "url": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "usedAt": "2026-07-31",
+      "site": "startup-radar"
     },
     {
       "key": "paulgraham.com/taste.html",
@@ -464,6 +632,13 @@
       "site": "daily-reading"
     },
     {
+      "key": "github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+      "usedAt": "2026-07-30",
+      "site": "startup-radar"
+    },
+    {
       "key": "joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed",
       "title": "The Iceberg Secret, Revealed",
       "url": "https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/",
@@ -492,6 +667,13 @@
       "site": "daily-reading"
     },
     {
+      "key": "microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge",
+      "title": "EvoLib: Turning experience into evolving knowledge",
+      "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
+      "usedAt": "2026-07-30",
+      "site": "startup-radar"
+    },
+    {
       "key": "numinous.productions/ttft",
       "title": "How can we develop transformative tools for thought?",
       "url": "https://numinous.productions/ttft/",
@@ -511,6 +693,13 @@
       "url": "https://www.paulgraham.com/makersschedule.html",
       "usedAt": "2026-07-30",
       "site": "daily-reading"
+    },
+    {
+      "key": "research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
+      "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+      "usedAt": "2026-07-30",
+      "site": "startup-radar"
     },
     {
       "key": "dovetail.com/blog/mediated-meaning-ais-role-in-the-research-craft",
