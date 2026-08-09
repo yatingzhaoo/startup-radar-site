@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-09T00:05:29.126Z",
+  "updatedAt": "2026-08-09T07:59:40.354Z",
   "readings": [
+    {
+      "key": "saastr.com/backstory-retiered-its-entire-customer-base-in-3-days-the-same-exercise-used-to-take-five-teams-a-quarter",
+      "title": "Backstory Retiered Its Entire Customer Base in 3 Days. The Same Exercise Used to Take Five Teams a Quarter.",
+      "url": "https://www.saastr.com/backstory-retiered-its-entire-customer-base-in-3-days-the-same-exercise-used-to-take-five-teams-a-quarter/",
+      "usedAt": "2026-08-09",
+      "site": "startup-radar"
+    },
+    {
+      "key": "sous.bio",
+      "title": "Show HN: Sous.bio – your sous chef in the lab",
+      "url": "https://sous.bio/",
+      "usedAt": "2026-08-09",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "usedAt": "2026-08-09",
+      "site": "startup-radar"
+    },
     {
       "key": "lennysnewsletter.com/p/community-wisdom-crafting-outreach",
       "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",

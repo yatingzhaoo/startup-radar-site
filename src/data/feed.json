@@ -1,7 +1,247 @@
 {
-  "generatedAt": "2026-08-09T00:05:29.124Z",
+  "generatedAt": "2026-08-09T07:59:40.352Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-09",
+      "companies": [
+        {
+          "id": 31463,
+          "name": "Armature",
+          "url": "https://armature.tech",
+          "sourceUrl": "https://www.ycombinator.com/companies/armature",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Improve how users experience your product through AI Agents",
+          "originalDescription": "Armature helps companies monitor, analyze, and optimize how AI agents experience their products. We start with Product Analytics: user sessions on your Claude Connector, ChatGPT App or MCP live inside their AI client, not your UI. Armature captures and shows you what users ask, what agents think and how they use your product. Then, we provide automated evals infrastructure: run complex sessions against your MCPs/CLIs across all major harnesses and models to catch broken workflows before your users do. Finally, our MCP lets your internal coding agents plug into Armature to autonomously fix your product's AX based on our run data. The next step is to provide the foundational infrastructure for the Agent Experience, powering agent-native revenue, lifecycle marketing, and customer support for the next generation of software.",
+          "story": "这家公司做的是人工智能时代的产品分析工具，帮助公司理解用户如何与他们的智能体产品互动。想象你是一个产品经理，你的用户通过Claude Code或ChatGPT这样的智能体来使用你的产品，你完全看不到他们在智能体界面里做了什么，不知道他们问了什么、智能体怎么思考、有没有卡住。Armature能捕捉这些会话，让你看到用户真实的使用过程，还提供自动评测基础设施，在用户遇到问题之前就发现坏掉的工作流。更妙的是，它的接口能让你们内部的编码智能体根据运行数据自动修复产品体验。这家公司来自YC春季2026批次，团队三人，虽然还在早期，但它瞄准的是智能体体验这个全新领域，值得关注。",
+          "rank": 1
+        },
+        {
+          "id": 29695,
+          "name": "Dench.com",
+          "url": "https://dench.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/dench-com",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Workflow Automation",
+            "Open Source",
+            "CRM",
+            "AI",
+            "AI Assistant"
+          ],
+          "batch": "Summer 2024",
+          "isHiring": true,
+          "teamSize": 6,
+          "originalOneLiner": "Workspace for your AI Agents, Build any Workflow.",
+          "originalDescription": "Dench: AI CRM + Full-Service Deployment Most CRMs sell you software and hand you a 200-page setup guide. Dench is different. We're the only CRM that ships with an embedded team: we migrate your data, build your object schema, configure your integrations, train your people, and deploy AI agents that keep your pipeline clean without a Salesforce developer, a RevOps contractor, or a six-month implementation project. From day one, our team works inside your stack. We pull your existing data out of HubSpot, Salesforce, or whatever spreadsheet graveyard you're currently using, and rebuild it properly in Dench. Custom objects, custom fields, automation rules, integration config across Gmail, Slack, Notion, GitHub, LinkedIn, and 50+ other tools. Everything set up the way your business actually works, not the way a generic CRM template assumes it does. Then we train your team. Not a one-hour Zoom and a PDF. Real sessions that build CRM discipline: how to log activity consistently, how to keep data clean, how to use AI agents to do the repetitive work so your reps spend time selling instead of updating fields. Quarterly business reviews keep the system evolving as your pipeline grows. The AI layer is what makes it permanent. Dench agents enrich leads automatically, move deals through stages based on real signals, draft outreach, log interactions, and flag hygiene issues before they compound. Your CRM stays accurate without someone babysitting it. No implementation consultant invoice. No dedicated Salesforce admin headcount. No duct-taped automation stack. One engagement, everything included, starting at $1,500/month.",
+          "story": "这是一家做人工智能客户关系管理的公司，但它的特别之处在于提供全服务部署。大多数客户关系管理系统卖给你软件后，丢给你一本两百页的安装指南，让你自己折腾。想象你是一个销售主管，公司用的是Salesforce或HubSpot，但数据一团糟，自动化规则没配好，团队成员不会用。Dench会派一个嵌入式团队帮你迁移数据、搭建对象结构、配置集成，还训练你的员工，甚至部署智能体来保持销售管道干净。整个过程不需要你请Salesforce开发人员或咨询顾问，也不用等六个月。这家公司来自YC夏季2024批次，目前团队六人，正在招聘，而且它把开源和人工智能结合，让客户关系管理变得真正可用。",
+          "rank": 2
+        },
+        {
+          "id": 31223,
+          "name": "Datoric",
+          "url": "https://www.datoric.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/datoric",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Data Labeling",
+            "ML"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Security-first training data",
+          "originalDescription": "Datoric provides custom training data for voice models, robotics, and world models. We manage the full process from contributor recruitment and task design to secure collection, quality control, rights management, and delivery. Our collection infrastructure is private by design. Voice, robotics, and world-model projects run through separate applications and sites, so contributor pools, task requirements, incentives, and data flows do not mix across modalities. Within each system, customer projects are isolated in private workspaces. Only approved contributors can access assigned tasks, with no public task listings, upload links, or contributor APIs. We also build quality into the collection process instead of relying only on review after the data arrives. Contributors are qualified and matched before they participate, collection requirements are enforced inside each workflow, and early submissions are tested before a project scales. Every sample is then linked to its contributor, consent, usage rights, collection history, and review record. Datoric’s mission is to make human-generated training data more secure, reliable, and responsibly sourced from the moment it is created.",
+          "story": "这家公司提供安全优先的训练数据服务，专门为语音模型、机器人和世界模型定制数据。想象你是一个研究工程师，需要收集大量高质量语音数据来训练一个语音助手，但担心数据隐私和合规问题。Datoric管理从贡献者招募、任务设计到安全收集、质量控制和交付的全过程。他们的基础设施是私有的，不同模态的项目完全隔离，客户项目也在私有工作空间里，只有批准的贡献者能访问。质量在收集过程中就内建了，而不是事后检查。这家公司来自YC夏季2026批次，团队两人，虽然很小，但解决的是人工智能发展中数据瓶颈的关键问题，值得关注。",
+          "rank": 3
+        },
+        {
+          "id": 30690,
+          "name": "Flai",
+          "url": "https://www.useflai.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/flai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 23,
+          "originalOneLiner": "We Bring Customers to Your Dealership",
+          "originalDescription": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue. We built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away. The result: No more missed opportunities, no more losing customers to competitors. Our founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges. We're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
+          "story": "这是一家为汽车经销商提供人工智能语音助手的公司。想象你是一个经销商的销售经理，晚上六点后打来的电话占56%，但没人接，这些潜在客户往往就流失给了24小时在线的竞争对手。Flai的人工智能助手全天候接听电话，可以安排试驾、预约换油，甚至主动发起召回活动，确保没有机会溜走。据说，错过下班后的电话平均每年让一个经销商损失一百万美元。这家公司来自YC夏季2025批次，团队二十三人，正在招聘。创始团队有在Uber、Netflix和HappyRobot的背景，他们不只是接电话，而是帮经销商在人工智能优先的世界里赢得客户。",
+          "rank": 4
+        },
+        {
+          "id": 30884,
+          "name": "Flick",
+          "url": "https://flick.art",
+          "sourceUrl": "https://www.ycombinator.com/companies/flick",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Creator Economy"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "We Handle AI. You Direct Films.",
+          "originalDescription": "Flick is an AI filmmaking software that lets people create Hollywood-level short films completely using AI end-to-end. There are many AI tools that can give you 8-second casual clips to post on social media, but when it comes to creating truly high-quality films with coherent storylines, consistent characters, and cinematic aesthetics, they don’t come close due to their lack of flexibility, creative control, and fragmented creative flow. Founded by an award-winning filmmaker and a founding engineer at Instagram, Flick defines an interface specifically designed for native AI filmmaking that feels natural and enables end-to-end creative flows. Think of Flick as Figma for AI filmmaking. There are 4 complete AI short films created using Flick that got 20+ awards in international film festivals already and our early creator residency community are generating several AI short films every week. We are also building a community where we produce our own AI films as well as collaborating with other well-known filmmakers to share their “behind-the-scenes” workflows as resuable templates to inspire users in our community. We not only build product, we also build world-class content. The whole film industry will be revolutionized by AI and our goal is to be “the product” that defines this category.",
+          "story": "这家公司做的是人工智能电影制作软件，让普通人也能用人工智能端到端创作好莱坞级别的短片。想象你是一个独立电影制作人，用现有的人工智能工具只能生成八秒钟的社交媒体片段，无法保持角色一致、故事连贯，创作流程也很碎片化。Flick提供专门为原生人工智能电影制作设计的界面，让你像用Figma一样自然地创作。创始人是获奖电影制作人和Instagram的创始工程师。他们用Flick制作的四部短片已经获得二十多个国际电影节奖项，早期创作者社区每周都在产出短片。这家公司来自YC秋季2025批次，团队两人，正在招聘。它把创作控制权交还给导演，而不是让人工智能随意生成。",
+          "rank": 5
+        },
+        {
+          "id": 30689,
+          "name": "b12 Labs",
+          "url": "https://b12-labs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/b12-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AI-powered Drug Discovery",
+            "Robotics"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Making hard molecules for Pharma and Biotech",
+          "originalDescription": "b12 makes high-value molecules that are otherwise hard to make. We help pharma companies plan and make new drugs, accelerating early-stage drug discovery from years to months. Andres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (1000+ citations), and won the best paper award at the NeurIPS AI for Science conference. Zlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. Combined, we have an extensive network of hundreds of chemists, automation scientists, and AI 4 Science researchers. We run paid pilots with big pharma companies, demonstrating that our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the iteration cycle.",
+          "story": "这家公司为制药和生物技术公司制造难以合成的分子，加速早期药物发现。想象你是一个药物化学家，需要合成一个复杂的分子，传统方法可能要好几年，而且失败率高。b12实验室用人工智能智能体和机器人实验室自主设计并合成分子，发表在《自然机器智能》上的论文已被引用上千次，还获得NeurIPS人工智能科学会议最佳论文奖。创始人是化学奥林匹克奖牌得主，曾在罗氏工作。他们已经和大型制药公司开展付费试点，一次尝试就实现完全转化，消除了迭代周期。这家公司来自YC夏季2025批次，团队三人，正在招聘。它把人工智能和机器人结合，把药物发现的周期从几年缩短到几个月。",
+          "rank": 6
+        },
+        {
+          "id": 31560,
+          "name": "Intelligence Factory",
+          "url": "https://intelligence-factory.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/intelligence-factory",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Human Intelligence for Robots",
+          "originalDescription": "Robotics is the new paradigm. With hardware converging, Intelligence is the biggest bottleneck. Our world was built for humans and we're giving robots the ability to reason and act like us. The way we learn any task - by seeing, doing, and feeling - is how we train robots. We're building general intelligence that works on any robot and fits seamlessly within our world.",
+          "story": "这家公司做的是机器人通用智能，让机器人像人类一样通过看、做和感受来学习任务。想象你是一个机器人工程师，你有一台人形机器人，但它只会执行预设程序，无法应对真实世界的复杂情况。Intelligence Factory训练机器人在人类环境中推理和行动，让它们适应我们建造的世界，而不是反过来。他们构建的智能可以适配任何机器人。这家公司来自YC春季2026批次，团队五人，正在招聘。随着硬件趋同，智能成为最大瓶颈，他们专注于解决这个问题。虽然还在早期，但方向很明确：让机器人真正融入我们的日常生活。",
+          "rank": 7
+        },
+        {
+          "id": 33022,
+          "name": "Praxis AI",
+          "url": "https://www.praxisrobotics.io",
+          "sourceUrl": "https://www.ycombinator.com/companies/praxis-ai-2",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Reinforcement Learning",
+            "Robotic Process Automation"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Turns every company into a data vendor",
+          "originalDescription": "Praxis captures the data physical AI is bottlenecked on: egocentric video, 3D scans, and multimodal capture from inside real industrial and residential environments. Embedded within publicly listed and unicorn-scale conglomerates, we reach 60k workers across 5 continents and 150+ environment types, supplying the real-world training data frontier labs and humanoid companies can't source anywhere else.",
+          "story": "这家公司为物理人工智能收集训练数据，包括第一人称视频、三维扫描和来自真实工业及家庭环境的多模态数据。想象你是一个数据采购经理，你需要大量真实世界数据来训练人形机器人，但很难找到多样化的环境。Praxis嵌入在上市公司和独角兽级别的企业集团中，覆盖五大洲六万名工人和一百五十多种环境类型，提供前沿实验室无法从其他地方获得的数据。这家公司来自YC夏季2026批次，团队三人。它把每家公司变成数据供应商，解决物理人工智能的数据瓶颈。这种模式很独特，因为它利用现有企业的规模来收集数据，而不是自己建立数据采集团队。",
+          "rank": 8
+        },
+        {
+          "id": 30056,
+          "name": "Keye",
+          "url": "https://www.keye.co",
+          "sourceUrl": "https://www.ycombinator.com/companies/keye",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Finance",
+            "Investing",
+            "Enterprise Software",
+            "AI"
+          ],
+          "batch": "Fall 2024",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "The Smartest Private Equity Investor",
+          "originalDescription": "Keye is an AI software that lets private equity firms do due diligence for acquisitions faster and more accurately. Our customers can evaluate 10x more deals and fund better companies which leads directly to better returns/more alpha. -- Our system is the first of its kind to instantly generate complex, comprehensive data packs from raw data in any format, directly from the data room. This enables investors to gain an 80% understanding of a potential deal within moments, empowering them to say No to a deal earlier in the process and focus on high-potential opportunities. Traditionally, creating these detailed data packs—like cohort or retention analyses and customer roll-forwards—takes weeks, during which critical details may be overlooked, potentially costing funds millions in missed insights and poor decisions. -- Keye combines cutting-edge AI with deep private equity expertise to deliver powerful, multi-layered insights that go far beyond the simple summarizers and search functions offered by other tools. Our platform dives deep into both quantitative and qualitative due diligence data, offering high-impact analytics crafted specifically for private equity workflows. This isn’t just automation—it’s a purpose-built solution that uncovers actionable insights, fueling smarter decisions and driving true alpha.",
+          "story": "这家公司为私募股权公司提供人工智能尽职调查软件，让投资决策更快更准。想象你是一个私募股权分析师，需要在一个数据室里分析成千上万份文件，传统方法要几周才能生成一份客户留存分析报告，而且容易遗漏关键细节。Keye能瞬间从任意格式的原始数据生成复杂的数据包，让你在几分钟内了解一个交易的百分之八十，从而更早说“不”，专注于高潜力项目。这家公司来自YC秋季2024批次，团队三人，正在招聘。它结合了尖端人工智能和私募股权专业知识，让投资者能评估十倍多的交易，最终带来更好的回报。",
+          "rank": 9
+        },
+        {
+          "id": "hardware-eight-sleep",
+          "name": "Eight Sleep",
+          "url": "https://www.eightsleep.com/",
+          "sourceUrl": "https://www.eightsleep.com/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "Smart Hardware",
+            "Data"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Smart sleep hardware that adjusts bed temperature and tracks sleep.",
+          "originalDescription": "Eight Sleep makes connected sleep hardware that changes temperature through the night and uses sleep data to improve rest and recovery.",
+          "story": "这是一家做智能睡眠硬件的公司，产品是智能床垫，可以整夜调节温度，并追踪睡眠数据来改善休息和恢复。想象你是一个睡眠质量差的上班族，每天醒来都感觉疲惫，试过各种手机应用但都没有实际效果。Eight Sleep的床垫内置传感器和温度调节功能，根据你的睡眠阶段自动调整温度，早上起来感觉更精神。它不只是一个手机应用，而是把能力放进床垫本身，因为温度调节和生物特征检测必须物理接触身体。这家公司来自智能硬件观察列表，目前没有招聘信息，但它的产品已经进入市场。对于追求健康的人来说，这种硬件方式比纯软件更直接有效。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49229230",
+          "title": "Show HN: Sous.bio – your sous chef in the lab",
+          "url": "https://sous.bio/",
+          "source": "Hacker News",
+          "published": "2026-08-09T07:30:11Z",
+          "story": "实验室里总有一堆重复的活儿：配溶液、算浓度、找试剂、记录数据，每一样都琐碎又容易出错。很多做实验的人其实都想过，要是能有个助手在旁边提醒就好了。这个叫 Sous.bio 的项目，名字就借了厨房里帮厨的意思，想给实验室也配一个这样的帮手。它出现在 Hacker News 上，说明是开发者自己做的，可能还比较早期。你可以带着一个问题去读：它到底把哪一步做成了自动化，是帮你查资料，还是帮你安排流程？看它怎么描述这个场景，就能判断它是不是真的懂实验室里的麻烦。"
+        },
+        {
+          "id": "TechCrunch Startups-aHR0cHM6Ly90",
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "source": "TechCrunch Startups",
+          "published": "Sat, 08 Aug 2026 19:41:13 +0000",
+          "story": "做演示文稿这件事，很多人觉得只是把内容排得好看一点。但真到要汇报、路演或者给客户提案的时候，你会发现排版和讲故事的功夫，往往比内容本身更花时间。OpenAI 收购一家做演示文稿的创业公司，听起来像是大公司买个小工具，但背后可能藏着更深的意图。如果你关心 人工智能 工具会怎样改变我们日常的工作方式，这篇值得一读。读的时候可以留意，作者是怎么把一次收购和整个行业的变化联系起来的，以及他提到的受益者，是不是真的能拿到好处。"
+        },
+        {
+          "id": "SaaStr-aHR0cHM6Ly93",
+          "title": "Backstory Retiered Its Entire Customer Base in 3 Days. The Same Exercise Used to Take Five Teams a Quarter.",
+          "url": "https://www.saastr.com/backstory-retiered-its-entire-customer-base-in-3-days-the-same-exercise-used-to-take-five-teams-a-quarter/",
+          "source": "SaaStr",
+          "published": "Sat, 08 Aug 2026 10:30:18 +0000",
+          "story": "很多做软件订阅的公司，都遇到过这样的头疼事：客户用着用着，套餐不合适了，得给他们重新分级。这活儿听起来简单，做起来却要协调好几个部门，常常一忙就是几个月。Backstory 这家公司居然三天就搞定了，而过去他们五个团队要忙一个季度。这种对比很吸引人，对吧？这篇文章讲的就是他们怎么做到的。读的时候，你可以特别留意他们到底改变了哪个环节，是用了新工具，还是换了思路，这比单纯看结果更有启发。"
+        }
+      ]
+    },
     {
       "date": "2026-08-08",
       "companies": [
@@ -3097,249 +3337,6 @@
           "source": "a16z",
           "topic": "人工智能产品和商业模式",
           "story": "关于人工智能产品和商业模式，一开始听上去都挺直观：用模型替代人工、按调用量收费、数据越多效果越好。可真正做起来就会发现，每一个环节都有很多细节需要琢磨，比如定价怎么定、数据壁垒怎么建、客户为什么不愿意迁移。这类文章的价值就是把这些细节拆开来讲。读的时候不要只看结论，可以把它当成一个拆解样本：作者怎样发现真正的问题，怎样判断哪些事重要，怎样把一个产品或团队选择讲明白。",
-          "published": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-07-24",
-      "companies": [
-        {
-          "id": 30729,
-          "name": "Floot",
-          "url": "https://floot.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/floot",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "SaaS",
-            "No-code",
-            "Web Development",
-            "AI"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "The easiest way for non-coders to build apps with AI.",
-          "originalDescription": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. ✨ Try building an app at floot.com Existing AI app builders fall short of enabling non-coders to build real, serious apps. They often: - Break down when building anything more than a prototype or toy app - Have non-coders stuck with errors they don’t understand - Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc) The fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI. The result? Non-coders get excited, start building, hit a wall, and then abandon their projects. Floot is purpose-built for AI. Our secret sauce: 1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively. 2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding. Because of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects. We also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly. Plus, Floot is really fun to use! Try building an app at floot.com",
-          "story": "这是做无代码应用构建平台的公司。想象你是一个不懂编程的创业者，想快速验证一个想法，但现有的人工智能建站工具总在复杂逻辑上崩溃，留下一堆看不懂的错误信息。Floot从底层为人工智能重新设计了整个开发环境，而非简单拼凑现有工具。你只需用自然语言描述需求，就能构建真正可运行、可扩展的网页应用。它来自YC夏季2025批次，团队4人正在招聘，值得关注。",
-          "rank": 1
-        },
-        {
-          "id": 31233,
-          "name": "Chasi",
-          "url": "https://chasi.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/chasi",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "AI Revenue Engine for the Equipment Industry",
-          "originalDescription": "Chasi deploys AI agents that help equipment dealers sell more, respond faster, and maximize fleet utilization - 24/7. One-third of the cost to build and maintain the physical world goes to equipment, yet fleet utilization across the industry often sits below 60%. Billions in assets sit idle while dealers drown in phone calls, emails, and manual data entry. Missed quotes, slow follow-ups, and disconnected systems mean lost revenue every day. Chasi plugs into a dealer's existing stack to deploy AI agents that handle sales, rentals, and service requests around the clock. The result: faster response times, higher utilization, and stronger margins, without adding headcount. We automate the busywork so teams can focus on what actually grows the business: customer relationships. Akash Pavan and Sarman Aulakh have built tractors, race cars, and robots, and previously led AI deployments at Tesla, Boeing, and Cummins, where they saw firsthand how much operational value gets left on the table in equipment-heavy industries. Chasi is live across equipment businesses in the US and Europe.",
-          "story": "这家公司切的是设备经销行业的智能销售。假如你是一个工程设备经销商的销售主管，每天被电话和邮件淹没，报价回复慢，大量设备闲置。Chasi部署的人工智能智能体能自动处理销售、租赁和服务请求，全天候运转。它直接接入你现有的企业管理系统，提升响应速度和设备利用率。团队2人，来自YC冬季2026批次，正在招聘。",
-          "rank": 2
-        },
-        {
-          "id": 31008,
-          "name": "Moss",
-          "url": "https://moss.dev",
-          "sourceUrl": "https://www.ycombinator.com/companies/moss",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "SaaS"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Real-time semantic search for Conversational AI",
-          "originalDescription": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural. If you’ve ever built a conversational or voice AI product, you’ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs. Moss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70–90% token savings compared to traditional pipelines.",
-          "story": "这是做对话式人工智能实时语义搜索基础设施的公司。如果你是一个语音助手开发者，一定经历过用户提问后那令人尴尬的停顿，因为每次检索都要跨网络和数据库。Moss用Rust和WebAssembly构建了优化的向量索引，能在浏览器、手机和服务器上原生运行，将检索延迟压缩到10毫秒以内。它让人工智能交互感觉真正自然。团队5人，来自YC秋季2025批次，正在招聘。",
-          "rank": 3
-        },
-        {
-          "id": 31205,
-          "name": "Human Archive",
-          "url": "https://www.humanarchive.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/human-archive",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Multimodal data provider for robotics and world modeling",
-          "originalDescription": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments. We have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then post-process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. We believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset.",
-          "story": "这家公司为机器人和世界模型提供多模态数据。假如你是一个机器人研究团队的负责人，正苦于缺乏真实世界的高质量训练数据。Human Archive设计定制硬件在住宅和工厂采集并标注多模态数据，涵盖视觉、触觉等多种维度，并经过脱敏和质检。他们来自YC冬季2026批次，团队4人正在招聘，目标是加速具身智能的突破。",
-          "rank": 4
-        },
-        {
-          "id": 31239,
-          "name": "Fort",
-          "url": "https://fort.cx",
-          "sourceUrl": "https://www.ycombinator.com/companies/fort",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Strength Tracking Wearable",
-          "originalDescription": "Fort is a wearable that tracks strength training for people who care about longevity. Other wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
-          "story": "这是一个追踪力量训练的可穿戴设备。想象你是一个注重长期健康的人，每天去健身房举铁，但其他手环让你手动记录每组次数，反馈也忽略疲劳。Fort通过心率与运动数据自动识别你的训练，并给出有意义的建议。它不是一个手机应用，而是戴在身上的传感器，无需手动输入就能理解你的力量训练。团队3人，来自YC冬季2026批次，正在招聘。",
-          "rank": 5
-        },
-        {
-          "id": 31340,
-          "name": "Illume Labs",
-          "url": "https://www.illumelabs.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/illume-labs",
-          "location": "Boston, MA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Generative AI",
-            "Health Tech",
-            "Biotech",
-            "Health & Wellness",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "24/7 Personal Health & Longevity Companion",
-          "originalDescription": "Illume is a 24/7 AI personal health & longevity companion that connects your wearables, blood panels, and genomic data to text you personalized and actionable insights. We pull in your health data and fuse it into one secure model. You get daily text updates on what changed, what it means, and what to do next; conversational health Q&A like \"What should I do to improve my bloodwork?\"; cross-data trend detection that catches patterns individual platforms miss; and a full platform to dig deeper, explore your health data, and text your Illume agent anytime. We're 3 MIT grads & friends, with experience at Windsurf, MIT CSAIL, Eli Lilly, & the Broad Institute.",
-          "story": "这是做个人健康与长寿人工智能助手的公司。假如你是一个关注健康数据的人，手边有手表、血检报告和基因检测结果，但信息分散，不知道如何综合解读。Illume把所有数据融合成一个安全模型，每天给你发短信：指标变化意味着什么，下一步该做什么。你还可以随时问它健康问题。团队3人来自MIT，有Windsurf和Broad研究所经验，来自YC夏季2026批次。",
-          "rank": 6
-        },
-        {
-          "id": "ph-buzz",
-          "name": "Buzz",
-          "url": "https://www.producthunt.com/products/buzz-3",
-          "sourceUrl": "https://www.producthunt.com/products/buzz-3",
-          "location": "Unknown",
-          "source": [
-            "Product Hunt"
-          ],
-          "tags": [
-            "AI"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Your people, your agents, your project — all in one place",
-          "originalDescription": "Your people, your agents, your project — all in one place",
-          "story": "这是一个把团队成员、人工智能智能体和项目集中管理的协作平台。想象你是一个项目负责人，团队既有真人也有多个人工智能助手，沟通和任务分散在Slack、邮件和不同工具里。Buzz提供一个统一空间，让所有人（包括智能体）协作、共享上下文，避免信息断裂。它来自Product Hunt，目前没有融资信息，但概念新颖，适合多智能体工作流。",
-          "rank": 7
-        },
-        {
-          "id": "hardware-whoop",
-          "name": "Whoop",
-          "url": "https://www.whoop.com/",
-          "sourceUrl": "https://www.whoop.com/",
-          "location": "Unknown",
-          "source": [
-            "Smart hardware watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Smart Hardware",
-            "Health",
-            "Data"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Wearable health and performance tracking hardware.",
-          "originalDescription": "Whoop makes a wearable that tracks recovery, sleep, strain, and health signals, then turns that data into coaching for athletes and everyday users.",
-          "story": "这是一个专注于健康和运动表现的可穿戴设备。假如你是一个运动员或健身爱好者，想知道自己是否充分恢复、睡眠质量如何、今天该练多大强度。Whoop腕带24小时监测心率、睡眠和运动负荷，并用算法给出恢复分数和训练建议。它不只是一个手机应用，而是贴身传感器，数据自动同步，无需手动记录。它来自智能硬件关注列表，非YC公司。",
-          "rank": 8
-        },
-        {
-          "id": "ph-harnessrouter",
-          "name": "HarnessRouter",
-          "url": "https://www.producthunt.com/products/epsilla",
-          "sourceUrl": "https://www.producthunt.com/products/epsilla",
-          "location": "Unknown",
-          "source": [
-            "Product Hunt"
-          ],
-          "tags": [
-            "AI",
-            "Developer Tools"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Bring the world's best AI agents into your app, with one API",
-          "originalDescription": "Bring the world's best AI agents into your app, with one API",
-          "story": "这是一个通过单一接口接入多种人工智能智能体的开发者工具。想象你是一个应用开发者，想在你的产品里集成最好的人工智能助手，但每个智能体都有自己的接口和协议。HarnessRouter提供统一接口，你只需调用一次就能路由到不同智能体，简化集成。它来自Product Hunt，目前没有融资信息，适合需要灵活调用多种人工智能能力的团队。",
-          "rank": 9
-        },
-        {
-          "id": "non-yc-sierra",
-          "name": "Sierra",
-          "url": "https://sierra.ai/",
-          "sourceUrl": "https://sierra.ai/",
-          "location": "Unknown",
-          "source": [
-            "Non-YC watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Design",
-            "Sales"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI agents for customer service and enterprise workflows.",
-          "originalDescription": "Sierra helps companies build customer-facing AI agents that can answer questions, take actions, and connect to business systems without acting like a generic chatbot.",
-          "story": "这是为企业构建客户服务人工智能智能体的平台。想象你是一个客服主管，每天处理大量重复问题，而客户需要的是能真正解决问题、而非只给通用回答的助手。Sierra的智能体可以理解上下文、执行操作（如退款、改订单），并连接到企业系统。它来自非YC关注列表，由前Salesforce联合创始人创立，已获得知名投资。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "classic-nng-personas",
-          "title": "Personas Make Users Memorable for Product Team Members",
-          "url": "https://www.nngroup.com/articles/persona/",
-          "source": "Nielsen Norman Group",
-          "topic": "用户理解和产品团队",
-          "story": "做产品时，团队每天要面对大量用户反馈和数据，但人脑很难同时记住几十个不同的面孔和需求。这时候，一个具体的人物画像就像锚点，能把零散的信息聚合成一个活生生的人，让每个决策都有明确的“为谁而做”。这篇文章来自用户研究领域的权威机构，它不只是在教你怎么画一张人物卡片，而是告诉你为什么团队需要这样一个共同记忆点，以及如何避免画像沦为墙上的装饰。读的时候可以留意作者是怎么用一个简单的工具，解决团队沟通中“我以为你懂用户”的常见偏差。",
-          "published": ""
-        },
-        {
-          "id": "classic-intercom-job-stories",
-          "title": "Designing Features Using Job Stories",
-          "url": "https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/",
-          "source": "Intercom",
-          "topic": "用户场景和产品设计",
-          "story": "做产品时，团队常把用户需求写成“用户想要X功能”，但写出来才发现大家理解不一样，开发做出来也不对。问题出在哪里？出在我们描述需求的方式太模糊，没有讲清楚用户到底在什么场景、为了什么目标、遇到了什么障碍。Intercom这篇文章提出的“Job Stories”就是来替换这种模糊描述的。它不直接给答案，而是教你如何把需求变成一个场景、动机和结果的故事。读的时候，可以重点看作者是怎么把一句笼统的需求拆成可验证、可排序的片段，以及这种拆法如何帮团队减少争论、更快做决定。",
-          "published": ""
-        },
-        {
-          "id": "classic-increment-planning",
-          "title": "Planning for Momentum",
-          "url": "https://increment.com/planning/planning-for-momentum/",
-          "source": "Increment",
-          "topic": "产品规划和工程协作",
-          "story": "很多产品团队不是没有想法，而是做着做着就乱掉了：今天加这个功能，明天改那个优先级，一个月下来发现重要的事一件没做完。这种节奏混乱往往不是因为大家不努力，而是规划本身没有给团队一个清晰的节奏感。Increment这篇关于“Planning for Momentum”的文章，就是讲怎么让规划不只是排期表，而是帮助团队保持前进动力。它适合那些正在苦恼“为什么我们总是赶不上进度”或者“为什么产品路线图写着写着就没人看了”的团队。读的时候，可以留意作者是怎么描述“什么该做、什么该推迟、什么该直接砍掉”的判断标准，以及这些标准如何帮团队对齐。",
           "published": ""
         }
       ]
