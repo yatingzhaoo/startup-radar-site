@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-09T07:59:40.354Z",
+  "updatedAt": "2026-08-10T08:49:40.202Z",
   "readings": [
+    {
+      "key": "lector.dev",
+      "title": "Show HN: Lector, a FOSS self-hosted language reader (with a cloud option)",
+      "url": "https://lector.dev/",
+      "usedAt": "2026-08-10",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/atlassian-just-deleted-looms-free-seats-it-was-also-looms-distribution",
+      "title": "Atlassian Just Deleted Loom&#8217;s Free Creator Seats. They Were Also Loom&#8217;s Distribution.",
+      "url": "https://www.saastr.com/atlassian-just-deleted-looms-free-seats-it-was-also-looms-distribution/",
+      "usedAt": "2026-08-10",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "usedAt": "2026-08-10",
+      "site": "startup-radar"
+    },
     {
       "key": "saastr.com/backstory-retiered-its-entire-customer-base-in-3-days-the-same-exercise-used-to-take-five-teams-a-quarter",
       "title": "Backstory Retiered Its Entire Customer Base in 3 Days. The Same Exercise Used to Take Five Teams a Quarter.",
