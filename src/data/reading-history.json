@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-10T08:49:40.202Z",
+  "updatedAt": "2026-08-11T08:14:43.203Z",
   "readings": [
+    {
+      "key": "ai-updates.net/ai-slop-backlash-changing-platform-policy",
+      "title": "AI Slop Backlash Is Starting to Change Platform Policy",
+      "url": "https://ai-updates.net/ai-slop-backlash-changing-platform-policy/",
+      "usedAt": "2026-08-11",
+      "site": "startup-radar"
+    },
+    {
+      "key": "latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
+      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "usedAt": "2026-08-11",
+      "site": "startup-radar"
+    },
+    {
+      "key": "stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing",
+      "title": "Your tokenmaxxing is not valuemaxxing​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍‌‌‍‌​‌‍‌‍​ ​ ​ ​‌​ ​ ​ ‌ ​ ‍​​‍ ‌​ ​​​ ‌‌‌‍‌‌​ ‍​​‍ ‌​ ‌​‌‍‌‍​ ​‍​ ‍​​‍ ‌​ ‍‌​ ​‌‌‍‌‌​ ​‌​‍ ‌‌‍​ ​ ‌​​ ‌ ​ ​‍​ ‌‍​ ​ ​ ‌ ​ ​‍​ ​‌​ ​​​ ‌‌​ ‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍‌‌‍‌​‌‍‌‍​ ​ ​ ​‌​ ​ ​ ‌ ​ ‍​​‍ ‌​ ​​​ ‌‌‌‍‌‌​ ‍​​‍ ‌​ ‌​‌‍‌‍​ ​‍​ ‍​​‍ ‌​ ‍‌​ ​‌‌‍‌‌​ ​‌​‍ ‌‌‍​ ​ ‌​​ ‌ ​ ​‍​ ‌‍​ ​ ​ ‌ ​ ​‍​ ​‌​ ​​​ ‌‌​ ‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+      "url": "https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/",
+      "usedAt": "2026-08-11",
+      "site": "startup-radar"
+    },
     {
       "key": "lector.dev",
       "title": "Show HN: Lector, a FOSS self-hosted language reader (with a cloud option)",
