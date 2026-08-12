@@ -1,7 +1,234 @@
 {
-  "generatedAt": "2026-08-11T08:14:43.201Z",
+  "generatedAt": "2026-08-12T08:38:38.089Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-12",
+      "companies": [
+        {
+          "id": 31176,
+          "name": "Rhizome AI",
+          "url": "https://rhizomeai.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/rhizome-ai",
+          "location": "New York City, NY, USA; Remote",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 1,
+          "originalOneLiner": "Agent Platform for Life Sciences",
+          "originalDescription": "It takes 500,000 days of office work to bring a drug to market. We want to make it 5. To get there, we need agents doing most of the work. Today, our research agent is the best way to know what the FDA thinks. Users ask a question and get an answer backed by up to 1,000 documents, where each statement has a citation. It’s the best because we have the best retrieval engine. We’ve tuned it on our life science-specific dataset, and we find what others miss. As more teams use Rhizome, we gain more data on what regulatory professionals actually need, which makes retrieval even better. This flywheel is how we become the retrieval engine that powers all human and agent work in life sciences. Chetan started his career as a research engineer, but quickly realized he enjoyed building more than research. He joined EvolutionaryScale as their sole founding product engineer, launching their developer-scientist platform and scaling to tens of thousands of users and billions of API calls. He was also #16 at Instabase helping banks with document processing, closing $7m as the technical closer. Agents can do magical things today, but most in life sciences only use them to edit emails. Agents are missing the context they need to 100x the number of drugs we can bring to market. Rhizome AI is focused on that critical problem.",
+          "story": "Rhizome AI 是一家为生命科学领域打造智能体平台的公司，专注于帮助药物研发和监管事务团队处理海量文档。想象你是一名监管事务分析师，正在准备一份提交给 FDA 的申请，需要查阅上千份文件来确认最新的审批要求。过去，这要耗费数周时间，而现在你只需向 Rhizome 的研究智能体提问，它就能从最多 1000 份文件中提取答案，并为每句话提供引用来源。它的检索引擎经过生命科学数据集的专门调优，能发现其他工具遗漏的信息。作为 YC 冬季 2026 批次的一员，团队目前正在招聘，虽然只有一人，但这款产品已经吸引了早期用户的关注。它之所以值得关注，是因为它把药物上市所需的海量办公室工作从 50 万天压缩到 5 天，这可能会彻底改变监管流程的效率。",
+          "rank": 1
+        },
+        {
+          "id": 31057,
+          "name": "Valgo",
+          "url": "https://valgo.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/valgo",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Insurance risk layer for physical AI",
+          "originalDescription": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk. Our team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs with leading expertise in safety of physical AI systems. Sydney wrote the textbook on validating safety-critical systems and teaches the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB and an actuary who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
+          "story": "Valgo 是一家为物理人工智能提供保险风险量化平台的公司，专注于解决自动驾驶卡车和机器人等自主系统的定价难题。想象你是一名保险公司的核保人，今天要为一支自动驾驶卡车车队报价，但你发现几乎没有历史事故数据可以参考，而传统汽车保险有超过 300 亿条理赔记录。Valgo 从零开始构建路线、任务和环境的概率模型，输出模拟损失估计，让你能够为自主系统定价。两位创始人是斯坦福博士，一位写过验证安全关键系统的教科书，另一位在 MIT 林肯实验室工作过七年。作为 YC 冬季 2026 批次项目，团队三人，目前没有招聘。它的价值在于填补了自主系统保险数据缺失的空白，为保险公司提供信心来承保这类新兴风险。",
+          "rank": 2
+        },
+        {
+          "id": 31171,
+          "name": "Overshoot",
+          "url": "https://overshoot.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/overshoot",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "AI Infra for real-time vision applications",
+          "originalDescription": "Overshoot makes it easy for developers to build and run real-time vision applications. AI can see and understand the physical world. This unlocks new applications in physical security, safety, gaming, robotics and general consumer products. Soon, video agents will watch your home and your pet when you’re away. However, existing platforms make it painful for developers to build these real-time applications. Slow inference. Limited model availability. Break at scale. Overshoot solves this. Today, 300+ developers connect live video feeds to the largest collection of Vision Language Models with 3 lines of code. And get responses in less than 200ms. 10x faster than any existing inference platform. Zero infra headache. Our moat is focus. Image and Video are fundamentally different modalities from text. By focusing on them, we are able to make strong technical leaps from codec, streaming protocols to inference engines. Younes and Zakaria are cousins. Zakaria graduated top of his class at LSE and MIT, and later built low-latency high-throughput pricing systems (surge) at Uber and inference engines at Meta. He previously built and sold a software product and won several prominent AI hackathons. Younes was a founding engineer at Cosmonio (later acquired by Intel). He built a training and serving Computer Vision platform from scratch. He witnessed firsthand customers abandoning traditional Computer Vision because it lacked the “general” intelligence LLMs have today. Together we’ve shipped large-scale systems and know where they break.",
+          "story": "Overshoot 是一家为实时视觉应用提供人工智能基础设施的公司，让开发者能够轻松构建和运行视频理解应用。想象你是一名开发者，正在为一个家庭安全产品添加实时宠物监控功能，但现有的推理平台响应太慢，模型选择也有限。Overshoot 允许你用三行代码连接实时视频流，并在 200 毫秒内获得响应，速度比现有平台快十倍。它支持大量视觉语言模型，并且专注于视频和图像，不同于文本处理。作为 YC 冬季 2026 批次项目，团队五人，目前已有超过 300 名开发者使用。它之所以值得关注，是因为它解决了实时视频推理的瓶颈，为物理安全、游戏和机器人等应用打开了大门。",
+          "rank": 3
+        },
+        {
+          "id": 31226,
+          "name": "Libra Robotics",
+          "url": "https://www.librabots.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/libra-robotics",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Robotics",
+            "Construction",
+            "Sustainability",
+            "Energy"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Multi-robot collaboration for harsh environments on Earth.",
+          "originalDescription": "We build collaborative robot squads for solar farm construction. High labor costs, labor shortages, and unpredictable productivity make infrastructure difficult to build in places that are remote, harsh, or empty. We are building robots to unlock places once considered too difficult to develop. Solar is our first proving ground, spanning utility-scale, commercial and industrial, community solar, agrivoltaic, and other projects. Unlike solutions that automate only one task, or even part of one, we cover the workflow after PV module pallets arrive on-site: transportation, installation, alignment, and fastening. Each robot has a specific role, and fleets can be configured based on each project’s cost and schedule requirements. Our robots operate autonomously with remote supervision. One person can supervise 4+ robots through a screen and an e-stop button, without being physically present or teleoperating them. Our robotic fleet has also been tested at night, paving the way for 24/7 operation. We work directly with EPCs through a Robotics-as-a-Service model, requiring no robot purchase or large upfront capital investment. We also work with racking and PV module manufacturers to certify compatibility and give customers confidence in deployment. Purpose-built hardware, multimodal sensing, and physical AI software help our robots handle real-world construction uncertainty.",
+          "story": "Libra Robotics 是一家为恶劣环境建造协作机器人队伍的公司，目前专注于太阳能发电厂的建设。想象你是一名太阳能项目施工经理，正在一个偏远的沙漠地带负责安装光伏板，但劳动力短缺且成本高昂，工期一再延误。Libra 的机器人团队覆盖从光伏板托盘到达现场后的运输、安装、对准和固定整个流程。每个机器人都有特定角色，一个操作员可以远程监督四台以上机器人。作为 YC 夏季 2026 批次项目，团队两人，目前没有招聘。它之所以值得关注，是因为它通过多机器人协作，解锁了那些被认为难以开发的地区，解决了基础设施建设的劳动力难题。",
+          "rank": 4
+        },
+        {
+          "id": 31382,
+          "name": "Kinro",
+          "url": "https://www.kinro.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/kinro",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Autonomous insurance brokerage for small businesses",
+          "originalDescription": "We are building the first autonomous insurance brokerage. We hit $1M in annual revenue building insurance workflows for brokers. Then we realized the bigger opportunity was replacing them. In the US, there are 36 million SMBs, and 77% are underinsured because distribution is broken. Brokers can’t serve low-premium SMBs profitably: a $2K policy takes almost as much work as a $20K one. Kinro changes that. Our AI agents handle the full broker workflow 24/7, from finding prospects to binding policies. In 3 weeks, we got licensed in 24 states and appointed by 10 carriers. Last week, our agents autonomously bound 9 policies. Before Kinro, Pierre was an AI researcher at DeepMind. Corentin was Chief Insurance Officer at an insurtech. Parth built ML systems at Zoox.",
+          "story": "Kinro 是一家为小企业提供自主保险经纪服务的公司，用人工智能代理处理从寻找客户到绑定保单的全部流程。想象你是一名小企业主，经营一家社区面包店，想买一份商业保险，但传统经纪人因为保费太低而不愿服务。Kinro 的人工智能代理 24/7 工作，在 3 周内获得了 24 个州的牌照，并与 10 家保险公司签约。团队三人，来自 DeepMind、保险科技和 Zoox，目前正在招聘。作为 YC 春季 2026 批次项目，它已经实现了 100 万美元的年收入，并自主绑定了 9 份保单。它之所以值得关注，是因为它瞄准了 77% 的美国小企业保险不足的问题，用自动化降低了服务成本。",
+          "rank": 5
+        },
+        {
+          "id": 30708,
+          "name": "Perseus Defense",
+          "url": "https://perseusdefense.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/perseus-defense",
+          "location": "Austin, TX, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "America's Golden Dome for Drones",
+          "originalDescription": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our self-guided missile platform is man-portable and multi-domain capable. It senses, engages, and eliminates threats with drastically reduced cost per engagement over existing kinetic solutions. Solving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued their PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer The White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. Traction: Jason and Steve used more than 100 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. In 8 short weeks following a strict 2-week design-build-test cycle, the team has gone through 4 major guided missile iterations with over 30 live-fire flight tests. They were invited to Ft. Hood to present their platform to the 1st Cavalry Division, and also briefed the Pentagon and U.S. congressmen on current U.S. vulnerabilities to advanced drone technology. Perseus Defense is actively standing up cooperative research agreements with U.S. Army DEVCOM's Applied Research Laboratory, Aviation and Missile Center, Armaments Center, and High Performance Computing Modernization Program.",
+          "story": "Perseus Defense 是一家为国防部开发反无人机系统的公司，目标是制造大规模生产的自导导弹平台。想象你是一名军事指挥官，正在保护一个军事基地免受无人机袭击，但现有解决方案要么太贵，要么在国土上使用太危险。Perseus 的平台是便携式的，能感知、交战并消除威胁，每次交战的成本远低于现有动能武器。团队两人，毕业于宾夕法尼亚州立大学，有航空航天工程背景，曾参与 NASA 和波音项目。作为 YC 夏季 2025 批次项目，团队三人，目前正在招聘。它之所以值得关注，是因为它解决了无人机威胁的紧迫问题，提供了比现有方案便宜且安全的替代品。",
+          "rank": 6
+        },
+        {
+          "id": 30754,
+          "name": "Locata",
+          "url": "https://www.locatahealth.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/locata",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "AI Referral Automation for Primary Care Clinics",
+          "originalDescription": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care. Primary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers. Alejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users. Within two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
+          "story": "Locata 是一家为初级保健诊所提供人工智能转诊管理平台的公司，用智能体自动化转诊流程。想象你是一名诊所的后台工作人员，每天要处理大量转诊授权申请，还要跟进患者和专科医生，忙得不可开交。Locata 的智能体可以自动提交预授权、广播更新并随访患者，节省了行政人员每周数小时的工作时间。美国每年有超过 1 亿次专科转诊，但只有一半完成，Locata 旨在解决这个问题。作为 YC 夏季 2025 批次项目，团队四人，目前正在招聘。它之所以值得关注，是因为它减少了行政负担，确保患者及时获得所需护理。",
+          "rank": 7
+        },
+        {
+          "id": 30288,
+          "name": "Harper",
+          "url": "https://www.harperinsure.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/harper",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Insurance",
+            "AI"
+          ],
+          "batch": "Winter 2025",
+          "isHiring": true,
+          "teamSize": 25,
+          "originalOneLiner": "AI-native commercial insurance brokerage",
+          "originalDescription": "At Harper, we are building a fully autonomous commercial insurance brokerage powered by AI. Our initial focus is on mid-sized businesses with complex insurance needs, but our vision is to eventually serve every business in the country. By leveraging AI to automate key workflows in the insurance process, we efficiently secure optimal coverage for each client's unique requirements at competitive prices and with rapid turnaround. Our AI system learns from the expertise of our brokers, accumulating not just knowledge but also the specific workflows, data, and capabilities that pave the way to full autonomy.",
+          "story": "Harper 是一家用人工智能驱动的商业保险经纪公司，专注于中型企业的复杂保险需求。想象你是一名制造企业的风险经理，正在为工厂寻找综合保险，但传统经纪流程繁琐且耗时。Harper 的人工智能系统学习经纪人的专业知识，自动化关键工作流程，快速获取最优保障。团队 25 人，来自 YC 冬季 2025 批次，目前正在招聘。它已经实现了商业保险的自主化，目标是服务全国所有企业。它之所以值得关注，是因为它用人工智能提升了保险经纪的效率，可能改变整个行业。",
+          "rank": 8
+        },
+        {
+          "id": "hardware-brilliant-labs",
+          "name": "Brilliant Labs",
+          "url": "https://brilliant.xyz/",
+          "sourceUrl": "https://brilliant.xyz/",
+          "location": "Unknown",
+          "source": [
+            "Smart hardware watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Smart Hardware",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Open AI glasses and lightweight wearable computing devices.",
+          "originalDescription": "Brilliant Labs makes AI glasses and developer-friendly wearable hardware that can bring camera, display, and assistant functions closer to everyday use.",
+          "story": "Brilliant Labs 是一家开发人工智能眼镜和可穿戴硬件的公司，产品面向开发者。想象你是一名开发者，正在构建一个增强现实应用，需要一款轻便、可编程的眼镜硬件。Brilliant Labs 的眼镜集成了摄像头、显示器和助手功能，并提供了开发者友好的接口。它不只是一个手机应用，而是把人工智能能力放进了眼镜这个随身设备里，让交互更自然。虽然来自智能硬件观察名单，没有具体批次或招聘信息，但它代表了可穿戴计算的一个方向。它之所以值得关注，是因为它推动了开放硬件和人工智能的结合，为开发者创造了新的可能性。",
+          "rank": 9
+        },
+        {
+          "id": "hn-launch-49259309",
+          "name": "Keet",
+          "url": "https://www.trykeet.com/",
+          "sourceUrl": "https://news.ycombinator.com/item?id=49259309",
+          "location": "Unknown",
+          "source": [
+            "Launch HN"
+          ],
+          "tags": [
+            "Product"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "YC S24) – An app to create video courses on anything",
+          "originalDescription": "YC S24) – An app to create video courses on anything",
+          "story": "Keet 是一款来自 YC 夏季 2024 批次的应用，让用户可以创建关于任何主题的视频课程。想象你是一名专业摄影师，想在线分享你的技巧，但传统课程制作工具复杂且耗时。Keet 让你轻松录制和编辑视频，快速生成课程。它来自 Launch HN，团队人数未知，目前没有招聘。它之所以值得关注，是因为它降低了视频课程创作的门槛，让更多人能够分享知识和技能。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49269090",
+          "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+          "url": "https://discoveredmaterials.com/research/",
+          "source": "Hacker News",
+          "published": "2026-08-12T07:51:20Z",
+          "story": "在实验室里，研究人员常常要翻遍论文和数据库，才能找到一种可能的新材料，这个过程既慢又贵。现在有人想把 人工智能 智能体用在这件事上，让机器自己去筛选和提出候选材料。这篇文章来自 YC 孵化的新公司，讲的就是他们如何用 人工智能 代理来加速材料发现。对于关注科研工具或 人工智能 应用的人来说，这篇值得一看。读的时候可以留意，他们是怎么把科研人员的需求拆解成 人工智能 能完成的任务，以及他们如何判断 人工智能 给出的建议是否靠谱。"
+        },
+        {
+          "id": "Latent Space-aHR0cHM6Ly93",
+          "title": "[AINews] How to steal a Reasoning Trace",
+          "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+          "source": "Latent Space",
+          "published": "Wed, 12 Aug 2026 07:11:08 GMT",
+          "story": "当 人工智能 模型在回答问题时，它会先在心里默默推理一番，这个过程叫“推理轨迹”。但你知道吗，这个轨迹可能被别人偷走？这篇来自 Latent Space 的文章讨论的正是这种安全隐患。随着 人工智能 被用在更多重要场景，保护模型的内部思考过程变得越来越关键。这篇文章不是讲枯燥的技术细节，而是用实例说明攻击者可能如何下手。读的时候，你可以关注作者如何解释这种攻击的原理，以及他们提出了哪些防御思路。"
+        },
+        {
+          "id": "TechCrunch Startups-aHR0cHM6Ly90",
+          "title": "India&#8217;s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+          "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+          "source": "TechCrunch Startups",
+          "published": "Wed, 12 Aug 2026 04:30:00 +0000",
+          "story": "在印度，外卖和电商越来越快，人们习惯了半小时收货，这背后需要大量电动车送货。Yulu 这家公司就做共享电动车生意，刚拿到 9300 万美元融资。这看起来只是一笔投资新闻，但它反映了快速商业时代对交通方式的新需求。如果你好奇共享出行和即时配送怎么结合，这篇文章值得读。读的时候，可以想想为什么资本看好这个方向，以及它会给城市交通带来什么变化。"
+        }
+      ]
+    },
     {
       "date": "2026-08-11",
       "companies": [
@@ -3097,261 +3324,6 @@
           "source": "Microsoft Research",
           "published": "Thu, 30 Jul 2026 16:00:00 +0000",
           "story": "你有没有想过，一个团队做过的项目，那些经验教训都去哪了？通常它们散落在文档、聊天记录和个人的记忆里，新人来了还得重新踩一遍坑。微软研究院这篇文章介绍了一个叫 EvoLib 的工具，它想把经验转化成能不断进化的知识。这听起来像是个知识管理的问题，但背后其实关乎团队怎么学习。读的时候，不妨想想作者如何定义“经验”和“知识”的区别，以及他们用什么方法让知识不只是一次性的总结，而是能跟着实践更新。你可以特别关注他们设计的存储和检索方式，看是否真的能让旧经验在新问题里派上用场。"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-29",
-      "companies": [
-        {
-          "id": 30662,
-          "name": "DeepAware AI (Robotics Center of Silicon Valley)",
-          "url": "https://roboticscenter.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/deepaware-ai-robotics-center-of-silicon-valley",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Robotics",
-            "Supply Chain",
-            "Data Engineering"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Robots, parts & RL envs & evals - delivered in 48 hrs / pickup in SF.",
-          "originalDescription": "DeepAware (Robotics Center of Silicon Valley, https://roboticscenter.ai/) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup. Beyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
-          "story": "DeepAware 是一家为企业和研究人员快速提供机器人硬件及相关服务的公司。想象你是一个机器人实验室的负责人，急需一台机械臂或一批传感器来完成一个紧急项目，但传统采购要等好几周甚至几个月。DeepAware 承诺 72 小时内发货或在旧金山湾区自提，不仅卖硬件，还帮你采集遥操作数据、搭建强化学习环境，甚至把机器人部署到实际生产中。它的客户包括人工智能实验室、工业运营团队和活动制作方，团队只有 4 人但正在招聘，说明这个模式正在快速验证中。",
-          "rank": 1
-        },
-        {
-          "id": 30691,
-          "name": "Embedder",
-          "url": "https://www.embedder.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/embedder",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Hardware",
-            "B2B",
-            "AI"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": false,
-          "teamSize": 6,
-          "originalOneLiner": "Hardware-Aware AI for Embedded Software Development",
-          "originalDescription": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
-          "story": "Embedder 是一个为嵌入式软件开发设计的人工智能智能体。假如你是一名嵌入式工程师，每天要翻阅几百页的芯片数据手册，写底层代码，再反复烧录、测试、调试，一个 bug 可能卡好几天。Embedder 能自动阅读你的原理图和文档，生成代码，直接烧录到开发板上，然后用团队已有的调试工具、逻辑分析仪和示波器在真实芯片上运行测试，发现错误后自己修复。它已经支持超过 500 种微控制器和 3000 多种外设，并与多家顶级半导体生态合作，让嵌入式开发从手工作坊变成自动化流水线。",
-          "rank": 2
-        },
-        {
-          "id": 32518,
-          "name": "Agency Tool Company",
-          "url": "https://agencytool.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/agency-tool-company",
-          "location": "Denver, CO, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Robotics",
-            "Automation",
-            "Infrastructure",
-            "Self-Driving Vehicles"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Reliable infrastructure to build, deploy and manage real-world robots.",
-          "originalDescription": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics. Our second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets. Jack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had.",
-          "story": "Agency Tool Company 为机器人团队提供从实验室到现场的快速部署工具。如果你负责一支农业或物流机器人车队，最头疼的莫过于每次更新软件都要花几小时通过 Docker 拉取镜像，网络一断就得重来。ATC Deploy 只传输改动过的字节，断点续传，比传统方式快 20 倍。它的第二个产品 ATC Build 把嵌入式编译作为持续集成服务，让开发者在真实硬件上跑测试，支持 Nvidia Jetson、树莓派等平台。创始人曾创办 Scythe Robotics，在全美部署了数百台自动割草机，这次他们想解决整个行业部署环节的瓶颈。",
-          "rank": 3
-        },
-        {
-          "id": 30042,
-          "name": "Vortexify",
-          "url": "https://www.vortexify.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/vortexify",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Supply Chain",
-            "Big Data",
-            "Operations",
-            "AI",
-            "AI Assistant"
-          ],
-          "batch": "Fall 2024",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Build full-stack applications for business operations with AI",
-          "originalDescription": "Vortexify is an AI application platform that enables developers and domain experts to build production-ready software with AI agents. Instead of writing thousands of lines of code, users can connect enterprise data, describe the problem they want to solve, and collaborate with AI agents to generate secure applications for data-intensive business processes. The platform contextualizes millions of rows of data, and provides the runtime, execution engine, and UI framework agents need to generate and deploy custom applications through two integrated products: the Agent Data Warehouse, a data foundation for enterprise data, and the App Playground, where AI agents build and deploy applications using that data. The Agent Data Warehouse connects to enterprise systems, continuously ingests and contextualizes operational data, and provides a unified understanding of your business. By transforming raw enterprise data into AI-ready context, the ADW enables agents to reason across systems and build intelligent applications. The App Playground is a development environment built on top of the Agent Data Warehouse where developers, engineers, and domain experts collaborate with AI agents throughout the entire application lifecycle. Agents help users discover and define business problems, explore and understand enterprise data, plan and design solutions, and ultimately generate production-ready applications, including business logic, data pipelines, workflows, automations, analytics, and custom user interfaces.",
-          "story": "Vortexify 是一个让人工智能智能体帮你构建业务应用的低代码平台。想象你是一个运营分析师，每周要花大量时间写 SQL 和 Python 来处理上百万行的订单数据，而业务部门又总催着要新的报表工具。用 Vortexify，你只需连接企业数据源，用自然语言描述问题，智能体就会自动生成一个安全的、可运行的全栈应用。平台内置了智能体数据仓库和应用程序工作台，前者持续吸收和关联运营数据，后者让智能体根据这些数据构建和部署应用。它面向开发者和领域专家，把数据密集型流程的自动化门槛大幅降低。",
-          "rank": 4
-        },
-        {
-          "id": 30605,
-          "name": "Dedalus Labs",
-          "url": "https://www.dedaluslabs.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/dedalus-labs",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Workflow Automation",
-            "DevOps"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 10,
-          "originalOneLiner": "Compute substrate for AI agents",
-          "originalDescription": "The fastest persistent computer for agents. Host long-running, stateful agents that never sleep in <250ms.",
-          "story": "Dedalus Labs 为人工智能智能体提供永不休眠的持久化计算环境。如果你在运行一个需要长期监控股票市场或实时处理客户消息的智能体，最怕的就是服务器重启或会话超时导致任务中断。Dedalus Labs 的持久化计算机能在 250 毫秒内启动一个长期运行、有状态的智能体，它不会因为空闲而休眠，可以持续工作。团队目前 10 人，正在招聘，说明产品已经进入快速迭代阶段。",
-          "rank": 5
-        },
-        {
-          "id": 29611,
-          "name": "mdhub",
-          "url": "https://www.mdhub.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/mdhub",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2024",
-          "isHiring": true,
-          "teamSize": 11,
-          "originalOneLiner": "AI-native operating system for behavioral health clinics.",
-          "originalDescription": "mdhub is the AI-native operating system for behavioral health. We combine AI workers with a purpose-built EHR, CRM, and RCM into one platform where clinical teams and AI collaborate across every workflow. Mid to large-sized behavioral health clinics run on disconnected legacy systems that weren't designed for today's demand. The result: clinician burnout, admin bloat, and patients waiting weeks for care. mdhub replaces the entire fragmented stack with a single AI-first platform. Our AI workers: Emma, AI Clinical Assistant: automates documentation and gives clinicians back hours every day. Sarah, AI Admissions Coordinator: handles 100% of inbound calls, verifies insurance, and books patients 24/7. Eric, AI Billing Agent: manages coding, claims submission, and denial management same-day. Our platform: mdhub EHR: the first clinical workspace built for AI from day one. Documentation, intake, treatment planning, e-prescribing, and billing in one place. mdhub CRM: every lead captured, every follow-up automated, nothing falls through the cracks. mdhub RCM: end-to-end revenue cycle management. From claim submission to collections, AI-powered and fully integrated. We're not another EHR with AI bolted on. We're not a point solution. We're the full operating system where AI workers and human teams run a clinic together. Hundreds of mid to large-sized behavioral health clinics use mdhub today, including some of the largest organizations in the country. One platform, less overhead, more patients seen.",
-          "story": "mdhub 是一个为行为健康诊所打造的人工智能原生操作系统。假设你是一家中等规模心理诊所的运营负责人，每天要面对好几个互不连通的系统：电子病历、客户管理、计费软件，还要花大量时间处理电话预约和保险理赔。mdhub 用一个平台整合了所有流程，并内置了多个智能体：Emma 帮临床医生自动写病历，Sarah 全天候接听电话、核实保险并预约患者，Eric 负责编码、提交理赔和处理拒付。诊所不再需要拼凑多个老旧系统，患者等待时间也从几周缩短到当天。团队 11 人且正在扩张，说明已有客户在跑。",
-          "rank": 6
-        },
-        {
-          "id": "non-yc-lovable",
-          "name": "Lovable",
-          "url": "https://lovable.dev/",
-          "sourceUrl": "https://lovable.dev/",
-          "location": "Unknown",
-          "source": [
-            "Non-YC watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Design"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI product builder for turning prompts into applications.",
-          "originalDescription": "Lovable lets people describe an app or product idea and generate working software faster, especially for early prototypes and small product teams.",
-          "story": "Lovable 是一个让人用自然语言描述想法就能生成应用的人工智能产品构建工具。假如你是一个产品经理，想快速验证一个 App 原型，但开发资源排期要等好几周。用 Lovable，你只需用文字描述功能，它就能生成可运行的软件，特别适合早期原型和小型产品团队快速试错。它来自非 YC 的观察名单，在开发者社区中已有一定口碑。",
-          "rank": 7
-        },
-        {
-          "id": "non-yc-harvey",
-          "name": "Harvey",
-          "url": "https://www.harvey.ai/",
-          "sourceUrl": "https://www.harvey.ai/",
-          "location": "Unknown",
-          "source": [
-            "Non-YC watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Design"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI platform for legal and professional services work.",
-          "originalDescription": "Harvey builds AI tools for lawyers and professional services teams, focusing on research, drafting, document analysis, and workflows that need accuracy and auditability.",
-          "story": "Harvey 是为律师和专业服务团队打造的人工智能平台。想象你是一个律所的初级律师，每天要花大量时间检索判例、起草合同和审查文件，还要确保每一条引文都准确无误。Harvey 专注于法律场景，能辅助研究、起草和文档分析，并强调输出的准确性和可审计性。它来自非 YC 的观察名单，在专业服务领域引起了广泛关注。",
-          "rank": 8
-        },
-        {
-          "id": "non-yc-clay",
-          "name": "Clay",
-          "url": "https://www.clay.com/",
-          "sourceUrl": "https://www.clay.com/",
-          "location": "Unknown",
-          "source": [
-            "Non-YC watchlist"
-          ],
-          "tags": [
-            "Design",
-            "Sales",
-            "Data"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Data enrichment and go-to-market automation platform.",
-          "originalDescription": "Clay gives sales and growth teams a way to gather customer data, enrich leads, and build outbound workflows without stitching together many small tools.",
-          "story": "Clay 是一个数据丰富和营销自动化平台。如果你是一个销售主管，需要从各种渠道收集潜在客户信息，再手动清洗、丰富数据，然后设计外联流程，往往要拼凑五六个工具。Clay 让你在一个平台上完成数据查找、丰富和自动化工作流，无需写代码。它来自非 YC 的观察名单，在营销和销售团队中增长迅速。",
-          "rank": 9
-        },
-        {
-          "id": "non-yc-cognition",
-          "name": "Cognition",
-          "url": "https://www.cognition.ai/",
-          "sourceUrl": "https://www.cognition.ai/",
-          "location": "Unknown",
-          "source": [
-            "Non-YC watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Developer Tools"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI software engineering agents.",
-          "originalDescription": "Cognition works on AI systems that can take on software engineering tasks, plan changes, use developer tools, and move beyond single code suggestions.",
-          "story": "Cognition 致力于开发能自主完成软件工程任务的人工智能系统。假设你是一个工程负责人，手头有一个遗留系统需要重构，涉及多个模块和大量代码修改。Cognition 的智能体可以理解项目结构，规划变更，使用开发工具，并逐步执行，而不仅仅是给出代码片段。它来自非 YC 的观察名单，在开发者社区中因其展示的端到端能力而备受关注。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "classic-pg-ambitious",
-          "title": "Frighteningly Ambitious Startup Ideas",
-          "url": "https://www.paulgraham.com/ambitious.html",
-          "source": "Paul Graham",
-          "topic": "大想法和切入口",
-          "story": "很多人想做大事，却不知道从哪里开始。Paul Graham 的这篇文章不是给你一个现成的创业点子，而是教你如何识别那些真正值得投入的、有潜力改变世界的大想法。读的时候，注意他如何区分“看似疯狂”和“真正有远见”，以及他为什么认为某些看似困难的问题反而是最好的机会。",
-          "published": ""
-        },
-        {
-          "id": "classic-elad-scaling",
-          "title": "High Growth Handbook",
-          "url": "https://growth.eladgil.com/",
-          "source": "Elad Gil",
-          "topic": "公司扩张",
-          "story": "公司从几个人扩张到几百人，很多问题会突然冒出来。Elad Gil 的这本书像是你的私人顾问，告诉你哪些坑可以避开，哪些事必须提前做。读的时候，关注他如何拆解招聘、组织架构和文化传承这些难题，以及他如何判断哪些事情在哪个阶段最重要。",
-          "published": ""
-        },
-        {
-          "id": "classic-pg-mistakes",
-          "title": "The 18 Mistakes That Kill Startups",
-          "url": "https://www.paulgraham.com/startupmistakes.html",
-          "source": "Paul Graham",
-          "topic": "创业常见错误",
-          "story": "创业失败的原因往往不是单一的，而是多个错误叠加的结果。Paul Graham 总结了 18 个最常见的错误，从产品到团队到融资，几乎覆盖了所有可能的方向。读的时候，别只是对照自己的情况，而是看他如何分析每个错误背后的逻辑，以及他为什么认为某些错误是致命的。",
-          "published": ""
         }
       ]
     }
