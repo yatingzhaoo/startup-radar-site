@@ -1,7 +1,243 @@
 {
-  "generatedAt": "2026-08-12T08:38:38.089Z",
+  "generatedAt": "2026-08-13T08:42:33.409Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-13",
+      "companies": [
+        {
+          "id": 31008,
+          "name": "Moss",
+          "url": "https://moss.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/moss",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "SaaS",
+            "AI"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Real-time semantic search for Conversational AI",
+          "originalDescription": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural. If you’ve ever built a conversational or voice AI product, you’ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs. Moss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70–90% token savings compared to traditional pipelines.",
+          "story": "这家公司做的是对话式人工智能的实时语义搜索基础设施。想象你正在开发一个语音助手，用户刚说完一句话，系统却要等上几百毫秒才回应，那种停顿瞬间打破了对话的流畅感。Moss 把检索过程压缩到十毫秒以内，让智能体在浏览器、手机和服务器上都能快速找到相关信息。它用 Rust 和 WebAssembly 构建了一个优化的向量索引，让检索紧挨着智能体运行，省去了跨网络和数据库的延迟。如果你想让语音助手或聊天机器人反应得像真人一样快，这个方案值得关注，因为响应速度往往是体验好坏的关键。",
+          "rank": 1
+        },
+        {
+          "id": 31000,
+          "name": "Vector Legal",
+          "url": "https://vectorlegal.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/vector-legal",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "A premier AI-native law firm & legal operating system for Startups.",
+          "originalDescription": "A modern solution for Startup legal. Vector combines premier lawyers/paralegals (averaging 10+ years of Big Law experience) + custom-built AI, so our clients get world class startup legal service at a fraction of Big Law rates. See our client testimonials - https://www.vectorlegal.com/testimonials. Services: fundraise & priced rounds | customer contracts | international flips | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
+          "story": "这是一家面向初创企业的人工智能原生律师事务所，同时也是一个法律操作系统。假如你是一家创业公司的创始人，正在准备新一轮融资，面对厚厚的条款清单和复杂的股权结构，你可能会感到头疼。Vector 把经验丰富的律师和定制的人工智能结合起来，处理融资、客户合同、国际架构、股权表管理等事务，收费却远低于传统大律所。它还能做数据室、电子签名和法律健康检查。对于预算有限但又需要专业法律支持的初创团队来说，这种模式可能改变游戏规则。",
+          "rank": 2
+        },
+        {
+          "id": 31002,
+          "name": "Clicks Health",
+          "url": "https://clickshealth.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/clicks-health",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Health Tech",
+            "Healthcare",
+            "Health Insurance",
+            "AI"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": true,
+          "teamSize": 8,
+          "originalOneLiner": "AI agents for your healthcare back-office operations.",
+          "originalDescription": "Clicks Health builds AI agents that automate back-office operations for RCM companies and healthcare providers. Our agents work across EHRs, payer portals, desktop applications, and legacy systems, following existing processes, handling exceptions, and escalating when human judgment is needed. Backed by Y Combinator, Clicks helps teams improve accuracy, shorten turnaround times, and reduce operating costs, with SOC 2 Type II and HIPAA compliance built in.",
+          "story": "这家公司做的是医疗后台运营的人工智能智能体。想象你是一家诊所的运营负责人，每天要处理大量的保险理赔、账单和病历记录，这些工作繁琐且容易出错。Clicks Health 的智能体可以自动操作电子病历系统、保险门户和遗留软件，按照现有流程处理例外情况，并在需要人类判断时升级给人工。它通过了 SOC 2 Type II 和 HIPAA 合规认证，意味着数据安全有保障。对于想降低成本、提高准确率的医疗机构来说，这套系统能减轻不少负担。",
+          "rank": 3
+        },
+        {
+          "id": 30445,
+          "name": "Mbodi AI",
+          "url": "https://www.mbodi.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/mbodi-ai",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Robotics",
+            "Automation",
+            "AI"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": true,
+          "teamSize": 6,
+          "originalOneLiner": "Industrial Robots that Learn and Operate Like Humans",
+          "originalDescription": "Teach robots new skills through natural language and run reliably in production in minutes. Mbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
+          "story": "这家公司专注于让工业机器人像人一样学习和操作。想象你是一个工厂的质检员，每天需要手动编程机器人去完成不同的分拣或装配任务，这既耗时又需要专业技能。Mbodi AI 让你可以用自然语言和快速演示来教机器人新技能，几分钟内就能在生产环境中可靠运行。它结合了生成式人工智能和智能体编排，把日常语言转化为精确的机器人动作。对于希望灵活调整生产线、应对多变任务的工厂来说，这能大大提升效率。",
+          "rank": 4
+        },
+        {
+          "id": 31326,
+          "name": "Klarify",
+          "url": "https://www.klarify.ca/",
+          "sourceUrl": "https://www.ycombinator.com/companies/klarify",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "AI Agent for Therapists",
+          "originalDescription": "Klarify handles every job a therapist does other than the therapy itself, from clinical notes and treatment plans to insurance claims and finding new clients. Therapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. Practice management software has existed for decades. It records what therapists do. It can't actually do any of it. Klara is the AI at the heart of Klarify. She handles notes, treatment plans, clinical letters, insurance claims, between-session resources, supervision prep, and finding new clients. Nearly 8,300 therapists use Klarify today. Our mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be present with their client.",
+          "story": "这是一家为心理治疗师打造人工智能助手的公司。假如你是一位心理咨询师，每天除了做咨询，还要花好几个小时写临床记录、制定治疗计划、处理保险理赔和寻找新客户。Klarify 的智能体 Klara 可以帮你处理这些文书工作，包括写笔记、治疗计划、临床信件、保险理赔、准备督导材料等。目前已有近八千三百名治疗师在使用。它不是为了取代治疗师，而是让你能把精力放在与来访者相处上，这或许是这个职业最需要的东西。",
+          "rank": 5
+        },
+        {
+          "id": 31239,
+          "name": "Fort",
+          "url": "https://fort.cx",
+          "sourceUrl": "https://www.ycombinator.com/companies/fort",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Strength Tracking Wearable",
+          "originalDescription": "Fort is a wearable that tracks strength training for people who care about longevity. Other wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
+          "story": "这家公司做的是力量训练追踪的可穿戴设备。想象你是一个注重长期健康的健身爱好者，每次举铁都要手动记录组数和次数，而其他手环只能给出模糊的反馈，甚至低估你的疲劳程度。Fort 通过心率传感器和运动数据自动识别你的训练动作，并给出有针对性的建议，帮助你更好地达成目标。它不只是一个手机应用，而是把能力放进了腕带设备里，让你在训练时无需掏出手机就能获得数据反馈，这更符合实际锻炼场景。",
+          "rank": 6
+        },
+        {
+          "id": "hn-launch-49283063",
+          "name": "Bullet",
+          "url": "https://www.codewithbullet.com",
+          "sourceUrl": "https://news.ycombinator.com/item?id=49283063",
+          "location": "Unknown",
+          "source": [
+            "Launch HN"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "YC S26) – A Faster Coding Agent",
+          "originalDescription": "YC S26) – A Faster Coding Agent",
+          "story": "这是来自 YC 夏季 2026 批次的一个编码智能体项目，定位是更快的编程助手。想象你是一个软件工程师，正在处理一个复杂的 bug，你希望智能体能快速理解代码库并给出修改建议。Bullet 的目标是让编码智能体在速度和效率上更进一步。虽然目前信息有限，但作为 YC 支持的创业公司，它可能代表了开发工具领域的新方向。对于开发者来说，更快的编码智能体意味着更少等待、更多产出，值得关注。",
+          "rank": 7
+        },
+        {
+          "id": "non-yc-clay",
+          "name": "Clay",
+          "url": "https://www.clay.com/",
+          "sourceUrl": "https://www.clay.com/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "Design",
+            "Sales",
+            "Data"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Data enrichment and go-to-market automation platform.",
+          "originalDescription": "Clay gives sales and growth teams a way to gather customer data, enrich leads, and build outbound workflows without stitching together many small tools.",
+          "story": "这家公司做的是数据丰富化和市场推广自动化平台。想象你是一个销售主管，每天需要从各种渠道收集潜在客户的信息，手动整理并发送个性化邮件，这既繁琐又容易遗漏。Clay 提供了一个整合的工具，让你能自动抓取客户数据、丰富线索信息，并构建外呼流程，而不用拼接多个小工具。对于销售和增长团队来说，这能节省大量时间，让你专注于真正重要的沟通和转化。",
+          "rank": 8
+        },
+        {
+          "id": "non-yc-lovable",
+          "name": "Lovable",
+          "url": "https://lovable.dev/",
+          "sourceUrl": "https://lovable.dev/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI product builder for turning prompts into applications.",
+          "originalDescription": "Lovable lets people describe an app or product idea and generate working software faster, especially for early prototypes and small product teams.",
+          "story": "这家公司做的是人工智能产品构建器，让用户通过描述想法来生成可用的软件。想象你是一个产品经理，有了一个新应用的点子，但写代码需要几周时间，而 Lovable 可以让你用自然语言描述需求，快速生成一个原型或最小可行产品。它特别适合早期原型验证和小型产品团队，能大幅缩短从想法到实现的周期。虽然它不是 YC 公司，但这类工具正在改变软件构建的方式，值得关注。",
+          "rank": 9
+        },
+        {
+          "id": "non-yc-cognition",
+          "name": "Cognition",
+          "url": "https://www.cognition.ai/",
+          "sourceUrl": "https://www.cognition.ai/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Developer Tools"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI software engineering agents.",
+          "originalDescription": "Cognition works on AI systems that can take on software engineering tasks, plan changes, use developer tools, and move beyond single code suggestions.",
+          "story": "这家公司致力于开发能够承担软件工程任务的人工智能系统。想象你是一个工程负责人，面临一个大型代码重构项目，需要规划变更、使用各种开发工具，并确保不影响现有功能。Cognition 的人工智能可以理解任务、制定计划并执行，而不仅仅是给出代码建议。它超越了简单的代码补全，朝着更自主的编程智能体方向发展。对于希望提高开发效率的团队来说，这可能是一个重要的突破方向。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49283063",
+          "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+          "url": "https://www.codewithbullet.com",
+          "source": "Hacker News",
+          "published": "2026-08-13T08:14:30Z",
+          "story": "写代码的人大概都经历过这样的时刻：一个任务明明不复杂，但工具反应慢，思路被打断，等它转完圈，你早忘了刚才要改哪里。于是大家总在找更快的助手。这篇讲的就是一个叫 Bullet 的编程代理，号称更快。它出现在 YC 的孵化名单里，又在 Hacker News 上被讨论，本身就说明很多人对“快”这件事有多在意。读的时候可以留意，作者是怎么定义“快”的，是响应速度，还是少问问题，或者别的什么。看他们怎么拆解这个目标，也许比结论更有意思。"
+        },
+        {
+          "id": "Latent Space-aHR0cHM6Ly93",
+          "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
+          "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+          "source": "Latent Space",
+          "published": "Thu, 13 Aug 2026 01:53:47 GMT",
+          "story": "如果你偶尔刷技术新闻，会发现人工智能的消息总是又密又快，今天这个模型，明天那个机器人，好像不跟上就落后了。这篇来自 Latent Space 的简报，讲的正是这类动态，标题里提到了 Grok 4.6 和一个叫 @Bot 的东西。它可能是在帮读者梳理发生了什么，以及背后谁在推动。读的时候不妨把它当成一个窗口，看看作者如何从一堆噪音里挑出重点，又如何判断哪条消息真正有分量。这样你就不只是被动接收，而是能自己掂量变化的分量。"
+        },
+        {
+          "id": "GitHub-aHR0cHM6Ly9n",
+          "title": "GitHub availability report: July 2026",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+          "source": "GitHub",
+          "published": "Wed, 12 Aug 2026 22:17:32 +0000",
+          "story": "很多团队把代码托管在 GitHub 上，平时没消息就是好消息，可一旦某天网站卡了或者提交失败，大家才会意识到，原来自己这么依赖它。这份报告是 GitHub 官方发布的七月可用性说明，属于那种平时没人看、出问题时才被翻出来的文档。但它其实值得提前读：你可以从中了解，一个大型平台如何定义“可用”，如何统计故障，又如何向用户交代。读的时候可以关注他们用了哪些指标，哪些事件被列出来，这能帮你理解，所谓稳定到底意味着什么。"
+        }
+      ]
+    },
     {
       "date": "2026-08-12",
       "companies": [
@@ -3077,253 +3313,6 @@
           "source": "Nielsen Norman Group",
           "published": "Fri, 31 Jul 2026 17:00:00 +0000",
           "story": "很多人在职场上都遇到过这样的时刻：觉得卡住了，不知道该往哪个方向努力，或者想找人聊聊却不知从何说起。这时，导师就显得格外重要。但找导师这件事，说起来容易，做起来却常常让人摸不着头脑。这篇来自 Nielsen Norman Group 的文章，专门讨论为什么你需要导师，以及如何把这件事做对。它可能不会给你一个万能公式，但会帮你理清思路，比如如何寻找合适的人选，如何建立和维护这段关系。读的时候，可以带着自己的实际处境，看看它提到的建议哪些能直接用到你的情况里。"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "companies": [
-        {
-          "id": 30859,
-          "name": "Locus",
-          "url": "https://paywithlocus.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/locus",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Finance",
-            "AI"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Payment infrastructure for AI agents",
-          "originalDescription": "We make your agents pay. As agents evolve from tools into dependable, autonomous actors, they’ll need the ability to execute open-ended workflows end-to-end. This inevitably means payments: accessing paywalled data, transacting for services or with other specialist agents. But autonomy requires guardrails. Businesses and developers will need a way to ensure their agents only spend how much and on what they’re supposed to. The machine economy is coming, and Locus (YC F25) is building the connector businesses will need to participate. We connect agents securely to funds, letting you define permissions and limits for every transaction. Each payment is traceable, auditable, and fully reconcilable with your existing financial stack.",
-          "story": "这家公司做的是人工智能代理的支付基础设施。想象你是一家初创企业的财务负责人，团队开始部署智能体去自动完成各种任务，比如订阅付费数据、调用外部服务或者与其他智能体交易。你担心的是怎么控制这些代理的花销，防止它们超支或乱花钱。Locus 就是解决这个问题的：它让企业可以把资金安全地连接到代理上，并为每一笔交易设定权限和限额。每笔支付都可追踪、可审计，并且能和你现有的财务系统完全对账。随着机器经济的兴起，这种连接器会成为企业参与其中的关键。",
-          "rank": 1
-        },
-        {
-          "id": 30647,
-          "name": "Cyberdesk",
-          "url": "https://www.cyberdesk.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/cyberdesk",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Robotic Process Automation",
-            "Workflow Automation",
-            "Enterprise Software"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Self learning computer use agent for developers",
-          "originalDescription": "Cyberdesk is the first self learning computer use agent for developers to automate desktop workflows. For example, one of our customers is building an AI agent for hospital patient intake, and they’re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. We launched mid July, and our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs. We’ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers. Mahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. Alan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He is a second time founder, having previously built and scaled a consumer AI app to thousands of paying users. Computer-use agents will automate the $6T dollars spent on enterprise knowledge work and Cyberdesk will be the platform to power this. We’d love to talk with you! https://cal.com/mahmoud-al-madi-klrs5s/30min",
-          "story": "这家公司做的是能自我学习的电脑操作智能体，专门给开发者用来自动化桌面工作流。想象你是一家医院的IT负责人，每天要处理大量患者预约，而现有的桌面应用需要人工手动点击和输入。Cyberdesk 的智能体可以观察你如何操作，记住任务步骤，然后快速重复执行，同时还能适应屏幕上突然出现的弹窗或变化。它已经在真实环境里帮客户自动创建电子健康档案、处理旧企业管理系统里的文件。这种像人一样使用电脑的智能体，未来会被所有需要自动化桌面流程的公司采用。",
-          "rank": 2
-        },
-        {
-          "id": 30207,
-          "name": "Promptless",
-          "url": "https://promptless.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/promptless",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Generative AI",
-            "SaaS",
-            "B2B"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "An AI teammate that automatically updates your customer-facing docs",
-          "originalDescription": "Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more. Promptless is designed to be flexible—it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source. With Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability.",
-          "story": "这家公司做的是自动更新客户文档的人工智能工具。想象你是一家快速成长软件公司的产品经理，每次发布新功能后，都要花大量时间更新用户文档，还要协调客服、工程等多个团队，经常因为文档滞后而收到客户投诉。Promptless 就像一个人工智能队友，它能根据功能发布、客服工单、内部 Slack 对话等自动更新文档。它灵活适配各种文档平台，可以从多个工作流自动触发，还能从内部知识库获取上下文。这样文档就不再是瓶颈，反而成为公司增长的优势。",
-          "rank": 3
-        },
-        {
-          "id": 33062,
-          "name": "Hubble",
-          "url": "https://hubble.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/hubble-ai",
-          "location": "Seattle, WA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "Healthcare"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The intelligence layer for patient information",
-          "originalDescription": "Hubble retrieves complete medical records on behalf of patients using patient-mediated access. Under a patient's HIPAA right of access, they authorize us once and we pull their full history from every provider they've seen (hospitals, clinics, labs, imaging centers), no per-provider integration or IT project required. Getting records today still runs on faxes, patient portals, and release-of-information queues, so teams that need medical data wait weeks and get back a pile of unstructured PDFs. Hubble handles the retrieval end to end and returns clean, structured records, turning what used to take weeks into days. We work with teams that live or die on getting patient records fast: legal (personal injury, mass tort, disability), life sciences and research, and anyone building products that need a patient's real medical history to work. Instead of standing up records infrastructure themselves, they use Hubble as the retrieval layer. We're the team behind the AI agents at Grow Therapy and Amazon's One Medical used by millions of patients (Prabha was Grow's first PM building their AI agents, Aaron built the AI infra serving 1M+ clients).",
-          "story": "这家公司做的是患者信息的智能检索层。想象你是一家律师事务所的助理，负责处理人身伤害案件，需要快速获取客户的完整医疗记录。过去你只能靠传真、患者门户或漫长的信息释放流程，等上几周才能拿到一堆杂乱的PDF。Hubble 利用患者的合法访问权，只需患者授权一次，就能自动从所有看过的医院、诊所、实验室和影像中心拉取完整历史记录，并返回干净、结构化的数据。它把几周的时间缩短到几天，让依赖医疗记录的团队不再为基础设施发愁。",
-          "rank": 4
-        },
-        {
-          "id": 30977,
-          "name": "Rovi Health",
-          "url": "https://www.rovi.health",
-          "sourceUrl": "https://www.ycombinator.com/companies/rovi-health",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Consumer Health Services",
-            "Health Tech",
-            "Digital Health",
-            "Healthcare",
-            "Health Insurance"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI healthcare concierge for employees",
-          "originalDescription": "We deliver high-quality, cost-effective healthcare to employees through text. Employers cut 10–20% of healthcare spend. Employees get concierge care that improves outcomes. Our AI agents analyze clinical data to identify care needs. We treat common conditions through our integrated virtual clinic. For more complex care, our agents find the best in-network providers using millions of price and quality data points, and handle end-to-end appointment booking.",
-          "story": "这家公司做的是面向员工的人工智能医疗礼宾服务。想象你是一家中型企业的HR负责人，员工经常抱怨看病难、找不到合适的医生，公司医疗支出也逐年上涨。Rovi Health 通过短信为员工提供高质量、低成本的医疗服务。它的人工智能代理分析临床数据，识别护理需求，常见病直接在虚拟诊所处理，复杂病例则根据数百万价格和质量数据点推荐网络内最佳医生，并全程协助预约。雇主能节省10%到20%的医疗开支，员工也能获得更好的健康结果。",
-          "rank": 5
-        },
-        {
-          "id": 29646,
-          "name": "Corgi Insurance",
-          "url": "https://corgi.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/corgi-insurance",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Fintech",
-            "Insurance"
-          ],
-          "batch": "Summer 2024",
-          "isHiring": true,
-          "teamSize": 250,
-          "originalOneLiner": "Corgi is building an AI financial infrastructure company",
-          "originalDescription": "Corgi is a full-stack insurance carrier building better, faster insurance products for startups. We’re not a broker, so we underwrite and issue policies directly, with fewer handoffs and less friction. Cutting out intermediaries lets us tailor coverage to how your company actually operates and price risk more efficiently.",
-          "story": "这家公司做的是面向初创企业的一站式保险服务。想象你是一家科技创业公司的创始人，想为团队购买责任险，但传统保险经纪流程繁琐、产品不灵活。Corgi 是持牌保险公司，直接承保和签发保单，没有中间商，因此可以根据公司实际运营方式定制保障，更高效地定价风险。它利用人工智能优化整个保险基础设施，让初创企业能以更快、更好的方式获得保险保障。",
-          "rank": 6
-        },
-        {
-          "id": 30860,
-          "name": "Alt-X",
-          "url": "https://alt-x.co",
-          "sourceUrl": "https://www.ycombinator.com/companies/alt-x",
-          "location": "Los Angeles, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Building the best venue for private markets exposure.",
-          "originalDescription": "Alt-X is building the AI-native liquidity layer for private markets. Private markets have created trillions of dollars in value, yet remain fragmented, illiquid, and inaccessible. While public markets benefit from exchanges, market makers, brokerages, and data infrastructure, private markets still rely on brokers, spreadsheets, and manual workflows to connect buyers and sellers. Alt-X uses AI to automate the core functions required to make private assets liquid. We streamline diligence, valuation, investor matching, and transaction execution, reducing the friction that makes private-market transactions slow, expensive, and opaque today. Our initial focus is venture-backed secondaries. We source opportunities from founders, employees, and early investors while building a network of accredited investors seeking exposure to the world's most valuable private companies. Over time, we believe every private asset—from startup equity to private credit and alternative investments—will require modern liquidity infrastructure. Building trusted infrastructure for private markets is difficult. Transactions involve complex diligence, fragmented information, transfer restrictions, and significant compliance requirements. Alt-X is focused on creating systems that can support real transactions at scale, not just marketplace listings. Ryan Samadi (Stanford CS/AI, former Citadel commodities trader) and Michael Wachsman (Cornell CS, infrastructure engineer) are building Alt-X because they believe ownership of innovation should be more liquid, transparent, and accessible. Today, Alt-X has sourced over $1.5 million in transaction opportunities and assembled a network of 40 accredited investors representing hundreds of millions of dollars in investable assets. Our mission is to democratize ownership of innovation by building the financial infrastructure that private markets have never had.",
-          "story": "这家公司做的是私募市场的流动性基础设施。想象你是一家早期创业公司的员工，持有公司期权，但公司短期内没有上市计划，你想变现却找不到买家。Alt-X 利用人工智能自动化尽职调查、估值、投资者匹配和交易执行，让私募资产交易变得像公开市场一样便捷。它最初聚焦于风险投资支持的二级市场交易，为创始人、员工和早期投资者提供变现机会，同时为合格投资者提供接触高价值私营公司的渠道。",
-          "rank": 7
-        },
-        {
-          "id": "non-yc-elevenlabs",
-          "name": "ElevenLabs",
-          "url": "https://elevenlabs.io/",
-          "sourceUrl": "https://elevenlabs.io/",
-          "location": "Unknown",
-          "source": [
-            "Non-YC watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Design"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI voice generation and audio platform.",
-          "originalDescription": "ElevenLabs builds voice models and audio tools for narration, dubbing, agents, and media workflows where realistic generated speech matters.",
-          "story": "这家公司做的是人工智能语音生成和音频平台。想象你是一个播客制作人，需要为节目录制多语言版本，但请配音演员既贵又慢。ElevenLabs 的语音模型能够生成高度逼真的语音，用于旁白、配音、智能体对话和媒体制作。它不只是手机应用，而是把语音合成能力嵌入到各种设备和场景中，让内容创作者能轻松生成自然的音频内容。",
-          "rank": 8
-        },
-        {
-          "id": "hn-launch-49172936",
-          "name": "EdotEnv",
-          "url": "https://edotenv.com/",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49172936",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "Product"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-          "originalDescription": "YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-          "story": "这家公司来自 YC 夏季批次，做的是量化交易强化学习环境，用来教大语言模型做研究。想象你是一名量化研究员，想训练人工智能模型来发现交易策略，但缺乏合适的模拟环境。EdotEnv 提供这样的环境，让模型可以反复试验、学习金融市场的动态规律。这为人工智能在金融研究中的应用提供了新的可能性。",
-          "rank": 9
-        },
-        {
-          "id": "non-yc-hebbia",
-          "name": "Hebbia",
-          "url": "https://www.hebbia.ai/",
-          "sourceUrl": "https://www.hebbia.ai/",
-          "location": "Unknown",
-          "source": [
-            "Non-YC watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Fintech"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI workspace for analyzing large sets of documents.",
-          "originalDescription": "Hebbia helps finance, legal, and research teams read across many documents, find evidence, compare answers, and make decisions from messy knowledge work.",
-          "story": "这家公司做的是人工智能工作空间，用于分析大量文档。想象你是一名金融分析师，需要在一堆招股书、财报和研报中查找关键数据，传统方法耗时且容易遗漏。Hebbia 能让你跨文档搜索、查找证据、对比答案，并基于杂乱的信息做出决策。它特别适合金融、法律和研究团队，把繁琐的知识工作变得高效。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "Google Research-aHR0cHM6Ly9y",
-          "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
-          "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
-          "source": "Google Research",
-          "published": "Thu, 30 Jul 2026 20:36:36 +0000",
-          "story": "做研究的人大概都经历过这样的时刻：跑了一堆实验，结果堆在文件夹里，却说不清每一步是怎么得出的。尤其当结论要拿去发表或给团队看时，别人一问“你怎么验证的”，自己都容易卡壳。这篇来自 Google Research 的文章，讲的正是如何让研究过程本身变得可核查。它提出了一种叫 Chain-of-Evidence 的思路，把每一步推理和证据串起来。读的时候，可以留意作者是怎么把“验证”这件事拆成具体步骤的，以及他们为什么觉得证据链比最终结论更重要。"
-        },
-        {
-          "id": "GitHub-aHR0cHM6Ly9n",
-          "title": "Stacked sessions and pull requests in the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
-          "source": "GitHub",
-          "published": "Thu, 30 Jul 2026 17:30:24 +0000",
-          "story": "写代码的人常常有个烦恼：手头改着好几个功能，每个都还没完成，又不能都堆在一个分支里。以前要么来回切换分支，要么把半成品硬塞进一个提交，搞得历史记录乱七八糟。GitHub 这篇博客讲的是 Copilot 应用里新增的堆叠会话和拉取请求功能，听起来像是专门为了解决这种手忙脚乱的场景。你可以带着一个问题去读：他们是怎么让多个未完成的工作流互不干扰的？看看作者如何从开发者的实际痛点出发，设计出更顺畅的切换方式。"
-        },
-        {
-          "id": "Microsoft Research-aHR0cHM6Ly93",
-          "title": "EvoLib: Turning experience into evolving knowledge",
-          "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
-          "source": "Microsoft Research",
-          "published": "Thu, 30 Jul 2026 16:00:00 +0000",
-          "story": "你有没有想过，一个团队做过的项目，那些经验教训都去哪了？通常它们散落在文档、聊天记录和个人的记忆里，新人来了还得重新踩一遍坑。微软研究院这篇文章介绍了一个叫 EvoLib 的工具，它想把经验转化成能不断进化的知识。这听起来像是个知识管理的问题，但背后其实关乎团队怎么学习。读的时候，不妨想想作者如何定义“经验”和“知识”的区别，以及他们用什么方法让知识不只是一次性的总结，而是能跟着实践更新。你可以特别关注他们设计的存储和检索方式，看是否真的能让旧经验在新问题里派上用场。"
         }
       ]
     }

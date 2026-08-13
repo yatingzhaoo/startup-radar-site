@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-12T08:38:38.091Z",
+  "updatedAt": "2026-08-13T08:42:33.411Z",
   "readings": [
+    {
+      "key": "codewithbullet.com",
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "url": "https://www.codewithbullet.com",
+      "usedAt": "2026-08-13",
+      "site": "startup-radar"
+    },
+    {
+      "key": "github.blog/news-insights/company-news/github-availability-report-july-2026",
+      "title": "GitHub availability report: July 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+      "usedAt": "2026-08-13",
+      "site": "startup-radar"
+    },
+    {
+      "key": "latent.space/p/ainews-spacexai-grok-46-and-grok",
+      "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
+      "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+      "usedAt": "2026-08-13",
+      "site": "startup-radar"
+    },
     {
       "key": "discoveredmaterials.com/research",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
