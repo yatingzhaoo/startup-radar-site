@@ -5,7 +5,8 @@ import {
   companyDedupeKeys,
   isBlockedReading,
   isInsightfulReading,
-  readingDedupeKey
+  readingDedupeKey,
+  startupEligibilityIssue
 } from "./update-data.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -27,6 +28,10 @@ for (const day of feed.days || []) {
     assert(keys.length > 0, `${day.date}: missing company dedupe key for ${company.name}`);
     assert(!keys.some((key) => companyKeys.has(key)), `${day.date}: duplicate company ${company.name}`);
     keys.forEach((key) => companyKeys.add(key));
+    if (day.date === expectedDate) {
+      const issue = startupEligibilityIssue(company, expectedDate);
+      assert(!issue, `${day.date}: ineligible startup ${company.name} (${issue})`);
+    }
   }
   for (const reading of day.readings) {
     if (day.date === expectedDate) {

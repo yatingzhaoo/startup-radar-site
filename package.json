@@ -11,6 +11,7 @@
     "fix:company-entities": "node scripts/repair-company-entities.mjs",
     "preview": "vite preview --host 0.0.0.0",
     "generate:today": "node scripts/generate-static-day.mjs",
+    "test:startup-eligibility": "node scripts/test-startup-eligibility.mjs",
     "validate:feed": "node scripts/validate-static-feed.mjs",
     "update:data": "node scripts/update-data.mjs",
     "analytics:posthog:7d": "node scripts/posthog-report.mjs 7",

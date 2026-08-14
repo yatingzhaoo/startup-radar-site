@@ -8,7 +8,8 @@ import {
   isClearlyNotCompanyEntity,
   isBlockedReading,
   isInsightfulReading,
-  readingDedupeKey
+  readingDedupeKey,
+  startupEligibilityIssue
 } from "./update-data.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -82,6 +83,10 @@ function validateSelection(value, expectedDate) {
   if (value.readings?.length !== 3) throw new Error(`Expected 3 readings, received ${value.readings?.length || 0}`);
   const invalidCompany = value.companies.find(isClearlyNotCompanyEntity);
   if (invalidCompany) throw new Error(`Non-company entity selected: ${invalidCompany.name}`);
+  for (const company of value.companies) {
+    const issue = startupEligibilityIssue(company, expectedDate);
+    if (issue) throw new Error(`Ineligible startup selected: ${company.name} (${issue})`);
+  }
   for (const item of [...value.companies, ...value.readings]) {
     if (!/^https:\/\//.test(item.url || "")) throw new Error(`Invalid URL for ${item.name || item.title}`);
   }

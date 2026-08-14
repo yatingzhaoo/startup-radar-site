@@ -3,6 +3,8 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 
 const OUT_FILE = new URL("../src/data/feed.json", import.meta.url);
 const TODAY = currentLosAngelesDate();
+const MAX_YC_BATCH_AGE_YEARS = 1;
+const MAX_EXTERNAL_AGE_DAYS = 45;
 let cachedCompanies;
 
 function currentLosAngelesDate() {
@@ -1001,7 +1003,8 @@ async function getCompanies(excludedIds = new Set(), date = TODAY) {
   const activeCompanies = ycCompanies
     .filter((company) => company.status === "Active")
     .filter((company) => northAmericaScore(company) > 0)
-    .filter((company) => cleanText(company.one_liner || company.long_description).length > 20);
+    .filter((company) => cleanText(company.one_liner || company.long_description).length > 20)
+    .filter((company) => !startupEligibilityIssue(company, date));
 
   const ycCandidates = activeCompanies
     .filter((company) => !hasAnyKey(excludedIds, companyDedupeKeys(company)))
@@ -1014,6 +1017,7 @@ async function getCompanies(excludedIds = new Set(), date = TODAY) {
 
   const externalCandidates = externalCompanies
     .filter(isVerifiedCompanySource)
+    .filter((company) => !startupEligibilityIssue(company, date))
     .filter((company) => !hasAnyKey(excludedIds, companyDedupeKeys(company)))
     .map((company) => ({
       company,
@@ -1022,7 +1026,7 @@ async function getCompanies(excludedIds = new Set(), date = TODAY) {
     .sort((a, b) => b.score - a.score);
 
   const selectedExternal = pickExternalCompanies(externalCandidates, date, {
-    minExternal: 3,
+    minExternal: 2,
     maxExternal: 4,
     preferHardware: true,
     maxHardware: 1
@@ -1047,6 +1051,7 @@ async function getCompanies(excludedIds = new Set(), date = TODAY) {
       teamSize: company.team_size || 0,
       originalOneLiner: cleanText(company.one_liner || ""),
       originalDescription: cleanText(company.long_description || ""),
+      published: company.published || "",
       story: companyStory(company),
       rank: index + 1
     })));
@@ -1066,14 +1071,9 @@ async function getCompanyPool() {
 }
 
 async function getExternalCompanies() {
-  const [productHunt, launchHn, curatedNonYc, curatedHardware] = await Promise.all([
-    getProductHuntCompanies(),
-    getLaunchHnCompanies(),
-    getCuratedNonYcCompanies(),
-    getCuratedHardwareCompanies()
-  ]);
+  const launchHn = await getLaunchHnCompanies();
   const seen = new Set();
-  return [...productHunt, ...launchHn, ...curatedNonYc, ...curatedHardware].filter((company) => {
+  return launchHn.filter((company) => {
     const key = normalizedTextKey(company.name);
     if (!key || seen.has(key)) return false;
     seen.add(key);
@@ -1083,10 +1083,50 @@ async function getExternalCompanies() {
 
 function isVerifiedCompanySource(company) {
   const sources = Array.isArray(company.source) ? company.source : [company.source];
-  // Product Hunt describes launches, which may be a model version, feature, or
-  // plug-in rather than a company. Keep it out until the launch is resolved to
-  // a verified company entity.
-  return !sources.includes("Product Hunt");
+  return sources.includes("Launch HN");
+}
+
+export function startupEligibilityIssue(company, date = TODAY) {
+  const sources = (Array.isArray(company?.source) ? company.source : [company?.source]).filter(Boolean);
+  const currentYear = Number(String(date).slice(0, 4));
+  const isYcCompany = company?.status === "Active" || sources.includes("Y Combinator");
+
+  if (sources.includes("Non-YC watchlist") || sources.includes("Smart hardware watchlist")) {
+    return "manually curated watchlists are not verified early-stage sources";
+  }
+
+  if (isYcCompany) {
+    const batchYear = batchScore(company?.batch);
+    if (!batchYear) return "YC company is missing a dated batch";
+    if (batchYear < currentYear - MAX_YC_BATCH_AGE_YEARS) {
+      return `YC batch ${batchYear} is older than the early-stage window`;
+    }
+    return "";
+  }
+
+  if (sources.includes("Launch HN")) {
+    const publishedAt = Date.parse(company?.published || "");
+    const editionAt = Date.parse(`${date}T23:59:59.999Z`);
+    const launchBatchYear = launchHnBatchYear(
+      `${company?.one_liner || company?.originalOneLiner || ""} ${company?.long_description || company?.originalDescription || ""}`
+    );
+    if (!Number.isFinite(publishedAt)) return "Launch HN entry is missing a publication date";
+    if (launchBatchYear && launchBatchYear < currentYear - MAX_YC_BATCH_AGE_YEARS) {
+      return `Launch HN company is from YC ${launchBatchYear}, outside the early-stage window`;
+    }
+    const ageDays = (editionAt - publishedAt) / 86400000;
+    if (ageDays < -1 || ageDays > MAX_EXTERNAL_AGE_DAYS) {
+      return `Launch HN entry is outside the ${MAX_EXTERNAL_AGE_DAYS}-day discovery window`;
+    }
+    return "";
+  }
+
+  return "source does not verify a recent startup launch";
+}
+
+function launchHnBatchYear(value = "") {
+  const match = String(value).match(/\bYC\s+[WSPF](\d{2})\b/i);
+  return match ? 2000 + Number(match[1]) : 0;
 }
 
 export function isClearlyNotCompanyEntity(company) {
@@ -1098,24 +1138,6 @@ export function isClearlyNotCompanyEntity(company) {
   const releaseVersion = /\b(?:v(?:ersion)?\s*)?\d+(?:\.\d+)+(?:\b|$)/i;
   const featureLaunch = /(?:\bsuggestions?\b|\bagents?\s+in\s+chat\b|\breview\s+by\b|\bremote\s+openclaw\b|\bin\s+parallel\s+mcp\b)/i;
   return modelFamilies.test(name) || releaseVersion.test(name) || featureLaunch.test(name);
-}
-
-async function getCuratedNonYcCompanies() {
-  return CURATED_NON_YC_COMPANIES.map((company) =>
-    externalCompany({
-      ...company,
-      source: "Non-YC watchlist"
-    })
-  );
-}
-
-async function getCuratedHardwareCompanies() {
-  return CURATED_HARDWARE_COMPANIES.map((company) =>
-    externalCompany({
-      ...company,
-      source: "Smart hardware watchlist"
-    })
-  );
 }
 
 async function getProductHuntCompanies() {
