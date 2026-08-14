@@ -1,12 +1,68 @@
 {
-  "updatedAt": "2026-08-14T08:36:34.499Z",
+  "updatedAt": "2026-08-14T20:15:37.498Z",
   "readings": [
+    {
+      "key": "alistapart.com/article/opportunities-for-ai-in-accessibility",
+      "title": "Opportunities for AI in Accessibility",
+      "url": "https://alistapart.com/article/opportunities-for-ai-in-accessibility/",
+      "usedAt": "2026-08-14",
+      "site": "daily-reading"
+    },
+    {
+      "key": "alistapart.com/article/user-research-is-storytelling",
+      "title": "User Research Is Storytelling",
+      "url": "https://alistapart.com/article/user-research-is-storytelling/",
+      "usedAt": "2026-08-14",
+      "site": "daily-reading"
+    },
     {
       "key": "anthropic.statuspage.io/incidents/kmbpgrsszf72",
       "title": "Issues Reaching Status.claude.com",
       "url": "https://anthropic.statuspage.io/incidents/kmbpgrsszf72",
       "usedAt": "2026-08-14",
       "site": "startup-radar"
+    },
+    {
+      "key": "caseyaccidental.com/p/the-best-way-to-drive-demand-in-marketplaces",
+      "title": "The Best Way to Drive Demand in Marketplaces Is Hiding in Plain Sight",
+      "url": "https://www.caseyaccidental.com/p/the-best-way-to-drive-demand-in-marketplaces",
+      "usedAt": "2026-08-14",
+      "site": "daily-reading"
+    },
+    {
+      "key": "danluu.com/cli-complexity",
+      "title": "The growth of command line options, 1979-Present",
+      "url": "https://danluu.com/cli-complexity/",
+      "usedAt": "2026-08-14",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline",
+      "title": "How to Blow Up a Timeline",
+      "url": "https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline",
+      "usedAt": "2026-08-14",
+      "site": "daily-reading"
+    },
+    {
+      "key": "huyenchip.com//2024/04/17/personal-growth.html",
+      "title": "Measuring personal growth",
+      "url": "https://huyenchip.com//2024/04/17/personal-growth.html",
+      "usedAt": "2026-08-14",
+      "site": "daily-reading"
+    },
+    {
+      "key": "inkandswitch.com/slow-software",
+      "title": "Slow Software: Observations on Latency",
+      "url": "https://www.inkandswitch.com/slow-software",
+      "usedAt": "2026-08-14",
+      "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/intercom-product-principles-make-it-feel-personal",
+      "title": "Creating personal products by design",
+      "url": "https://www.intercom.com/blog/intercom-product-principles-make-it-feel-personal/",
+      "usedAt": "2026-08-14",
+      "site": "daily-reading"
     },
     {
       "key": "latent.space/p/ainews-gemini-37-flash-brings-gdm",
@@ -16,11 +72,60 @@
       "site": "startup-radar"
     },
     {
+      "key": "news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy",
+      "title": "The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead",
+      "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
+      "usedAt": "2026-08-14",
+      "site": "startup-radar"
+    },
+    {
+      "key": "newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation",
+      "title": "The Pulse: Meta’s self-inflicted resignation-wave",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation",
+      "usedAt": "2026-08-14",
+      "site": "startup-radar"
+    },
+    {
+      "key": "review.firstround.com/material-securitys-path-to-product-market-fit",
+      "title": "Material Security's Path to Product-Market Fit",
+      "url": "https://review.firstround.com/material-securitys-path-to-product-market-fit/",
+      "usedAt": "2026-08-14",
+      "site": "daily-reading"
+    },
+    {
       "key": "stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon",
       "title": "Solving integration woes with a hackathon",
       "url": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/",
       "usedAt": "2026-08-14",
       "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria",
+      "title": "Thrive&#8217;s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "usedAt": "2026-08-14",
+      "site": "startup-radar"
+    },
+    {
+      "key": "world.hey.com/jason/doing-what-you-think-not-what-you-thought-60bb5bef",
+      "title": "Doing what you think, not what you thought",
+      "url": "https://world.hey.com/jason/doing-what-you-think-not-what-you-thought-60bb5bef",
+      "usedAt": "2026-08-14",
+      "site": "daily-reading"
+    },
+    {
+      "key": "alistapart.com/article/prepersonalization-workshop",
+      "title": "To Ignite a Personalization Practice, Run this Prepersonalization Workshop",
+      "url": "https://alistapart.com/article/prepersonalization-workshop/",
+      "usedAt": "2026-08-13",
+      "site": "daily-reading"
+    },
+    {
+      "key": "behavioralscientist.org/what-its-like-to-be-an-air-traffic-controller",
+      "title": "What It’s Like to Be…an Air Traffic Controller",
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-air-traffic-controller/",
+      "usedAt": "2026-08-13",
+      "site": "daily-reading"
     },
     {
       "key": "codewithbullet.com",
@@ -30,11 +135,39 @@
       "site": "startup-radar"
     },
     {
+      "key": "danluu.com/ai-coding",
+      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
+      "url": "https://danluu.com/ai-coding/",
+      "usedAt": "2026-08-13",
+      "site": "daily-reading"
+    },
+    {
+      "key": "danluu.com/cgroup-throttling",
+      "title": "The container throttling problem",
+      "url": "https://danluu.com/cgroup-throttling/",
+      "usedAt": "2026-08-13",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2021/2/15/american-idle",
+      "title": "American Idle",
+      "url": "https://www.eugenewei.com/blog/2021/2/15/american-idle",
+      "usedAt": "2026-08-13",
+      "site": "daily-reading"
+    },
+    {
       "key": "github.blog/news-insights/company-news/github-availability-report-july-2026",
       "title": "GitHub availability report: July 2026",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
       "usedAt": "2026-08-13",
       "site": "startup-radar"
+    },
+    {
+      "key": "huyenchip.com//2024/01/16/sampling.html",
+      "title": "Generation configurations: temperature, top-k, top-p, and test time compute",
+      "url": "https://huyenchip.com//2024/01/16/sampling.html",
+      "usedAt": "2026-08-13",
+      "site": "daily-reading"
     },
     {
       "key": "latent.space/p/ainews-spacexai-grok-46-and-grok",
@@ -44,11 +177,81 @@
       "site": "startup-radar"
     },
     {
+      "key": "simonwillison.net/2026/aug/7/openai-timeline",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "usedAt": "2026-08-13",
+      "site": "daily-reading"
+    },
+    {
+      "key": "simonwillison.net/2026/aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/",
+      "usedAt": "2026-08-13",
+      "site": "daily-reading"
+    },
+    {
+      "key": "world.hey.com/jason/knives-and-battleships-ac8dc8c2",
+      "title": "Knives and battleships",
+      "url": "https://world.hey.com/jason/knives-and-battleships-ac8dc8c2",
+      "usedAt": "2026-08-13",
+      "site": "daily-reading"
+    },
+    {
+      "key": "world.hey.com/jason/marketing-is-8d39f651",
+      "title": "Marketing is...",
+      "url": "https://world.hey.com/jason/marketing-is-8d39f651",
+      "usedAt": "2026-08-13",
+      "site": "daily-reading"
+    },
+    {
+      "key": "a16z.com/modelbusters",
+      "title": "Modelbusters",
+      "url": "https://a16z.com/modelbusters/",
+      "usedAt": "2026-08-12",
+      "site": "daily-reading"
+    },
+    {
+      "key": "alistapart.com/article/from-beta-to-bedrock-build-products-that-stick",
+      "title": "From Beta to Bedrock: Build Products that Stick.",
+      "url": "https://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/",
+      "usedAt": "2026-08-12",
+      "site": "daily-reading"
+    },
+    {
+      "key": "behavioralscientist.org/what-its-like-to-be-a-civil-aviation-engineer",
+      "title": "What It’s Like to Be…a Civil Aviation Engineer",
+      "url": "https://behavioralscientist.org/what-its-like-to-be-a-civil-aviation-engineer/",
+      "usedAt": "2026-08-12",
+      "site": "daily-reading"
+    },
+    {
+      "key": "danluu.com/exercise-7",
+      "title": "Exercises in benchmarking and evals, part 7: DeepSWE, Senior SWE-Bench, napkin math, and winter tires",
+      "url": "https://danluu.com/exercise-7/",
+      "usedAt": "2026-08-12",
+      "site": "daily-reading"
+    },
+    {
       "key": "discoveredmaterials.com/research",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
       "usedAt": "2026-08-12",
       "site": "startup-radar"
+    },
+    {
+      "key": "eugenewei.com/blog/2022/2/23/my-favorite-movies-of-2021",
+      "title": "My Favorite Movies of 2021",
+      "url": "https://www.eugenewei.com/blog/2022/2/23/my-favorite-movies-of-2021",
+      "usedAt": "2026-08-12",
+      "site": "daily-reading"
+    },
+    {
+      "key": "huyenchip.com//2024/03/14/ai-oss.html",
+      "title": "What I learned from looking at 900 most popular open source AI tools",
+      "url": "https://huyenchip.com//2024/03/14/ai-oss.html",
+      "usedAt": "2026-08-12",
+      "site": "daily-reading"
     },
     {
       "key": "latent.space/p/ainews-how-to-steal-a-reasoning-trace",
@@ -58,11 +261,46 @@
       "site": "startup-radar"
     },
     {
+      "key": "martinfowler.com/bliki/interrogatoryllm.html",
+      "title": "Bliki: Interrogatory LLM",
+      "url": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
+      "usedAt": "2026-08-12",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/ask-why-it-wont-work-and-other-lessons-this-founder-relies-on-while-building-from-0-to-1",
+      "title": "Ask Why It Won't Work",
+      "url": "https://review.firstround.com/ask-why-it-wont-work-and-other-lessons-this-founder-relies-on-while-building-from-0-to-1/",
+      "usedAt": "2026-08-12",
+      "site": "daily-reading"
+    },
+    {
+      "key": "simonwillison.net/2026/aug/8/auto-mode",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+      "usedAt": "2026-08-12",
+      "site": "daily-reading"
+    },
+    {
       "key": "techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand",
       "title": "India&#8217;s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
       "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
       "usedAt": "2026-08-12",
       "site": "startup-radar"
+    },
+    {
+      "key": "world.hey.com/jason/when-design-drives-behavior-49baf157",
+      "title": "When design drives behavior",
+      "url": "https://world.hey.com/jason/when-design-drives-behavior-49baf157",
+      "usedAt": "2026-08-12",
+      "site": "daily-reading"
+    },
+    {
+      "key": "a16z.com/marketplaces-and-network-effects",
+      "title": "Marketplaces and Network Effects",
+      "url": "https://a16z.com/marketplaces-and-network-effects/",
+      "usedAt": "2026-08-11",
+      "site": "daily-reading"
     },
     {
       "key": "ai-updates.net/ai-slop-backlash-changing-platform-policy",
@@ -72,11 +310,74 @@
       "site": "startup-radar"
     },
     {
+      "key": "behavioralscientist.org/what-its-like-to-be-an-airport-ceo",
+      "title": "What It’s Like to Be…an Airport CEO",
+      "url": "https://behavioralscientist.org/what-its-like-to-be-an-airport-ceo/",
+      "usedAt": "2026-08-11",
+      "site": "daily-reading"
+    },
+    {
+      "key": "danluu.com/bad-decisions",
+      "title": "How good are decisions? Evaluating decision quality in domains where evaluation is easy",
+      "url": "https://danluu.com/bad-decisions/",
+      "usedAt": "2026-08-11",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2018/4/6/the-inefficiency-of-infrequent-transactions",
+      "title": "The inefficiency of large, infrequent transactions",
+      "url": "https://www.eugenewei.com/blog/2018/4/6/the-inefficiency-of-infrequent-transactions",
+      "usedAt": "2026-08-11",
+      "site": "daily-reading"
+    },
+    {
+      "key": "huyenchip.com//2025/01/16/ai-engineering-pitfalls.html",
+      "title": "Common pitfalls when building generative AI applications",
+      "url": "https://huyenchip.com//2025/01/16/ai-engineering-pitfalls.html",
+      "usedAt": "2026-08-11",
+      "site": "daily-reading"
+    },
+    {
       "key": "latent.space/p/ainews-muse-glimmer-and-spark-open",
       "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
       "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
       "usedAt": "2026-08-11",
       "site": "startup-radar"
+    },
+    {
+      "key": "lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2",
+      "title": "The Transformer Family Version 2.0",
+      "url": "https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/",
+      "usedAt": "2026-08-11",
+      "site": "daily-reading"
+    },
+    {
+      "key": "martinfowler.com/bliki/mythicalmanmonth.html",
+      "title": "Bliki: Mythical Man Month",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "usedAt": "2026-08-11",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/how-to-take-bigger--bolder-product-bets-lessons-from-slacks-chief-product-officer",
+      "title": "How to Take Bigger, Bolder Product Bets",
+      "url": "https://review.firstround.com/how-to-take-bigger--bolder-product-bets-lessons-from-slacks-chief-product-officer/",
+      "usedAt": "2026-08-11",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/servals-path-to-product-market-fit",
+      "title": "Serval's Path to Product-Market Fit",
+      "url": "https://review.firstround.com/servals-path-to-product-market-fit/",
+      "usedAt": "2026-08-11",
+      "site": "daily-reading"
+    },
+    {
+      "key": "simonwillison.net/2026/aug/9/claude-opus-5-system-prompt",
+      "title": "Quoting Claude Opus 5 system prompt",
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/",
+      "usedAt": "2026-08-11",
+      "site": "daily-reading"
     },
     {
       "key": "stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing",
@@ -86,11 +387,67 @@
       "site": "startup-radar"
     },
     {
+      "key": "a16z.com/hidden-networks-network-effects-that-dont-look-like-network-effects",
+      "title": "Hidden Networks: Network Effects That Don't Look Like Network Effects",
+      "url": "https://a16z.com/hidden-networks-network-effects-that-dont-look-like-network-effects/",
+      "usedAt": "2026-08-10",
+      "site": "daily-reading"
+    },
+    {
+      "key": "alistapart.com/article/design-dialects-breaking-the-rules-not-the-system",
+      "title": "Design Dialects: Breaking the Rules, Not the System",
+      "url": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
+      "usedAt": "2026-08-10",
+      "site": "daily-reading"
+    },
+    {
+      "key": "behavioralscientist.org/behavioral-scientists-summer-book-list-2026",
+      "title": "Behavioral Scientist’s Summer Book List 2026",
+      "url": "https://behavioralscientist.org/behavioral-scientists-summer-book-list-2026/",
+      "usedAt": "2026-08-10",
+      "site": "daily-reading"
+    },
+    {
+      "key": "danluu.com/nothing-works",
+      "title": "Why is it so hard to buy things that work well?",
+      "url": "https://danluu.com/nothing-works/",
+      "usedAt": "2026-08-10",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2019/11/4/status-update",
+      "title": "Status Update, and How Everyone IPO'd in the 21st Century",
+      "url": "https://www.eugenewei.com/blog/2019/11/4/status-update",
+      "usedAt": "2026-08-10",
+      "site": "daily-reading"
+    },
+    {
       "key": "lector.dev",
       "title": "Show HN: Lector, a FOSS self-hosted language reader (with a cloud option)",
       "url": "https://lector.dev/",
       "usedAt": "2026-08-10",
       "site": "startup-radar"
+    },
+    {
+      "key": "lilianweng.github.io/posts/2022-04-15-data-gen",
+      "title": "Learning with not Enough Data Part 3: Data Generation",
+      "url": "https://lilianweng.github.io/posts/2022-04-15-data-gen/",
+      "usedAt": "2026-08-10",
+      "site": "daily-reading"
+    },
+    {
+      "key": "martinfowler.com/bliki/vibecoding.html",
+      "title": "Bliki: Vibe Coding",
+      "url": "https://martinfowler.com/bliki/VibeCoding.html",
+      "usedAt": "2026-08-10",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/reductos-path-to-product-market-fit",
+      "title": "Reducto's Path to Product-Market Fit",
+      "url": "https://review.firstround.com/reductos-path-to-product-market-fit/",
+      "usedAt": "2026-08-10",
+      "site": "daily-reading"
     },
     {
       "key": "saastr.com/atlassian-just-deleted-looms-free-seats-it-was-also-looms-distribution",
@@ -100,6 +457,13 @@
       "site": "startup-radar"
     },
     {
+      "key": "simonwillison.net/2026/aug/11/stealing-reasoning-traces",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+      "usedAt": "2026-08-10",
+      "site": "daily-reading"
+    },
+    {
       "key": "techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry",
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -107,11 +471,81 @@
       "site": "startup-radar"
     },
     {
+      "key": "world.hey.com/jason/the-big-regression-da7fc60d",
+      "title": "The big regression",
+      "url": "https://world.hey.com/jason/the-big-regression-da7fc60d",
+      "usedAt": "2026-08-10",
+      "site": "daily-reading"
+    },
+    {
+      "key": "a16z.com/16-ways-to-measure-network-effects",
+      "title": "16 Ways to Measure Network Effects",
+      "url": "https://a16z.com/16-ways-to-measure-network-effects/",
+      "usedAt": "2026-08-09",
+      "site": "daily-reading"
+    },
+    {
+      "key": "alistapart.com/article/designed-for-a-dead-language",
+      "title": "Designed for a Dead Language",
+      "url": "https://alistapart.com/article/designed-for-a-dead-language/",
+      "usedAt": "2026-08-09",
+      "site": "daily-reading"
+    },
+    {
+      "key": "danluu.com/why-video",
+      "title": "Why do people post on [bad platform] instead of [good platform]?",
+      "url": "https://danluu.com/why-video/",
+      "usedAt": "2026-08-09",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2020/1/7/the-uncanny-valley-of-interactivity",
+      "title": "The Uncanny Valley of Interactivity",
+      "url": "https://www.eugenewei.com/blog/2020/1/7/the-uncanny-valley-of-interactivity",
+      "usedAt": "2026-08-09",
+      "site": "daily-reading"
+    },
+    {
+      "key": "huyenchip.com//2023/08/16/llm-research-open-challenges.html",
+      "title": "Open challenges in LLM research",
+      "url": "https://huyenchip.com//2023/08/16/llm-research-open-challenges.html",
+      "usedAt": "2026-08-09",
+      "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/product-principles-follow-fundamentals",
+      "title": "Follow Fundamentals to Leave Room for Innovation",
+      "url": "https://www.intercom.com/blog/product-principles-follow-fundamentals/",
+      "usedAt": "2026-08-09",
+      "site": "daily-reading"
+    },
+    {
+      "key": "lilianweng.github.io/posts/2023-06-23-agent",
+      "title": "LLM Powered Autonomous Agents",
+      "url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
+      "usedAt": "2026-08-09",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/merges-path-to-product-market-fit",
+      "title": "Merge's Path to Product-Market Fit",
+      "url": "https://review.firstround.com/merges-path-to-product-market-fit/",
+      "usedAt": "2026-08-09",
+      "site": "daily-reading"
+    },
+    {
       "key": "saastr.com/backstory-retiered-its-entire-customer-base-in-3-days-the-same-exercise-used-to-take-five-teams-a-quarter",
       "title": "Backstory Retiered Its Entire Customer Base in 3 Days. The Same Exercise Used to Take Five Teams a Quarter.",
       "url": "https://www.saastr.com/backstory-retiered-its-entire-customer-base-in-3-days-the-same-exercise-used-to-take-five-teams-a-quarter/",
       "usedAt": "2026-08-09",
       "site": "startup-radar"
+    },
+    {
+      "key": "simonwillison.net/2026/aug/12/deepseek-v4-pro-0813",
+      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+      "usedAt": "2026-08-09",
+      "site": "daily-reading"
     },
     {
       "key": "sous.bio",
@@ -128,11 +562,81 @@
       "site": "startup-radar"
     },
     {
+      "key": "world.hey.com/jason/a-new-interview-0aced606",
+      "title": "A new interview",
+      "url": "https://world.hey.com/jason/a-new-interview-0aced606",
+      "usedAt": "2026-08-09",
+      "site": "daily-reading"
+    },
+    {
+      "key": "a16z.com/the-dynamics-of-network-effects",
+      "title": "The Dynamics of Network Effects",
+      "url": "https://a16z.com/the-dynamics-of-network-effects/",
+      "usedAt": "2026-08-08",
+      "site": "daily-reading"
+    },
+    {
+      "key": "alistapart.com/article/how-to-sell-ux-research",
+      "title": "How to Sell UX Research with Two Simple Questions",
+      "url": "https://alistapart.com/article/how-to-sell-ux-research/",
+      "usedAt": "2026-08-08",
+      "site": "daily-reading"
+    },
+    {
+      "key": "behavioralscientist.org/journey-to-robbers-cave",
+      "title": "Journey to Robbers Cave",
+      "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
+      "usedAt": "2026-08-08",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2020/1/7/john-wick-and-cancel-culture",
+      "title": "The John Wick Universe is Cancel Culture",
+      "url": "https://www.eugenewei.com/blog/2020/1/7/john-wick-and-cancel-culture",
+      "usedAt": "2026-08-08",
+      "site": "daily-reading"
+    },
+    {
+      "key": "huyenchip.com//2024/07/25/genai-platform.html",
+      "title": "Building A Generative AI Platform",
+      "url": "https://huyenchip.com//2024/07/25/genai-platform.html",
+      "usedAt": "2026-08-08",
+      "site": "daily-reading"
+    },
+    {
+      "key": "inkandswitch.com/inkbase",
+      "title": "Inkbase: Programmable Ink",
+      "url": "https://www.inkandswitch.com/inkbase",
+      "usedAt": "2026-08-08",
+      "site": "daily-reading"
+    },
+    {
       "key": "lennysnewsletter.com/p/community-wisdom-crafting-outreach",
       "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
       "url": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
       "usedAt": "2026-08-08",
       "site": "startup-radar"
+    },
+    {
+      "key": "lilianweng.github.io/posts/2024-07-07-hallucination",
+      "title": "Extrinsic Hallucinations in LLMs",
+      "url": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
+      "usedAt": "2026-08-08",
+      "site": "daily-reading"
+    },
+    {
+      "key": "martinfowler.com/rachels-ramblings/conductor-developer.html",
+      "title": "The Conductor Developer",
+      "url": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+      "usedAt": "2026-08-08",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/gustos-path-to-product-market-fit",
+      "title": "Gusto's Path to Product-Market Fit",
+      "url": "https://review.firstround.com/gustos-path-to-product-market-fit/",
+      "usedAt": "2026-08-08",
+      "site": "daily-reading"
     },
     {
       "key": "saastr.com/the-simple-math-behind-a-3x-venture-fund-why-your-best-investment-needs-to-return-the-whole-thing",
@@ -149,11 +653,53 @@
       "site": "startup-radar"
     },
     {
+      "key": "world.hey.com/jason/subjectivity-in-productivity-e0b4e2ee",
+      "title": "Subjectivity in productivity",
+      "url": "https://world.hey.com/jason/subjectivity-in-productivity-e0b4e2ee",
+      "usedAt": "2026-08-08",
+      "site": "daily-reading"
+    },
+    {
+      "key": "alistapart.com/article/design-for-amiability-lessons-from-vienna",
+      "title": "Design for Amiability: Lessons from Vienna",
+      "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
+      "usedAt": "2026-08-07",
+      "site": "daily-reading"
+    },
+    {
+      "key": "amplitude.com/blog/customer-centricity",
+      "title": "Why Marketing and Product Teams Should Bet on Customer Behaviors",
+      "url": "https://amplitude.com/blog/customer-centricity",
+      "usedAt": "2026-08-07",
+      "site": "daily-reading"
+    },
+    {
+      "key": "behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known",
+      "title": "How Can We Feel Loved If We Don’t Feel Known?",
+      "url": "https://behavioralscientist.org/how-can-we-feel-loved-if-we-dont-feel-known/",
+      "usedAt": "2026-08-07",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep",
+      "title": "And You Will Know Us by the Company We Keep",
+      "url": "https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep",
+      "usedAt": "2026-08-07",
+      "site": "daily-reading"
+    },
+    {
       "key": "github.com/ryancswallace/jobman",
       "title": "Show HN: Jobman – nohup with retries, timeouts, and dependencies",
       "url": "https://github.com/ryancswallace/jobman",
       "usedAt": "2026-08-07",
       "site": "startup-radar"
+    },
+    {
+      "key": "intercom.com/blog/intercom-product-principles-keep-it-simple",
+      "title": "Build Better Solutions by Keeping It Simple",
+      "url": "https://www.intercom.com/blog/intercom-product-principles-keep-it-simple/",
+      "usedAt": "2026-08-07",
+      "site": "daily-reading"
     },
     {
       "key": "lsvp.com/founder/phill-duggan",
@@ -163,6 +709,34 @@
       "site": "startup-radar"
     },
     {
+      "key": "maggieappleton.com/block-data",
+      "title": "The Block-Paved Path to Structured Data",
+      "url": "https://maggieappleton.com/block-data/",
+      "usedAt": "2026-08-07",
+      "site": "daily-reading"
+    },
+    {
+      "key": "martinfowler.com/rachels-ramblings/intro.html",
+      "title": "Why I’m Writing Rachel’s Ramblings",
+      "url": "https://martinfowler.com/rachels-ramblings/intro.html",
+      "usedAt": "2026-08-07",
+      "site": "daily-reading"
+    },
+    {
+      "key": "simonwillison.net/2026/aug/9/github-models-is-now-retired",
+      "title": "GitHub Models is now retired",
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
+      "usedAt": "2026-08-07",
+      "site": "daily-reading"
+    },
+    {
+      "key": "stripe.com/blog/accessible-color-systems",
+      "title": "Designing accessible color systems",
+      "url": "https://stripe.com/blog/accessible-color-systems",
+      "usedAt": "2026-08-07",
+      "site": "daily-reading"
+    },
+    {
       "key": "techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -170,11 +744,74 @@
       "site": "startup-radar"
     },
     {
+      "key": "world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec",
+      "title": "The bespoke software revolution? I'm not buying it.",
+      "url": "https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec",
+      "usedAt": "2026-08-07",
+      "site": "daily-reading"
+    },
+    {
+      "key": "alistapart.com/article/a-content-model-is-not-a-design-system",
+      "title": "A Content Model Is Not a Design System",
+      "url": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
+      "usedAt": "2026-08-06",
+      "site": "daily-reading"
+    },
+    {
+      "key": "caseyaccidental.com/p/marketplaces-are-getting-harder-adapt",
+      "title": "Marketplaces Are Getting Harder. Adapt or Die.",
+      "url": "https://www.caseyaccidental.com/p/marketplaces-are-getting-harder-adapt",
+      "usedAt": "2026-08-06",
+      "site": "daily-reading"
+    },
+    {
       "key": "cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
       "title": "AMD buys Taalas, chip startup that hardwires AI models into its silicon",
       "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
       "usedAt": "2026-08-06",
       "site": "startup-radar"
+    },
+    {
+      "key": "danluu.com/startup-options",
+      "title": "Startup options v. cash",
+      "url": "https://danluu.com/startup-options/",
+      "usedAt": "2026-08-06",
+      "site": "daily-reading"
+    },
+    {
+      "key": "eugenewei.com/blog/2017/4/22/why-information-grows",
+      "title": "Why Information Grows",
+      "url": "https://www.eugenewei.com/blog/2017/4/22/why-information-grows",
+      "usedAt": "2026-08-06",
+      "site": "daily-reading"
+    },
+    {
+      "key": "inkandswitch.com/capstone",
+      "title": "Capstone: A Tablet for Thinking",
+      "url": "https://www.inkandswitch.com/capstone",
+      "usedAt": "2026-08-06",
+      "site": "daily-reading"
+    },
+    {
+      "key": "intercom.com/blog/the-dribbblisation-of-design",
+      "title": "The dribbblisation of design",
+      "url": "https://www.intercom.com/blog/the-dribbblisation-of-design/",
+      "usedAt": "2026-08-06",
+      "site": "daily-reading"
+    },
+    {
+      "key": "nfx.com/post/where-you-build",
+      "title": "The Network Effects of Where You Build",
+      "url": "https://www.nfx.com/post/where-you-build",
+      "usedAt": "2026-08-06",
+      "site": "daily-reading"
+    },
+    {
+      "key": "review.firstround.com/the-pivot-to-product-market-fit",
+      "title": "The Pivot to Product-Market Fit",
+      "url": "https://review.firstround.com/the-pivot-to-product-market-fit/",
+      "usedAt": "2026-08-06",
+      "site": "daily-reading"
     },
     {
       "key": "techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
@@ -189,6 +826,20 @@
       "url": "https://www.wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse/",
       "usedAt": "2026-08-06",
       "site": "startup-radar"
+    },
+    {
+      "key": "world.hey.com/jason/governor-newsom-please-help-franklin-fire-victims-a7fef514",
+      "title": "Governor Newsom: Please help Franklin fire victims",
+      "url": "https://world.hey.com/jason/governor-newsom-please-help-franklin-fire-victims-a7fef514",
+      "usedAt": "2026-08-06",
+      "site": "daily-reading"
+    },
+    {
+      "key": "world.hey.com/jason/why-new-when-752d0c5a",
+      "title": "Why new when?",
+      "url": "https://world.hey.com/jason/why-new-when-752d0c5a",
+      "usedAt": "2026-08-06",
+      "site": "daily-reading"
     },
     {
       "key": "andrewchen.com/chapter-one-cold-start",
