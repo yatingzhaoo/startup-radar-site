@@ -1,7 +1,255 @@
 {
-  "generatedAt": "2026-08-13T08:42:33.409Z",
+  "generatedAt": "2026-08-14T08:36:34.497Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-14",
+      "companies": [
+        {
+          "id": 30691,
+          "name": "Embedder",
+          "url": "https://www.embedder.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/embedder",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Hardware",
+            "B2B"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 6,
+          "originalOneLiner": "Hardware-Aware AI for Embedded Software Development",
+          "originalDescription": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
+          "story": "Embedder 是一家面向嵌入式软件开发的人工智能智能体公司。想象你是一位嵌入式工程师，今天要为一款新芯片写固件，还要在真实硬件上跑通测试。你过去要翻数据手册、画原理图、写代码、烧录、调试，循环往复。现在 Embedder 能读数据手册和原理图，自动写代码、烧板、跑测试，还能自己修错。它直接驱动你团队已有的调试探针、逻辑分析仪、示波器等设备，在真实芯片上验证固件，而不是只过编译器。它支持五百多种微控制器和三千多种外设，已经和多家顶级半导体生态合作。这家公司来自 YC 夏季 2025 批次，团队六人，正在招聘。它把人工智能从云端拉进硬件开发的实际环节，值得关注。",
+          "rank": 1
+        },
+        {
+          "id": 30729,
+          "name": "Floot",
+          "url": "https://floot.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/floot",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "SaaS",
+            "No-code",
+            "Web Development",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "The easiest way for non-coders to build apps with AI.",
+          "originalDescription": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. ✨ Try building an app at floot.com Existing AI app builders fall short of enabling non-coders to build real, serious apps. They often: - Break down when building anything more than a prototype or toy app - Have non-coders stuck with errors they don’t understand - Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc) The fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI. The result? Non-coders get excited, start building, hit a wall, and then abandon their projects. Floot is purpose-built for AI. Our secret sauce: 1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively. 2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding. Because of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects. We also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly. Plus, Floot is really fun to use! Try building an app at floot.com",
+          "story": "Floot 做的是让不会写代码的人用人工智能构建真正的网页应用。假如你是一位创业者，脑子里有个应用想法，但不懂编程。你用其他人工智能建站工具，刚开始很兴奋，可一旦想做个超出玩具级别的应用，就撞墙，报错看不懂，还要自己处理数据库、托管这些开发者才懂的东西。Floot 从底层为人工智能重新设计，而不是把现有开发者工具拼凑起来。它让非程序员能构建真正能用的严肃应用，不用碰那些复杂服务。这家公司来自 YC 夏季 2025 批次，团队四人，正在招聘。它解决了现有工具让新手半途而废的痛点，值得关注。",
+          "rank": 2
+        },
+        {
+          "id": 30695,
+          "name": "Channel3",
+          "url": "https://trychannel3.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/channel3",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "E-commerce"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Database of every product on the internet",
+          "originalDescription": "Channel3 is building a database of every product on the internet. Google and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities. We don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy. As AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive. Alex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
+          "story": "Channel3 在构建一个包含互联网上所有产品的数据库。想象你是一位开发者，想做一个人工智能时尚搭配师，或者给智能体加上购物能力。你发现谷歌和 OpenAI 有庞大的产品图谱，但不对外开放。Channel3 把这些数据开放给每个开发者。它不只是收集产品信息，还能用最新的图像分类和推理模型，跨商家匹配产品，即使列表和图片不同，也能识别变体，找到完美匹配。随着人工智能模型更聪明更便宜，它的数据飞轮会加速，目录质量提升，开发者更容易在其上构建。这家公司来自 YC 夏季 2025 批次，团队五人，正在招聘。它打开了购物体验的新可能，值得关注。",
+          "rank": 3
+        },
+        {
+          "id": 30662,
+          "name": "DeepAware AI (Robotics Center of Silicon Valley)",
+          "url": "https://roboticscenter.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/deepaware-ai-robotics-center-of-silicon-valley",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Robotics",
+            "Supply Chain",
+            "Data Engineering"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Robots, parts & RL envs & evals - delivered in 48 hrs / pickup in SF.",
+          "originalDescription": "DeepAware (Robotics Center of Silicon Valley, https://roboticscenter.ai/) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup. Beyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
+          "story": "DeepAware 是硅谷机器人中心，做机器人硬件和部件的快速交付。想象你是一家企业或研究团队的负责人，急需一台机器人或零件做实验，但等待周期太长。DeepAware 提供美国境内七十二小时送达，旧金山湾区甚至可以自取。除了硬件，它还帮团队收集遥操作数据、搭建强化学习环境、把机器人部署到生产。客户包括人工智能实验室、工业运营、研究团队和活动制作方。它来自 YC 夏季 2025 批次，团队四人，正在招聘。它把机器人硬件获取速度提升到极致，值得关注。",
+          "rank": 4
+        },
+        {
+          "id": 33178,
+          "name": "TovenAI",
+          "url": "https://toven.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/tovenai",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Regtech",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI agents for compliance at institutional trading firms",
+          "originalDescription": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage. With prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+          "story": "TovenAI 为机构交易公司的合规团队构建人工智能智能体平台。想象你是一家大型交易公司的合规分析师，每天要处理大量手动、数据密集型工作，比如监控交易、检查异常。TovenAI 有六个智能体已经在运行，覆盖多个合规工作流，客户从专业公司到大型全球机构都有，包括一家前十的机构经纪商。它预建了三十多个系统的连接器，包括 Bloomberg、Cloud9 和 NICE Actimize，公司可以在不到一周内接入平台，用自己的数据评估效果。它来自 YC 夏季 2026 批次，团队两人。它把合规工作自动化，值得关注。",
+          "rank": 5
+        },
+        {
+          "id": 35522,
+          "name": "Hemlock",
+          "url": "https://hemlock.info",
+          "sourceUrl": "https://www.ycombinator.com/companies/hemlock",
+          "location": "Los Angeles, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Hardware"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 1,
+          "originalOneLiner": "Force-sensing wristband for training robotic AI",
+          "originalDescription": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch. Hemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
+          "story": "Hemlock 做的是用于训练机器人人工智能的力感应腕带。想象你是一位机器人实验室的研究员，你想教机器人学会拿起鸡蛋和拿起石头的区别。视频和关节角度几乎一样，但力完全不同，而现有数据里没有力。Hemlock 的腕带是戴在手腕上的表面肌电带，读取驱动手部的前臂肌肉电活动，直接恢复收缩力，而不是从运动推断。这弥补了数据缺口，让机器人策略能学到触觉。它来自 YC 秋季 2026 批次，团队一人，正在招聘。它把力感应能力放进随身设备，而不是手机应用，值得关注。",
+          "rank": 6
+        },
+        {
+          "id": "non-yc-hebbia",
+          "name": "Hebbia",
+          "url": "https://www.hebbia.ai/",
+          "sourceUrl": "https://www.hebbia.ai/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Fintech"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI workspace for analyzing large sets of documents.",
+          "originalDescription": "Hebbia helps finance, legal, and research teams read across many documents, find evidence, compare answers, and make decisions from messy knowledge work.",
+          "story": "Hebbia 是一个人工智能工作空间，用于分析大量文档。想象你是一位金融分析师，需要阅读几百份财报、法律文件和研究报告，找出证据、比较答案，做出决策。Hebbia 帮助你跨文档阅读，找到证据，比较答案，处理混乱的知识工作。它不是简单的搜索，而是能理解内容并辅助决策。这家公司来自非 YC 观察名单，没有更多公开信号。它解决的是知识密集型行业的痛点，值得关注。",
+          "rank": 7
+        },
+        {
+          "id": "non-yc-elevenlabs",
+          "name": "ElevenLabs",
+          "url": "https://elevenlabs.io/",
+          "sourceUrl": "https://elevenlabs.io/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI voice generation and audio platform.",
+          "originalDescription": "ElevenLabs builds voice models and audio tools for narration, dubbing, agents, and media workflows where realistic generated speech matters.",
+          "story": "ElevenLabs 构建语音模型和音频工具，用于旁白、配音、智能体和媒体工作流。想象你是一位视频制作人，需要为纪录片生成逼真的旁白，或者为多语言版本配音。ElevenLabs 生成的声音非常逼真，几乎无法与真人区分。它支持多种语言和声音风格，可以用于有声书、游戏角色、虚拟助手等。这家公司来自非 YC 观察名单，没有更多公开信号。它把人工智能语音生成提升到新高度，值得关注。",
+          "rank": 8
+        },
+        {
+          "id": "non-yc-harvey",
+          "name": "Harvey",
+          "url": "https://www.harvey.ai/",
+          "sourceUrl": "https://www.harvey.ai/",
+          "location": "Unknown",
+          "source": [
+            "Non-YC watchlist"
+          ],
+          "tags": [
+            "AI",
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI platform for legal and professional services work.",
+          "originalDescription": "Harvey builds AI tools for lawyers and professional services teams, focusing on research, drafting, document analysis, and workflows that need accuracy and auditability.",
+          "story": "Harvey 为律师和专业服务团队构建人工智能平台。想象你是一位律师，需要研究案例、起草合同、分析大量文件，而且必须保证准确性和可审计性。Harvey 专注于研究、起草、文档分析，以及需要准确性和可审计性的工作流。它帮助律师快速找到相关法律先例，生成初稿，并确保每一步都可追溯。这家公司来自非 YC 观察名单，没有更多公开信号。它针对法律行业的高要求设计，值得关注。",
+          "rank": 9
+        },
+        {
+          "id": "hn-launch-49172936",
+          "name": "EdotEnv",
+          "url": "https://edotenv.com/",
+          "sourceUrl": "https://news.ycombinator.com/item?id=49172936",
+          "location": "Unknown",
+          "source": [
+            "Launch HN"
+          ],
+          "tags": [
+            "Product"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+          "originalDescription": "YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+          "story": "EdotEnv 是一个用于量化交易的强化学习环境，用来教大型语言模型做研究。想象你是一位量化研究员，想用人工智能模型来探索交易策略，但缺乏合适的训练环境。EdotEnv 提供了这样的环境，让模型可以学习研究过程。它来自 YC 夏季 2026 批次，通过 Launch HN 发布。虽然描述简短，但方向很新，值得关注。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49295947",
+          "title": "Issues Reaching Status.claude.com",
+          "url": "https://anthropic.statuspage.io/incidents/kmbpgrsszf72",
+          "source": "Hacker News",
+          "published": "2026-08-14T08:17:00Z",
+          "story": "当你在深夜部署服务，或者白天赶着上线时，突然发现状态页面打不开，那种感觉就像家里的烟雾报警器响了，但你找不到火源。这个标题看起来只是一个小故障，但技术社区里讨论它，往往不只是因为页面访问不了，而是因为它可能牵动着很多人的工作节奏。如果你曾经因为某个服务状态页无法访问而焦虑过，或者好奇为什么一个状态页会引发关注，这篇值得点开。读的时候，不妨想想作者如何从表面现象切入，去判断这是偶发问题，还是背后有更深层的架构或沟通问题，以及他们如何权衡及时通报和避免恐慌之间的关系。"
+        },
+        {
+          "id": "Stack Overflow Blog-aHR0cHM6Ly9z",
+          "title": "Solving integration woes with a hackathon",
+          "url": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/",
+          "source": "Stack Overflow Blog",
+          "published": "Fri, 14 Aug 2026 07:40:00 GMT",
+          "story": "想象一下，你的团队花了几周时间对接一个第三方服务，结果每次联调都卡在接口文档和实际行为不一致的地方，大家互相推诿，进度一拖再拖。这种时候，有人提议办一场黑客松，是不是听起来像在逃避问题？但也许，换个环境，让不同角色的人暂时放下日常任务，聚在一起解决一个具体的集成难题，反而能打破僵局。这篇文章来自开发者社区，它可能不是在讲理论，而是在讲一种实践。读的时候，留意作者如何描述活动的组织细节，以及他们如何衡量这种活动到底解决了什么，是技术问题，还是人和人之间的协作问题。"
+        },
+        {
+          "id": "Latent Space-aHR0cHM6Ly93",
+          "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
+          "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+          "source": "Latent Space",
+          "published": "Fri, 14 Aug 2026 05:30:39 GMT",
+          "story": "如果你最近在关注人工智能工具，可能会发现每隔几天就有新模型发布，但真正能被开发者记住的并不多。这个新闻提到Gemini 3.7 Flash，还扯上了一个叫GDM的东西，听起来像是技术圈的行话。但别被术语吓到，它可能只是在说，某个曾经被忽视的能力，因为新模型而重新变得重要。就像手机摄像头，硬件升级了，但真正改变体验的是软件算法。这篇文章适合那些想理解人工智能领域变化趋势的人，读的时候，不妨看看作者如何把新模型和旧概念联系起来，以及他们如何判断这种变化对普通用户或开发者意味着什么。"
+        }
+      ]
+    },
     {
       "date": "2026-08-13",
       "companies": [
@@ -3083,236 +3331,6 @@
           "source": "Latent Space",
           "published": "Sat, 01 Aug 2026 01:38:09 GMT",
           "story": "人工智能这个领域，每天都有新东西冒出来，让人既兴奋又焦虑，生怕错过什么。但有时候，一天过去，好像也没什么大事发生。这篇来自 Latent Space 的每日简报，标题就直白地说“今天没什么大事”，反而让人觉得踏实。它像一个老朋友在晚上跟你报平安：别慌，今天风平浪静。读这篇东西，你不用抱着追热点的紧张感，反而可以放松下来，看看在那些“没大事”的日子里，行业里的人在关注什么、讨论什么。也许你会发现，真正的进展往往不是一声惊雷，而是很多小细节慢慢积累。读的时候不妨留意那些看似不起眼的条目，它们可能比大新闻更能反映技术的真实走向。"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "companies": [
-        {
-          "id": 31201,
-          "name": "Robby",
-          "url": "https://tryrobby.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/robby",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI agents that grow revenue for home services businesses",
-          "originalDescription": "Robby is an AI growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our AI combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour. Our team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves. Vineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
-          "story": "Robby 是一家为家庭服务企业打造人工智能增长引擎的初创公司，它通过分析每次技师上门服务的数据来挖掘新的收入机会。想象你是一家空调维修公司的运营负责人，每天最头疼的就是技师忙完活儿后，客户可能顺便问一句“能不能也看看热水器”，但技师没有意识去推销，机会就这么溜走了。Robby 的智能体能把顾客数据和第三方数据结合起来，每天自动生成几十条潜在客户线索，并给技师提供现场推销话术，提高成交率。它还能让总经理在一个控制台里看到所有收入机会，统一调度。这家公司来自 YC 冬季批次，团队只有三人，但已经有付费客户，每周都能发现六位数的额外收入机会，上线第一天就帮客户在一小时内成交了四万美元的新业务，可见它确实在解决真实痛点。",
-          "rank": 1
-        },
-        {
-          "id": 31539,
-          "name": "Klaimee",
-          "url": "https://www.klaimee.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/klaimee",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Liability insurance for AI Agents. You deploy agents, we cover you.",
-          "originalDescription": "Klaimee is the first insurance for your AI agents. It covers what traditional E&O and cyber explicitly carve out, so you can deploy agentic AI at scale with real peace of mind. Built for companies deploying agentic AI, self-serve from day one. The problem: AI agents are taking actions autonomously buying, emailing, modifying sensitive data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber and E&O insurance are excluding AI claims. Companies shipping agents have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer. We built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off. Team: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $60M revenue, 5 years launching insurance products from scratch and structuring a TokioMarine MGA into its own carrier) + Julien (AI software engineer + corporate strategy, enterprise compliance). We understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
-          "story": "Klaimee 做的是人工智能智能体的责任保险，专门覆盖那些传统错误与疏漏保险和网络安全保险明确排除的风险。假如你是一家创业公司的法务负责人，公司正准备大规模部署智能体，让它自动发邮件、修改敏感数据，你肯定会问：“如果它搞砸了，谁来赔？”现在有了 Klaimee，它提供风险评估、认证、财务担保和保险，还能出具采购部门需要的文档，让你安心部署。这家公司来自 YC 春季批次，创始人是前 SafetyWing 总经理，有保险行业经验，而且现在很多公司都在部署智能体，但几乎没有第三方能证明其安全性，Klaimee 正好填补了这个空白，所以值得关注。",
-          "rank": 2
-        },
-        {
-          "id": 32187,
-          "name": "Insurf",
-          "url": "https://www.insurf.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/insurf",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Health Tech",
-            "Automation"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The AI-Native Decision Infrastructure for Health Insurance",
-          "originalDescription": "Insurf is the AI-native data and decision layer for health insurance. Our first product, Inveto, automatically turns denied healthcare claims into source-cited, physician-attested appeals, recovering revenue practices lose today. Every claim it resolves builds the coverage-decision graph, the proprietary dataset of real payer behavior that powers our next product, Surely, which prices the true cost of a health plan for employers and brokers.",
-          "story": "Insurf 是一家为健康保险行业打造人工智能决策基础设施的公司，它的第一个产品叫 Inveto，能自动把被拒付的医疗理赔转化为有来源引用、有医生证明的上诉材料，帮医疗机构收回原本会损失的收入。想象你是一家诊所的财务负责人，每天面对一堆被保险公司拒付的账单，要写申诉信、找医生签字，费时费力。Inveto 能自动处理这些流程，而且每处理一个理赔，就构建一个覆盖决策图谱，记录真实保险公司的行为模式。这个图谱会用于他们的下一个产品 Surely，用来为雇主和经纪人定价健康计划。这家公司来自 YC 夏季批次，虽然只有两个人，但切入的是医疗健康保险这个庞大且低效的市场，很有潜力。",
-          "rank": 3
-        },
-        {
-          "id": 31511,
-          "name": "Arzana",
-          "url": "https://www.arzana.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/arzana",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 6,
-          "originalOneLiner": "The autonomous ERP for every manufacturer",
-          "originalDescription": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs. In the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
-          "story": "Arzana 是一家为制造商打造自主企业管理系统的人工智能公司，它会在工厂的运营数据上训练定制模型，自动完成报价、订单录入、开票等重复性办公室工作。想象你是一家零部件工厂的销售主管，每天要花大量时间手工填写报价单，还要核对订单信息，稍不留神就出错。Arzana 能把这些工作自动化，已经帮客户节省了超过一百五十万美元的人力成本。这家公司来自 YC 春季批次，团队有六人，而且他们计划未来扩展到车间自动化，直接向机器人和机床发送指令来生产订单，目标是在 2035 年前自动化一万家美国工厂，愿景很大，值得关注。",
-          "rank": 4
-        },
-        {
-          "id": 31518,
-          "name": "Runtime",
-          "url": "https://www.runtm.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/runtime",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Build and run internal agents, without managing the infrastructure",
-          "originalDescription": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely. Eng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod. We're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
-          "story": "Runtime 为工程团队提供控制和可见性，让组织中的任何人都能安全地使用编码智能体。想象你是一家快速成长公司的工程负责人，团队里已经有几十个工程师在用编码智能体，但你完全不知道他们在干什么，有没有可能不小心改坏生产环境。Runtime 提供沙盒环境、会话级可观测性和可配置的护栏，让你既能授权非工程师使用，又能防止他们破坏生产。这家公司来自 YC 春季批次，已经有一些 YC 规模的初创公司在使用，让产品经理、设计师、营销人员也能为代码库做贡献，这能大大提升团队的效率，值得一看。",
-          "rank": 5
-        },
-        {
-          "id": 32188,
-          "name": "IMPACT Drones",
-          "url": "https://www.impact-drones.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/impact-drones",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Hardware",
-            "Drones",
-            "Swarm Robotics"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Air Defense as a Service for Civilian Infrastructure.",
-          "originalDescription": "IMPACT builds autonomous interceptor drones that ship in a sealed box. The box sits at the site it protects (data centers, power grid, airports, bases) with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard visual navigation that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $30k threats; our interceptors cost like the threat and launches scale with the swarm. Sites subscribe to protection instead of buying missiles: hardware, reloads, and monitoring included. Air defense as a Service.",
-          "story": "IMPACT Drones 制造自主拦截无人机，用来保护数据中心、电网、机场等民用基础设施免受无人机威胁。想象你是一个大型数据中心的安保负责人，最近经常有不明无人机在附近盘旋，你担心它们可能携带爆炸物或进行侦察，但传统防空导弹一枚就要一百万美元，对付一个几千美元的威胁实在不划算。IMPACT 的拦截无人机装在一个密封箱里，放在现场，一旦传感器探测到敌机，它就会自动发射，通过视觉导航撞击目标，即使 GPS 被干扰也能工作。它的成本与威胁相当，而且可以按订阅服务方式使用，包括硬件、补弹和监控。这家公司来自 YC 夏季批次，虽然只有两个人，但切入的是无人机防御这个新兴领域，很有价值。",
-          "rank": 6
-        },
-        {
-          "id": 30491,
-          "name": "Novoflow",
-          "url": "https://www.novoflow.io/",
-          "sourceUrl": "https://www.ycombinator.com/companies/novoflow",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2025",
-          "isHiring": true,
-          "teamSize": 6,
-          "originalOneLiner": "AI employees that automate medical operations for clinics.",
-          "originalDescription": "Novoflow is building AI employees that automate medical operations for clinics. Novoflow built the universal bridge into EHR systems—so every workflow, from scheduling to billing, can finally run on AI. The first product is an AI employee that talks to patients and uses computer agents to book, reschedule, and recover cancelled appointments. Built for healthcare providers and hospitals.",
-          "story": "Novoflow 为诊所打造人工智能员工，自动化医疗运营工作。它构建了连接电子健康记录系统的通用桥梁，让从预约到计费的每个流程都能由人工智能运行。想象你是一家繁忙诊所的运营负责人，每天要接无数电话预约、改约、处理取消，前台忙得不可开交。Novoflow 的第一个人工智能员工能直接和患者对话，通过计算机智能体自动完成预约、改约和挽回取消的预约。这家公司来自 YC 春季批次，团队有六人，已经为医疗机构提供服务，能显著减轻行政负担，值得关注。",
-          "rank": 7
-        },
-        {
-          "id": 30174,
-          "name": "Revise Robotics",
-          "url": "https://www.reviserobotics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/revise-robotics",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Robotic Process Automation",
-            "ClimateTech",
-            "Electronics"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Automating refurbishment of $1T in consumer electronics",
-          "originalDescription": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets. Our first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
-          "story": "Revise Robotics 是一家自动化翻新消费电子产品的机器人公司。想象你是一家电子垃圾回收厂的厂长，每天面对堆积如山的旧电脑、旧手机，工人要手动筛选、测试、擦数据、拍照、上架，效率极低。Revise 的机器人系统能自动完成这些工作，一天可以处理几百台笔记本电脑，无论什么型号、品牌或操作系统，都能测试、擦除硬盘、拍照并发布到在线市场转售。这家公司来自 YC 冬季批次，团队有三人，切入的是电子垃圾回收这个环保又赚钱的领域，能大幅提高回收效率，值得关注。",
-          "rank": 8
-        },
-        {
-          "id": "hardware-rabbit",
-          "name": "Rabbit",
-          "url": "https://www.rabbit.tech/",
-          "sourceUrl": "https://www.rabbit.tech/",
-          "location": "Unknown",
-          "source": [
-            "Smart hardware watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Smart Hardware",
-            "Design"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "A pocket AI device designed around voice, camera, and task assistance.",
-          "originalDescription": "Rabbit builds a dedicated AI hardware device that lets people ask questions, use the camera, and try lightweight assistant workflows without opening a phone app.",
-          "story": "Rabbit 是一款专用的口袋人工智能设备，围绕语音、摄像头和任务辅助设计，让用户不用打开手机应用就能提问、使用摄像头和尝试轻量级助手工作流。想象你是一个经常在户外工作的人，比如建筑工人或野外研究员，手上沾满油污或戴着厚手套，不方便掏手机。Rabbit 设备可以挂在脖子上或放在口袋里，只需说一句话或按一下按钮，就能拍照、查询信息或设置提醒。它不只是一个手机应用，而是把人工智能能力放进专用硬件里，提供更快捷、更专注的交互体验，尤其适合那些需要免提操作或不想被手机通知打扰的场景。虽然目前还没有公开的融资或团队信息，但这个方向本身很有看点。",
-          "rank": 9
-        },
-        {
-          "id": "hn-launch-49185389",
-          "name": "HyperProbe",
-          "url": "https://www.hyperprobe.co",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49185389",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "AI"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) – Agents that do read-only debugging in prod",
-          "originalDescription": "YC S26) – Agents that do read-only debugging in prod",
-          "story": "HyperProbe 是来自 YC 夏季批次的一个项目，它提供智能体，能在生产环境中进行只读调试。想象你是一个后端工程师，线上服务突然报错，但你不敢随便动生产数据，只能靠日志和监控慢慢排查，非常耗时。HyperProbe 的智能体可以安全地检查生产环境，只读操作，不会修改任何数据，帮你快速定位问题根源。这家公司来自 Launch HN，虽然还没有更多细节，但“只读调试”这个思路很实用，能减少工程师的排查压力，值得关注。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "Crunchbase News-aHR0cHM6Ly9u",
-          "title": "The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth Fusion Lead With Billion-Dollar Deals",
-          "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
-          "source": "Crunchbase News",
-          "published": "Fri, 31 Jul 2026 20:14:23 +0000",
-          "story": "当你看到新闻里一笔笔巨额融资，尤其是像超级智能和核聚变这样听起来离日常生活很远的领域，可能会好奇钱到底流向了哪里，又意味着什么。这篇来自 Crunchbase 的周报，把当周最大的几笔交易放在一起比较，就像一份市场温度计。它不只是在罗列数字，而是在帮你理解哪些方向正在被资本押注，以及这些变化可能如何影响未来的科技格局。读的时候，不妨留意它如何解释这些大额融资背后的逻辑，以及它提到的投资方和公司，它们的选择或许能给你一些关于趋势的启发。"
-        },
-        {
-          "id": "Lightspeed-aHR0cHM6Ly9s",
-          "title": "Hanying Hu",
-          "url": "https://lsvp.com/founder/hanying-hu/",
-          "source": "Lightspeed",
-          "published": "Fri, 31 Jul 2026 17:16:45 +0000",
-          "story": "如果你曾经好奇一家知名投资机构里，那些负责发现和评估项目的投资人到底是什么样的人，这篇人物介绍或许能满足你的部分好奇。它来自 Lightspeed，介绍的是一位叫 Hanying Hu 的投资人。这类介绍通常不只是罗列履历，而是会透露一个人的思考方式、关注领域，甚至是他对行业未来的判断。当你自己也在考虑创业或者融资时，读这样的内容能帮你换位思考，理解投资人看重什么。读的时候，可以重点关注他过往的经历如何塑造了他的投资眼光，以及他对哪些赛道特别感兴趣。"
-        },
-        {
-          "id": "Nielsen Norman Group-aHR0cHM6Ly93",
-          "title": "Why You Need Mentorship and How to Get It Right",
-          "url": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-          "source": "Nielsen Norman Group",
-          "published": "Fri, 31 Jul 2026 17:00:00 +0000",
-          "story": "很多人在职场上都遇到过这样的时刻：觉得卡住了，不知道该往哪个方向努力，或者想找人聊聊却不知从何说起。这时，导师就显得格外重要。但找导师这件事，说起来容易，做起来却常常让人摸不着头脑。这篇来自 Nielsen Norman Group 的文章，专门讨论为什么你需要导师，以及如何把这件事做对。它可能不会给你一个万能公式，但会帮你理清思路，比如如何寻找合适的人选，如何建立和维护这段关系。读的时候，可以带着自己的实际处境，看看它提到的建议哪些能直接用到你的情况里。"
         }
       ]
     }
