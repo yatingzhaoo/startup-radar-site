@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-15T07:41:39.843Z",
+  "updatedAt": "2026-08-16T07:44:06.802Z",
   "readings": [
+    {
+      "key": "lennysnewsletter.com/p/community-wisdom-recovering-from",
+      "title": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
+      "usedAt": "2026-08-16",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/gammas-ceo-why-getting-to-100m-arr-without-a-sales-team-worked-and-why-it-was-a-mistake",
+      "title": "Gamma&#8217;s CEO: Why Getting to $100M ARR Without A Sales Team Worked. And Why It Was a Mistake.",
+      "url": "https://www.saastr.com/gammas-ceo-why-getting-to-100m-arr-without-a-sales-team-worked-and-why-it-was-a-mistake/",
+      "usedAt": "2026-08-16",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "usedAt": "2026-08-16",
+      "site": "startup-radar"
+    },
     {
       "key": "news.cornell.edu/stories/2026/08/alums-company-creates-tech-pain-free-tattoos",
       "title": "Startup creates tech for pain-free tattoos",
