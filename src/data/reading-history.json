@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-17T07:59:00.371Z",
+  "updatedAt": "2026-08-18T07:51:40.968Z",
   "readings": [
+    {
+      "key": "latent.space/p/ainews-stripe-buys-openrouter-for",
+      "title": "[AINews] Stripe buys OpenRouter for $7B",
+      "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+      "usedAt": "2026-08-18",
+      "site": "startup-radar"
+    },
+    {
+      "key": "runtimewire.com/article/at-least-62-yc-startups-with-over-1-9-billion-in-funding-are-hosting-on-replit",
+      "title": "At least 62 YC startups with over $1.9B in funding are hosting on Replit",
+      "url": "https://runtimewire.com/article/at-least-62-yc-startups-with-over-1-9-billion-in-funding-are-hosting-on-replit",
+      "usedAt": "2026-08-18",
+      "site": "startup-radar"
+    },
+    {
+      "key": "stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like",
+      "title": "What does an agentic SDLC actually look like?",
+      "url": "https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/",
+      "usedAt": "2026-08-18",
+      "site": "startup-radar"
+    },
     {
       "key": "saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours",
       "title": "The 0% Quota Club (And Why the Same Mediocre Rep Hits 70% at One Company and 0% at Yours)",
