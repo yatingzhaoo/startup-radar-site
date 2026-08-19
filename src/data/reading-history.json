@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-18T07:51:40.968Z",
+  "updatedAt": "2026-08-19T07:52:34.094Z",
   "readings": [
+    {
+      "key": "lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+      "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
+      "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+      "usedAt": "2026-08-19",
+      "site": "startup-radar"
+    },
+    {
+      "key": "superprez.io",
+      "title": "Show HN: Superprez.io – Sharing and Collaboration for AI-Generated Decks",
+      "url": "https://www.superprez.io",
+      "usedAt": "2026-08-19",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "usedAt": "2026-08-19",
+      "site": "startup-radar"
+    },
     {
       "key": "latent.space/p/ainews-stripe-buys-openrouter-for",
       "title": "[AINews] Stripe buys OpenRouter for $7B",
