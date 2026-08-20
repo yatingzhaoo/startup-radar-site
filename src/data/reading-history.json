@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-19T07:52:34.094Z",
+  "updatedAt": "2026-08-20T07:55:11.638Z",
   "readings": [
+    {
+      "key": "devblogs.microsoft.com/oldnewthing/20030903-00?p=42673",
+      "title": "Why is there no programmatic access to the Start menu pin list? (2003)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030903-00/?p=42673",
+      "usedAt": "2026-08-20",
+      "site": "startup-radar"
+    },
+    {
+      "key": "latent.space/p/ainews-death-of-params-zai-ceo-jie",
+      "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
+      "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+      "usedAt": "2026-08-20",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities",
+      "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+      "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+      "usedAt": "2026-08-20",
+      "site": "startup-radar"
+    },
     {
       "key": "lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
       "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",

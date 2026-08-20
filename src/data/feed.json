@@ -1,7 +1,254 @@
 {
-  "generatedAt": "2026-08-19T07:52:34.093Z",
+  "generatedAt": "2026-08-20T07:55:11.636Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-20",
+      "companies": [
+        {
+          "id": 31557,
+          "name": "Amorphic Labs",
+          "url": "https://www.amorphiclabs.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/amorphic-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Marketplace",
+            "B2B"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Software Commerce Infrastructure for Agents",
+          "originalDescription": "The next billion software users are AI agents, yet fully autonomous agents remain impossible while every account, bill, and tool still runs through a human. We solve this for both agents and software vendors: vendors use us to let agents sign up and get billed directly, and to improve their agent experience across interfaces like MCP. Agents use us to find, acquire, and pay for what they need, including MCP servers, APIs, datasets, and skills.",
+          "published": "",
+          "story": "这家公司做的是面向智能体的软件商业基础设施。想象你是一家软件公司的销售负责人，过去要花大量时间处理客户的注册、账单和续费，而现在越来越多的客户变成了自动化的智能体，它们不会填表格，也不会打电话。Amorphic Labs 让智能体可以直接注册你的服务并自动付费，同时帮你优化智能体使用你产品时的体验。反过来，智能体也能通过它找到并购买需要的接口、数据集和技能。这家公司来自 YC 夏季 2026 批次，团队只有两个人，但切中的是智能体经济里最基础的钱和账号问题，值得关注。",
+          "rank": 1
+        },
+        {
+          "id": 30894,
+          "name": "Unsiloed AI",
+          "url": "https://www.unsiloed.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/unsiloed-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "Infrastructure",
+            "APIs"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "API for parsing multimodal unstructured data",
+          "originalDescription": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets. Our APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
+          "published": "",
+          "story": "这家公司做的是把多模态非结构化数据变成结构化数据的接口服务。假如你是一家企业的数据工程师，正在搭建一个知识库检索系统，却发现文档里的表格、图片和图表总是被解析得乱七八糟，导致下游应用效果很差。Unsiloed AI 用自研的视觉模型来处理这些复杂文档，把内容变成人工智能可以直接使用的格式。它的接口已经在为初创公司和纳斯达克上市企业解析数十万份文档，公开基准测试里也超过了多个主流方案。来自 YC 秋季 2025 批次，正在招聘，团队虽小但已经进入大企业，值得关注。",
+          "rank": 2
+        },
+        {
+          "id": 31434,
+          "name": "Adialante",
+          "url": "https://www.ycombinator.com/companies/adialante",
+          "sourceUrl": "https://www.ycombinator.com/companies/adialante",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Cancer screening without barriers",
+          "originalDescription": "We know how to improve cancer outcomes by 8x-10x: you catch it early. MRI is the most robust and powerful cancer-detection tool in the world, yet systems cost millions to purchase, take months to install, and require high levels of technical skill to operate. We've redesigned MRI from the ground up with new physics, algorithms, and hardware, all to bring cancer screening to the entire world. Our mobile MRI is an imaging clinic on wheels. No equipment to buy, no infrastructure needed. For a flat per-scan fee, any medical site can offer MRI cancer screening. Starting with prostate cancer. Then everything else.",
+          "published": "",
+          "story": "这家公司想重新发明核磁共振成像设备，让癌症筛查变得没有门槛。想象你是一家基层诊所的负责人，一直想给病人提供核磁检查，但设备要几百万美元，安装还要好几个月，根本负担不起。Adialante 把核磁设备改造成了移动诊所，按次收费，任何医疗点都能直接提供筛查服务，不用买设备，也不用改造场地。它从前列腺癌开始，未来扩展到更多癌症类型。来自 YC 春季 2026 批次，团队四人，正在招聘。这种把大型医疗设备小型化、服务化的思路，可能真的能改变癌症早筛的普及率。",
+          "rank": 3
+        },
+        {
+          "id": 31214,
+          "name": "Pocket",
+          "url": "https://heypocket.com/now",
+          "sourceUrl": "https://www.ycombinator.com/companies/pocket",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 15,
+          "originalOneLiner": "Take Notes in the Real World",
+          "originalDescription": "Pocket is a Y Combinator W26 company building a premium hardware plus software product in the AI voice recorder space. We are obsessed with quality and speed. We are scaling very fast in the US and now European markets and building a device experience that can become the category leader.",
+          "published": "",
+          "story": "这家公司做的是人工智能语音记录设备，硬件加软件一起卖。想象你是一个经常开会、采访或者灵光一现的创意工作者，过去掏出手机录音总觉得不方便，而且录完还要花时间整理。Pocket 是一个小巧的随身设备，能随时随地记录语音，并自动转成文字和摘要。它不只是一个手机应用，而是把录音能力放进了专用硬件里，让你不用打开手机就能快速记录。团队十五人，来自 YC 冬季 2026 批次，正在招聘，产品在美国和欧洲增长很快，目标是成为这个品类的领导者。",
+          "rank": 4
+        },
+        {
+          "id": 33606,
+          "name": "Billow AI Labs",
+          "url": "https://thebillow.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/billow-ai-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Finance",
+            "B2B",
+            "Workflow Automation"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "AI-native Accounting Firm to Replace the Big-4",
+          "originalDescription": "Billow handles the work of Accounting and FP&A FTEs keeping teams compliant and audit-ready. We work within existing stacks (NetSuite, Coupa, and 80+ other systems) and complex spreadsheets, chasing down information and coordinating approvals across stakeholders. Built by repeat founders; Joan built and exited an accounting/ERP platform (45,000 businesses in 4 years) and Phil built Bloomberg's financial “brain” data infrastructure, and as CTO of a trading platform ($1B in volume). Advisors include CFOs, controllers, auditors from publicly-traded biopharma, and a Big-4 Accounting firm.",
+          "published": "",
+          "story": "这家公司想做一个人工智能原生的会计事务所，替代传统的四大。想象你是一家公司的财务负责人，月底要对账、准备审计材料，还要协调各个部门提供数据，常常忙得焦头烂额。Billow AI Labs 能自动完成会计和财务分析的工作，并且接入你现有的企业管理系统和表格，帮你追着各部门要数据、协调审批。创始人之前做过会计和企业管理系统平台，服务过四万五千家企业，另一位创始人做过彭博的金融数据基础设施。来自 YC 夏季 2026 批次，虽然团队目前为零，但背景很强，值得关注。",
+          "rank": 5
+        },
+        {
+          "id": 31430,
+          "name": "Voquill",
+          "url": "https://voquill.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/voquill",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "The agentic OS for medical labs",
+          "originalDescription": "Voquill is the modern AI-native operating system for medical labs. This software manages the entire workflow of the lab (accessioning, workflow, reporting, coding, compliance, and revenue) and contains modern agentic AI tools to help each step. For example, pathologists can write reports 20% faster through our voice AI coworker. Incumbent lab operating systems are old, don't scale with how modern labs work, and can’t integrate existing AI solutions. As a result, labs are either building their own or paying millions for band-aid solutions and consultants. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
+          "published": "",
+          "story": "这家公司做的是医疗实验室的人工智能原生操作系统。想象你是一家病理科的主任，每天要处理样本接收、报告撰写、编码合规等一堆琐事，还要面对老旧的信息系统，想引入人工智能却接不进去。Voquill 管理实验室的整个流程，并且内置智能体工具，比如病理医生可以用语音助手写报告，速度提升百分之二十。它来自 YC 春季 2026 批次，团队三人，正在招聘。实验室信息系统是个巨大又老旧的市场，Voquill 想用人工智能平台取代那些昂贵的补丁方案，值得关注。",
+          "rank": 6
+        },
+        {
+          "id": 31526,
+          "name": "Uno Wallet",
+          "url": "https://myunowallet.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/uno-wallet",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "Payments",
+            "Consumer",
+            "Infrastructure"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "The AI mobile wallet that replaces Apple Pay",
+          "originalDescription": "We are changing the way that people pay... Founded by: Saket Joshi: www.linkedin.com/in/saket-dattatray-joshi/ Mordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
+          "published": "",
+          "story": "这家公司想用人工智能钱包取代 Apple Pay。想象你是一个经常用手机支付的消费者，每次付款都要解锁手机、打开应用，还要担心支付安全。Uno Wallet 是一个智能钱包应用，它利用人工智能来优化支付流程，可能还能根据你的消费习惯提供建议。它来自 YC 春季 2026 批次，团队两人，正在招聘。支付领域竞争激烈，但这家公司有两位创始人，具体背景没有公开，不过能进入 YC 说明想法有独到之处。它能不能真的改变支付方式，还要看产品发布后的表现。",
+          "rank": 7
+        },
+        {
+          "id": 31177,
+          "name": "Prana",
+          "url": "https://pranadoc.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/prana-health",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "An AI primary care doctor in your pocket",
+          "originalDescription": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits. Most AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions. Safety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer 24/7 physician care for a fraction of the cost of traditional care. The Team: - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments. - Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals. - Sanjit Menon (CHO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine. Traction: Live in beta with early users.",
+          "published": "",
+          "story": "这家公司做的是口袋里的全科医生，用人工智能提供持续的健康管理。想象你是一个有慢性病的患者，每年只体检一次，平时身体有点小变化也不知道要不要去医院。Prana 连接你的医疗记录和可穿戴设备，持续监测你的健康数据，发现细微的异常就提醒你，还能解释化验单、管理处方。它不只是一个聊天机器人，而是一个完整的医疗服务提供者，人工智能负责大部分工作，人类医生只处理关键决策。来自 YC 冬季 2026 批次，团队四人，创始人有生物医学和量化背景。这种模式可能让全天候的医生服务变得负担得起。",
+          "rank": 8
+        },
+        {
+          "id": 31366,
+          "name": "Nine Fives",
+          "url": "https://ninefives.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/nine-fives",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Aerospace",
+            "Telecommunications"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "RF test equipment for next-gen spacecraft, drones, and cellphones",
+          "originalDescription": "Nine Fives produces modern radio frequency test equipment and solutions to disrupt the $130B test equipment industry. By combining modern electronics, AI ready test automation, and strategic supply chains, we’re equipping our customers to cut their time to market in half.",
+          "published": "",
+          "story": "这家公司做的是下一代航天器、无人机和手机用的射频测试设备。想象你是一个卫星制造商的测试工程师，过去测试一台设备要花几周时间，而且设备又贵又笨重。Nine Fives 用现代电子和人工智能自动化重新设计了测试设备，能帮客户把产品上市时间缩短一半。它来自 YC 春季 2026 批次，团队两人，正在招聘。测试设备行业有一千三百亿美元的市场，但创新缓慢，这家公司想用新方法切入，值得关注。",
+          "rank": 9
+        },
+        {
+          "id": "hn-launch-49363710",
+          "name": "OneCLI",
+          "url": "https://github.com/onecli/onecli",
+          "sourceUrl": "https://news.ycombinator.com/item?id=49363710",
+          "location": "Unknown",
+          "source": [
+            "Launch HN"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "YC S26) – OSS sandboxed agent harness for teams",
+          "originalDescription": "YC S26) – OSS sandboxed agent harness for teams",
+          "published": "2026-08-19T16:29:02Z",
+          "story": "这家公司发布了一个开源的沙盒智能体工具，叫 OneCLI，是 YC 夏季 2026 批次的项目。想象你是一个团队的技术负责人，想让团队成员安全地运行人工智能智能体，但又担心它们访问敏感数据或执行危险操作。OneCLI 提供了一个沙盒环境，让智能体在隔离的空间里运行，既方便协作又安全。它通过 Launch HN 发布，说明是开发者社区关注的项目。虽然团队规模和具体业务没有公开，但开源工具往往能快速积累用户，值得关注。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49371598",
+          "title": "Why is there no programmatic access to the Start menu pin list? (2003)",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20030903-00/?p=42673",
+          "source": "Hacker News",
+          "published": "2026-08-20T07:41:30Z",
+          "story": "当你第一次用电脑时，可能会好奇：为什么某些软件能固定在开始菜单，而另一些不能？这个问题看似简单，却困扰了无数开发者。2003年，一位微软工程师在博客上回答了这个问题，如今这篇文章又被翻出来讨论。它不仅仅是一个技术问答，更像是一扇窗，让人看到操作系统设计背后的权衡。读的时候，不妨留意作者如何解释那些看似任性的限制，以及他如何把复杂的系统逻辑讲得通俗易懂。"
+        },
+        {
+          "id": "Latent Space-aHR0cHM6Ly93",
+          "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
+          "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+          "source": "Latent Space",
+          "published": "Thu, 20 Aug 2026 05:17:12 GMT",
+          "story": "在人工智能领域，模型的参数规模曾是衡量实力的标尺，但最近风向变了。Z.ai的CEO在访谈中提出了“后训练扩展定律”，这可能会让很多人的认知发生动摇。如果你关注人工智能行业的动态，这篇访谈值得一读，因为它不仅解释了技术趋势，还揭示了公司战略的转变。读的时候，可以思考一下：当大家都在追求大模型时，为什么有人开始反其道而行之？这种变化又会给谁带来机会？"
+        },
+        {
+          "id": "TechCrunch-aHR0cHM6Ly90",
+          "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+          "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+          "source": "TechCrunch",
+          "published": "Wed, 19 Aug 2026 22:25:01 +0000",
+          "story": "想象一下，你站在路边，一辆没有司机的车缓缓停下，你扫码上车，它带你穿过城市。这不是科幻，Waymo的新一代机器人出租车已经向三个城市的乘客开放。对普通人来说，这或许只是出行方式的升级，但对整个行业来说，这可能意味着商业模式的成熟。这篇报道分析了它的意义，不妨读读看，它如何把技术进展转化为大众可用的服务，以及这对未来交通有什么影响。"
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "companies": [
@@ -3156,233 +3403,6 @@
           "source": "Lightspeed",
           "published": "Fri, 07 Aug 2026 19:40:21 +0000",
           "story": "投资机构的官网上挂出一位合伙人的介绍，看起来不过是例行公事。但如果你在创业，或者正在找钱，这类页面其实是了解投资人思路的窗口。它不会直接告诉你该怎么做，但字里行间会透出对方看重什么，是增长、团队，还是某种特定的技术方向。这篇关于 Phil Duggan 的介绍来自 Lightspeed，值得花几分钟读一读，因为它可能帮你判断这位投资人是不是适合你的项目。读的时候，别只看头衔和过往经历，留意他提到的案例和观点，那才是真正透露偏好和判断力的地方。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "companies": [
-        {
-          "id": 30675,
-          "name": "BootLoop",
-          "url": "https://bootloop.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/bootloop",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Firmware in minutes, not months - rigorously tested on real hardware",
-          "originalDescription": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
-          "story": "BootLoop 是一家为嵌入式系统开发人工智能代理的初创公司，它来自 YC 夏季 2025 批次。想象你是一位嵌入式固件工程师，正在为一块新的电路板编写控制程序，过去你可能要花几个月时间阅读数据手册、编写代码并反复在硬件上测试。BootLoop 的智能体能够读取数据手册、原理图等设计文件，按照你的代码风格生成固件，并自动在真实硬件上测试，将开发周期从数月缩短到几分钟。这家公司之所以值得关注，是因为它解决了现有编程助手无法处理嵌入式系统的痛点，并且团队正在招聘，显示出其技术方向的市场需求。",
-          "rank": 1
-        },
-        {
-          "id": 31246,
-          "name": "Inth",
-          "url": "https://inth.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/inth",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Compliance",
-            "Web Development",
-            "Trust & Safety"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Enterprise privacy governance for companies that ship fast",
-          "originalDescription": "Inth helps fast-moving software teams prevent privacy failures before they reach production. Privacy risk no longer lives in policy docs, dashboards, and questionnaires. It lives in code: consent flows, data deletion, vendors, logs, AI systems, and agent-written changes that move user data every day. Inth starts with c15t, an open-source consent and privacy SDK with 3M+ npm downloads, used by teams like Zed, Infisical, and Expo. From there, Inth expands into code-native workflows for consent management, data subject requests, policy enforcement, vendor oversight, and audit-ready evidence. We make privacy governance programmable, observable, and compliant by default.",
-          "story": "Inth 是一家专注于企业隐私治理的软件公司，来自 YC 春季 2026 批次。想象你是一家快速迭代的软件公司的合规负责人，每天担心新功能是否会在用户数据隐私上出问题，比如同意流程、数据删除、供应商风险等。Inth 提供了一个开源的同意管理软件开发工具包 c15t，已被 Zed、Infisical 和 Expo 等团队采用，下载量超过 300 万次。它把隐私治理变成代码原生的流程，帮助你在代码层面自动执行合规策略，生成审计证据，让隐私管理不再是文档和仪表盘，而是真正融入开发流程。",
-          "rank": 2
-        },
-        {
-          "id": 32202,
-          "name": "Dialogus",
-          "url": "https://www.dialoguslabs.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/dialogus",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "Customer Support"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Infra for enterprise voice agents.",
-          "originalDescription": "Dialogus builds voice agent infrastructure for enterprises. Most companies can demo an AI voice agent, but getting one into production is hard. Enterprise agents need to connect to phone systems, internal tools, databases, CRMs, messaging channels, human escalation flows, monitoring, and compliance processes. Dialogus provides the infrastructure to deploy production-grade voice agents that don’t just talk but complete real workflows. Our platform lets enterprises launch agents that collect information, validate it against internal systems, update records, send follow-up messages, and escalate edge cases to humans.",
-          "story": "Dialogus 是一家为企业提供语音智能体基础设施的公司，来自 YC 夏季 2026 批次。想象你是一家大型保险公司的运营主管，正尝试部署一个人工智能语音客服，但发现它难以连接到你的电话系统、内部数据库和客户管理系统。Dialogus 提供的基础设施让企业语音智能体能够完成真实工作流程，比如收集信息、验证内部系统、更新记录、发送后续消息，并把复杂情况转接给人工。这家公司来自 YC 夏季 2026 批次，团队虽小但专注于解决企业级部署的痛点，值得关注。",
-          "rank": 3
-        },
-        {
-          "id": 31535,
-          "name": "Arlo Industries",
-          "url": "https://arlo1.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/arlo-industries",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech",
-            "Hardware",
-            "Defense"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Track drones and missiles without radars - Accurate, Passive, Scalable",
-          "originalDescription": "Arlo Industries is building a network of sensors that precisely tracks stealthy drones and aerial threats better than radars. This capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems. Deo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise. The people behind Arlo1 includes a PhD in drones and autonomy and military experts. Arlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
-          "story": "Arlo Industries 是一家专注于被动式无人机和导弹追踪系统的硬件公司，来自 YC 春季 2026 批次。想象你是一位军事基地的防御指挥官，面对低成本的无人机威胁，传统雷达不仅昂贵而且难以覆盖广阔区域。Arlo 的传感器网络采用网状架构，能够被动、精确地追踪空中威胁，成本远低于雷达系统。其创始人 Deo 在以色列国防生态系统有超过 6 年经验，经历过多次冲突，这为产品设计提供了实战视角。公司正在招聘，显示出其技术被市场看好的潜力。",
-          "rank": 4
-        },
-        {
-          "id": 31445,
-          "name": "Harbor",
-          "url": "https://runharbor.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/runharbor",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "AI-native CRO for clinical trial operations",
-          "originalDescription": "Harbor is building an AI-native contract research organization (CRO) for clinical trials. We started with an AI-native system of record for clinical trial data (electronic data capture system), grew the software business to seven trials and ~$187k in contracted software revenue over the next twelve months, then expanded into full-service trial execution and signed our first CRO contract worth $1.93M over three years. Clinical trials consume 45% of all new drug and device development spend. While some of that goes to software, sites, and patients, the largest line items are services: project management, monitoring, data management, site coordination, source verification, query resolution, record reconciliation, and analysis. Today, drug and device companies outsource clinical operations to legacy CROs and their massive teams, which is why the CRO market is $82B annually. Harbor delivers the regulated services companies buy from legacy CROs, but built around our AI-native system of record from day one. Our software already automates the core data workflows: study build, data capture, query generation, monitoring, signing, and database lock. Because we own the system of record, we can expand into the surrounding service workflows: site contracting and billing, subject engagement and retention, statistics, reporting, and more. We built Harbor because we lived through the problem. Albert spent four years in clinical trials and regulatory strategy at a medical device startup, taking an unproven wearable from first-in-human trials to FDA authorization. Nate brings the technical depth, having built scalable software at Google and Ramp and served as employee #1 at a previous YC startup.",
-          "story": "Harbor 是一家为临床试验运营提供人工智能原生合同研究组织的公司，来自 YC 春季 2026 批次。想象你是一家生物技术公司的临床运营经理，正在为一项新药试验管理数据，传统电子数据采集系统繁琐且容易出错。Harbor 首先开发了人工智能原生的电子数据采集系统，已服务七个试验并签订了价值约 18.7 万美元的软件合同，随后扩展到全服务试验执行，签下了一份价值 193 万美元的合同。这家公司瞄准的是每年 820 亿美元的合同研究组织市场，通过人工智能驱动项目管理、监测和数据管理，有望大幅降低成本。",
-          "rank": 5
-        },
-        {
-          "id": 31063,
-          "name": "Clara",
-          "url": "https://www.ycombinator.com/companies/clara-2",
-          "sourceUrl": "https://www.ycombinator.com/companies/clara-2",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 9,
-          "originalOneLiner": "AI primary care doctor",
-          "originalDescription": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue. Our mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed. Unlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
-          "story": "Clara 是一家提供人工智能初级保健和长寿服务的公司，来自 YC 春季 2026 批次，团队有 9 人。想象你是一位忙碌的上班族，经常为一些小症状而担忧，但很难约到医生。Clara 的人工智能医生可以像真人医生一样与你对话，帮你理解症状、安排药物续方、解读化验结果，并制定健康目标。与通用人工智能不同，Clara 能够查看你的医疗数据并采取行动，但所有医疗建议都会经过真人医生审核。这家公司的团队曾创立 Circle Medical 并做到 1 亿美元收入，目前正在招聘，显示出其扩张势头。",
-          "rank": 6
-        },
-        {
-          "id": 31477,
-          "name": "BioStack Platforms",
-          "url": "https://www.getbiostack.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/biostack-platforms",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 0,
-          "originalOneLiner": "Real world training envs for healthcare AI models",
-          "originalDescription": "BioStack is building the data engine for healthcare and drug discovery AI. The bottleneck is not models. It is access to high-quality biological data. Clinical and experimental data is fragmented, unstructured, and locked inside hospitals, labs, and CROs, while generating new data is slow and expensive. BioStack fixes this with proprietary clinical and preclinical data pipelines that turn real biomedical workflows into ML-ready training environments. We structure longitudinal multimodal data across imaging, EHR, and experimental assays, then package it for post-training and reinforcement learning so models can learn how research and care actually happen. Instead of static datasets, BioStack gives AI labs workflow-aligned data and environments that improve reasoning, decision-making, and real-world performance in biology and medicine.",
-          "story": "BioStack Platforms 是一家为医疗保健人工智能模型提供真实世界训练数据的公司，来自 YC 春季 2026 批次。想象你是一位人工智能研究员，正在开发一个诊断模型，但苦于无法获得高质量的临床数据，这些数据分散在医院和实验室中。BioStack 构建了专有的数据管道，将临床和临床前数据转化为机器学习就绪的训练环境，涵盖影像、电子健康记录和实验数据。它不是提供静态数据集，而是提供与工作流对齐的数据和环境，帮助模型学习真实的研究和护理过程。这家公司来自 YC 春季 2026 批次，目前正在招聘，值得关注。",
-          "rank": 7
-        },
-        {
-          "id": 29783,
-          "name": "Guardian RF",
-          "url": "https://guardianrf.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/guardian-rf",
-          "location": "Washington, DC, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2024",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "Drone detection for US defense and national security",
-          "originalDescription": "The rise of low-cost commercial drones has introduced a new class of asymmetric threats to U.S. national security. Off-the-shelf platforms now deliver ISR, contraband, or payloads with precision, while operating below radar coverage and beyond line-of-sight. These systems—often costing under $1,000—are capable of neutralizing multi-million-dollar defense assets. For drone detection to be viable at scale, sensors must achieve cost parity with the threat. In response, the Department of Defense established multiple initiatives to counter the rapid proliferation of uncrewed aerial systems. The Joint Counter-small UAS Office (JCO) coordinates policy and acquisition across services. The Base Defense Cross-Functional Team enables persistent perimeter security for CONUS and OCONUS installations. Falcon Peak, Red Sands, and related exercises are accelerating deployment of counter-UAS technologies in complex environments. This threat is no longer exclusive to military operations overseas. It now directly targets the U.S. homeland. In 2025, an executive order designated the protection of American airspace sovereignty a national priority, recognizing that uncrewed systems present both surveillance and kinetic risks within the United States. That same year, a domestic extremist plotted to destroy a Tennessee power substation using a drone rigged with C-4 explosives—a plan disrupted by undercover federal agents. In July 2025, an unauthorized drone collided with a rescue helicopter during disaster response operations in Kerr County, Texas, forcing an emergency landing and halting flood relief efforts. These are not isolated incidents—they reflect a broader shift in drone-enabled threats against homeland infrastructure and public safety. Guardian RF builds passive, radiofrequency-based drone detection systems for force protection and critical infrastructure defense inside the United States. Our systems are fielded under an AFWERX Direct-to-Phase-II SBIR with the 30th Security Forces Squadron at Vandenberg Space Force Base, deployed by local and state law enforcement, and integrated into commercial security operations. We were selected as a finalist for Falcon Peak 25.2, the Department of Defense’s premier counter-UAS exercise. Scout is a passive RF sensor for fixed, mobile, or temporary deployments. It detects and classifies drone control signals—including modified variants of DJI, Crossfire, and ExpressLRS—at standoff ranges. Scout supports direct integration into TAK and other operational APIs and is managed through GRF-SECURE, our secure interface for live monitoring, threat alerting, and forensic review. Mosaic extends coverage in austere environments, enabling persistent low-altitude monitoring and classification of non–Remote ID drones across complex terrain—without active emissions or mesh dependency. Built in the United States, Guardian RF delivers scalable, automated, and cost-aligned drone detection—passive by design and hardened for real-world deployment across the homeland.",
-          "story": "Guardian RF 是一家为美国国防和国家安全提供无人机探测服务的公司，来自 YC 夏季 2024 批次，团队有 15 人。想象你是一位军事基地的安全主管，面临低成本商用无人机带来的威胁，这些无人机可以在雷达覆盖范围之外飞行，而传统雷达难以有效探测。Guardian RF 开发了传感器网络，能够以与威胁相当的成本实现大规模探测。美国国防部已经启动了多个项目来应对这些无人机，而 Guardian RF 的技术恰好符合这些需求。公司正在招聘，显示出其在国防市场的增长潜力。",
-          "rank": 8
-        },
-        {
-          "id": 31062,
-          "name": "Hlabs",
-          "url": "https://www.hlaboratories.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/hlabs",
-          "location": "Austin, TX, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 1,
-          "originalOneLiner": "US-Made Parts for Robots",
-          "originalDescription": "HLabs is making an industrial supply chain for building robots in the USA including electronics and actuators, with a focus on in-house manufacturing. Robotics is going to be one of the largest industries the world has ever seen. Teams have to buy what they can from overseas and then build everything else in house just to get something to move. HLabs is producing a plug and play set of robotic primitives to accelerate the early development and then working with larger scale production robots for bespoke designs. Early customers span across household robotics, humanoids, robot arms, quadrupeds, and defense. Hlabs is founded by Paul, a second time YC founder who also participated in the W21 batch with Mystic. He ran Mystic as CEO for 6 years.",
-          "story": "HLabs 是一家为机器人制造提供美国本土供应链的公司，来自 YC 冬季 2026 批次。想象你是一位机器人初创公司的创始人，正在开发一款人形机器人，但发现关键零部件如电机和电子元件都需要从海外采购，导致开发周期漫长。HLabs 提供即插即用的机器人组件，包括电子设备和执行器，并专注于美国本土制造，帮助团队快速原型。早期客户涵盖家用机器人、人形机器人、机械臂等。创始人 Paul 是第二次 YC 创始人，曾创立 Mystic 并担任 CEO 六年，拥有丰富的创业经验。",
-          "rank": 9
-        },
-        {
-          "id": "hardware-omi",
-          "name": "Omi",
-          "url": "https://www.omi.me/",
-          "sourceUrl": "https://www.omi.me/",
-          "location": "Unknown",
-          "source": [
-            "Smart hardware watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Smart Hardware"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Wearable AI device for memory, voice notes, and assistant workflows.",
-          "originalDescription": "Omi works on a wearable AI device that records context, turns spoken information into memory, and connects that memory to assistant-style software.",
-          "story": "Omi 是一款可穿戴人工智能设备，它记录对话内容，将语音信息转化为记忆，并连接到智能助手工作流。想象你是一位经常参加会议的咨询顾问，每天要记住大量讨论要点，但笔记总是来不及记。Omi 可以佩戴在身上，自动记录对话，并帮你整理出关键信息。它不只是一个手机应用，而是把人工智能能力嵌入到随身设备中，让你无需拿出手机就能捕捉信息。虽然目前还没有公开的融资或客户信息，但这种将人工智能与可穿戴设备结合的场景本身就有很大的想象空间。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "TechCrunch AI-aHR0cHM6Ly90",
-          "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-          "source": "TechCrunch AI",
-          "published": "Thu, 06 Aug 2026 22:43:53 +0000",
-          "story": "家里摆一个能对话的小音箱，听起来已经不算新鲜事。可当这个音箱背后是更聪明的大模型，价格又定在两三百美元这个档位，事情就变得有意思了。很多人买智能音箱，图的是方便，但厂商算的却是另一笔账：硬件怎么定价，服务怎么跟上，生态怎么圈住用户。这篇报道把目光放在这个新产品上，读的时候不妨留意它怎么描述定价背后的考量，是成本驱动，还是为了抢市场。你也能借此想想，一个普通家庭愿意为什么样的功能多掏钱，而厂商又靠什么把一次性买卖变成长期关系。"
-        },
-        {
-          "id": "hn-49202481",
-          "title": "AMD buys Taalas, chip startup that hardwires AI models into its silicon",
-          "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
-          "source": "Hacker News",
-          "published": "2026-08-06T21:00:18Z",
-          "story": "芯片设计一直是个讲究通用性的行业，一块芯片造出来，往往要服务各种不同的任务。可这几年大家发现，如果专门为某一个模型定制电路，速度和功耗能好上不少，但代价是灵活性没了。AMD 收购这家叫 Taalas 的创业公司，正是冲着这种“把模型烧进硅片”的思路去的。普通人不一定关心收购金额，但值得想的是：当一家大厂愿意为这种激进路线买单，说明行业里对专用硬件的需求已经不只是实验室里的好奇了。读的时候可以留意，作者怎么解释这种硬连线方案和传统可编程芯片之间的取舍，以及 AMD 为什么觉得这笔买卖划算。"
-        },
-        {
-          "id": "WIRED Business-aHR0cHM6Ly93",
-          "title": "Flock Highlighted Police Departments Using Its Tech. Now 4 Face Allegations of Misuse",
-          "url": "https://www.wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse/",
-          "source": "WIRED Business",
-          "published": "Thu, 06 Aug 2026 19:31:07 +0000",
-          "story": "一个做安防摄像头的公司，本来只是把技术卖给警察局，结果现在反过来被自己公开的录像证据弄得下不来台。这种事听起来有点讽刺，但放在现实里却很常见：卖工具的人往往只想着工具多好用，没太在意使用者会拿它干什么。Flock 当初高调展示自己的产品有多厉害，大概没想到那些展示后来会变成指控的依据。这篇报道的价值在于，它让你看到一家公司在扩张时容易忽略的盲区，也就是你卖出去的东西，最后可能以你没想到的方式回到你身上。读的时候可以关注作者怎么梳理这些指控的来龙去脉，以及公司面对这种事时是怎么回应的。"
         }
       ]
     }
