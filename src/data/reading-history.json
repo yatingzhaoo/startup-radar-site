@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-20T07:55:11.638Z",
+  "updatedAt": "2026-08-21T07:55:09.065Z",
   "readings": [
+    {
+      "key": "paulgraham.com/badeconomy.html",
+      "title": "Why to Start a Startup in a Bad Economy (2008)",
+      "url": "https://paulgraham.com/badeconomy.html",
+      "usedAt": "2026-08-21",
+      "site": "startup-radar"
+    },
+    {
+      "key": "stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots",
+      "title": "Get rid of your CAPTCHA, the future of the web is bots",
+      "url": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/",
+      "usedAt": "2026-08-21",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/the-single-english-county-saying-no-to-palantir",
+      "title": "The Single English County Saying No to Palantir",
+      "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+      "usedAt": "2026-08-21",
+      "site": "startup-radar"
+    },
     {
       "key": "devblogs.microsoft.com/oldnewthing/20030903-00?p=42673",
       "title": "Why is there no programmatic access to the Start menu pin list? (2003)",

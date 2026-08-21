@@ -1,7 +1,251 @@
 {
-  "generatedAt": "2026-08-20T07:55:11.636Z",
+  "generatedAt": "2026-08-21T07:55:09.063Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-21",
+      "companies": [
+        {
+          "id": 32164,
+          "name": "Prized",
+          "url": "https://prized.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/prized",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "SaaS",
+            "Productivity"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Lovable for internal tools",
+          "originalDescription": "Prized lets non-engineers build, deploy, and share secure internal tools with AI, no engineering required. You don't need to know where the data lives, what APIs to use, or which connectors you need. Just describe what you want (a customer lookup, a dashboard, an approval flow), and Prized builds the tool on top of the right company data inside a governed boundary. The people who feel the pain of missing internal tools most are non-engineers. They understand the workflow best but are blocked by the software layer, so they wait on engineering, duct-tape spreadsheets together, or increasingly rip company data into Claude Code and Cursor with no thought to permissions, sharing, or governance. Prized makes security the default, enforced in the infrastructure rather than left to whoever built the tool. Each tool gets access only to the tables and integrations it was explicitly granted, credentials are workspace-scoped so tools can't cross org boundaries, and outbound calls go through a controlled layer. As an employee builds and shares, a teammate forks it and re-points it at their own data, and over time the company builds up a library of governed tools it actually owns. Hudson was founding engineer at Gander (F24, acquired by Archer), then full-stack at Suno. Marinos studied CS and ME at Stanford and was on the same Gander team.",
+          "published": "",
+          "story": "Prized 是一家面向非工程师的软件开发工具公司，让不懂代码的人也能构建、部署和分享安全的内部工具。想象你是一位运营经理，每天靠电子表格和口头催促来管理客户信息，却因为不懂编程而无法快速搭建一个客户查询系统。Prized 让你用自然语言描述需求，比如“做一个客户查询界面”，它就会自动连接公司数据，生成一个合规的工具，并且每个工具都只授予必要的权限，确保安全。这家公司来自 YC 夏季批次，团队虽小，但直击了企业内部工具开发的痛点，让业务人员不再依赖技术团队，值得关注。",
+          "rank": 1
+        },
+        {
+          "id": 31246,
+          "name": "Inth",
+          "url": "https://inth.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/inth",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Compliance",
+            "Web Development",
+            "Trust & Safety"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Enterprise privacy governance for companies that ship fast",
+          "originalDescription": "Inth helps fast-moving software teams prevent privacy failures before they reach production. Privacy risk no longer lives in policy docs, dashboards, and questionnaires. It lives in code: consent flows, data deletion, vendors, logs, AI systems, and agent-written changes that move user data every day. Inth starts with c15t, an open-source consent and privacy SDK with 3M+ npm downloads, used by teams like Zed, Infisical, and Expo. From there, Inth expands into code-native workflows for consent management, data subject requests, policy enforcement, vendor oversight, and audit-ready evidence. We make privacy governance programmable, observable, and compliant by default.",
+          "published": "",
+          "story": "Inth 是一家专注企业隐私合规的开发者工具公司，帮助快速迭代的软件团队在代码层面预防隐私问题。假如你是一位负责隐私合规的工程师，你发现隐私风险不再只存在于政策文档里，而是藏在代码中，比如用户同意流程、数据删除、日志记录等。Inth 提供的开源 SDK 已经被大量下载，它能将隐私治理变成可编程的代码，自动执行同意管理、数据主体请求等合规操作，并生成审计证据。这家公司来自 YC 春季批次，团队三人，却已经获得开发者社区的认可，说明隐私治理正在走向代码原生。",
+          "rank": 2
+        },
+        {
+          "id": 30726,
+          "name": "Socratix AI",
+          "url": "https://getsocratix.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/socratix-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "AI coworkers for fraud and compliance teams.",
+          "originalDescription": "Socratix builds AI coworkers for fraud and compliance teams so that humans don't have to spend their days drowning in alerts and spreadsheets. Today, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. Socratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount. We've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and compliance. We're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution.",
+          "published": "",
+          "story": "Socratix AI 为欺诈和合规团队打造人工智能同事，让分析师从海量警报和电子表格中解脱出来。想象你是一位风控分析师，每周要处理几百个警报，手动拼接信息，在压力下快速判断，既慢又容易出错。Socratix 的智能体可以实时调查警报，像人类分析师一样推理，但速度更快，且决策可解释。它还能接入现有工作流，帮助团队减少欺诈损失和误报。这家公司来自 YC 夏季批次，正在招聘，团队成员曾在大公司帮助节省数千万美元，他们的经验让这个解决方案更具说服力。",
+          "rank": 3
+        },
+        {
+          "id": 30728,
+          "name": "OS3",
+          "url": "https://os3robotics.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/os3",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hardware",
+            "Robotics",
+            "B2B",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Full Stack Robotics: US-Built Commercial Robots & Video Action Models",
+          "originalDescription": "We are building robots, including custom actuators and intelligence. Our first model is trained on 150k hours of video data. Our first commercial robot, a mobile semi-humanoid priced at $9,995, is already signed for deployments in hospitality and biotech. Our developer version helps startups deploy robots in their own industries, and we already have preorders. We are scaling American robotics while making it accessible to more businesses.",
+          "published": "",
+          "story": "OS3 是一家全栈机器人公司，在美国制造商用机器人，并开发视频动作模型。想象你是一家酒店的管理者，需要机器人协助搬运物品，但市场上的机器人要么太贵，要么不灵活。OS3 的移动半人形机器人售价不到一万美元，已经签约部署在酒店和生物科技领域。它不只是一个手机应用，而是把智能放进实体设备中，通过摄像头和传感器感知环境，执行物理任务。这家公司来自 YC 夏季批次，已有预订单，正在招聘，显示出美国本土机器人制造的潜力。",
+          "rank": 4
+        },
+        {
+          "id": 32168,
+          "name": "Synapse Semiconductor",
+          "url": "https://synapsesemi.org",
+          "sourceUrl": "https://www.ycombinator.com/companies/synapse-semiconductor",
+          "location": "Durham, NC, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Edge Computing Semiconductors",
+            "Hard Tech",
+            "Robotics",
+            "Defense"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "New semiconductors that merge compute and vision",
+          "originalDescription": "We want to push machines to where humans cant go. Presidential early career award winning Duke Semiconductor ECE Faculty Tania Roy and her past student / VC Associate Sanjeev Chauhan are building a frontier semiconductor research lab. Their focus is on solving physical AI challenges from the semiconductor device level and building products around the moat of impossible to copy innovation. Their first work is on a new vision sensor that can run neural network filters right in the camera pixels and only collect data that machines care about. As physical AI develops, machines needs to understand the world around them if they aim to interact with them.",
+          "published": "",
+          "story": "Synapse Semiconductor 是一家半导体初创公司，专注于将计算和视觉融合的新型芯片。想象你是一位机器人工程师，你的机器人需要实时理解周围环境，但传统摄像头和处理器功耗高、延迟大。Synapse 的视觉传感器可以在像素级运行神经网络，只收集机器关心的数据，大幅提升效率。这不仅仅是软件优化，而是从硬件层面解决物理人工智能的挑战。公司创始人曾获总统早期职业奖，来自 YC 夏季批次，虽然团队只有两人，但技术壁垒很高，值得关注。",
+          "rank": 5
+        },
+        {
+          "id": 31445,
+          "name": "Harbor",
+          "url": "https://runharbor.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/runharbor",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "AI-native CRO for clinical trial operations",
+          "originalDescription": "Harbor is building an AI-native contract research organization (CRO) for clinical trials. We started with an AI-native system of record for clinical trial data (electronic data capture system), grew the software business to seven trials and ~$187k in contracted software revenue over the next twelve months, then expanded into full-service trial execution and signed our first CRO contract worth $1.93M over three years. Clinical trials consume 45% of all new drug and device development spend. While some of that goes to software, sites, and patients, the largest line items are services: project management, monitoring, data management, site coordination, source verification, query resolution, record reconciliation, and analysis. Today, drug and device companies outsource clinical operations to legacy CROs and their massive teams, which is why the CRO market is $82B annually. Harbor delivers the regulated services companies buy from legacy CROs, but built around our AI-native system of record from day one. Our software already automates the core data workflows: study build, data capture, query generation, monitoring, signing, and database lock. Because we own the system of record, we can expand into the surrounding service workflows: site contracting and billing, subject engagement and retention, statistics, reporting, and more. We built Harbor because we lived through the problem. Albert spent four years in clinical trials and regulatory strategy at a medical device startup, taking an unproven wearable from first-in-human trials to FDA authorization. Nate brings the technical depth, having built scalable software at Google and Ramp and served as employee #1 at a previous YC startup.",
+          "published": "",
+          "story": "Harbor 是一家人工智能原生的临床研究组织，简称为 CRO，为临床试验提供全流程服务。想象你是一家生物科技公司的临床试验负责人，你被传统 CRO 的庞大团队和缓慢流程拖累，试验数据管理混乱。Harbor 从电子数据采集系统起家，现在扩展到全服务试验执行，并签下了大额合同。它用人工智能自动化项目管理、数据监控等环节，提高效率。这家公司来自 YC 春季批次，团队三人，但已有可观的软件收入和 CRO 合同，说明其模式正在被市场接受。",
+          "rank": 6
+        },
+        {
+          "id": 33344,
+          "name": "Dawn Industries",
+          "url": "https://www.dawnxr.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/dawn-industries",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Automatic Diagnosis & Fix for Industrial Automation Cells",
+          "originalDescription": "VIM connects to the entire cell: PLCs, robots, CNC machines, sensors. When a cell faults, VIM finds the cause, stages the fix, and the operator approves with one click. When a part drifts, VIM catches it seconds after the cut, inside the machine, and recommends the correction. Recovery drops from 30 minutes to under two, saving more than $15,000 per fault in large factories.",
+          "published": "",
+          "story": "Dawn Industries 为工业自动化单元提供自动诊断和修复工具，其产品名为 VIM。想象你是一家工厂的运营主管，生产线突然停机，你需要在三十分钟内找到故障原因，但排查过程漫长且昂贵。VIM 连接整个单元，包括 PLC、机器人、数控机床和传感器，当故障发生时，它迅速定位原因，并给出修复建议，你只需点击确认。这样恢复时间从三十分钟缩短到两分钟，每次故障节省大量成本。这家公司来自 YC 夏季批次，正在招聘，其直接解决工厂痛点的能力值得关注。",
+          "rank": 7
+        },
+        {
+          "id": 31477,
+          "name": "BioStack Platforms",
+          "url": "https://www.getbiostack.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/biostack-platforms",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Real world training envs for healthcare AI models",
+          "originalDescription": "BioStack is building the data engine for healthcare and drug discovery AI. The bottleneck is not models. It is access to high-quality biological data. Clinical and experimental data is fragmented, unstructured, and locked inside hospitals, labs, and CROs, while generating new data is slow and expensive. BioStack fixes this with proprietary clinical and preclinical data pipelines that turn real biomedical workflows into ML-ready training environments. We structure longitudinal multimodal data across imaging, EHR, and experimental assays, then package it for post-training and reinforcement learning so models can learn how research and care actually happen. Instead of static datasets, BioStack gives AI labs workflow-aligned data and environments that improve reasoning, decision-making, and real-world performance in biology and medicine.",
+          "published": "",
+          "story": "BioStack Platforms 是医疗人工智能的数据引擎，提供真实的训练环境。想象你是一位药物研发科学家，你想让人工智能模型学习临床和实验数据，但这些数据分散、格式混乱，而且难以获取。BioStack 通过专有的数据管道，将真实生物医学工作流转化为机器学习可用的格式，包括影像、电子病历和实验数据。它不只是提供静态数据集，而是提供与工作流对齐的训练环境，帮助模型提升推理和决策能力。这家公司来自 YC 春季批次，正在招聘，团队四人，其解决数据瓶颈的思路对医疗人工智能至关重要。",
+          "rank": 8
+        },
+        {
+          "id": 31063,
+          "name": "Clara",
+          "url": "https://www.ycombinator.com/companies/clara-2",
+          "sourceUrl": "https://www.ycombinator.com/companies/clara-2",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 9,
+          "originalOneLiner": "AI primary care doctor",
+          "originalDescription": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue. Our mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed. Unlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
+          "published": "",
+          "story": "Clara 是一家提供人工智能初级保健和长寿服务的公司，由曾创立 Circle Medical 的团队打造。想象你是一位关注健康的中年人，你有一些症状但不确定是否严重，预约医生又很麻烦。Clara 可以像医生一样与你对话，分析你的医疗数据，发现潜在趋势，帮助你理解症状、续药、解读化验结果。虽然推荐只是初步建议，但背后有人类医生审核。这家公司来自 YC 春季批次，团队九人，其创始团队有成功经验，目标是为人类增加健康寿命，值得关注。",
+          "rank": 9
+        },
+        {
+          "id": 31188,
+          "name": "Maywood",
+          "url": "https://www.ycombinator.com/companies/maywood",
+          "sourceUrl": "https://www.ycombinator.com/companies/maywood",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "The first finance-compliant proactive AI that runs 24/7",
+          "originalDescription": "Maywood is the first finance-compliant proactive AI that runs 24/7, working across your network, pipeline, and active processes, running constantly in the background and surfacing things you'd otherwise miss. It tracks relationships and sector context to flag when a target is gearing up for a process (and drafts the outreach in your voice), watches network activity across LinkedIn, news, and conference follow-ups, and surfaces where active processes stand, including what's at risk since you last looked. It also auto-updates CRMs and trackers and creates meeting briefs that includes relationship history, recent activity, deal context, external research, talking points that can pull from internal and external data sources. Dealmakers interact with it over email, Teams, or the platform itself.",
+          "published": "",
+          "story": "Maywood 是一款金融合规的主动式人工智能，全天候运行，帮助交易人员捕捉机会。想象你是一位投资银行家，你负责跟踪潜在收购目标，但信息分散在邮件、新闻和社交网络中，你常常错过关键信号。Maywood 持续监控网络和行业动态，当目标公司准备启动流程时，它会提醒你并起草邮件。它还能更新 CRM 系统，生成会议简报，包含关系历史、交易背景和外部研究。这家公司来自 YC 冬季批次，正在招聘，团队五人，其主动式工作方式可能改变交易人员的日常工作。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "Stack Overflow Blog-aHR0cHM6Ly9z",
+          "title": "Get rid of your CAPTCHA, the future of the web is bots",
+          "url": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/",
+          "source": "Stack Overflow Blog",
+          "published": "Fri, 21 Aug 2026 07:40:00 GMT",
+          "story": "每次在网页上勾选红绿灯、识别斑马线，你是不是也烦过？验证码本意是拦住机器人，结果常常连真人都被卡住。这篇来自 Stack Overflow 的文章提出一个大胆想法：干脆别用验证码了，未来网络本来就是机器人的天下。它适合那些正在为注册流程、垃圾信息发愁的团队，也适合好奇技术风向的人。读的时候，可以留意作者怎么从用户抱怨一路推到产品决策，看他如何权衡安全、体验和成本，而不是只听结论。"
+        },
+        {
+          "id": "hn-49384951",
+          "title": "Why to Start a Startup in a Bad Economy (2008)",
+          "url": "https://paulgraham.com/badeconomy.html",
+          "source": "Hacker News",
+          "published": "2026-08-21T07:32:42Z",
+          "story": "经济不好时，大家第一反应是缩紧开支、保住饭碗，很少有人会想这时候去创业。但偏偏有人觉得，这反而是好时机。这篇 2008 年的老文章最近又在技术社区被翻出来，说明今天的很多人正面临同样的困惑：市场冷清，机会到底在哪？文章不是教你怎么融资，而是讲为什么逆境能逼出更务实的想法。读的时候，可以想想作者说的哪些条件今天依然成立，哪些已经变了。"
+        },
+        {
+          "id": "WIRED Business-aHR0cHM6Ly93",
+          "title": "The Single English County Saying No to Palantir",
+          "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+          "source": "WIRED Business",
+          "published": "Fri, 21 Aug 2026 06:00:00 +0000",
+          "story": "当一家科技巨头想进入公共部门，通常都是政府点头、公司签约，很少听到反对的声音。但英国有一个郡偏偏说不，拒绝与 Palantir 合作。这件事听起来像地方新闻，其实牵扯到隐私、权力和公共服务的边界。适合那些关心技术如何落地、以及谁在替普通用户把关的人读。读的时候，可以留意作者如何呈现双方的理由，而不是简单站队。"
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "companies": [
@@ -3164,245 +3408,6 @@
           "source": "SaaStr",
           "published": "Sat, 08 Aug 2026 14:10:21 +0000",
           "story": "风险投资听起来很神秘，但背后其实有简单的数学逻辑。为什么基金要追求高回报？为什么最好的那笔投资要能赚回整个基金？这篇文章用直白的方式解释了这些数字。如果你在创业或考虑融资，理解这些能帮你更好地和投资人沟通。读的时候，试着算一算，看看不同规模基金的投资策略有什么不同。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "companies": [
-        {
-          "id": 31416,
-          "name": "Callab AI",
-          "url": "https://callab.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/callab-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 7,
-          "originalOneLiner": "AI voice agents for on-prem telephony stack.",
-          "originalDescription": "58% of the $400B call center industry runs on on-prem phone systems, and until now bringing AI voice automation to them meant ripping out their entire infrastructure first. That's the largest unserved segment in the market. Callab AI connects directly to legacy PBX systems like Avaya, Cisco UCM, and Mitel, and automates up to 70% of call volume with zero migration needed. We plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like Dunkin Donuts.",
-          "story": "这是一家把人工智能语音助手接到老式电话系统上的公司。呼叫中心行业规模巨大，但一大半还在用本地部署的交换机，比如 Avaya、Cisco UCM 和 Mitel。假如你是呼叫中心的运营负责人，过去想引入人工智能自动化，往往得先把整套电话系统推倒重来，成本高、风险大，所以只能继续忍受人工接线。Callab AI 直接连到这些老系统上，不用迁移，就能自动处理多达七成的来电。它已经服务了三大洲的客户，包括 Dunkin Donuts 这样的品牌，说明这套方案在真实环境里跑得通。对于不想大动干戈又渴望提升效率的呼叫中心来说，这可能是最务实的切入点。",
-          "rank": 1
-        },
-        {
-          "id": 31485,
-          "name": "ANORIA",
-          "url": "https://www.anoria.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/anoria",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "The first wearable that reads your emotions to enhance your EQ.",
-          "originalDescription": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
-          "story": "这家公司做的是能读懂情绪的可穿戴设备，方向是提升情商。我们平时用手环手表记录睡眠、步数，但这些只是身体状况的间接指标，真正影响表现的是心理状态，却一直缺少直接的反馈。想象你是一个经常需要演讲或谈判的职场人，每次紧张或烦躁时，自己往往意识不到，等察觉时已经影响了表现。ANORIA 的戒指或手环通过传感器捕捉情绪信号，告诉你此刻的感受、为什么会有这种情绪，以及可以怎么调整。这样一来，情商就变成可以训练的能力。它不只是一个手机应用，因为情绪信号需要贴身设备持续采集，才能给出及时反馈。",
-          "rank": 2
-        },
-        {
-          "id": 29740,
-          "name": "Redouble AI",
-          "url": "https://redouble.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/redouble-ai",
-          "location": "New York City, NY, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Generative AI",
-            "B2B",
-            "Workflow Automation",
-            "Enterprise"
-          ],
-          "batch": "Summer 2024",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Java-native multi-agentic AI operating system for enterprise",
-          "originalDescription": "At Redouble AI we have developed Silverlake, a Java-native agentic AI operating system for enterprise. While other AI solutions force enterprise stakeholders to embrace unfamiliar concepts in an unfamiliar language, we do the opposite: we slot agentic AI right into the enterprise comfort zone - by mapping all agentic concepts onto established enterprise primitives in their own language, their own security model, their own infrastructure. It’s like moving from Bitcoin to Stablecoin, just for agentic AI. When we did YC we realized there was no framework or platform that gave us as enterprise and workflow automation veterans what we needed to build truly secure, reliable, and scalable agentic solutions for mission-critical workflows. That’s why we spent the past 18 months building Silverlake from the ground up. We empower the 12 million Java engineers worldwide to write and deploy their own AI, securely, at scale. They define an agent in a few lines of code, and our platform does everything else, from orchestration to permission control, from auditability to rate limiting, from long-running agents to autonomous coordinated networks that perform the work of entire departments. Silverlake has been developed with design partners across biopharma, insurance and financial services. For example, our agentic workflows write submission-ready Clinical Study Reports that are hundreds of pages long, analyze entire datarooms full of financial and operational data for private equity investors, and automate claims processing for a large insurance player. We are backed by Y Combinator, Exponential, Transpose Platform, Tiny VC, and the Oxford Seed Fund and advised by Java inventor James Gosling and automation guru Professor Christian Terwiesch.",
-          "story": "这是一家做企业级人工智能操作系统的公司，核心产品叫 Silverlake，用 Java 开发。很多企业想把智能体引入核心流程，但现有方案往往要求他们接受陌生的概念和语言，很难落地。假如你是某家银行的系统架构师，面对的是严格的合规要求和老旧的 Java 系统，你希望人工智能能融入现有架构，而不是推翻重来。Redouble AI 把智能体的概念映射到企业熟悉的原语上，支持他们自己的安全模型和基础设施，让全球一千二百万 Java 工程师都能用熟悉的语言编写和部署智能体。它参加过 YC 夏季批次，团队虽然小，但都是企业自动化的老手，花了十八个月从头构建这个平台。",
-          "rank": 3
-        },
-        {
-          "id": 32259,
-          "name": "screenpipe",
-          "url": "https://screenpipe.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/screenpipe",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "SaaS",
-            "B2B",
-            "Enterprise",
-            "Enterprise Software"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "AI powered by everything you've seen, said or heard",
-          "originalDescription": "screenpipe record and learns how you work and turns it into a searchable memory, documents, and AI agents. Data is stored on your device or where your team choose, open source.",
-          "story": "这家公司做的是记录你工作全过程的人工智能记忆工具。想象你是一个项目很多的咨询顾问，每天开无数个会、看大量文档、在 Slack 和 GitHub 之间切换，经常想找之前某次会议里提到的关键数字，却怎么也想不起来。screenpipe 会录制你在电脑上看到、说过和听到的内容，把它们变成可以搜索的记忆，还能生成文档和智能体。数据默认存在本地或团队指定的服务器上，而且是开源的，对隐私敏感的企业来说更有吸引力。它来自 YC 夏季批次，目前团队只有两个人，正在招聘，说明这个方向还处于早期，但想法很直接：让你拥有一个真正了解你工作的人工智能助手。",
-          "rank": 4
-        },
-        {
-          "id": 31552,
-          "name": "Arctic Health",
-          "url": "https://arctic.health",
-          "sourceUrl": "https://www.ycombinator.com/companies/arctic-health",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "AI-native credentialing and contracting for healthcare",
-          "originalDescription": "Arctic Health is building AI-native credentialing and contracting for healthcare organizations. We automate the full workflow, from establishing payer contracts to enrolling each provider. We collect and validate organization and provider data according to each state and payer’s requirements, and submit on the organization's behalf. We then monitor status and compliance on an ongoing basis. Tools on the market today either perform small pieces of the workflow or price out small and mid-sized organizations. We handle the process end-to-end regardless of organization type or size. Our browser automations enable AI agents to submit and monitor across hundreds of payer portals, and our system is trained by experienced industry experts who handle every edge case. Healthcare organizations get one simple platform. We handle the rest.",
-          "story": "这家公司做的是医疗领域的认证和合同管理，用人工智能把整个流程自动化。假如你是医院或诊所的运营负责人，每次新增一个医生，都要和保险公司打交道，提交各种材料，还要按各州不同规则审核，过程繁琐又容易出错。Arctic Health 的系统会自动收集和验证机构及医生信息，按照各州和保险公司的要求提交申请，然后持续跟踪状态和合规情况。它用浏览器自动化，可以同时处理几百个保险门户网站，而且系统由资深行业专家训练，能应对各种边缘情况。现有的工具要么只做其中一小块，要么价格让小机构望而却步，它则端到端搞定，对各类规模的医疗机构都适用。",
-          "rank": 5
-        },
-        {
-          "id": 30430,
-          "name": "Almond",
-          "url": "https://almond.bot/",
-          "sourceUrl": "https://www.ycombinator.com/companies/almond-2",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hardware",
-            "Robotics",
-            "Manufacturing",
-            "Automation",
-            "AI"
-          ],
-          "batch": "Spring 2025",
-          "isHiring": true,
-          "teamSize": 6,
-          "originalOneLiner": "A dual-arm robot built for physical AI.",
-          "originalDescription": "We build robots for physical AI. Meet Axol - A dual-arm robot designed for real-world tasks using AI.",
-          "story": "这家公司做的是双臂机器人，专门为物理人工智能设计。它的产品叫 Axol，看起来像一个小型的人形上半身，有两只灵活的机械臂，可以完成各种实际任务。想象你是一个实验室的研究员，经常需要重复搬运培养皿或整理器材，这些工作耗时又枯燥。Almond 的机器人可以通过人工智能学习这些任务，不需要复杂的编程。它来自 YC 春季批次，目前团队有六个人，正在招聘，说明还在快速发展。相比那些只能做单一任务的工业机械臂，它更接近通用机器人，未来可能进入更多场景。",
-          "rank": 6
-        },
-        {
-          "id": 32553,
-          "name": "Nori",
-          "url": "https://www.ycombinator.com/companies/noril1",
-          "sourceUrl": "https://www.ycombinator.com/companies/noril1",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech",
-            "Hardware",
-            "Robotics"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "Affordable robot you can teach to do anything",
-          "originalDescription": "Nori builds home robots that cost less than $2,000 and that anyone can teach. Out of the box, the NORI L3 does household chores: loading the dishwasher, folding laundry, tidying up. But because anyone can train it, it also learns your specific tasks, like washing paintbrushes if you're an artist or flipping sheet music while you play guitar. It's a general-purpose robot, not an appliance. We launched pre-orders 6 weeks ago and have already booked $100K in revenue. Humanoid robots exist, but they cost $20,000 or more and are demoed, not shipped. We got to $1,688 without sacrificing capability. Instead of expensive actuators, we use low-cost servos and get more out of them through smarter control and design. A wheeled base with a lift gives full floor-to-counter reach without the cost and fragility of legs, and we streamlined manufacturing from day one, assembling in the US. The teachability is the moat. Every skill a user trains can be shared, so each customer makes every robot more capable. Hardware is the entry point; the skill ecosystem is the recurring revenue. We're robotics researchers from Columbia labs like RoboPIL (robot learning) and CGUI. Working with $100K research robots that struggled with everyday tasks convinced us the problem isn't capability, it's cost. Good robots don't need to be expensive. Households already spend $2,000+ on single-task machines: a dishwasher, a washing machine, a vacuum. We sell one robot at $1,688 that does the work of all of them and learns more. At 5% of US households and $25 a month for skills, that's $2B a year in recurring revenue, on top of hardware.",
-          "story": "这家公司做的是价格亲民、可以教它做任何事的家用机器人。它叫 Nori，售价不到两千美元，比那些动辄两万美元的人形机器人便宜很多。想象你是一个喜欢在家做手工的艺术家，每次用完画笔都要花时间清洗，Nori 可以学会这个任务，帮你洗画笔，甚至在你弹吉他时帮你翻乐谱。它出厂就能做洗碗、叠衣服、收拾房间这些家务，但更重要的是，任何人都可以训练它学习新任务。Nori 用轮子底座和升降结构，不用昂贵的腿部，所以成本低且更可靠。它已经开始接受预订，六周内就有一万美元收入，说明市场有真实需求。",
-          "rank": 7
-        },
-        {
-          "id": 31294,
-          "name": "Dispatch",
-          "url": "https://dispatch.space/",
-          "sourceUrl": "https://www.ycombinator.com/companies/dispatch",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Satellites for Manufacturing in Space",
-          "originalDescription": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck. We just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg To scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
-          "story": "这家公司做的是可回收的再入飞行器，用于在太空制造高价值材料并送回地球。想象你是一家半导体公司的工程负责人，想在微重力环境下制造更完美的晶体，但苦于没有可靠且便宜的方式把产品带回来。Dispatch 正在测试他们的隔热罩，能承受以二十倍音速再入大气层的高温，而且他们是在公寓里造的，成本比竞争对手便宜一百倍。他们还在规划轨道上的自动化空间站，实现无人值守的制造。这个方向很前沿，但团队已经用火箭发动机模拟了再入环境，测试成功，说明技术有可行性。",
-          "rank": 8
-        },
-        {
-          "id": 31435,
-          "name": "Lumius",
-          "url": "https://www.lumius-imaging.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/lumius",
-          "location": "Durham, NC, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Fast, smart, accessible 3D ultrasound that anyone can use",
-          "originalDescription": "Ultrasound today is still mostly 2D. Clinicians have to imagine the 3D anatomy in their head while also moving the probe at the same time. This makes procedures like vascular access hard to learn and perform consistently, especially for beginners. ~50% fail on their first attempt. Hospitals also spend millions each year on 2D ultrasound training. Meanwhile, existing 3D ultrasound devices can cost >10× as much. Lumius is building fast, smart, and accessible 3D ultrasound systems to eliminate this 2D guesswork. Our technology shows a clear, real-time 3D view of what’s inside the body. It works over a large volume, not just a thin slice. The device is also affordable, compact, and portable. We are starting with vascular access, especially central line. Future use cases include blood clot detection, tumor diagnosis, and biopsy guidance. Our long-term vision is a universal 3D ultrasound platform that brings easy-to-use, real-time imaging to a wide range of clinical and eventually consumer applications.",
-          "story": "这家公司做的是快速、智能且价格合理的 3D 超声设备。现在的超声大多是 2D 的，医生需要一边移动探头，一边在脑子里想象三维结构，这对新手来说很难，比如做中心静脉置管时，第一次尝试失败率高达百分之五十。假如你是急诊科医生，经常需要在紧急情况下快速找到血管，Lumius 的设备能直接显示清晰的三维图像，而且覆盖体积大，不是只显示一个切面。它比传统 3D 超声便宜很多，体积小，便携。他们从血管通路开始，未来可能用于血栓检测、肿瘤诊断和活检引导。",
-          "rank": 9
-        },
-        {
-          "id": "hardware-oura",
-          "name": "Oura",
-          "url": "https://ouraring.com/",
-          "sourceUrl": "https://ouraring.com/",
-          "location": "Unknown",
-          "source": [
-            "Smart hardware watchlist"
-          ],
-          "tags": [
-            "Smart Hardware",
-            "Design",
-            "Health"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Smart ring for sleep, readiness, and health tracking.",
-          "originalDescription": "Oura builds a smart ring that collects sleep and body signals, then helps users understand recovery, readiness, and longer-term health patterns.",
-          "story": "这家公司做的是智能戒指，用来追踪睡眠、身体恢复和整体健康。想象你是一个注重健康的上班族，每天戴着戒指睡觉，早上起来打开应用，就能看到昨晚的睡眠质量、心率变异性等指标，以及一个综合的恢复分数。Oura 戒指小巧轻便，不像手表那样显眼，可以全天候佩戴，包括睡觉时。它通过传感器收集身体信号，帮助你了解自己的状态，调整作息和训练计划。它不是手机应用，因为戒指能更贴近身体，持续监测生理数据，这是手机做不到的。Oura 在健康追踪领域已经相当知名，被很多人视为必备的健康工具。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "TechCrunch AI-aHR0cHM6Ly90",
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-          "source": "TechCrunch AI",
-          "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-          "story": "当一家人工智能公司公开说，为了安全考虑放慢了一款模型的研发速度，很多人第一反应是：产品又要延期了。但如果你在团队里负责技术选型，或者正打算把某个模型集成到自己的服务里，这句话其实比任何发布公告都重要。它意味着这家公司对风险的判断，可能和你对交付节奏的期待并不一致。这篇报道值得读，因为它把这种矛盾摆到了台面上。读的时候，可以留意作者是怎么描述安全考量的，是具体的技术问题，还是更宽泛的担忧，以及这些说法对下游开发者意味着什么。"
-        },
-        {
-          "id": "hn-49217022",
-          "title": "Show HN: Jobman – nohup with retries, timeouts, and dependencies",
-          "url": "https://github.com/ryancswallace/jobman",
-          "source": "Hacker News",
-          "published": "2026-08-07T22:31:50Z",
-          "story": "在服务器上跑一个长时间任务，最怕的就是半夜它悄悄断了，第二天早上才发现。nohup 能救急，但没法处理重试，更别提任务之间的先后顺序。如果你也经历过这种手忙脚乱，看到这个叫 Jobman 的小工具，大概会会心一笑。它出现在 Hacker News 上，说明不少工程师都有类似的痛点。这篇讨论值得一看，倒不是因为它多复杂，而是它反映了大家怎么用简单办法解决日常麻烦。读的时候可以想想，作者设计的重试和超时逻辑，是不是真的贴合实际场景，还是只解决了纸面上的问题。"
-        },
-        {
-          "id": "Lightspeed-aHR0cHM6Ly9s",
-          "title": "Phil Duggan",
-          "url": "https://lsvp.com/founder/phill-duggan/",
-          "source": "Lightspeed",
-          "published": "Fri, 07 Aug 2026 19:40:21 +0000",
-          "story": "投资机构的官网上挂出一位合伙人的介绍，看起来不过是例行公事。但如果你在创业，或者正在找钱，这类页面其实是了解投资人思路的窗口。它不会直接告诉你该怎么做，但字里行间会透出对方看重什么，是增长、团队，还是某种特定的技术方向。这篇关于 Phil Duggan 的介绍来自 Lightspeed，值得花几分钟读一读，因为它可能帮你判断这位投资人是不是适合你的项目。读的时候，别只看头衔和过往经历，留意他提到的案例和观点，那才是真正透露偏好和判断力的地方。"
         }
       ]
     }
