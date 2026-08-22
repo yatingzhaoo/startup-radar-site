@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-21T07:55:09.065Z",
+  "updatedAt": "2026-08-22T07:44:30.959Z",
   "readings": [
+    {
+      "key": "blog.cloudflare.com/bot-preference-sync",
+      "title": "Say it once: introducing Bot Preference Sync",
+      "url": "https://blog.cloudflare.com/bot-preference-sync/",
+      "usedAt": "2026-08-22",
+      "site": "startup-radar"
+    },
+    {
+      "key": "latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "usedAt": "2026-08-22",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "usedAt": "2026-08-22",
+      "site": "startup-radar"
+    },
     {
       "key": "paulgraham.com/badeconomy.html",
       "title": "Why to Start a Startup in a Bad Economy (2008)",

@@ -1,7 +1,249 @@
 {
-  "generatedAt": "2026-08-21T07:55:09.063Z",
+  "generatedAt": "2026-08-22T07:44:30.957Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-22",
+      "companies": [
+        {
+          "id": 32262,
+          "name": "Alkera AI",
+          "url": "https://alkera.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/alkera-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Data Science",
+            "Data Engineering",
+            "Enterprise Software"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Reliable and safe data engineering and data science agents",
+          "originalDescription": "Alkera is a data engineering/analysis/science agent that works in your IDE or CLI. If you’re tired of agents that produce false, or even dangerous, reports about your data, then Alkera is for you. Our agent is equipped with your data’s history and lineage, your team’s knowledge, and tailored plugins for data apps such as Snowflake and dbt. Simply install and connect your services to begin doing trusted agentic data work. We also offer VPC & on-prem deployment options for when data can't leave your boundary.",
+          "published": "",
+          "story": "这是一家做数据工程和数据分析智能体的公司。想象你是一位数据工程师，每天要处理大量数据请求，最怕智能体给出错误甚至危险的分析报告。Alkera 的智能体直接运行在你的开发环境或命令行里，它了解你的数据历史和数据血缘，还带着你团队的知识，以及针对 Snowflake 和 dbt 这类数据应用的定制插件。你只需安装并连接服务，就能开始可信的智能体数据工作。它还提供 VPC 和本地部署选项，当数据不能离开你的边界时也能用。这家公司来自 YC 夏季 2026 批次，团队只有三个人，但专注于解决智能体在数据领域可靠性的痛点。",
+          "rank": 1
+        },
+        {
+          "id": 30859,
+          "name": "Locus",
+          "url": "https://paywithlocus.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/locus",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Finance",
+            "AI"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Payment infrastructure for AI agents",
+          "originalDescription": "We make your agents pay. As agents evolve from tools into dependable, autonomous actors, they’ll need the ability to execute open-ended workflows end-to-end. This inevitably means payments: accessing paywalled data, transacting for services or with other specialist agents. But autonomy requires guardrails. Businesses and developers will need a way to ensure their agents only spend how much and on what they’re supposed to. The machine economy is coming, and Locus (YC F25) is building the connector businesses will need to participate. We connect agents securely to funds, letting you define permissions and limits for every transaction. Each payment is traceable, auditable, and fully reconcilable with your existing financial stack.",
+          "published": "",
+          "story": "Locus 做的是人工智能智能体的支付基础设施。想象你是一个开发智能体的工程师，你的智能体需要访问付费数据、购买服务，或者与其他智能体交易，但你又担心它乱花钱。Locus 让你可以为每一笔交易设定权限和限额，智能体只能花你允许的金额，而且每笔支付都可追踪、可审计，并和你现有的财务系统对账。这家公司来自 YC 秋季 2025 批次，团队两人，他们看到了机器经济的到来，正在建设连接器，让企业和开发者安全地参与其中。",
+          "rank": 2
+        },
+        {
+          "id": 31311,
+          "name": "Cardinal",
+          "url": "https://trycardinal.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/trycardinal-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 0,
+          "originalOneLiner": "Revenue Agents for GTM teams",
+          "originalDescription": "Hey YC! We're Devi and Jianna - the founders of Cardinal. Hey guys! We’re launching Cardinal publicly today - co’s like Mintlify, Deepgram, Giga, etc. use us to build revenue agents & design how they sell. The Problem “Spray and Pray” outbound is dead. The best teams at outbound do it with extreme precision. Finding things in common with your customers, staying in touch with them through their content, mapping inbound from signups and ads, tracking website visitors, monitoring various signals, etc. This sounds great in theory, but in reality involves stringing together 10+ tools and hiring a GTM engineer. That’s where Cardinal comes in. Cardinal is an AI platform for precision outbound. Our agents can create workflows that normally require the work of fulltime GTM engineers. If you're a founder or sales leader looking to bring AI into your sales org, would love to chat!",
+          "published": "",
+          "story": "Cardinal 是一个面向销售团队的人工智能收入智能体平台。想象你是一家公司的销售主管，你发现传统的盲目外呼已经失效，顶尖团队都在做精准外呼，但你需要整合十多个工具，还要雇一个专门做销售运营的工程师。Cardinal 的智能体能帮你创建工作流，完成以前需要全职销售运营工程师才能做的事情，比如寻找与客户的共同点、跟踪他们的内容、映射注册和广告带来的线索、监控网站访客等。这家公司来自 YC 冬季 2026 批次，正在招聘，已经有一些公司如 Mintlify、Deepgram、Giga 在使用。",
+          "rank": 3
+        },
+        {
+          "id": 31393,
+          "name": "KelAI",
+          "url": "https://kelaitech.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/kelai",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
+          "originalDescription": "Founded by former WorldQuant portfolio manager & head of event driven systematic strategies Jeremie Cohen, KelAI is building the autonomous alpha engine for hedge funds, traders and institutional investors. Investment teams now have more data, tools and compute than ever, but research still runs across siloed systems and inefficient workflows. KelAI turns that fragmented process into a compounding AI-native engine that continuously finds, tests and validates trading signals at a pace no human team can match.",
+          "published": "",
+          "story": "KelAI 正在为基金和交易者构建自主的阿尔法引擎。想象你是一位量化研究员，每天面对海量数据，但研究过程分散在不同的系统和低效的工作流中。KelAI 把这个碎片化的过程变成一个持续发现、测试和验证交易信号的引擎，速度远超人类团队。这家公司由前 WorldQuant 投资组合经理创立，来自 YC 春季 2026 批次，团队三人，正在招聘。",
+          "rank": 4
+        },
+        {
+          "id": 31552,
+          "name": "Arctic Health",
+          "url": "https://arctic.health",
+          "sourceUrl": "https://www.ycombinator.com/companies/arctic-health",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "AI-native credentialing and contracting for healthcare",
+          "originalDescription": "Arctic Health is building AI-native credentialing and contracting for healthcare organizations. We automate the full workflow, from establishing payer contracts to enrolling each provider. We collect and validate organization and provider data according to each state and payer’s requirements, and submit on the organization's behalf. We then monitor status and compliance on an ongoing basis. Tools on the market today either perform small pieces of the workflow or price out small and mid-sized organizations. We handle the process end-to-end regardless of organization type or size. Our browser automations enable AI agents to submit and monitor across hundreds of payer portals, and our system is trained by experienced industry experts who handle every edge case. Healthcare organizations get one simple platform. We handle the rest.",
+          "published": "",
+          "story": "Arctic Health 做的是面向医疗机构的人工智能原生的认证和签约服务。想象你是一家小型诊所的运营负责人，你需要与保险公司签约，并为每位医生完成认证，这个过程繁琐且要求严格。Arctic Health 自动化了整个流程，从建立付款人合同到注册每个提供者，它收集和验证组织与提供者数据，根据各州和付款人的要求提交，并持续监控状态和合规性。它的浏览器自动化让智能体可以在数百个付款人门户上提交和监控，系统由经验丰富的行业专家训练，处理各种边缘情况。这家公司来自 YC 春季 2026 批次，团队四人。",
+          "rank": 5
+        },
+        {
+          "id": 31485,
+          "name": "ANORIA",
+          "url": "https://www.anoria.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/anoria",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "The first wearable that reads your emotions to enhance your EQ.",
+          "originalDescription": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
+          "published": "",
+          "story": "ANORIA 是一款能读取你情绪的可穿戴设备，旨在提升你的情商。想象你是一个工作压力很大的咨询顾问，你每天要开很多会，你总感觉自己的情绪影响表现，但你不清楚具体是为什么。ANORIA 能理解你的感受，告诉你原因，并建议你如何应对。它不只是一个手机应用，而是把能力放进一个设备里，让你随身佩戴，实时捕捉生理信号，从而训练你的情绪智力。这家公司来自 YC 春季 2026 批次，团队五人，正在招聘。",
+          "rank": 6
+        },
+        {
+          "id": 36084,
+          "name": "Covera",
+          "url": "https://www.covera-agents.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/covera",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AIOps"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "AI-native OS for insurance brokers",
+          "originalDescription": "Covera builds AI agents for insurance brokers. Our ready-to-use agents take over the day-to-day servicing work: submission intake, carrier quoting, quote comparison, claims handling, past-due collections, and account rounding. That means brokers can spend their time advising and selling clients instead of doing data entry. We work with agencies of every size and connect natively to the tools they already use.",
+          "published": "",
+          "story": "Covera 为保险经纪人构建人工智能智能体。想象你是一个保险经纪人，你每天要处理大量日常服务工作，比如提交申请、获取报价、比较报价、处理索赔、追讨逾期款项，这些繁琐的数据录入占用了你大量时间。Covera 的智能体可以接管这些工作，让你专注于为客户提供建议和销售。这家公司来自 YC 秋季 2026 批次，团队两人，正在招聘，它连接经纪人已经使用的工具，并适用于各种规模的机构。",
+          "rank": 7
+        },
+        {
+          "id": 30635,
+          "name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
+          "url": "https://gru.space",
+          "sourceUrl": "https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space",
+          "location": "Los Angeles, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Moon Hotel -> The Intergalactic Construction Company of Earth",
+          "originalDescription": "GRU Space is building permanent lunar infrastructure to make humanity interplanetary within our lifetime, starting with the first hotel on the Moon. In just 6 weeks, we built the world's first Moon factory: patent-pending hardware that turns lunar regolith into bricks and inflates modular pressurized habitats designed to withstand lunar temperature and pressure extremes. Our first mission lands on the Moon in 2027 to demonstrate in-situ brick manufacturing and habitat deployment. A second mission lays the hotel's foundation inside a lunar cave, and a third opens the first lunar hotel, targeted for 2032. We don’t stop at Moon hotels. GRU’s long-term plan: 1. Build the first hotel on the Moon. GRU solves off‑world surface habitation. 2. Become the Moon Base Company of America: build roads, mass drivers, warehouses, and physical infrastructure. 3. Repeat on Mars and build the first cities there. 4. Own property on the Moon and Mars as these economies grow. 5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond—reaching our final form: Galactic Resource Utilization. GRU Space is backed by investors in SpaceX and Anduril, is part of Nvidia's Inception program, and our launch generated 1B+ views across 60+ countries, earning invitations to the White House, Senate, and Pentagon.",
+          "published": "",
+          "story": "GRU Space 正在建设月球永久基础设施，目标是让人类在你有生之年成为跨行星物种。想象你是一位月球基地的工程负责人，你需要在月球表面建造能抵御极端温度和压力的栖息地。GRU Space 开发了专利硬件，可以把月球风化层变成砖块，并充气展开模块化加压栖息地。它的首个任务计划在 2027 年登陆月球，演示现场制砖和栖息地部署。这家公司来自 YC 冬季 2026 批次，团队五人，正在招聘。",
+          "rank": 8
+        },
+        {
+          "id": 30623,
+          "name": "Playgent",
+          "url": "https://useplaygent.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/playgent",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "SaaS",
+            "Infrastructure",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Sandboxes for AI agents",
+          "originalDescription": "When enterprise agents fail in production, the conditions that caused the failure are critical: user state, data, tool calls, and context. Without a way to recreate these conditions, teams can't fix what broke. Playgent provides infrastructure to create high-fidelity sandbox environments for AI agents. Our environments come packaged as a single MCP url where tool calls are mocked, authentication is abstracted away, and test data can be initialized via natural language or JSON specifications. Teams can use Playgent to reproduce production failures in safe, scoped environments that accurately reconstruct state. Finally, export runs as OTel traces from Playgent's environment to plug directly into your observability tools or RL pipelines.",
+          "published": "",
+          "story": "Playgent 为人工智能智能体提供沙盒环境。想象你是一个负责企业智能体运维的工程师，当智能体在生产环境失败时，你需要重现当时的用户状态、数据、工具调用和上下文，否则无法修复。Playgent 提供高保真沙盒，你可以用自然语言或 JSON 初始化测试数据，工具调用被模拟，认证被抽象，让你安全地重现故障。它来自 YC 夏季 2025 批次，团队两人，专注于解决智能体在生产环境中的可观测性问题。",
+          "rank": 9
+        },
+        {
+          "id": 32260,
+          "name": "Manifold",
+          "url": "https://www.manifoldindustries.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/manifold-2",
+          "location": "Los Angeles, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hardware",
+            "Warehouse Management Tech",
+            "Robotics",
+            "Logistics",
+            "Supply Chain"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Low-cost, deployment-ready robotic labor for warehouses",
+          "originalDescription": "The US Warehouse industry spends $75bn on labor each year. Yet, only 10% of US warehouses have any form of automation, because existing robotics are too expensive and hard to integrate. Manifold deploys autonomous robots that handle picking, loading / unloading, and palletizing — priced by pick. Integration in hours. No upfront costs. No retrofitting. No need to rebuild the operation around the robot. Our mission is to make it easy for any warehouse to adopt robotics.",
+          "published": "",
+          "story": "Manifold 为仓库提供低成本的机器人劳动力。想象你是一个仓库主管，你每年在劳动力上花费巨大，但现有机器人太贵且难以集成，所以只有少数仓库实现了自动化。Manifold 部署自主机器人，负责拣选、装卸和码垛，按件计费，集成只需几小时，无需前期成本，也无需改造现有运营。这家公司来自 YC 夏季 2026 批次，团队两人，他们想让任何仓库都能轻松采用机器人。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "Latent Space-aHR0cHM6Ly93",
+          "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+          "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+          "source": "Latent Space",
+          "published": "Sat, 22 Aug 2026 07:36:00 GMT",
+          "story": "做人工智能的人经常被算力账单吓一跳，训练一次模型的钱够买好几辆车。于是有人开始琢磨，能不能不真跑那么多遍，先在电脑里模拟一个世界，让模型在里面练手。这篇讲的就是这种思路为什么突然流行起来。它不直接说哪个技术更厉害，而是把成本、速度和效果放在一起比，让人看清一条新的取舍路径。读的时候可以留意作者怎么解释“便宜”和“好用”之间的关系，以及哪些公司会最先尝到甜头。"
+        },
+        {
+          "id": "TechCrunch-aHR0cHM6Ly90",
+          "title": "Michael Polansky is training an AI model on skin that’s still alive",
+          "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+          "source": "TechCrunch",
+          "published": "Sat, 22 Aug 2026 01:31:04 +0000",
+          "story": "你可能听说过用照片训练人工智能，但有没有想过，直接拿还活着的皮肤组织来训练？这不是科幻片，而是真有人在做的事。听起来有点吓人，但背后其实是在解决一个实际问题：机器怎么理解真实的触感，而不是纸上画的示意图。这篇报道带我们走进这个有点前沿的实验室，看他们怎么把生物样本变成数据。读的时候不用急着评判伦理，先看科学家如何把复杂的生物过程拆成模型能学的东西，这个思路本身就很值得琢磨。"
+        },
+        {
+          "id": "Cloudflare-aHR0cHM6Ly9i",
+          "title": "Say it once: introducing Bot Preference Sync",
+          "url": "https://blog.cloudflare.com/bot-preference-sync/",
+          "source": "Cloudflare",
+          "published": "Fri, 21 Aug 2026 23:19:57 GMT",
+          "story": "运营网站的人都有这种经历：明明设置了拦截爬虫，结果换了个浏览器，设置就失效了，还得重新配一遍。这种重复劳动特别烦人，尤其是在不同工具之间来回切换的时候。这篇讲的就是Cloudflare怎么解决这个痛点，让偏好设置能自动同步。它不只是在说一个功能，更像是在讲一个团队如何发现用户真正卡住的地方，然后动手修好。读的时候可以看看他们怎么描述问题，以及为什么这个看似简单的同步，做起来其实没那么容易。"
+        }
+      ]
+    },
     {
       "date": "2026-08-21",
       "companies": [
@@ -3172,242 +3414,6 @@
           "source": "SaaStr",
           "published": "Sat, 08 Aug 2026 10:30:18 +0000",
           "story": "很多做软件订阅的公司，都遇到过这样的头疼事：客户用着用着，套餐不合适了，得给他们重新分级。这活儿听起来简单，做起来却要协调好几个部门，常常一忙就是几个月。Backstory 这家公司居然三天就搞定了，而过去他们五个团队要忙一个季度。这种对比很吸引人，对吧？这篇文章讲的就是他们怎么做到的。读的时候，你可以特别留意他们到底改变了哪个环节，是用了新工具，还是换了思路，这比单纯看结果更有启发。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "companies": [
-        {
-          "id": 31241,
-          "name": "Corelayer",
-          "url": "https://www.corelayer.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/corelayer",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "B2B",
-            "Enterprise Software",
-            "AI"
-          ],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "AI production engineer for regulated industries",
-          "originalDescription": "Corelayer is the AI-native platform for production software support, built for regulated industries like finance and healthcare. It continuously monitors alerts, logs, infrastructure, and underlying data for issues and uses agents to debug and suggest fixes. We're helping SRE, production services, and on-call engineers at companies ranging from growth-stage fintechs to Fortune 500 financial institutions spend less time on support and more on high-leverage work.",
-          "story": "Corelayer 是一家面向金融、医疗等受监管行业的人工智能生产支持平台。想象你是一家成长型金融科技公司的值班工程师，半夜被警报吵醒，日志、基础设施和数据里的问题让你焦头烂额。Corelayer 会持续监控这些信号，用智能体自动调试并给出修复建议，让你从繁琐的支持工作中解脱出来，把时间花在更有价值的事情上。它来自 YC 冬季批次，团队虽小，但瞄准的是财富五百强金融机构也在头疼的痛点，值得关注。",
-          "rank": 1
-        },
-        {
-          "id": 33673,
-          "name": "Caution",
-          "url": "https://caution.co",
-          "sourceUrl": "https://www.ycombinator.com/companies/caution",
-          "location": "George Town, George Town, Cayman Islands",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Cybersecurity",
-            "Cloud Computing",
-            "Infrastructure"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "Hosting platform for software you don't want to get hacked",
-          "originalDescription": "Caution is a hosting platform for software you can't afford to get hacked. It simplifies and extends confidential compute, and lets developers deploy workloads to secure enclaves in minutes and give customers, auditors, and counterparties cryptographic proof that production is running the exact reviewed source code, build, configuration, and runtime - not an opaque binary controlled by a cloud operator or internal admin. Confidential computing hardware exists, but the tooling is too fragmented and incomplete for most teams to use well. Today, attestation often proves only that a binary has a certain hash; it does not prove what source code produced that binary. Building the missing deployment, reproducibility, and verification layer requires specialized security engineering and often locks teams into one cloud or hardware stack. Caution turns that into a simple git-based workflow that builds reproducible enclave images, provisions infrastructure, and lets anyone independently verify what is running. We built Caution after years securing high-risk systems through Distrust, where we worked with hedge funds, custodians, blockchain teams, cloud platforms, and critical grid operators on systems responsible for more than $600B in assets. Again and again, the same problem showed up: teams running mission-critical infrastructure could not reliably prove what was executing in production. As AI, fintech, healthcare, and regulated data collaboration move into the cloud, \"trust us\" is no longer enough. Caution is a general-purpose platform: if it runs on a server, it can run verifiably on Caution. We're starting where trust failures cost the most, but we believe verifiable compute will become the default way software runs, the same way HTTPS became the default way it's served. Infrastructure you can verify, not trust.",
-          "story": "Caution 做的是面向安全敏感软件的托管平台，核心是简化机密计算。假如你是一家公司的安全负责人，要部署一个绝不能泄露密钥或用户数据的服务，传统方式既复杂又难以向审计方证明代码的真实性。Caution 让你用类似 git 的工作流，几分钟内把负载部署到安全飞地，并给出密码学证明，显示运行的就是你审查过的源码，而不是被云运营商控制的二进制。它来自 YC 夏季批次，团队五人，专门解决机密计算工具链碎片化的问题，让安全工程不再被锁定在单一云或硬件栈上。",
-          "rank": 2
-        },
-        {
-          "id": 31464,
-          "name": "Soria",
-          "url": "https://www.soriaanalytics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/soria",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI Financial Research Terminal built for Healthcare (and beyond)",
-          "originalDescription": "Soria is an AI-native Financial Terminal for investors who specialize in a particular sector, starting with healthcare. Our agents convert hundreds of the most important public and private sources into an always-on financial model, reviewed by domain experts and delivered to hedge funds, banks, and asset managers through a terminal UI, MCP, API, warehouse sync, and research feed. Unlike our competitors, we own the data layer and expand bottom-up, one sector at a time - additionally our agents proactively do research on behalf of our clients without them lifting a finger or sharing any data.",
-          "story": "Soria 是一家专注医疗行业的人工智能金融研究终端。想象你是一家对冲基金负责医疗板块的分析师，每天要读几百份研报、会议记录和监管文件，手动更新财务模型。Soria 的智能体会自动把这些公开和私有来源整合成持续更新的财务模型，由领域专家审核后，通过终端界面、接口、数据仓库同步等方式送达到你手里。它来自 YC 春季批次，正在招聘，团队三人，自己拥有数据层，从医疗一个行业自下而上扩展，让投资者不用动手或分享数据就能获得主动研究。",
-          "rank": 3
-        },
-        {
-          "id": 31470,
-          "name": "Tasklet",
-          "url": "https://tasklet.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/tasklet-2",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 8,
-          "originalOneLiner": "Agents that own the work",
-          "originalDescription": "AI chatbots can answer questions, but they can't do your work — they aren't connected to your tools, can't take actions, and stop running when you close the tab. Meanwhile, knowledge workers are still spending most of their day switching between dozens of SaaS apps, manually stitching together workflows that should be automated. Tasklet is the AI agent that actually does the work. It connects to every tool you use — via thousands of built-in integrations, any HTTP API, or MCP servers — and takes real actions on your behalf: pulling reports, updating CRMs, triaging emails, processing data, and more. When it needs a UI, it generates one on the fly. When it needs to crunch numbers or do bulk operations, it writes and runs code in a cloud sandbox. When it needs to interact with a website that doesn't have an API, it uses a real browser. And because it runs in the cloud 24/7, you can set up triggers to have it take ongoing responsibility for workflows — not just do something once, but handle it going forward. The product is deliberately simple: a chat interface where you talk to an extremely capable agent. But underneath that simplicity is a cloud-native agent runtime, best-in-class context engineering, a universal connections layer, and multi-model support that keeps us on the frontier as AI improves. We think legacy SaaS is being unbundled by agents, and Tasklet is the operating system that ties it all together.",
-          "story": "Tasklet 做的是能真正干活的智能体，而不是只会聊天的机器人。想象你是一个运营主管，每天要在十几个 SaaS 应用之间切换，手动把报表、客户关系管理更新、邮件分类这些流程串起来。Tasklet 连接你用的所有工具，通过内置集成、接口或 MCP 服务器，替你执行实际操作：拉取报表、更新客户关系管理、处理邮件、处理数据。它需要界面时就现场生成，需要算数或批量操作时就写代码在云端沙箱运行，需要操作没有接口的网站时就用真实浏览器。因为它在云端 7x24 小时运行，你可以设置好任务让它持续工作。它来自 YC 春季批次，团队八人，正在招聘，解决的是知识工作者每天浪费大量时间在手动拼接工作流上的问题。",
-          "rank": 4
-        },
-        {
-          "id": 32650,
-          "name": "Risklytics",
-          "url": "https://www.risklytics.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/risklytics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hardware",
-            "Machine Learning",
-            "B2B",
-            "Insurance",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Commercial Insurance Brokerage for Frontier Tech",
-          "originalDescription": "Risklytics is a commercial insurance brokerage for frontier tech: robotics, autonomy, data centers, and energy infrastructure. Insurers are writing AI exclusions into standard liability forms, so companies whose products act in the physical world end up holding risk they thought they had transferred. We specialize in that gap, and we know which carriers in the admitted and surplus lines markets will still underwrite it. If you're building anything that moves, lifts, drives, or powers something, we'd like to talk.",
-          "story": "Risklytics 是一家面向前沿科技的商业保险经纪公司，专攻机器人、自动驾驶、数据中心和能源基础设施。想象你是一家自动驾驶公司的风险负责人，产品即将上路，却发现标准责任险里写入了人工智能免责条款，原本以为转移的风险其实还在自己手里。Risklytics 熟悉哪些保险公司在认可市场和超额市场仍愿意承保这类风险，帮你填补这个缺口。它来自 YC 夏季批次，团队两人，虽然规模小，但切中了物理世界产品面临的真实保险难题，值得关注。",
-          "rank": 5
-        },
-        {
-          "id": 31141,
-          "name": "OctaPulse",
-          "url": "https://www.tryoctapulse.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/octapulse",
-          "location": "Unknown",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "CV and robotics to automate quality inspection in fish farms",
-          "originalDescription": "OctaPulse uses AI vision to automate hatchery QA for fish farms, starting with broodstock phenotyping and juvenile deformity inspection. We cut inspection time from about 5 minutes to under 30 seconds per fish, with more than 90 percent accuracy, so farms advance only high quality fish and waste less feed and labor. Our goal is to bring automation across the entire fish production lifecycle for the $300B aquaculture industry. Aquaculture is the fastest growing food sector, and has already surpassed commercial fishing for production of seafood. Yet two of the most critical QA and QC steps in fish production are still done by hand: phenotyping and deformity inspection. These processes are slow, error prone, and despised by technicians but vital for the success of the farm, so much so that farms spend >$200K a year on trained technicians and geneticists to operate. We’ve built an AI vision platform for vertically integrated finfish farms that drops into existing workflows starting in the hatchery, uses off the shelf cameras, standardizes these QA steps, and creates a proprietary multi species dataset that becomes the brain for future autonomous aquafarms. Phenotyping is the start, but the platform is designed to be a drop in solution that can easily expand into feeding, health monitoring, and processing so we can solve production problems across the lifecycle. We signed a 6-figure paid pilot with the largest trout producer in the United States, are deploying into 2 more farms early 2026, and trained models above 90 percent accuracy while cutting inspection time from 5 minutes to under 30 seconds. Each deployment adds labeled images to our dataset and improves cross species generalization.",
-          "story": "OctaPulse 用计算机视觉和机器人技术自动检查鱼苗质量，面向水产养殖业。想象你是一家养鱼场的质检员，每天要手工给鱼做表型鉴定和畸形检查，每条鱼要花五分钟，又慢又容易出错，但这对鱼场成功至关重要。OctaPulse 把每条鱼的检查时间缩短到三十秒以内，准确率超过九成，让鱼场只保留优质鱼苗，节省饲料和人工。它来自 YC 冬季批次，团队两人，瞄准的是三千亿美元的水产养殖行业，这是增长最快的食品领域，而关键的质检环节仍靠人工，因此他们的自动化方案值得关注。",
-          "rank": 6
-        },
-        {
-          "id": "hn-launch-49198464",
-          "name": "ProvenMetal",
-          "url": "https://provenmetal.com",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49198464",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "Design"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) delivers circuit boards in days instead of weeks",
-          "originalDescription": "YC S26) delivers circuit boards in days instead of weeks",
-          "story": "ProvenMetal 是一家来自 YC 夏季批次、通过 Launch HN 发布的公司，它承诺把电路板交付时间从几周缩短到几天。想象你是一个硬件创业公司的工程负责人，产品迭代急需打样，传统 PCB 制造周期长，拖慢研发节奏。ProvenMetal 的快速交付让你能更快验证设计，缩短产品上市时间。虽然团队规模和具体技术细节未披露，但“几天而不是几周”这个承诺，对于依赖快速迭代的硬件团队来说本身就值得关注。",
-          "rank": 7
-        },
-        {
-          "id": "hn-launch-49157997",
-          "name": "Hoplite",
-          "url": "https://hoplite.sh",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49157997",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "AI"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) – Effortlessly deploy cloud coding agents",
-          "originalDescription": "YC S26) – Effortlessly deploy cloud coding agents",
-          "story": "Hoplite 是一家来自 YC 夏季批次、通过 Launch HN 发布的公司，目标是让你轻松部署云端编程智能体。想象你是一个软件团队的负责人，想用人工智能助手帮工程师写代码，但部署和管理这些智能体却费时费力。Hoplite 简化了部署流程，让你能快速在云端运行编程智能体，提升团队效率。尽管具体细节不多，但“轻松部署”这个卖点，对于想尝试人工智能编程又不想折腾基础设施的团队来说，值得关注。",
-          "rank": 8
-        },
-        {
-          "id": "non-yc-anysphere",
-          "name": "Anysphere",
-          "url": "https://www.cursor.com/",
-          "sourceUrl": "https://www.cursor.com/",
-          "location": "Unknown",
-          "source": [
-            "Non-YC watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Design",
-            "Developer Tools"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI code editor that helps developers write, navigate, and change code.",
-          "originalDescription": "Anysphere builds Cursor, a code editor designed around AI-assisted programming, where engineers can ask questions about a codebase and make larger changes with model help.",
-          "story": "Anysphere 是一家非 YC 关注名单上的公司，它开发了 Cursor 这个人工智能代码编辑器。想象你是一个程序员，面对庞大的代码库，想快速理解某个模块的逻辑，或者做一次跨文件的修改。Cursor 让你可以直接用自然语言提问，并借助模型辅助完成更改。它把人工智能深度集成到编辑器中，而不是作为外挂插件，让编程变得更流畅。虽然团队规模和融资情况未知，但 Cursor 在开发者社区已经积累了不少口碑，值得关注。",
-          "rank": 9
-        },
-        {
-          "id": "hn-launch-49099143",
-          "name": "Tokenless",
-          "url": "https://usetokenless.com/",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49099143",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "AI"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) – Automatic model switching to save money",
-          "originalDescription": "YC S26) – Automatic model switching to save money",
-          "story": "Tokenless 是一家来自 YC 夏季批次、通过 Launch HN 发布的公司，它提供自动模型切换服务来节省成本。想象你是一个机器学习平台负责人，每天要调用多家大语言模型接口，不同模型价格差异大，但质量也参差不齐。Tokenless 会自动根据任务类型和预算，选择最合适的模型，在保证质量的同时降低费用。虽然细节不多，但“省钱”这个直接诉求，对于依赖大模型接口的企业来说很有吸引力，值得关注。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "TechCrunch AI-aHR0cHM6Ly90",
-          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-          "source": "TechCrunch AI",
-          "published": "Sat, 08 Aug 2026 21:24:02 +0000",
-          "story": "当你在网上购物、看视频或使用某个应用时，背后可能有一个巨大的数据中心在默默运行。这些设施耗电惊人，甚至可能成为当地最大的污染源。这篇报道讲的就是这样一个计划中的亚马逊数据中心，它可能会成为美国最大的气候污染者。读的时候，不妨想想：我们享受的便利服务，其成本究竟由谁承担？作者是如何呈现这个复杂问题的？"
-        },
-        {
-          "id": "Lenny's Newsletter-aHR0cHM6Ly93",
-          "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
-          "source": "Lenny's Newsletter",
-          "published": "Sat, 08 Aug 2026 17:08:14 GMT",
-          "story": "作为产品经理或创业者，你可能经常为如何找到第一批用户而发愁。写出去的邮件石沉大海，或者好不容易找到的设计伙伴并不合适。这篇社区智慧合集，汇集了很多人实战中的经验，比如怎样让沟通显得真诚，怎么判断什么是真正的护城河。读的时候，可以关注那些具体的小技巧，它们往往比宏大理论更管用。"
-        },
-        {
-          "id": "SaaStr-aHR0cHM6Ly93",
-          "title": "The Simple Math Behind a 3x Venture Fund: Why Your Best Investment Needs to Return the Whole Thing",
-          "url": "https://www.saastr.com/the-simple-math-behind-a-3x-venture-fund-why-your-best-investment-needs-to-return-the-whole-thing/",
-          "source": "SaaStr",
-          "published": "Sat, 08 Aug 2026 14:10:21 +0000",
-          "story": "风险投资听起来很神秘，但背后其实有简单的数学逻辑。为什么基金要追求高回报？为什么最好的那笔投资要能赚回整个基金？这篇文章用直白的方式解释了这些数字。如果你在创业或考虑融资，理解这些能帮你更好地和投资人沟通。读的时候，试着算一算，看看不同规模基金的投资策略有什么不同。"
         }
       ]
     }
