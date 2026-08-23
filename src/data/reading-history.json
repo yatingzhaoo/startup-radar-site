@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-22T07:44:30.959Z",
+  "updatedAt": "2026-08-23T07:45:39.251Z",
   "readings": [
+    {
+      "key": "lennysnewsletter.com/p/community-wisdom-favorite-lennys",
+      "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
+      "usedAt": "2026-08-23",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders",
+      "title": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leaders",
+      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "usedAt": "2026-08-23",
+      "site": "startup-radar"
+    },
+    {
+      "key": "zuse.sh",
+      "title": "Show HN: Zuse\" One agent coordinating 20 Linear issues in worktrees",
+      "url": "https://www.zuse.sh/",
+      "usedAt": "2026-08-23",
+      "site": "startup-radar"
+    },
     {
       "key": "blog.cloudflare.com/bot-preference-sync",
       "title": "Say it once: introducing Bot Preference Sync",
