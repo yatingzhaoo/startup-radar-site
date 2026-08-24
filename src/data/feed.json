@@ -1,7 +1,257 @@
 {
-  "generatedAt": "2026-08-23T07:45:39.249Z",
+  "generatedAt": "2026-08-24T08:03:29.317Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-24",
+      "companies": [
+        {
+          "id": 33838,
+          "name": "Simantic",
+          "url": "https://simantic.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/simantic",
+          "location": "Waterloo, ON, Canada",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Hardware",
+            "Semiconductors",
+            "Electronics",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Firmware simulation for AI agents",
+          "originalDescription": "Simantic is modernizing the embedded firmware industry with hardware simulation developed for the adoption of AI in hardware engineering. Simantic gives both humans and AI the visibility into hardware previously limited by the physical world.",
+          "published": "",
+          "story": "Simantic 是一家为硬件工程提供固件模拟工具的初创公司，它让开发者能在虚拟环境中测试和调试嵌入式系统。想象你是一个嵌入式系统工程师，正在为一款新的智能设备编写固件，但每次调试都要连接物理硬件，不仅速度慢，还经常因为硬件故障而中断工作。Simantic 的模拟平台让你和人工智能智能体都能像操作真实硬件一样访问和控制虚拟设备，大大加快了开发周期。这家公司来自 YC 秋季批次，团队只有 4 人，但正在招聘，他们瞄准的是人工智能在硬件工程中的应用，这可能会改变未来硬件开发的模式。",
+          "rank": 1
+        },
+        {
+          "id": 31261,
+          "name": "Control Seat",
+          "url": "https://www.controlseat.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/control-seat",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Workflow Automation",
+            "Monitoring",
+            "Industrial"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Predictive maintenance on your plant data and sensors.",
+          "originalDescription": "Control Seat builds the hardware and software that helps industrial teams see, understand, and run their operations. Our platform creates one clear source of truth across the plant. It connects the systems teams already use, brings control, monitoring, history, and machine health together, and adds an intelligence layer that continuously watches for meaningful changes. Teams can understand what happened, catch problems earlier, and act before they become downtime. The result is fewer surprises, faster decisions, and less time spent piecing together information across disconnected tools. We work with manufacturers, utilities, energy companies, and other industrial operators modernizing existing facilities or building new ones.",
+          "published": "",
+          "story": "Control Seat 是一家为工业运营提供预测性维护平台的公司，它连接工厂现有的设备和传感器，创建一个统一的操作视图。假如你是一个工厂的运营负责人，每天最头疼的是设备突然停机导致的生产中断，你需要在故障发生前就预见到问题。Control Seat 的平台持续监控机器健康状态，并在异常出现时发出警告，让你能提前采取行动，避免停机。这家公司来自 YC 夏季批次，团队只有 2 人，但他们服务的领域包括制造业、公用事业和能源行业，这些行业对减少意外停机有迫切需求。",
+          "rank": 2
+        },
+        {
+          "id": 31531,
+          "name": "Manicule",
+          "url": "https://manicule.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/manicule",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "AgentRel — Devrel For Agents",
+          "originalDescription": "Manicule does AgentRel. We get companies discovered and used by AI agents. Think DevRel, rebuilt for a world where agents make all the decisions. We own developer documentation and technical content across social channels, end-to-end. We've grown 100% MoM over the last three months to $53K in monthly revenue, with customers like Supermemory, Greptile, Reducto, and Mastra. Getting discovered and used by agents is its own job now, and the market for it is broken. The SEO/GEO SaaS tools just show you data like where you rank in AI answers. The agencies are slow and lack know-how with agents. The one person who could own all of it end-to-end, a DevRel, is nearly impossible to hire: our customers have had roles open for months at $300K+ and still can't find anyone good. We solve all these gaps. Naman has been doing fractional DevRel since he was 13, working with companies like PromptLayer, Brightdata, and Courier.com. Shreyans has been building since 14 — he built an AI app that hit App Store Productivity Trending within a month, and was the founding engineer at Supermemory. We met in high school and have built multiple startups together since.",
+          "published": "",
+          "story": "Manicule 是一家帮助企业被人工智能智能体发现和使用的公司，它提供的服务类似于开发者关系，但面向的是智能体时代。想象你是一个技术内容负责人，你的公司开发了一个优秀的开发者工具，但用户不再通过搜索引擎找产品，而是直接问人工智能助手，你的产品可能根本不会被提到。Manicule 帮你管理文档和技术内容，并优化它们在人工智能回答中的可见性。这家公司来自 YC 春季批次，团队 5 人，正在招聘，最近三个月收入每月增长 100%，月收入达到 5.3 万美元，客户包括 Supermemory、Greptile 等，显示这个新兴市场正在快速增长。",
+          "rank": 3
+        },
+        {
+          "id": 30690,
+          "name": "Flai",
+          "url": "https://www.useflai.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/flai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 23,
+          "originalOneLiner": "We Bring Customers to Your Dealership",
+          "originalDescription": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue. We built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away. The result: No more missed opportunities, no more losing customers to competitors. Our founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges. We're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
+          "published": "",
+          "story": "Flai 是一家为汽车经销商提供人工智能语音助手的公司，它解决经销商在非工作时间错失客户的问题。假设你是一个汽车经销商的销售经理，晚上 8 点后打来的客户电话经常无人接听，而这些客户很可能转向了其他经销商。Flai 的人工智能助手全天候接听电话，安排试驾和保养预约，甚至主动发起召回活动，确保每个潜在客户都不被遗漏。这家公司来自 YC 夏季批次，团队 23 人，正在招聘，创始团队有在 Uber 和 Netflix 工作的背景，他们声称平均每家经销商每年因错过下班后的电话损失高达 100 万美元。",
+          "rank": 4
+        },
+        {
+          "id": 30710,
+          "name": "Manufact",
+          "url": "https://manufact.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/manufact",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "B2B",
+            "Open Source",
+            "Infrastructure",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 6,
+          "originalOneLiner": "Cloud infrastructure for MCP servers and Claude / ChatGPT apps.",
+          "originalDescription": "Manufact is the MCP cloud platform to get your product ready for Claude Connectors marketplace, ChatGPT / Codex plugins store and any AI agent that supports MCP. We're the team behind mcp-use SDK, the open-source framework for building MCP Apps with 10k github stars and 8M+ downloads across python and typescript. It's the fastest and most complete solution for production-ready MCP servers.",
+          "published": "",
+          "story": "Manufact 是一家为 MCP 服务器和 Claude、ChatGPT 应用提供云基础设施的公司，它帮助开发者将产品接入主流人工智能平台。假如你是一个开发者，你开发了一个插件，希望能在 Claude 的 Connectors 市场或 ChatGPT 的插件商店上架，但你需要一个可靠的后端来支持 MCP 协议。Manufact 提供了现成的云平台，让你快速部署和扩展 MCP 服务器。这家公司来自 YC 夏季批次，团队 6 人，正在招聘，他们开发的开源框架 mcp-use 在 GitHub 上有 1 万星标，下载量超过 800 万，说明这个工具已经得到了广泛认可。",
+          "rank": 5
+        },
+        {
+          "id": 32716,
+          "name": "Neuromorphic",
+          "url": "https://www.neuromorphic.vision/",
+          "sourceUrl": "https://www.ycombinator.com/companies/neuromorphic",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Robotics",
+            "B2B",
+            "Biotech",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Building robots to automate wetlabs",
+          "originalDescription": "We are building robots that can work autonomously in existing wet labs. Unlike traditional lab automation, which requires dedicated equipment and fixed workflows, our robot moves between workstations, manipulates existing scientific equipment, transports lab materials, and executes experiments using the same lab infrastructure as a human technician. We make the robots easy to manage through natural interfaces like Slack, email, and phone. Our goal is to make deploying robots in wet labs as easy as onboarding a new employee.",
+          "published": "",
+          "story": "Neuromorphic 是一家制造能在现有湿实验室中自主工作的机器人的公司，它让实验室自动化不再需要昂贵的专用设备。想象你是一个生物技术公司的实验室经理，你希望提高实验效率，但传统的自动化系统需要固定工作流程和专用设备，改造起来非常麻烦。Neuromorphic 的机器人可以在实验台之间移动，操作现有的科学仪器，并通过 Slack 或电子邮件等自然界面进行管理，就像雇佣了一个新的实验员。这家公司来自 YC 夏季批次，团队 3 人，他们专注于让机器人在现有实验室环境中工作，这可能大幅降低自动化门槛。",
+          "rank": 6
+        },
+        {
+          "id": 31092,
+          "name": "Axis",
+          "url": "https://axisanalysis.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/axis-2",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "An AI Copilot for Trading Desks",
+          "originalDescription": "Axis is building an AI Native Trading System, allowing a trader to deploy models that monitor and analyze relevant markets and strategies. We've chosen commodities as our first market. Commodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an AI driven analytical layer for these markets.",
+          "published": "",
+          "story": "Axis 是一家为大宗商品交易员打造人工智能副驾驶的公司，它帮助交易员监控市场并分析策略。想象你是一个大宗商品交易员，每天需要处理大量数据，包括衍生品持仓、炼油厂数据、库存、进出口和地缘政治事件，信息过载让你难以做出及时决策。Axis 的人工智能系统能够持续分析这些市场，并提供洞察。这家公司来自 YC 冬季批次，团队 2 人，他们选择大宗商品作为第一个市场，因为这个市场占全球商品出口的三分之一，交易复杂且信息分散，人工智能分析层可能带来显著优势。",
+          "rank": 7
+        },
+        {
+          "id": 30709,
+          "name": "Novaflow",
+          "url": "https://www.novaflow.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/novaflow",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "The AI data analyst for biology labs",
+          "originalDescription": "Novaflow is the AI data analyst for biology labs. -- Bioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. Researchers at leading institutions like UCSF, Mount Sinai, UC Berkeley, and Harvard are already using Novaflow in their labs.",
+          "published": "",
+          "story": "Novaflow 是一家为生物学实验室提供人工智能数据分析师的公司，它让科学家能用自然语言提问并获得出版级图表。假设你是一个生物信息学研究员，你刚完成一次实验，得到了大量测序数据，但分析这些数据需要数周时间，而且需要编写复杂的代码。Novaflow 让你直接上传数据，用中文或英文提问，几分钟内就能得到可视化结果。这家公司来自 YC 夏季批次，团队 5 人，正在招聘，他们的产品已被 UCSF、哈佛等顶尖机构使用，说明它在生命科学领域有实际价值。",
+          "rank": 8
+        },
+        {
+          "id": 30689,
+          "name": "b12 Labs",
+          "url": "https://b12-labs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/b12-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AI-powered Drug Discovery",
+            "Robotics"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Making hard molecules for Pharma and Biotech",
+          "originalDescription": "b12 makes high-value molecules that are otherwise hard to make. We help pharma companies plan and make new drugs, accelerating early-stage drug discovery from years to months. Andres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (1000+ citations), and won the best paper award at the NeurIPS AI for Science conference. Zlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. Combined, we have an extensive network of hundreds of chemists, automation scientists, and AI 4 Science researchers. We run paid pilots with big pharma companies, demonstrating that our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the iteration cycle.",
+          "published": "",
+          "story": "b12 Labs 是一家为制药和生物技术公司制造难以合成的分子的公司，它结合人工智能和机器人技术加速药物发现。想象你是一个药物化学家，你设计了一个有潜力的候选药物，但合成它需要经过多步复杂的化学反应，传统方法可能耗时数月。b12 的机器人实验室可以自主规划并执行合成实验，将时间缩短到几周。这家公司来自 YC 夏季批次，团队 3 人，正在招聘，创始人之一曾发表过关于人工智能自主合成分子的论文，并获得 NeurIPS 最佳论文奖，他们还与大型制药公司开展了付费试点。",
+          "rank": 9
+        },
+        {
+          "id": 30797,
+          "name": "Veritus",
+          "url": "https://www.veritus.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/veritus",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Lending",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 10,
+          "originalOneLiner": "AI agents for the consumer lending industry",
+          "originalDescription": "Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement. By combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates.",
+          "published": "",
+          "story": "Veritus 是一家为消费贷款行业提供人工智能智能体的公司，它通过语音和全渠道平台处理贷款服务和催收。假如你是一家贷款公司的催收主管，你手下有一批催收员，每天需要打数百个电话，但效率低且成本高。Veritus 的人工智能智能体可以自动与借款人协商还款计划，并通过电话、短信等渠道跟进，无需人工干预。这家公司来自 YC 夏季批次，团队 10 人，正在招聘，他们结合语音人工智能和合规知识，旨在降低催收成本并提高回收率。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "TechCrunch AI-aHR0cHM6Ly90",
+          "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+          "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+          "source": "TechCrunch AI",
+          "published": "Sun, 23 Aug 2026 20:01:36 +0000",
+          "story": "人工智能领域每隔一段时间就会冒出一个神秘的新模型，名字听着像代号，背后的团队却藏在幕布后面。普通用户可能只是在新闻里瞥一眼，觉得又是一场炒作；但真正关心技术走向的人会好奇，是谁在投入巨额算力，又是谁在赌一个还没有公开验证的方向。这篇报道恰好把镜头对准了这样一个新面孔，它想解释的不是模型本身有多厉害，而是它为什么会在此时出现，以及背后站着哪些力量。读的时候，不妨留意作者如何从零星的线索里拼出全貌，又是怎么判断哪些信息是实质，哪些只是烟雾弹。这样你就能明白，一个看似遥远的行业新闻，其实和每个人未来会用到什么工具有关。"
+        },
+        {
+          "id": "SaaStr-aHR0cHM6Ly93",
+          "title": "Stripe Buys OpenRouter for $7B, Anthropic Turns Its First Profit, and Silver Lake Circles Workday at $43B: 20VC x SaaStr",
+          "url": "https://www.saastr.com/stripe-buys-openrouter-for-7b-anthropic-turns-its-first-profit-and-silver-lake-circles-workday-at-43b-20vc-x-saastr/",
+          "source": "SaaStr",
+          "published": "Sun, 23 Aug 2026 12:42:24 +0000",
+          "story": "你可能已经习惯了每天打开手机，用各种应用完成支付、对话或者办公，但很少会去想，这些服务背后正在发生怎样的资本运作。某一天，你会发现一家熟悉的支付公司突然收购了一个小工具，或者一家一直亏损的人工智能公司宣布盈利了，又或者一个老牌软件厂商被传要易主。这些消息凑在一起，容易让人眼花缭乱，但背后其实是同一个逻辑：行业正在重新洗牌。这篇文章把这些看似独立的事件放在一起讨论，像一位老练的观察者，带你看看资本和战略在如何悄悄改变你日常使用的产品。读的时候，可以关注作者怎么把这些交易串成一条线，以及他提醒了哪些容易被忽略的细节，这样你就能对行业的走向有自己的判断。"
+        },
+        {
+          "id": "Lenny's Newsletter-aHR0cHM6Ly93",
+          "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
+          "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
+          "source": "Lenny's Newsletter",
+          "published": "Sun, 23 Aug 2026 12:31:43 GMT",
+          "story": "对很多做销售或者创业的人来说，谈成一笔十万美金以上的企业订单，听起来像是一个遥远的目标，但真正难的不是金额，而是过程中那些琐碎又关键的步骤。你可能已经见过了各种销售技巧，但到了实际推进的时候，还是会卡在某个环节：不知道找谁拍板，不知道报价怎么出，不知道合同怎么谈。这篇文章请来了一位有实战经验的人，她愿意把整个过程一步一步拆开讲。读的时候，不妨把自己代入那个正在跟进大客户的销售角色，看看作者在每一个节点是怎么做决定的，尤其是那些容易被忽略的细节，比如怎么判断客户的真实预算，怎么在多方周旋时保持主动权。这样你学到的就不是空泛的道理，而是能直接用在下一场谈判里的思路。"
+        }
+      ]
+    },
     {
       "date": "2026-08-23",
       "companies": [
@@ -3180,249 +3430,6 @@
           "source": "Latent Space",
           "published": "Tue, 11 Aug 2026 05:16:41 GMT",
           "story": "假设你正打算给自己的工作流引入一个 人工智能 助手，希望它能帮你处理邮件、写报告，甚至规划日程。这时你听说有个新模型，号称能提供“个人超级智能”，而且权重开放，可以自己部署。这篇文章来自 Latent Space，就在讨论这类新发布。它之所以值得一读，是因为它可能帮你判断，这些承诺是否靠谱，以及开放权重到底意味着什么。读的时候，可以关注作者是怎么分析模型能力的，以及他如何看待这些新工具对普通用户的影响。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-10",
-      "companies": [
-        {
-          "id": 33738,
-          "name": "Coasty",
-          "url": "https://www.ycombinator.com/companies/coasty",
-          "sourceUrl": "https://www.ycombinator.com/companies/coasty",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "AIOps",
-            "Developer Tools",
-            "Workflow Automation"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The computer-use agent that doesn't break on real software. We will…",
-          "originalDescription": "Coasty is a computer use agent that does real work inside softwares, companies already run. New web apps, old desktop tools, the legacy systems nobody wants to touch. You hand it a workflow and it owns the outcome. Most agents demo well and break the moment they hit real software. They get 18 steps out of 20 right, misclick once, and everything after is garbage. Coasty catches when it goes off track and fixes itself mid-task instead of starting over. It handles the messy parts, benchmarks never show. Permission dialogs, surprise pop-ups, a modal that steals focus, a page that loads slow. When a vendor pushes an overnight update and moves half the menus, brittle scripts break by morning. Coasty reads the screen instead of recording clicks, so it adapts and keeps going. It also checks its own output and leaves a time-stamped trail you can replay. We won't pretend it gets every task right. Nothing automating this work does. What matters is what happens when something breaks. It catches the mistake, fixes what it can, and flags what it can't so a person can step in. Nothing fails quietly. That's what lets a team trust it on the work where a silent error gets someone fired. We scored 82% on OSWorld, which puts us among the most reliable agents out there. Reliability is the whole product, not a feature.",
-          "story": "Coasty 是一家做计算机使用智能体的公司，专门让软件自动化在真实业务里真正跑起来。想象你是一家公司的运营负责人，每天要处理一堆老旧的内部系统，比如十几年前的桌面工具和没人敢碰的遗留系统。你过去试过自动化工具，但它们总是在关键时刻出错：点错一次按钮，后面全乱套。Coasty 能自己发现跑偏并当场修正，不用从头再来。它靠读屏幕而不是记录点击，所以即使软件半夜更新了界面，它也能适应。它还会检查自己的输出，留下可回放的时间戳记录。这家公司来自 YC 夏季批次，团队只有两个人，但解决的是自动化最头疼的稳定性问题。",
-          "rank": 1
-        },
-        {
-          "id": 30101,
-          "name": "Kilvin",
-          "url": "https://www.kilvin.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/kilvin",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Productivity",
-            "Data Engineering",
-            "Automation",
-            "AI"
-          ],
-          "batch": "Fall 2024",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Custom software for non-technical teams.",
-          "originalDescription": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams. With AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months. No engineers needed on your side. Just software that fits exactly how you work.",
-          "story": "Kilvin 是一家用人工智能为不懂技术的团队定制软件的公司。假如你是一个市场部门的主管，你需要的工具总是和现成的软件对不上，要么功能太多，要么缺关键功能。Kilvin 能在几天内给你做出一个完全贴合你工作流程的定制应用，而不是让你去适应通用产品。你不需要自己养工程师，他们负责全部技术。这些应用放在一个私密又安全的工作空间里，专门按你的方式来。这家公司来自 YC 秋季批次，正在招聘，团队只有三个人，但他们的思路是让每个团队都拥有为自己量身打造的软件。",
-          "rank": 2
-        },
-        {
-          "id": 30946,
-          "name": "Sourcebot",
-          "url": "https://www.sourcebot.dev/",
-          "sourceUrl": "https://www.ycombinator.com/companies/sourcebot",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Open Source"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Helping humans and AI agents understand massive codebases",
-          "originalDescription": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks. Understanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase. Sourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval. We met a decade ago at McGill University and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
-          "story": "Sourcebot 是一个开源的代码理解平台，专门帮助开发者和智能体看懂庞大的代码库。想象你刚加入一家大公司当工程师，面对几百万行代码，光搞清楚结构就要花好几周。Sourcebot 让你能瞬间用正则搜索这些代码，还能用推理模型跨几千个仓库提问，大大加快上手速度。对人工智能智能体来说，它提供必要的代码上下文，减少胡编乱造。它支持本地部署，几分钟就能装好，不用等漫长的审批。这家公司来自 YC 秋季批次，正在招聘，团队三人，已经被英伟达、红帽等大公司使用。",
-          "rank": 3
-        },
-        {
-          "id": 30992,
-          "name": "Amera",
-          "url": "https://amerahealthsolutions.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/amera",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Fall 2025",
-          "isHiring": false,
-          "teamSize": 12,
-          "originalOneLiner": "Automating claims processing workflows for health insurance payers.",
-          "originalDescription": "Amera automates claims processing for health insurance payers. We turn messy claim inputs (PDFs, bills, receipts, EDI and non-standard submissions) into structured data that plugs into existing systems. This cuts manual entry and exception handling, speeding up operations and reducing cost. We are already working with payers / plan administrators representing ~100k members, giving them access to more affordable care options.",
-          "story": "Amera 做的是健康保险理赔流程的自动化。想象你是一家保险公司的理赔处理员，每天要面对一堆乱七八糟的理赔材料：PDF、账单、收据，还有各种非标准格式。Amera 把这些乱七八糟的输入变成结构化数据，直接接入你现有的系统，省掉手动录入和异常处理。这样理赔更快，成本更低。这家公司来自 YC 秋季批次，团队有十二个人，已经和覆盖约十万会员的支付方合作，让更多人能负担得起医疗服务。",
-          "rank": 4
-        },
-        {
-          "id": 31296,
-          "name": "Unifold",
-          "url": "https://unifold.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/unifold",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Multi-chain deposit and payment infrastructure",
-          "originalDescription": "Launch crypto deposits in minutes. Unifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works. If you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.",
-          "story": "Unifold 做的是多链存款和支付基础设施。假如你是一个正在开发消费级链上应用的创业者，最头疼的就是让用户能方便地存钱进来。Unifold 提供开发者优先的接口和软件开发工具包，你用不到十行代码就能接入，支持任何链和代币。它处理整个存款流程，让你的团队能更快上线，用户体验也更顺畅。这家公司来自 YC 冬季批次，团队三人，专门解决链上应用最关键的入门问题。",
-          "rank": 5
-        },
-        {
-          "id": 29753,
-          "name": "Autumn Labs",
-          "url": "https://www.autumnlabs.io/",
-          "sourceUrl": "https://www.ycombinator.com/companies/autumn-labs",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hardware",
-            "Robotic Process Automation",
-            "SaaS",
-            "Robotics",
-            "Manufacturing"
-          ],
-          "batch": "Summer 2024",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Datadog for industrial robots",
-          "originalDescription": "Autumn Labs delivers a developer-friendly platform for monitoring and managing modern manufacturing lines. Seamlessly integrating with robotic stations—automated test stations, robotic assembly cells, and industrial arms—it ensures full traceability, live data monitoring, and secure data transport. We prioritize streamlining factory operations, boosting production quality, and preventing supply chain disruptions, all while offering an effortless onboarding experience for engineers and manufacturers.",
-          "story": "Autumn Labs 做的是工业机器人的监控平台，有点像工业机器人的数据中心。想象你是一个工厂的运营经理，负责一条自动化装配线，上面有测试站和机械臂。你过去很难实时看到每台机器的状态，出了问题也不知道是哪一步。Autumn Labs 能无缝接入这些机器人站，提供完整追踪、实时数据监控和安全的数据传输。它帮你简化工厂运营，提高生产质量，防止供应链中断，而且工程师很容易上手。这家公司来自 YC 夏季批次，团队三人，专注让现代制造更透明。",
-          "rank": 6
-        },
-        {
-          "id": 31418,
-          "name": "Taiga",
-          "url": "https://taigabilling.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/taiga",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Autonomous medical billing",
-          "originalDescription": "Taiga automates medical billing for doctor's offices. A doctor uploads their visit data, our AI figures out the right billing codes, checks the claim for errors, and submits it to insurance, dealing with any denials. Faster billing, fewer rejected claims, less busywork. We're Nanda and Adam, friends since 3rd grade. Both of our parents are doctors with their own practices, and billing was always a source of stress and lost revenue for them. We want providers to treat patients while we handle the rest.",
-          "story": "Taiga 做的是医疗账单的自动化处理。想象你是一个私人诊所的医生，每天看完病人还要花大量时间整理账单，编码、检查、提交保险，被拒了还得重新处理。Taiga 让你上传就诊数据，它的人工智能自动搞定编码、查错、提交，并处理拒赔。这样账单更快，拒赔更少，你也能少做点文书工作。这家公司来自 YC 春季批次，团队两人，创始人的父母都是开诊所的医生，他们深知账单带来的压力和收入损失。",
-          "rank": 7
-        },
-        {
-          "id": 31362,
-          "name": "Discovered Materials",
-          "url": "https://discoveredmaterials.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/discovered-materials",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Semiconductors",
-            "AI"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "AI scientists to discover materials for the semiconductor industry.",
-          "originalDescription": "We use AI to discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents. Akash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies. Power consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going - Discovered Materials will help find them.",
-          "story": "Discovered Materials 用人工智能为半导体行业发现新材料。想象你是一个芯片制造厂的工艺工程师，负责寻找新的材料来解决芯片发热和功耗问题。传统方法要花十年以上的实验室工作，而这家公司用一群人工智能智能体把时间压缩到几个月。他们特别关注数据中心和晶圆厂的需求。创始人之一在斯坦福完成了半导体材料博士，他发现的材料已经被英特尔和台积电采用。这家公司来自 YC 春季批次，正在招聘，团队两人，目标是解决人工智能芯片功耗翻倍带来的材料瓶颈。",
-          "rank": 8
-        },
-        {
-          "id": "hardware-whoop",
-          "name": "Whoop",
-          "url": "https://www.whoop.com/",
-          "sourceUrl": "https://www.whoop.com/",
-          "location": "Unknown",
-          "source": [
-            "Smart hardware watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Smart Hardware",
-            "Health",
-            "Data"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Wearable health and performance tracking hardware.",
-          "originalDescription": "Whoop makes a wearable that tracks recovery, sleep, strain, and health signals, then turns that data into coaching for athletes and everyday users.",
-          "story": "Whoop 做的是可穿戴健康追踪硬件，专门监测恢复、睡眠、压力和心率等信号，然后把这些数据变成训练建议。想象你是一个认真训练的运动员，每天醒来最想知道身体恢复得怎么样，该练还是该歇。Whoop 戴在手腕上，不像手机应用那样只靠你手动输入，它能自动持续监测，把数据变成个性化的恢复指导。它不只是一个手机应用，而是把传感器和算法放进随身设备里，让你在训练和日常生活中都能实时了解自己的身体状态。",
-          "rank": 9
-        },
-        {
-          "id": "non-yc-sierra",
-          "name": "Sierra",
-          "url": "https://sierra.ai/",
-          "sourceUrl": "https://sierra.ai/",
-          "location": "Unknown",
-          "source": [
-            "Non-YC watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Design",
-            "Sales"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI agents for customer service and enterprise workflows.",
-          "originalDescription": "Sierra helps companies build customer-facing AI agents that can answer questions, take actions, and connect to business systems without acting like a generic chatbot.",
-          "story": "Sierra 帮企业构建面向客户的智能体，这些智能体可以回答问题、执行操作，还能连接企业系统，而不是像普通聊天机器人那样只会说套话。想象你是一家电商公司的客服主管，每天要处理大量重复咨询，还要协调退款和订单修改。Sierra 的智能体能理解客户意图，直接调用后端系统完成操作，并且语气自然。它来自非 YC 渠道，但值得关注的是，它把人工智能从聊天提升到真正干活的层面，让客服从繁琐事务中解放出来。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49239997",
-          "title": "Show HN: Lector, a FOSS self-hosted language reader (with a cloud option)",
-          "url": "https://lector.dev/",
-          "source": "Hacker News",
-          "published": "2026-08-10T06:32:33Z",
-          "story": "很多人想学一门新语言，但找材料总让人头疼。网上的文章要么太难，要么太简单，要么没有注释。于是有人自己动手做了个工具，叫 Lector，可以自己托管，也有云服务。它出现在 Hacker News 上，被大家讨论，说明这不是一个人的需求，而是很多自学者的共同痛点。读这篇的时候，可以留意作者是怎么设计阅读流程的，比如怎么处理生词、怎么控制难度，这些细节往往比工具本身更有启发。"
-        },
-        {
-          "id": "TechCrunch AI-aHR0cHM6Ly90",
-          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-          "source": "TechCrunch AI",
-          "published": "Sun, 09 Aug 2026 20:35:17 +0000",
-          "story": "芯片行业一直烧钱，但最近一笔投资特别引人注目：一家叫 Situational Awareness 的对冲基金，投了 4 亿美元给芯片初创公司 Source Foundry。这家基金之前还深陷麻烦，现在却大手笔押注，让人好奇背后的逻辑。可能是看好某个新技术方向，也可能是行业格局要变。读这篇报道时，不妨想想，为什么是现在，为什么是这家公司，以及这笔钱会怎么影响整个产业链。"
-        },
-        {
-          "id": "SaaStr-aHR0cHM6Ly93",
-          "title": "Atlassian Just Deleted Loom&#8217;s Free Creator Seats. They Were Also Loom&#8217;s Distribution.",
-          "url": "https://www.saastr.com/atlassian-just-deleted-looms-free-seats-it-was-also-looms-distribution/",
-          "source": "SaaStr",
-          "published": "Sun, 09 Aug 2026 14:10:21 +0000",
-          "story": "如果你用过 Loom 录屏，最近可能发现免费版不能用了。原来 Atlassian 把免费名额删了，而这些名额恰恰是 Loom 拉新用户的渠道。这就像一家店突然把试吃撤了，顾客还会来吗？SaaStr 这篇文章分析了这个决定背后的逻辑，以及它对 Loom 未来用户增长的影响。读的时候，可以思考一个产品如何平衡免费和付费，以及失去免费入口后，它还能靠什么吸引新用户。"
         }
       ]
     }

@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-23T07:45:39.251Z",
+  "updatedAt": "2026-08-24T08:03:29.319Z",
   "readings": [
+    {
+      "key": "lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
+      "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
+      "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
+      "usedAt": "2026-08-24",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/stripe-buys-openrouter-for-7b-anthropic-turns-its-first-profit-and-silver-lake-circles-workday-at-43b-20vc-x-saastr",
+      "title": "Stripe Buys OpenRouter for $7B, Anthropic Turns Its First Profit, and Silver Lake Circles Workday at $43B: 20VC x SaaStr",
+      "url": "https://www.saastr.com/stripe-buys-openrouter-for-7b-anthropic-turns-its-first-profit-and-silver-lake-circles-workday-at-43b-20vc-x-saastr/",
+      "usedAt": "2026-08-24",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
+      "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "usedAt": "2026-08-24",
+      "site": "startup-radar"
+    },
     {
       "key": "lennysnewsletter.com/p/community-wisdom-favorite-lennys",
       "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
