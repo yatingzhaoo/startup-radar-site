@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-24T08:03:29.319Z",
+  "updatedAt": "2026-08-25T07:56:38.116Z",
   "readings": [
+    {
+      "key": "latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+      "title": "[AINews] Andrew Ng gets into AI Engineering",
+      "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+      "usedAt": "2026-08-25",
+      "site": "startup-radar"
+    },
+    {
+      "key": "stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent",
+      "title": "Inside LinkedIn&#x27;s cognitive memory agent for agentic personalization",
+      "url": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/",
+      "usedAt": "2026-08-25",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones",
+      "title": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
+      "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+      "usedAt": "2026-08-25",
+      "site": "startup-radar"
+    },
     {
       "key": "lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
       "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",

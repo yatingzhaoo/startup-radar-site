@@ -1,7 +1,269 @@
 {
-  "generatedAt": "2026-08-24T08:03:29.317Z",
+  "generatedAt": "2026-08-25T07:56:38.114Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-25",
+      "companies": [
+        {
+          "id": 31141,
+          "name": "OctaPulse",
+          "url": "https://www.tryoctapulse.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/octapulse",
+          "location": "Unknown",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "CV and robotics to automate quality inspection in fish farms",
+          "originalDescription": "OctaPulse uses AI vision to automate hatchery QA for fish farms, starting with broodstock phenotyping and juvenile deformity inspection. We cut inspection time from about 5 minutes to under 30 seconds per fish, with more than 90 percent accuracy, so farms advance only high quality fish and waste less feed and labor. Our goal is to bring automation across the entire fish production lifecycle for the $300B aquaculture industry. Aquaculture is the fastest growing food sector, and has already surpassed commercial fishing for production of seafood. Yet two of the most critical QA and QC steps in fish production are still done by hand: phenotyping and deformity inspection. These processes are slow, error prone, and despised by technicians but vital for the success of the farm, so much so that farms spend >$200K a year on trained technicians and geneticists to operate. We’ve built an AI vision platform for vertically integrated finfish farms that drops into existing workflows starting in the hatchery, uses off the shelf cameras, standardizes these QA steps, and creates a proprietary multi species dataset that becomes the brain for future autonomous aquafarms. Phenotyping is the start, but the platform is designed to be a drop in solution that can easily expand into feeding, health monitoring, and processing so we can solve production problems across the lifecycle. We signed a 6-figure paid pilot with the largest trout producer in the United States, are deploying into 2 more farms early 2026, and trained models above 90 percent accuracy while cutting inspection time from 5 minutes to under 30 seconds. Each deployment adds labeled images to our dataset and improves cross species generalization.",
+          "published": "",
+          "story": "OctaPulse 是一家用人工智能视觉技术为水产养殖场做质量检测的公司。想象你是一个水产养殖场的质检负责人，每天要人工检查成千上万条鱼苗，看它们有没有畸形，还要给种鱼做表型分析。传统方法每检查一条鱼要五分钟，又慢又容易出错，而且请专业技师和遗传学家一年要花二十多万美元。OctaPulse 用计算机视觉和机器人技术，把每条鱼的检查时间缩短到三十秒以内，准确率超过百分之九十。这样你就能快速筛选出优质鱼苗，减少饲料和人工浪费。这家公司来自 YC 冬季 2026 批次，目前团队只有两人，但瞄准的是三千亿美元的水产养殖市场，值得关注。",
+          "rank": 1
+        },
+        {
+          "id": 31147,
+          "name": "Salus",
+          "url": "https://www.usesalus.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/salus",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "B2B",
+            "API",
+            "Infrastructure"
+          ],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Guardrails to validate your agent's actions before they execute",
+          "originalDescription": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that. We’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries.",
+          "published": "",
+          "story": "Salus 是一家做人工智能智能体安全防护的公司。想象你是一个电商平台的后端工程师，你开发的智能体在处理退款时，没有查订单号就执行了操作，导致公司损失了几千美元，而你三小时后才从客服工单里发现。现有的评估和监控工具只能在事后发现问题，Salus 则是在智能体执行动作之前进行拦截。它通过一个接口包裹住你的智能体，在运行时检查每一个动作，阻止错误的操作，并给出即时反馈让智能体重试。这家公司来自 YC 冬季 2026 批次，目前正在招聘，团队两人。对于依赖智能体处理关键业务的公司来说，这种事前防护很值得关注。",
+          "rank": 2
+        },
+        {
+          "id": 30652,
+          "name": "OnDeck AI",
+          "url": "https://www.ondeckai.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/ondeck-ai",
+          "location": "Vancouver, BC, Canada",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Machine Learning",
+            "SaaS",
+            "Computer Vision",
+            "B2B",
+            "Video"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 7,
+          "originalOneLiner": "Analyze any footage, without training a model",
+          "originalDescription": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. Our model, Perception-0, let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data. The Pain: Creating vision models usually takes months: collecting training data, training, then deployment. Worse yet: + it’s often impossible to get enough data for a specific task, and + even the best cv models struggle to generalize across diverse camera setups, workflows and environments. To overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks. Now, our model Perception-0 beats the best VLMs including Gemini at long video understanding. Our current customers include: - National Defense Organizations - Robotics Research - Security cameras - Behaviour analysis for port monitoring - Off-shore oil & gas monitoring",
+          "published": "",
+          "story": "OnDeck AI 是一家做视觉语言模型基础设施的公司。想象你是一个工厂的安全主管，你想用摄像头自动检测工人有没有戴安全帽，但传统计算机视觉模型需要收集大量训练数据，训练好几个月，而且换个摄像头角度就失灵了。OnDeck 的模型 Perception-0 不需要任何训练数据，就能在任意视频中识别物体、行为或事件。他们发表了一篇 NeurIPS 研讨会论文，证明他们的方法在专业任务上超过了传统计算机视觉。这家公司来自 YC 夏季 2025 批次，团队七人，正在招聘。对于想快速部署视觉识别但又不想投入大量数据标注的企业来说，这个方案很有吸引力。",
+          "rank": 3
+        },
+        {
+          "id": 30283,
+          "name": "Confident AI",
+          "url": "https://confident-ai.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/confident-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Generative AI",
+            "Open Source",
+            "AI"
+          ],
+          "batch": "Winter 2025",
+          "isHiring": true,
+          "teamSize": 7,
+          "originalOneLiner": "The LLM Eval and Observability Platform for AI Quality",
+          "originalDescription": "Confident AI provides enterprises an all-in-one platform to evaluate, observe, red team, and govern AI applications. Built by the creators of DeepEval (16k stars, 8m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their AI systems.",
+          "published": "",
+          "story": "Confident AI 是一家做人工智能评估和可观测性平台的公司。想象你是一个机器学习平台组的负责人，你们开发了一个大语言模型应用，但上线前不知道它会不会胡说八道，上线后又很难监控它的表现。Confident AI 提供了一个一站式平台，可以评估、观测、红队测试和治理人工智能应用。它是由开源项目 DeepEval 的开发者创建的，DeepEval 在 GitHub 上有 1.6 万星标，每月下载量八百万。这家公司来自 YC 冬季 2025 批次，团队七人，正在招聘。对于需要确保人工智能系统质量的企业团队来说，这个平台有实战验证的算法，值得关注。",
+          "rank": 4
+        },
+        {
+          "id": 32129,
+          "name": "Egoist Machines",
+          "url": "https://ego.ist/",
+          "sourceUrl": "https://www.ycombinator.com/companies/egoist-machines",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Consumer Products",
+            "AI Assistant",
+            "Databases"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Secure, user-owned context for every AI app",
+          "originalDescription": "The bottleneck for consumer AI is shifting from the model to the personal context that model uses. Models are already capable of completing most tasks for the average user, but consumer AI products still starts cold and have to rebuild an incomplete picture of the same user before they can personalise well. We’re building AI Passport so users can carry the personal context they create through everyday apps into new products, allowing those products to understand them from the first interaction instead of reconstructing the same incomplete picture from scratch. Users decide which parts of their context can move between products, while companies receive better information about their users. Apps integrate AI Passport through a “Sign in with AI Passport” button, then request specific information for a stated purpose and duration rather than receiving broad, permanent access to everything the Passport holds. The user chooses what to share and can revoke access later, which makes the system particularly useful for sensitive health or financial context that may be valuable for a specific interaction but should not remain available indefinitely. To support this permission model, AI Passport uses our own vector database as its memory backend, built for fast, compact per-user memory and cryptographically enforced access control. We’re building first-party apps that give people reasons to create and use their Passport now, while also integrating it into consumer products with existing audiences across hospitality, travel, finance, and lifestyle.",
+          "published": "",
+          "story": "Egoist Machines 是一家做用户个人数据便携性的公司。想象你是一个经常使用各种人工智能应用的用户，每次换一个新应用，它都要从头了解你，推荐总是不准。Egoist Machines 正在构建一个叫 人工智能 Passport 的产品，让你可以把在一个应用里产生的个人背景信息，带到另一个应用里，新应用第一次就能懂你。你可以控制哪些信息可以分享，应用只能申请特定用途和时长的数据访问。这家公司来自 YC 夏季 2026 批次，团队两人。他们想解决人工智能应用个性化中的冷启动问题，让用户真正拥有自己的数据，这个方向值得关注。",
+          "rank": 5
+        },
+        {
+          "id": 31169,
+          "name": "Proximitty",
+          "url": "https://proximitty.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/proximitty",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "AI operating system for commercial loans",
+          "originalDescription": "Proximitty is the AI operating system for commercial loans - we build regulator-grade AI agents that ingest and parse documents, spread financials, automate loan operations and track covenants. We help FDIC-insured banks and fintechs underwrite faster and scale their loan books without scaling costs.",
+          "published": "",
+          "story": "Proximitty 是一家做商业贷款人工智能操作系统的公司。想象你是一家社区银行的风控分析师，每天要处理大量贷款申请，手动阅读财务报表、核对文件、监管合规，忙得焦头烂额。Proximitty 开发了符合监管要求的人工智能智能体，可以自动解析文件、分析财务数据、操作贷款流程，还能监控贷款契约。这样银行就能更快地审批贷款，在不增加人手的情况下扩大贷款规模。这家公司来自 YC 冬季 2026 批次，正在招聘，团队两人。对于受联邦存款保险公司监管的银行和金融科技公司来说，这个工具能显著提高效率。",
+          "rank": 6
+        },
+        {
+          "id": 30747,
+          "name": "Convexia",
+          "url": "https://convexia.bio",
+          "sourceUrl": "https://www.ycombinator.com/companies/convexia",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AI-powered Drug Discovery",
+            "Biotech",
+            "Drug Delivery"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "The world's first AI-maximalist pharma company",
+          "originalDescription": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents. Sourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates. Scientific Agent: Runs comp bio models (ESM-3, RFdiffusion, Boltz-2, AlphaFold) to assess safety and efficacy in silico. Commercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment. Clinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1. PoS Agent: Evaluates the most critical factors that impact the likelihood of clinical trial success. Built by 2 Stanford CS students who have built 3 startups together before.",
+          "published": "",
+          "story": "Convexia 是一家用人工智能做药物研发的公司。想象你是一个生物科技公司的研究主管，你发现了一个有潜力的药物分子，但不知道它能不能通过临床试验，值不值得投入。Convexia 用智能体来评估药物的安全性、有效性、商业前景和临床试验风险。它可以挖掘公共数据库，运行计算生物学模型，分析 FDA 激励政策，甚至模拟临床试验。这家公司由两位斯坦福计算机科学学生创立，他们之前合作过三次创业。来自 YC 夏季 2025 批次，团队四人，正在招聘。他们声称比传统药企快十倍、精简二十倍，这个模式值得关注。",
+          "rank": 7
+        },
+        {
+          "id": 32623,
+          "name": "Omanta",
+          "url": "https://omanta.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/omanta",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Digital Health",
+            "Healthcare",
+            "Health & Wellness",
+            "Oncology",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "A research lab for one",
+          "originalDescription": "Omanta is a personalized research lab for patients who have exhausted standard options, want to prepare proactively for recurrence, or are living with an unresolved diagnosis. We direct the full operational infrastructure, personnel, expertise, and technology of a large research program toward understanding and addressing the challenges of individual patients across oncology, rare disease, and undiagnosed conditions. For clinicians, we act as a collaborative partner, providing a living roadmap for ongoing patient care built on a rigorous and evolving scientific evidence base. We fully operationalize patient-specific research programs, covering tissue logistics, diagnostic follow-up, data integration, multiomic analysis, therapeutic strategy development, and more. Omanta brings context and clarity to complex cases, helping clinicians see more of the scientific picture as they decide how best to care for their patients.",
+          "published": "",
+          "story": "Omanta 是一家为患者提供个性化研究服务的公司。想象你是一个患有罕见病的病人，你试过了所有标准治疗，但都没有效果，医生也束手无策。Omanta 就像一个为你一个人开的科研实验室，它组织人员、设备和技术，专门研究你的病情，包括组织物流、诊断跟进、多组学分析和治疗方案制定。对临床医生来说，它像一个合作者，提供基于科学证据的持续护理路线图。这家公司来自 YC 夏季 2026 批次，团队四人。对于肿瘤、罕见病和未确诊疾病患者来说，这种个性化研究服务可能带来新的希望。",
+          "rank": 8
+        },
+        {
+          "id": 32123,
+          "name": "HERA",
+          "url": "https://www.manufacturingintelligence.org",
+          "sourceUrl": "https://www.ycombinator.com/companies/manufacturingintelligence",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "B2B",
+            "Design",
+            "3D Printing",
+            "Manufacturing",
+            "Industrial"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Hera is the design verification layer for heavy industry.",
+          "originalDescription": "At Hera, we build tools that help heavy engineering teams bring products to market up to 20× faster. Today, we work with manufacturers of data center ancillary equipment, renewable energy systems, robotics, heat exchangers, power plants and pressure vessels.",
+          "published": "",
+          "story": "HERA 是一家为重工业提供设计验证工具的公司。想象你是一个负责数据中心冷却系统设计的工程负责人，你的图纸上有一个尺寸标注错误，直到制造阶段才发现，导致返工和成本超支。HERA 的工具可以帮助你在设计阶段就验证图纸，避免这种问题。他们与数据中心辅助设备、可再生能源系统、机器人、热交换器、发电厂和压力容器的制造商合作。这家公司来自 YC 夏季 2026 批次，团队两人。对于重工业工程团队来说，这种设计验证层可以加快产品上市速度，值得关注。",
+          "rank": 9
+        },
+        {
+          "id": 30741,
+          "name": "F4 Industries",
+          "url": "https://f4.dev/",
+          "sourceUrl": "https://www.ycombinator.com/companies/f4-industries",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hardware",
+            "B2B",
+            "Industrial"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "The GD&T Analysis Platform for Engineering Drawings",
+          "originalDescription": "GD&T takes years to master. Engineers must encode their design intent into a dense syntax that manufacturers must decode, and not everyone gets it right. Put ten engineers in front of the same drawing and you may get ten different interpretations. Which means errors often surface later in interface stack-ups, manufacturing, or in the field - when they’re far more expensive to fix. That’s why we built F4 - the platform that analyzes GD&T to determine whether your designs are ready for production. Drop in your drawing and 3D file. F4 analyzes every element of your GD&T to assess whether your design is clear, manufacturable, and production ready. To make the drawing easier to understand, engineers can visualize their datums, reference frames, and tolerance zones directly on the 3D model. F4 also calculates tolerance stack-ups instantly - directly from the drawing. What once took hours of manual work now takes seconds. When issues are found, F4 flags them and guides engineers toward resolving the problem. After analyzing your drawing, F4 also automatically generates design and inspection reports - stack-up tables, FAI reports - ready to share with your team. And it does all of this locally on-device with no AI used for analysis. Producing deterministic results engineers can trust.",
+          "published": "",
+          "story": "F4 Industries 是一家做工程图纸几何尺寸和公差分析平台的公司。想象你是一个机械设计工程师，你画了一张零件图，但不知道制造厂能不能看懂，也不知道公差会不会导致装配问题。F4 的平台可以分析你的图纸和 3D 模型，检查几何尺寸和公差标注是否清晰、可制造，还能在 3D 模型上可视化基准和公差带，并快速计算公差累积。以前需要几个小时的手工计算，现在瞬间完成。这家公司来自 YC 夏季 2025 批次，团队五人。对于需要确保设计可制造性的工程师来说，这个工具很有价值。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "Stack Overflow Blog-aHR0cHM6Ly9z",
+          "title": "Inside LinkedIn&#x27;s cognitive memory agent for agentic personalization",
+          "url": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/",
+          "source": "Stack Overflow Blog",
+          "published": "Tue, 25 Aug 2026 07:40:00 GMT",
+          "story": "当你打开一个购物网站，发现它记得你上次看过的商品，甚至能猜出你接下来想要什么，你可能会觉得这背后有个聪明的推荐系统。但真正做过这类功能的人知道，难的不是算法，而是怎么让系统记住你的偏好，又不会记错。LinkedIn 最近分享了一个他们正在尝试的思路，用类似记忆的方式来给每个用户建立个性化的认知。这篇文章值得一读，因为它讲的不只是技术方案，而是工程团队在真实产品里怎么权衡隐私、准确性和体验。读的时候可以留意，作者是怎么把抽象的记忆概念拆成具体可操作的模块，以及他们为什么选择这样的架构。"
+        },
+        {
+          "id": "TechCrunch Startups-aHR0cHM6Ly90",
+          "title": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
+          "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+          "source": "TechCrunch Startups",
+          "published": "Tue, 25 Aug 2026 03:30:00 +0000",
+          "story": "在印度拥挤的公路上，卡车运送货物常常被堵在车流里，有时候一堵就是几个小时。有人想到用无人机来送货，但大多数无人机只能带小包裹，飞不远。现在有一家叫 Airbound 的公司拿到了三千七百万美元的投资，想造一种像火箭一样的无人机，用来替代卡车跑长途运输。这个故事有意思的地方在于，它不只是讲融资数字，而是展示了一个创业公司怎么把航空技术和物流需求结合起来。读的时候可以想想，他们为什么觉得无人机能比卡车更划算，以及投资人看中的到底是什么样的市场机会。"
+        },
+        {
+          "id": "Latent Space-aHR0cHM6Ly93",
+          "title": "[AINews] Andrew Ng gets into AI Engineering",
+          "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+          "source": "Latent Space",
+          "published": "Tue, 25 Aug 2026 02:50:57 GMT",
+          "story": "以前做软件的人，主要关心怎么写代码，让程序跑得快、不出错。但这两年人工智能火起来以后，很多人发现，真正难的不是训练模型，而是怎么把模型接到真实的应用里，让它稳定地干活。Andrew Ng 是机器学习领域的大牛，最近他也开始关注 人工智能 工程这个方向，这本身就是一个信号。这篇文章来自 Latent Space 的 人工智能 新闻汇总，读的时候可以看看，为什么连 Andrew Ng 都觉得工程实践比理论更重要，以及他提到的那些工具和方法，对普通开发者来说意味着什么。"
+        }
+      ]
+    },
     {
       "date": "2026-08-24",
       "companies": [
@@ -3183,253 +3445,6 @@
           "source": "TechCrunch Startups",
           "published": "Wed, 12 Aug 2026 04:30:00 +0000",
           "story": "在印度，外卖和电商越来越快，人们习惯了半小时收货，这背后需要大量电动车送货。Yulu 这家公司就做共享电动车生意，刚拿到 9300 万美元融资。这看起来只是一笔投资新闻，但它反映了快速商业时代对交通方式的新需求。如果你好奇共享出行和即时配送怎么结合，这篇文章值得读。读的时候，可以想想为什么资本看好这个方向，以及它会给城市交通带来什么变化。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-11",
-      "companies": [
-        {
-          "id": 32624,
-          "name": "Fabraix",
-          "url": "https://fabraix.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/fabraix",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Reinforcement Learning",
-            "Cybersecurity"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The world's frontier hacker for AI agents.",
-          "originalDescription": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol. AI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. And AI is also increasing how much software companies produce and how often it changes. We built Nyx to automate the work required to red-team AI agents. It is multi modal by design and interacts with the target indirectly through controlled replicas of SaaS products and websites that we maintain, placing malicious payloads in webpages, documents, files, messages, and tool outputs to test how an agent behaves under different conditions. Nyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is fully automated, companies can repeat the test with every change and at a much lower cost than what a 7-figure red-teaming (and point-in-time) engagement would require. We're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
-          "story": "这是做人工智能安全测试的公司，专注为智能体找漏洞。假如你是某家大型银行的首席信息安全官，每天最头疼的就是新上线的客服智能体可能被恶意提示词骗走客户数据。Fabraix 的 Nyx 系统能自动模拟攻击，不断尝试突破智能体的防护，它已经在一家知名安全基准测试里达到 78% 的攻击成功率，比目前最强的模型还高。这家公司来自 YC 夏季 2026 批次，团队只有两人，但产品已在多家世界五百强公司里发现过真实漏洞。",
-          "rank": 1
-        },
-        {
-          "id": 32620,
-          "name": "Vendo",
-          "url": "https://vendo.run/",
-          "sourceUrl": "https://www.ycombinator.com/companies/vendo",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "B2B",
-            "Customer Success",
-            "Open Source"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Let your users build their own features on top of your product",
-          "originalDescription": "Vendo is the customization layer that lets your users build their own features and micro-apps directly on top of your product. Rather than waiting on an ever-growing feature backlog, your users can personalize the product to exactly how they work, create their own automations, and integrate hundreds of external tools, all without your team writing a line of code. Everything runs on your existing API, renders natively in your own theme and components, and executes inside secure sandboxes within your existing security guardrails, so your source code is never touched. Companies can plug Vendo into an agent they already have, or deploy a production-ready agent complete with the ability to take actions in the product, generate UI, and draw on a built-in knowledge base. Vendo is open source and installs with a single command, and we work closely with teams to get it running for their product.",
-          "story": "这家公司做的是让用户自己搭建功能的定制层。想象你是一个 SaaS 产品负责人，客户天天提需求，开发团队忙不过来，你希望用户能自己动手。Vendo 就让你把产品开放出去，用户在你的接口上自己写小程序、做自动化、连外部工具，你的代码完全不动。它开源，一条命令就能装好，还支持你现有的智能体，能直接在界面里生成新功能。这家公司来自 YC 夏季 2026 批次，团队两人，正在寻找早期合作伙伴。",
-          "rank": 2
-        },
-        {
-          "id": 29963,
-          "name": "Capitol AI",
-          "url": "https://www.capitol.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/capitol-ai",
-          "location": "Washington, DC, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "AI-Enhanced Learning",
-            "Workflow Automation",
-            "Analytics",
-            "Media",
-            "AI"
-          ],
-          "batch": "Summer 2024",
-          "isHiring": true,
-          "teamSize": 11,
-          "originalOneLiner": "Capitol: the sovereign operating system for intelligence.",
-          "originalDescription": "Capitol AI is building a sovereign operating system for intelligence, designed for regulated, high-stakes institutions such as professional services firms, financial services, and government agencies. These organizations are overwhelmed by data and experimenting with generic AI tools that lack auditability, repeatability, and secure deployment. As a result, critical decisions are increasingly shaped by systems they do not fully control. Capitol runs entirely inside enterprise infrastructure and transforms proprietary data into structured, decision-grade artifacts such as due diligence reports, regulatory documentation, and executive intelligence. The platform is model-agnostic, fully auditable, and operates with no data egress, giving institutions durable control over their data, workflows, and standards.",
-          "story": "这家公司做的是给高监管行业用的人工智能操作系统。假如你是政府机构的分析师，每天要处理大量机密文件，又要用人工智能辅助决策，但市面上的工具都不敢用，怕数据泄露。Capitol 可以完全运行在你的内部网络里，把数据变成尽职调查报告、监管文件这类可审计的成果。它不依赖特定模型，全程可追溯，数据不出门。公司来自 YC 夏季 2024 批次，团队十一人，正在招聘，已经服务专业服务、金融和政府客户。",
-          "rank": 3
-        },
-        {
-          "id": 30218,
-          "name": "Toothy AI",
-          "url": "https://www.toothy.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/toothy-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Health Tech",
-            "Healthcare",
-            "Dental",
-            "Conversational AI"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "AI for insurance verification & billing at dental clinics",
-          "originalDescription": "We’re Toothy.ai. We’re building AI agents for dental practices that handle everything related to patient insurance. The average dental clinic spends over 160 hours a month on insurance tasks like verifying patient policies, billing, and claims processing. Our AI agents automate this entire workflow—including making insurance calls with voice AI—saving clinics time, reducing costs, and ensuring faster reimbursements.",
-          "story": "这是做牙科诊所保险自动化的人工智能公司。想象你是一家牙科诊所的运营经理，每天要花大量时间打电话核实患者保险、提交理赔申请，忙得焦头烂额。Toothy AI 的智能体可以替你完成这些事，包括用语音电话跟保险公司沟通，自动处理账单和理赔。这家公司来自 YC 冬季 2025 批次，团队十五人，正在招聘，他们的产品已经在很多诊所里用，省下不少时间。",
-          "rank": 4
-        },
-        {
-          "id": 32782,
-          "name": "Denta",
-          "url": "https://trydenta.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/denta",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Dental",
-            "Healthcare IT",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 1,
-          "originalOneLiner": "The dental practice that runs itself",
-          "originalDescription": "Denta is the practice management platform that puts dental practices on autopilot. When a dentist starts a new practice, instead of finding an accounting firm, hiring two front desk workers, and then spending their nights posting insurance payments, they use Denta. I started Denta to help operate my Dad's 10 practices in Iowa. In supporting those, I realized the most painful part was both people and agents having messy access to fragmented data. So I solved for that and now spend my time automating work for dentists!",
-          "story": "这是做牙科诊所管理平台的公司，目标是让诊所自动运转。假如你是一位刚开诊所的牙医，你不想请会计、不想雇前台，更不想晚上自己录入保险付款。Denta 可以帮你处理这些杂事，把财务、保险、预约都管起来。创始人是因为帮父亲管理十家诊所，发现数据太分散才做了这个产品。公司来自 YC 夏季 2026 批次，目前只有创始人一人，但已经开始帮牙医们省心了。",
-          "rank": 5
-        },
-        {
-          "id": 31385,
-          "name": "Zolvo",
-          "url": "https://zolvo.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/zolvo",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "AI Back-Office Automation for Commercial Lenders",
-          "originalDescription": "Commercial lenders manage billions in assets on legacy software and manual workflows, their systems live on people’s heads like its the 90s. Zolvo replaces the entire back office with AI: automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring. Our clients go live in weeks and eliminate hours of daily manual work per operator, allowing teams to only handle exceptions. We're building the future of commercial lending.",
-          "story": "这家公司做的是商业贷款后台自动化。想象你是一家贷款机构的风控分析师，每天要手工核对发票、整理借款人资料，系统老得像是上个世纪的。Zolvo 用人工智能把数据输入、发票核对、催收、监控都自动化了，你只需要处理异常情况。它上线很快，能省下每天几小时的重复劳动。这家公司来自 YC 春季 2026 批次，团队三人，正瞄准商业贷款这个老旧的行业。",
-          "rank": 6
-        },
-        {
-          "id": 31340,
-          "name": "Illume Labs",
-          "url": "https://www.illumelabs.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/illume-labs",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Generative AI",
-            "Health Tech",
-            "Biotech",
-            "Health & Wellness"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "24/7 Personal Health & Longevity Companion",
-          "originalDescription": "Illume is a 24/7 AI personal health & longevity companion that connects your wearables, blood panels, and genomic data to text you personalized and actionable insights. We pull in your health data and fuse it into one secure model. You get daily text updates on what changed, what it means, and what to do next; conversational health Q&A like \"What should I do to improve my bloodwork?\"; cross-data trend detection that catches patterns individual platforms miss; and a full platform to dig deeper, explore your health data, and text your Illume agent anytime. We're 3 MIT grads & friends, with experience at Windsurf, MIT CSAIL, Eli Lilly, & the Broad Institute.",
-          "story": "这是做个人健康与长寿陪伴的公司。想象你是一个注重健康的人，手上有智能手表、血检报告和基因数据，但没人帮你把信息串起来。Illume 会把你的数据整合成一个安全模型，每天发短信告诉你身体有什么变化、该怎么调整，你还能直接问它问题，比如怎么改善血液指标。它来自 YC 夏季 2026 批次，三个创始人都是麻省理工毕业生，在知名科技和医药公司待过。",
-          "rank": 7
-        },
-        {
-          "id": 31436,
-          "name": "Prototyping.io",
-          "url": "https://www.prototyping.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/prototypingio",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Autonomous manufacturing for mechanical parts",
-          "originalDescription": "Prototyping.io turns CAD designs into real mechanical parts through an AI-driven manufacturing system. We analyze designs for manufacturability and automate production workflows to deliver high-quality parts faster and at lower cost.",
-          "story": "这是做机械零件自动化制造的公司。假如你是一个产品设计工程师，刚画好一个零件的 CAD 图纸，想快速打样，但传统工厂报价高、周期长。Prototyping.io 的人工智能系统会分析你的设计能不能造，然后自动安排生产，让你更快拿到实物，成本也更低。这家公司来自 YC 春季 2026 批次，团队两人，正在把制造业的自动化往前推。",
-          "rank": 8
-        },
-        {
-          "id": "hardware-plaud",
-          "name": "Plaud",
-          "url": "https://www.plaud.ai/",
-          "sourceUrl": "https://www.plaud.ai/",
-          "location": "Unknown",
-          "source": [
-            "Smart hardware watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Smart Hardware"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI voice recorder hardware for meetings, calls, and personal notes.",
-          "originalDescription": "Plaud makes small recording devices and companion software that turn meetings, calls, and spoken thoughts into organized notes and summaries.",
-          "story": "这是做人工智能录音硬件的公司。想象你是一个会议很多的咨询顾问，每天要开好几个会，根本记不住谁说了什么。Plaud 的小设备可以别在衣领上，或者放在桌上，它会把对话录下来，自动转成文字，并生成摘要和待办。它不只是一个手机应用，因为录音需要靠近声音源，而且设备上有专门的降噪芯片，比手机录音更清晰，也不占用手机。这家公司来自智能硬件观察名单，目前还没有更多公开信息。",
-          "rank": 9
-        },
-        {
-          "id": "hn-launch-49246057",
-          "name": "Stoa Markets",
-          "url": "https://www.stoaexchange.com",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49246057",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "AI"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) – A Marketplace for GPUs and AI Servers",
-          "originalDescription": "YC S26) – A Marketplace for GPUs and AI Servers",
-          "story": "这是做 GPU 和人工智能服务器交易市场的公司。假如你是一个人工智能初创公司的工程负责人，想买显卡训练模型，但供应商报价不透明，交期也不确定。Stoa Markets 就像一个交易所，把算力买卖双方聚在一起，让价格更透明，交易更顺畅。这家公司通过 Launch HN 发布，来自 YC 夏季 2026 批次，但团队规模和更多细节还没有公开。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "Stack Overflow Blog-aHR0cHM6Ly9z",
-          "title": "Your tokenmaxxing is not valuemaxxing​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍‌‌‍‌​‌‍‌‍​ ​ ​ ​‌​ ​ ​ ‌ ​ ‍​​‍ ‌​ ​​​ ‌‌‌‍‌‌​ ‍​​‍ ‌​ ‌​‌‍‌‍​ ​‍​ ‍​​‍ ‌​ ‍‌​ ​‌‌‍‌‌​ ​‌​‍ ‌‌‍​ ​ ‌​​ ‌ ​ ​‍​ ‌‍​ ​ ​ ‌ ​ ​‍​ ​‌​ ​​​ ‌‌​ ‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍‌‌‍‌​‌‍‌‍​ ​ ​ ​‌​ ​ ​ ‌ ​ ‍​​‍ ‌​ ​​​ ‌‌‌‍‌‌​ ‍​​‍ ‌​ ‌​‌‍‌‍​ ​‍​ ‍​​‍ ‌​ ‍‌​ ​‌‌‍‌‌​ ​‌​‍ ‌‌‍​ ​ ‌​​ ‌ ​ ​‍​ ‌‍​ ​ ​ ‌ ​ ​‍​ ​‌​ ​​​ ‌‌​ ‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
-          "url": "https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/",
-          "source": "Stack Overflow Blog",
-          "published": "Tue, 11 Aug 2026 07:40:00 GMT",
-          "story": "你可能见过这样的场景：团队里有人疯狂追求某个指标，比如让模型输出更长、更花哨，以为这样就能让产品显得更有价值。但你心里隐约觉得，用户其实并不买账。这篇文章就是来戳破这种错觉的。它来自 Stack Overflow 的博客，讨论的是我们把注意力放在错误的地方，把表面的“优化”当成了真正的价值创造。读的时候，不妨想想你自己的产品里，有哪些指标是被过度追逐的，而作者是怎么区分表面功夫和真实价值的。"
-        },
-        {
-          "id": "hn-49254391",
-          "title": "AI Slop Backlash Is Starting to Change Platform Policy",
-          "url": "https://ai-updates.net/ai-slop-backlash-changing-platform-policy/",
-          "source": "Hacker News",
-          "published": "2026-08-11T07:05:39Z",
-          "story": "最近你在刷社交媒体时，是不是开始觉得有些内容看起来像是由 人工智能 批量生成的，空洞又重复？这种“人工智能 垃圾”越来越多，以至于平台开始修改规则来应对。这篇文章来自 Hacker News 的讨论，标题说“人工智能 垃圾的反击正在改变平台政策”。它之所以值得关注，是因为它可能预示着我们日常看到的内容会如何变化。读的时候，可以留意一下，平台是打算用算法筛选，还是用人工审核，或者干脆让用户自己选择。"
-        },
-        {
-          "id": "Latent Space-aHR0cHM6Ly93",
-          "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
-          "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
-          "source": "Latent Space",
-          "published": "Tue, 11 Aug 2026 05:16:41 GMT",
-          "story": "假设你正打算给自己的工作流引入一个 人工智能 助手，希望它能帮你处理邮件、写报告，甚至规划日程。这时你听说有个新模型，号称能提供“个人超级智能”，而且权重开放，可以自己部署。这篇文章来自 Latent Space，就在讨论这类新发布。它之所以值得一读，是因为它可能帮你判断，这些承诺是否靠谱，以及开放权重到底意味着什么。读的时候，可以关注作者是怎么分析模型能力的，以及他如何看待这些新工具对普通用户的影响。"
         }
       ]
     }
