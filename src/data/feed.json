@@ -1,7 +1,246 @@
 {
-  "generatedAt": "2026-08-25T07:56:38.114Z",
+  "generatedAt": "2026-08-26T07:57:13.918Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-26",
+      "companies": [
+        {
+          "id": 31463,
+          "name": "Armature",
+          "url": "https://armature.tech",
+          "sourceUrl": "https://www.ycombinator.com/companies/armature",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Improve how users experience your product through AI Agents",
+          "originalDescription": "Armature helps companies monitor, analyze, and optimize how AI agents experience their products. We start with Product Analytics: user sessions on your Claude Connector, ChatGPT App or MCP live inside their AI client, not your UI. Armature captures and shows you what users ask, what agents think and how they use your product. Then, we provide automated evals infrastructure: run complex sessions against your MCPs/CLIs across all major harnesses and models to catch broken workflows before your users do. Finally, our MCP lets your internal coding agents plug into Armature to autonomously fix your product's AX based on our run data. The next step is to provide the foundational infrastructure for the Agent Experience, powering agent-native revenue, lifecycle marketing, and customer support for the next generation of software.",
+          "published": "",
+          "story": "这家公司做的是人工智能时代的产品分析工具。想象你是一个 SaaS 产品的增长负责人，今天早上打开后台，发现用户在自己的界面里点了一通，却没有任何反应，你完全不知道他们在想什么。Armature 能捕捉用户在你的产品里与人工智能助手交互的完整过程，包括他们问了什么、助手怎么思考、最后怎么使用你的产品。它还能自动运行测试，在用户遇到问题之前就发现工作流里的漏洞，甚至让你的内部编码智能体根据这些数据自动修复产品体验。这家公司来自 YC 春季批次，团队只有三个人，但已经在为下一代软件的基础设施铺路。",
+          "rank": 1
+        },
+        {
+          "id": 31511,
+          "name": "Arzana",
+          "url": "https://www.arzana.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/arzana",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 6,
+          "originalOneLiner": "The autonomous ERP for every manufacturer",
+          "originalDescription": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs. In the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
+          "published": "",
+          "story": "这是一家为制造业打造自主企业管理系统（企业管理系统）的公司。想象你是一家工厂的销售主管，每天要花好几个小时手工录入订单、制作报价单、核对发票，烦不胜烦。Arzana 会根据工厂的运营数据训练定制模型，把这些重复的办公室工作自动化。他们已经帮客户节省了超过 150 万美元的人力成本。公司来自 YC 春季批次，目前正在招聘，团队有六个人。他们的目标很远大，到 2035 年要自动化一万家美国工厂，而且未来还会把指令直接发送给车间里的机器和机器人。",
+          "rank": 2
+        },
+        {
+          "id": 32624,
+          "name": "Fabraix",
+          "url": "https://fabraix.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/fabraix",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Reinforcement Learning",
+            "Cybersecurity"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "The world's frontier hacker for AI agents.",
+          "originalDescription": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol. AI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. And AI is also increasing how much software companies produce and how often it changes. We built Nyx to automate the work required to red-team AI agents. It is multi modal by design and interacts with the target indirectly through controlled replicas of SaaS products and websites that we maintain, placing malicious payloads in webpages, documents, files, messages, and tool outputs to test how an agent behaves under different conditions. Nyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is fully automated, companies can repeat the test with every change and at a much lower cost than what a 7-figure red-teaming (and point-in-time) engagement would require. We're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
+          "published": "",
+          "story": "这家公司做的是人工智能安全测试，专门给人工智能智能体找漏洞。想象你是一个大型银行的安全负责人，你们的客服智能体每天面对成千上万的用户，你担心有人会诱导它泄露数据或执行危险操作。Fabraix 的产品 Nyx 就像一个不知疲倦的红队黑客，能持续不断地攻击你的人工智能系统，在别人利用之前发现漏洞。它在权威测试 AgentHarm 上达到了 78% 的攻击成功率，超过了 GPT-5.6 Sol 的 67%。这家公司来自 YC 夏季批次，虽然只有两个人，但已经为多家财富 500 强企业发现了安全隐患。",
+          "rank": 3
+        },
+        {
+          "id": 31081,
+          "name": "One Robot",
+          "url": "https://www.onerobot.io/",
+          "sourceUrl": "https://www.ycombinator.com/companies/one-robot",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "World models for robot evals and training.",
+          "originalDescription": "One Robot builds simulation environments that are realistic to see and realistic to interact with, so robotics teams can train and evaluate robot policies without being bottlenecked by robot time. Today, improving a VLA often means more real-world hours: setting up the scene, running trials, resetting, and repeating. This loop is slow, expensive, and hard to scale. For example, material handling and manufacturing assembly tasks, models need far more training and evaluation data than teams can collect in the real world. We use task-specific data to build world model-based simulation environments for hard manipulation tasks (for example, textiles and box folding). These environments help teams run more training and evals, find failure modes faster, and accelerate iteration on action policies with less dependence on real-world data collection and robot availability.",
+          "published": "",
+          "story": "这家公司为机器人训练和评估构建仿真环境。想象你是一个机器人研发团队的工程负责人，正在开发一个能折叠衣服的机械臂，但每次训练都要在真实世界里反复布置场景、运行试验、重置，又慢又贵。One Robot 用特定任务的数据来构建既逼真又交互的模拟环境，让机器人策略可以在里面大量训练和评估，快速发现失败模式，减少对真实世界数据的依赖。这家公司来自 YC 冬季批次，正在招聘，团队只有两个人，但他们的技术对材料处理和制造装配这类困难任务很有价值。",
+          "rank": 4
+        },
+        {
+          "id": 31340,
+          "name": "Illume Labs",
+          "url": "https://www.illumelabs.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/illume-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Generative AI",
+            "Health Tech",
+            "Biotech",
+            "Health & Wellness"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "24/7 Personal Health & Longevity Companion",
+          "originalDescription": "Illume is a 24/7 AI personal health & longevity companion that connects your wearables, blood panels, and genomic data to text you personalized and actionable insights. We pull in your health data and fuse it into one secure model. You get daily text updates on what changed, what it means, and what to do next; conversational health Q&A like \"What should I do to improve my bloodwork?\"; cross-data trend detection that catches patterns individual platforms miss; and a full platform to dig deeper, explore your health data, and text your Illume agent anytime. We're 3 MIT grads & friends, with experience at Windsurf, MIT CSAIL, Eli Lilly, & the Broad Institute.",
+          "published": "",
+          "story": "这家公司做的是个人健康与长寿的人工智能助手。想象你是一个关注健康的白领，戴着智能手表，定期抽血，但数据都散落在各个应用里，没人告诉你整体意味着什么。Illume 会把你的可穿戴设备、血液检测和基因组数据整合到一个安全模型里，每天给你发短信，告诉你身体有什么变化、意味着什么、下一步该怎么做。你还可以随时问它问题，比如“我该怎么改善我的血液指标？”。这家公司来自 YC 夏季批次，三个创始人都是麻省理工学院的毕业生，有在 Windsurf、MIT CSAIL、礼来公司和博德研究所工作的经验。",
+          "rank": 5
+        },
+        {
+          "id": 31296,
+          "name": "Unifold",
+          "url": "https://unifold.io",
+          "sourceUrl": "https://www.ycombinator.com/companies/unifold",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Multi-chain deposit and payment infrastructure",
+          "originalDescription": "Launch crypto deposits in minutes. Unifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works. If you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.",
+          "published": "",
+          "story": "这家公司做的是多链加密货币存款和支付基础设施。想象你是一个区块链应用的开发者，正想快速上线一个功能，让用户能存入各种代币，但自己处理不同链的存款流程非常繁琐。Unifold 提供了一个开发者优先的接口和软件开发工具包，让你用不到十行代码就能接受任何链上的存款。他们处理整个存款流程，让你能快速发布，并给用户顺畅的体验。这家公司来自 YC 冬季批次，团队只有三个人，但他们的服务对任何面向消费者的链上产品都很有用。",
+          "rank": 6
+        },
+        {
+          "id": 30663,
+          "name": "Tesora",
+          "url": "https://tesora.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/tesora",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "API",
+            "Insurance",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Frontier AI for Actuaries",
+          "originalDescription": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change. The part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
+          "published": "",
+          "story": "这家公司为财产和意外险的精算师构建前沿人工智能智能体。想象你是一个保险公司的精算师，每天要花大量时间整理数据、运行模型、部署费率表，真正需要你判断的部分反而被淹没。Tesora 的智能体能自动完成这些繁琐的组装工作，你只需要审查和做最终决定。它部署在你自己的基础设施上，数据不会用来训练模型，安全性通过 SOC 2 Type II 认证。这家公司来自 YC 夏季批次，正在招聘，团队有五个人，由人工智能技术专家和精算师共同创立，他们想让精算师专注于真正重要的判断工作。",
+          "rank": 7
+        },
+        {
+          "id": 31095,
+          "name": "Asimov",
+          "url": "https://tryasimov.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/asimov",
+          "location": "San Francisco, CA, USA; Remote",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Real-world human movement data for humanoid robots",
+          "originalDescription": "Asimov collects real-world human movement data from households and businesses to train humanoid robots. Unlike factory datasets that capture the same tasks in the same environments, we deliver the full diversity of real human environments, thousands of hours a day to leading labs.",
+          "published": "",
+          "story": "这家公司收集真实世界的人类运动数据，用于训练人形机器人。想象你是一个机器人实验室的研究员，正头疼于机器人只会做工厂里的固定任务，一到家庭环境就手足无措。Asimov 从家庭和企业收集多样化的真实人类活动数据，每天提供数千小时的数据给领先的实验室，帮助机器人学会应对真实世界的复杂性。这家公司来自 YC 冬季批次，正在招聘，团队只有三个人，但他们的数据对提升人形机器人的泛化能力至关重要。",
+          "rank": 8
+        },
+        {
+          "id": 31294,
+          "name": "Dispatch",
+          "url": "https://dispatch.space/",
+          "sourceUrl": "https://www.ycombinator.com/companies/dispatch",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Satellites for Manufacturing in Space",
+          "originalDescription": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck. We just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg To scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
+          "published": "",
+          "story": "这家公司做太空制造用的可修复再入飞行器。想象你是一家生物技术公司的工程负责人，你们发现某些药物晶体在太空微重力环境下能长得更好，但苦于没有可靠的方式把产品送回地球。Dispatch 正在建造可翻新的再入飞行器，能搭载和返回有效载荷，让半导体、生物技术和制药公司能实现太空制造。他们刚在莫哈韦沙漠测试了全尺寸再入热护盾，成功承受了模拟大气再入的极端条件。这家公司来自 YC 冬季批次，正在招聘，团队只有两个人，他们的目标是建立轨道上的自主制造空间站。",
+          "rank": 9
+        },
+        {
+          "id": "hn-launch-49376038",
+          "name": "Vendo",
+          "url": "https://github.com/runvendo/vendo",
+          "sourceUrl": "https://news.ycombinator.com/item?id=49376038",
+          "location": "Unknown",
+          "source": [
+            "Launch HN"
+          ],
+          "tags": [
+            "Design"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "YC S26) – Let users build features on top of your product",
+          "originalDescription": "YC S26) – Let users build features on top of your product",
+          "published": "2026-08-20T15:29:52Z",
+          "story": "这家公司来自 YC 夏季批次，做的是让用户能在你的产品之上构建功能。想象你是一个软件产品的设计负责人，用户总是提出各种个性化的功能需求，你的团队忙不过来。Vendo 提供的工具能让用户自己动手搭建他们想要的功能，这样既满足了用户，又减轻了你的开发负担。这家公司通过 Launch HN 发布，虽然信息不多，但这个方向对很多产品团队来说都很有吸引力。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "MIT Technology Review-aHR0cHM6Ly93",
+          "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+          "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+          "source": "MIT Technology Review",
+          "published": "Wed, 26 Aug 2026 07:01:00 +0000",
+          "story": "当人工智能从一个实验室话题变成整个行业的基础设施时，普通人的感受往往是既兴奋又不安。我们每天用到的搜索、推荐、客服背后都有它的影子，但很少有人停下来问：这些系统到底被谁控制，风险又由谁来承担。这篇文章提供了一个难得的视角，因为它来自一位长期观察技术走向的人物，而不是某个创业公司的宣传稿。读的时候不妨留意作者如何区分真正的危险和想象中的危险，以及他提出“现在怎么办”时，是把责任放在技术本身，还是放在使用技术的人和组织身上。这样的分析能帮你建立自己的判断框架，而不是被动接受新闻标题。"
+        },
+        {
+          "id": "TechCrunch-aHR0cHM6Ly90",
+          "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+          "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+          "source": "TechCrunch",
+          "published": "Wed, 26 Aug 2026 07:00:00 +0000",
+          "story": "投资非洲创业公司的基金并不少见，但能走到第二期并且规模更大、方向更广的，往往意味着背后有真实的市场需求在支撑。对于不熟悉那片大陆的读者来说，这类新闻容易变成一串融资数字的堆砌，但如果你换一个角度，把它看作一个信号：哪些行业开始被资本认真对待，哪些创业者开始有机会拿到钱，就能读出更多东西。这篇文章的价值在于它不只谈钱，还谈钱要流向哪里。读的时候可以关注它提到的具体领域和团队，想想为什么这些方向会在现在这个时间点变得热门，以及这种变化对当地用户意味着什么。"
+        },
+        {
+          "id": "hn-49444629",
+          "title": "Another DDoS attack against Norwegian government IT infrastructure – status",
+          "url": "https://status.digdir.no/incidents/d7tgwqgzd742",
+          "source": "Hacker News",
+          "published": "2026-08-26T06:02:51Z",
+          "story": "当政府网站被攻击，普通用户最直接的感受可能是页面打不开，或者服务暂时用不了，但技术社区里的人看到的往往是另一层问题：基础设施到底有多脆弱，防御措施是否跟得上，以及这类攻击为什么会反复发生。这条状态页面出现在技术社区的热议里，本身就说明它触动了工程师们的神经。它不像产品发布那样光鲜，却更贴近日常运维的真相。读的时候可以带着一个问题：如果连国家级的基础设施都难以完全避免这类攻击，那么普通企业甚至个人开发者又该如何权衡安全投入？这比单纯看攻击规模更有启发。"
+        }
+      ]
+    },
     {
       "date": "2026-08-25",
       "companies": [
@@ -3218,233 +3457,6 @@
           "source": "GitHub",
           "published": "Wed, 12 Aug 2026 22:17:32 +0000",
           "story": "很多团队把代码托管在 GitHub 上，平时没消息就是好消息，可一旦某天网站卡了或者提交失败，大家才会意识到，原来自己这么依赖它。这份报告是 GitHub 官方发布的七月可用性说明，属于那种平时没人看、出问题时才被翻出来的文档。但它其实值得提前读：你可以从中了解，一个大型平台如何定义“可用”，如何统计故障，又如何向用户交代。读的时候可以关注他们用了哪些指标，哪些事件被列出来，这能帮你理解，所谓稳定到底意味着什么。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-12",
-      "companies": [
-        {
-          "id": 31176,
-          "name": "Rhizome AI",
-          "url": "https://rhizomeai.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/rhizome-ai",
-          "location": "New York City, NY, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 1,
-          "originalOneLiner": "Agent Platform for Life Sciences",
-          "originalDescription": "It takes 500,000 days of office work to bring a drug to market. We want to make it 5. To get there, we need agents doing most of the work. Today, our research agent is the best way to know what the FDA thinks. Users ask a question and get an answer backed by up to 1,000 documents, where each statement has a citation. It’s the best because we have the best retrieval engine. We’ve tuned it on our life science-specific dataset, and we find what others miss. As more teams use Rhizome, we gain more data on what regulatory professionals actually need, which makes retrieval even better. This flywheel is how we become the retrieval engine that powers all human and agent work in life sciences. Chetan started his career as a research engineer, but quickly realized he enjoyed building more than research. He joined EvolutionaryScale as their sole founding product engineer, launching their developer-scientist platform and scaling to tens of thousands of users and billions of API calls. He was also #16 at Instabase helping banks with document processing, closing $7m as the technical closer. Agents can do magical things today, but most in life sciences only use them to edit emails. Agents are missing the context they need to 100x the number of drugs we can bring to market. Rhizome AI is focused on that critical problem.",
-          "story": "Rhizome AI 是一家为生命科学领域打造智能体平台的公司，专注于帮助药物研发和监管事务团队处理海量文档。想象你是一名监管事务分析师，正在准备一份提交给 FDA 的申请，需要查阅上千份文件来确认最新的审批要求。过去，这要耗费数周时间，而现在你只需向 Rhizome 的研究智能体提问，它就能从最多 1000 份文件中提取答案，并为每句话提供引用来源。它的检索引擎经过生命科学数据集的专门调优，能发现其他工具遗漏的信息。作为 YC 冬季 2026 批次的一员，团队目前正在招聘，虽然只有一人，但这款产品已经吸引了早期用户的关注。它之所以值得关注，是因为它把药物上市所需的海量办公室工作从 50 万天压缩到 5 天，这可能会彻底改变监管流程的效率。",
-          "rank": 1
-        },
-        {
-          "id": 31057,
-          "name": "Valgo",
-          "url": "https://valgo.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/valgo",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Insurance risk layer for physical AI",
-          "originalDescription": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk. Our team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs with leading expertise in safety of physical AI systems. Sydney wrote the textbook on validating safety-critical systems and teaches the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB and an actuary who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
-          "story": "Valgo 是一家为物理人工智能提供保险风险量化平台的公司，专注于解决自动驾驶卡车和机器人等自主系统的定价难题。想象你是一名保险公司的核保人，今天要为一支自动驾驶卡车车队报价，但你发现几乎没有历史事故数据可以参考，而传统汽车保险有超过 300 亿条理赔记录。Valgo 从零开始构建路线、任务和环境的概率模型，输出模拟损失估计，让你能够为自主系统定价。两位创始人是斯坦福博士，一位写过验证安全关键系统的教科书，另一位在 MIT 林肯实验室工作过七年。作为 YC 冬季 2026 批次项目，团队三人，目前没有招聘。它的价值在于填补了自主系统保险数据缺失的空白，为保险公司提供信心来承保这类新兴风险。",
-          "rank": 2
-        },
-        {
-          "id": 31171,
-          "name": "Overshoot",
-          "url": "https://overshoot.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/overshoot",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "AI Infra for real-time vision applications",
-          "originalDescription": "Overshoot makes it easy for developers to build and run real-time vision applications. AI can see and understand the physical world. This unlocks new applications in physical security, safety, gaming, robotics and general consumer products. Soon, video agents will watch your home and your pet when you’re away. However, existing platforms make it painful for developers to build these real-time applications. Slow inference. Limited model availability. Break at scale. Overshoot solves this. Today, 300+ developers connect live video feeds to the largest collection of Vision Language Models with 3 lines of code. And get responses in less than 200ms. 10x faster than any existing inference platform. Zero infra headache. Our moat is focus. Image and Video are fundamentally different modalities from text. By focusing on them, we are able to make strong technical leaps from codec, streaming protocols to inference engines. Younes and Zakaria are cousins. Zakaria graduated top of his class at LSE and MIT, and later built low-latency high-throughput pricing systems (surge) at Uber and inference engines at Meta. He previously built and sold a software product and won several prominent AI hackathons. Younes was a founding engineer at Cosmonio (later acquired by Intel). He built a training and serving Computer Vision platform from scratch. He witnessed firsthand customers abandoning traditional Computer Vision because it lacked the “general” intelligence LLMs have today. Together we’ve shipped large-scale systems and know where they break.",
-          "story": "Overshoot 是一家为实时视觉应用提供人工智能基础设施的公司，让开发者能够轻松构建和运行视频理解应用。想象你是一名开发者，正在为一个家庭安全产品添加实时宠物监控功能，但现有的推理平台响应太慢，模型选择也有限。Overshoot 允许你用三行代码连接实时视频流，并在 200 毫秒内获得响应，速度比现有平台快十倍。它支持大量视觉语言模型，并且专注于视频和图像，不同于文本处理。作为 YC 冬季 2026 批次项目，团队五人，目前已有超过 300 名开发者使用。它之所以值得关注，是因为它解决了实时视频推理的瓶颈，为物理安全、游戏和机器人等应用打开了大门。",
-          "rank": 3
-        },
-        {
-          "id": 31226,
-          "name": "Libra Robotics",
-          "url": "https://www.librabots.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/libra-robotics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Robotics",
-            "Construction",
-            "Sustainability",
-            "Energy"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Multi-robot collaboration for harsh environments on Earth.",
-          "originalDescription": "We build collaborative robot squads for solar farm construction. High labor costs, labor shortages, and unpredictable productivity make infrastructure difficult to build in places that are remote, harsh, or empty. We are building robots to unlock places once considered too difficult to develop. Solar is our first proving ground, spanning utility-scale, commercial and industrial, community solar, agrivoltaic, and other projects. Unlike solutions that automate only one task, or even part of one, we cover the workflow after PV module pallets arrive on-site: transportation, installation, alignment, and fastening. Each robot has a specific role, and fleets can be configured based on each project’s cost and schedule requirements. Our robots operate autonomously with remote supervision. One person can supervise 4+ robots through a screen and an e-stop button, without being physically present or teleoperating them. Our robotic fleet has also been tested at night, paving the way for 24/7 operation. We work directly with EPCs through a Robotics-as-a-Service model, requiring no robot purchase or large upfront capital investment. We also work with racking and PV module manufacturers to certify compatibility and give customers confidence in deployment. Purpose-built hardware, multimodal sensing, and physical AI software help our robots handle real-world construction uncertainty.",
-          "story": "Libra Robotics 是一家为恶劣环境建造协作机器人队伍的公司，目前专注于太阳能发电厂的建设。想象你是一名太阳能项目施工经理，正在一个偏远的沙漠地带负责安装光伏板，但劳动力短缺且成本高昂，工期一再延误。Libra 的机器人团队覆盖从光伏板托盘到达现场后的运输、安装、对准和固定整个流程。每个机器人都有特定角色，一个操作员可以远程监督四台以上机器人。作为 YC 夏季 2026 批次项目，团队两人，目前没有招聘。它之所以值得关注，是因为它通过多机器人协作，解锁了那些被认为难以开发的地区，解决了基础设施建设的劳动力难题。",
-          "rank": 4
-        },
-        {
-          "id": 31382,
-          "name": "Kinro",
-          "url": "https://www.kinro.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/kinro",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Autonomous insurance brokerage for small businesses",
-          "originalDescription": "We are building the first autonomous insurance brokerage. We hit $1M in annual revenue building insurance workflows for brokers. Then we realized the bigger opportunity was replacing them. In the US, there are 36 million SMBs, and 77% are underinsured because distribution is broken. Brokers can’t serve low-premium SMBs profitably: a $2K policy takes almost as much work as a $20K one. Kinro changes that. Our AI agents handle the full broker workflow 24/7, from finding prospects to binding policies. In 3 weeks, we got licensed in 24 states and appointed by 10 carriers. Last week, our agents autonomously bound 9 policies. Before Kinro, Pierre was an AI researcher at DeepMind. Corentin was Chief Insurance Officer at an insurtech. Parth built ML systems at Zoox.",
-          "story": "Kinro 是一家为小企业提供自主保险经纪服务的公司，用人工智能代理处理从寻找客户到绑定保单的全部流程。想象你是一名小企业主，经营一家社区面包店，想买一份商业保险，但传统经纪人因为保费太低而不愿服务。Kinro 的人工智能代理 24/7 工作，在 3 周内获得了 24 个州的牌照，并与 10 家保险公司签约。团队三人，来自 DeepMind、保险科技和 Zoox，目前正在招聘。作为 YC 春季 2026 批次项目，它已经实现了 100 万美元的年收入，并自主绑定了 9 份保单。它之所以值得关注，是因为它瞄准了 77% 的美国小企业保险不足的问题，用自动化降低了服务成本。",
-          "rank": 5
-        },
-        {
-          "id": 30708,
-          "name": "Perseus Defense",
-          "url": "https://perseusdefense.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/perseus-defense",
-          "location": "Austin, TX, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "America's Golden Dome for Drones",
-          "originalDescription": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our self-guided missile platform is man-portable and multi-domain capable. It senses, engages, and eliminates threats with drastically reduced cost per engagement over existing kinetic solutions. Solving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued their PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer The White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. Traction: Jason and Steve used more than 100 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. In 8 short weeks following a strict 2-week design-build-test cycle, the team has gone through 4 major guided missile iterations with over 30 live-fire flight tests. They were invited to Ft. Hood to present their platform to the 1st Cavalry Division, and also briefed the Pentagon and U.S. congressmen on current U.S. vulnerabilities to advanced drone technology. Perseus Defense is actively standing up cooperative research agreements with U.S. Army DEVCOM's Applied Research Laboratory, Aviation and Missile Center, Armaments Center, and High Performance Computing Modernization Program.",
-          "story": "Perseus Defense 是一家为国防部开发反无人机系统的公司，目标是制造大规模生产的自导导弹平台。想象你是一名军事指挥官，正在保护一个军事基地免受无人机袭击，但现有解决方案要么太贵，要么在国土上使用太危险。Perseus 的平台是便携式的，能感知、交战并消除威胁，每次交战的成本远低于现有动能武器。团队两人，毕业于宾夕法尼亚州立大学，有航空航天工程背景，曾参与 NASA 和波音项目。作为 YC 夏季 2025 批次项目，团队三人，目前正在招聘。它之所以值得关注，是因为它解决了无人机威胁的紧迫问题，提供了比现有方案便宜且安全的替代品。",
-          "rank": 6
-        },
-        {
-          "id": 30754,
-          "name": "Locata",
-          "url": "https://www.locatahealth.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/locata",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "AI Referral Automation for Primary Care Clinics",
-          "originalDescription": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care. Primary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers. Alejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users. Within two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
-          "story": "Locata 是一家为初级保健诊所提供人工智能转诊管理平台的公司，用智能体自动化转诊流程。想象你是一名诊所的后台工作人员，每天要处理大量转诊授权申请，还要跟进患者和专科医生，忙得不可开交。Locata 的智能体可以自动提交预授权、广播更新并随访患者，节省了行政人员每周数小时的工作时间。美国每年有超过 1 亿次专科转诊，但只有一半完成，Locata 旨在解决这个问题。作为 YC 夏季 2025 批次项目，团队四人，目前正在招聘。它之所以值得关注，是因为它减少了行政负担，确保患者及时获得所需护理。",
-          "rank": 7
-        },
-        {
-          "id": 30288,
-          "name": "Harper",
-          "url": "https://www.harperinsure.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/harper",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Fintech",
-            "Insurance",
-            "AI"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 25,
-          "originalOneLiner": "AI-native commercial insurance brokerage",
-          "originalDescription": "At Harper, we are building a fully autonomous commercial insurance brokerage powered by AI. Our initial focus is on mid-sized businesses with complex insurance needs, but our vision is to eventually serve every business in the country. By leveraging AI to automate key workflows in the insurance process, we efficiently secure optimal coverage for each client's unique requirements at competitive prices and with rapid turnaround. Our AI system learns from the expertise of our brokers, accumulating not just knowledge but also the specific workflows, data, and capabilities that pave the way to full autonomy.",
-          "story": "Harper 是一家用人工智能驱动的商业保险经纪公司，专注于中型企业的复杂保险需求。想象你是一名制造企业的风险经理，正在为工厂寻找综合保险，但传统经纪流程繁琐且耗时。Harper 的人工智能系统学习经纪人的专业知识，自动化关键工作流程，快速获取最优保障。团队 25 人，来自 YC 冬季 2025 批次，目前正在招聘。它已经实现了商业保险的自主化，目标是服务全国所有企业。它之所以值得关注，是因为它用人工智能提升了保险经纪的效率，可能改变整个行业。",
-          "rank": 8
-        },
-        {
-          "id": "hardware-brilliant-labs",
-          "name": "Brilliant Labs",
-          "url": "https://brilliant.xyz/",
-          "sourceUrl": "https://brilliant.xyz/",
-          "location": "Unknown",
-          "source": [
-            "Smart hardware watchlist"
-          ],
-          "tags": [
-            "AI",
-            "Smart Hardware",
-            "Developer Tools"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "Open AI glasses and lightweight wearable computing devices.",
-          "originalDescription": "Brilliant Labs makes AI glasses and developer-friendly wearable hardware that can bring camera, display, and assistant functions closer to everyday use.",
-          "story": "Brilliant Labs 是一家开发人工智能眼镜和可穿戴硬件的公司，产品面向开发者。想象你是一名开发者，正在构建一个增强现实应用，需要一款轻便、可编程的眼镜硬件。Brilliant Labs 的眼镜集成了摄像头、显示器和助手功能，并提供了开发者友好的接口。它不只是一个手机应用，而是把人工智能能力放进了眼镜这个随身设备里，让交互更自然。虽然来自智能硬件观察名单，没有具体批次或招聘信息，但它代表了可穿戴计算的一个方向。它之所以值得关注，是因为它推动了开放硬件和人工智能的结合，为开发者创造了新的可能性。",
-          "rank": 9
-        },
-        {
-          "id": "hn-launch-49259309",
-          "name": "Keet",
-          "url": "https://www.trykeet.com/",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49259309",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "Product"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S24) – An app to create video courses on anything",
-          "originalDescription": "YC S24) – An app to create video courses on anything",
-          "story": "Keet 是一款来自 YC 夏季 2024 批次的应用，让用户可以创建关于任何主题的视频课程。想象你是一名专业摄影师，想在线分享你的技巧，但传统课程制作工具复杂且耗时。Keet 让你轻松录制和编辑视频，快速生成课程。它来自 Launch HN，团队人数未知，目前没有招聘。它之所以值得关注，是因为它降低了视频课程创作的门槛，让更多人能够分享知识和技能。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49269090",
-          "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-          "url": "https://discoveredmaterials.com/research/",
-          "source": "Hacker News",
-          "published": "2026-08-12T07:51:20Z",
-          "story": "在实验室里，研究人员常常要翻遍论文和数据库，才能找到一种可能的新材料，这个过程既慢又贵。现在有人想把 人工智能 智能体用在这件事上，让机器自己去筛选和提出候选材料。这篇文章来自 YC 孵化的新公司，讲的就是他们如何用 人工智能 代理来加速材料发现。对于关注科研工具或 人工智能 应用的人来说，这篇值得一看。读的时候可以留意，他们是怎么把科研人员的需求拆解成 人工智能 能完成的任务，以及他们如何判断 人工智能 给出的建议是否靠谱。"
-        },
-        {
-          "id": "Latent Space-aHR0cHM6Ly93",
-          "title": "[AINews] How to steal a Reasoning Trace",
-          "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
-          "source": "Latent Space",
-          "published": "Wed, 12 Aug 2026 07:11:08 GMT",
-          "story": "当 人工智能 模型在回答问题时，它会先在心里默默推理一番，这个过程叫“推理轨迹”。但你知道吗，这个轨迹可能被别人偷走？这篇来自 Latent Space 的文章讨论的正是这种安全隐患。随着 人工智能 被用在更多重要场景，保护模型的内部思考过程变得越来越关键。这篇文章不是讲枯燥的技术细节，而是用实例说明攻击者可能如何下手。读的时候，你可以关注作者如何解释这种攻击的原理，以及他们提出了哪些防御思路。"
-        },
-        {
-          "id": "TechCrunch Startups-aHR0cHM6Ly90",
-          "title": "India&#8217;s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
-          "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
-          "source": "TechCrunch Startups",
-          "published": "Wed, 12 Aug 2026 04:30:00 +0000",
-          "story": "在印度，外卖和电商越来越快，人们习惯了半小时收货，这背后需要大量电动车送货。Yulu 这家公司就做共享电动车生意，刚拿到 9300 万美元融资。这看起来只是一笔投资新闻，但它反映了快速商业时代对交通方式的新需求。如果你好奇共享出行和即时配送怎么结合，这篇文章值得读。读的时候，可以想想为什么资本看好这个方向，以及它会给城市交通带来什么变化。"
         }
       ]
     }
