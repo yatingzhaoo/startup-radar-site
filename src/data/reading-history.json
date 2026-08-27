@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-26T07:57:13.920Z",
+  "updatedAt": "2026-08-27T18:16:39.767Z",
   "readings": [
+    {
+      "key": "tavus.io/blog/sparrow-2",
+      "title": "Show HN: Sparrow-2 – Solving the cocktail party problem",
+      "url": "https://www.tavus.io/blog/sparrow-2",
+      "usedAt": "2026-08-27",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack",
+      "title": "ATF declares &#8216;major incident&#8217; as ransomware gang claims hack",
+      "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+      "usedAt": "2026-08-27",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world",
+      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "usedAt": "2026-08-27",
+      "site": "startup-radar"
+    },
     {
       "key": "status.digdir.no/incidents/d7tgwqgzd742",
       "title": "Another DDoS attack against Norwegian government IT infrastructure – status",
