@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-27T18:16:39.767Z",
+  "updatedAt": "2026-08-28T19:25:33.603Z",
   "readings": [
+    {
+      "key": "docs.microfeed.org/start-here",
+      "title": "Show HN: Hi agent – run `npx microfeed/CLI manage` to deploy CMS on Cloudflare",
+      "url": "https://docs.microfeed.org/start-here/",
+      "usedAt": "2026-08-28",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases",
+      "title": "Brave&#8217;s browser one-ups Chrome with its new support for email aliases",
+      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "usedAt": "2026-08-28",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers",
+      "title": "Microsoft Teams Has Become a Haven for Scammers in China",
+      "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
+      "usedAt": "2026-08-28",
+      "site": "startup-radar"
+    },
     {
       "key": "tavus.io/blog/sparrow-2",
       "title": "Show HN: Sparrow-2 – Solving the cocktail party problem",
