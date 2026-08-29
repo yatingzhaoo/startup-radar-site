@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-28T19:25:33.603Z",
+  "updatedAt": "2026-08-29T13:09:03.908Z",
   "readings": [
+    {
+      "key": "github.com/rubinoslaw/player-vs-computer",
+      "title": "Show HN: Player vs. Computer",
+      "url": "https://github.com/Rubinoslaw/Player-vs-Computer/",
+      "usedAt": "2026-08-29",
+      "site": "startup-radar"
+    },
+    {
+      "key": "latent.space/p/ainews-openai-shuts-off-cursor",
+      "title": "[AINews] OpenAI shuts off Cursor",
+      "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "usedAt": "2026-08-29",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "usedAt": "2026-08-29",
+      "site": "startup-radar"
+    },
     {
       "key": "docs.microfeed.org/start-here",
       "title": "Show HN: Hi agent – run `npx microfeed/CLI manage` to deploy CMS on Cloudflare",

@@ -1,7 +1,253 @@
 {
-  "generatedAt": "2026-08-28T19:25:33.601Z",
+  "generatedAt": "2026-08-29T13:09:03.906Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-08-29",
+      "companies": [
+        {
+          "id": 31176,
+          "name": "Rhizome AI",
+          "url": "https://rhizomeai.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/rhizome-ai",
+          "location": "New York City, NY, USA; Remote",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 1,
+          "originalOneLiner": "Agent Platform for Life Sciences",
+          "originalDescription": "It takes 500,000 days of office work to bring a drug to market. We want to make it 5. To get there, we need agents doing most of the work. Today, our research agent is the best way to know what the FDA thinks. Users ask a question and get an answer backed by up to 1,000 documents, where each statement has a citation. It’s the best because we have the best retrieval engine. We’ve tuned it on our life science-specific dataset, and we find what others miss. As more teams use Rhizome, we gain more data on what regulatory professionals actually need, which makes retrieval even better. This flywheel is how we become the retrieval engine that powers all human and agent work in life sciences. Chetan started his career as a research engineer, but quickly realized he enjoyed building more than research. He joined EvolutionaryScale as their sole founding product engineer, launching their developer-scientist platform and scaling to tens of thousands of users and billions of API calls. He was also #16 at Instabase helping banks with document processing, closing $7m as the technical closer. Agents can do magical things today, but most in life sciences only use them to edit emails. Agents are missing the context they need to 100x the number of drugs we can bring to market. Rhizome AI is focused on that critical problem.",
+          "published": "",
+          "story": "这家公司做的是生命科学领域的人工智能智能体平台。想象你是一家制药公司的法规事务专员，每天要花大量时间查阅美国食品药品监督管理局的文件，回答关于审批要求的问题。Rhizome AI 的研究智能体可以帮你检索多达一千份文档，并给出带引用的答案，让你快速了解监管机构的立场。它之所以准确，是因为在生命科学专用数据集上做了调优，能找到其他工具遗漏的信息。随着更多团队使用，它会积累更多监管人员的需求数据，检索能力会越来越强。这个正向循环让它有潜力成为生命科学领域所有人类和智能体工作的检索引擎。",
+          "rank": 1
+        },
+        {
+          "id": 32188,
+          "name": "IMPACT Drones",
+          "url": "https://www.impact-drones.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/impact-drones",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Hardware",
+            "Drones",
+            "Swarm Robotics"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Air Defense as a Service for Civilian Infrastructure.",
+          "originalDescription": "IMPACT builds autonomous interceptor drones that ship in sealed containers. The box sits at the site it protects, data centers, power grids, airports, bases, with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard vision that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $30k threats; ours cost less than the threat and scale with the swarm, the same class of interceptor already downing Shahed drones over Ukraine. Sites subscribe to protection instead of buying missiles, hardware, reloads and monitoring included: Air Defense as a Service. 180M+ USD in signed letters of intent.",
+          "published": "",
+          "story": "这家公司做的是民用基础设施的无人机防御服务。想象你是一个大型数据中心的安全负责人，收到报告说可能有敌对无人机接近，但传统拦截系统每次发射要花费上百万美元，而威胁可能只要几万美元。IMPACT Drones 的自动拦截无人机装在密封容器里，就放在你负责的设施旁边。当传感器发现敌机时，它会破盖而出，用机载视觉引导撞击目标，即使全球定位系统被干扰也能工作。它每次拦截成本低于威胁本身，还能应对无人机蜂群。你只需要订阅服务，就能获得保护，不用购买导弹。这家公司已经获得了超过一亿八千万美元的意向订单。",
+          "rank": 2
+        },
+        {
+          "id": 31000,
+          "name": "Vector Legal",
+          "url": "https://vectorlegal.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/vector-legal",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "A premier AI-native law firm & legal operating system for Startups.",
+          "originalDescription": "A modern solution for Startup legal. Vector combines premier lawyers/paralegals (averaging 10+ years of Big Law experience) + custom-built AI, so our clients get world class startup legal service at a fraction of Big Law rates. See our client testimonials - https://www.vectorlegal.com/testimonials. Services: fundraise & priced rounds | customer contracts | international flips | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
+          "published": "",
+          "story": "这家公司是一家人工智能原生的律师事务所，同时为初创企业提供法律操作系统。假如你是一家初创公司的创始人，刚刚拿到投资意向书，需要快速完成融资文件，又不想支付大型律所的高额费用。Vector Legal 由平均从业超过十年的大型律所背景的律师和法务助理组成，加上定制的人工智能工具，可以处理融资、客户合同、股权结构、并购等事务。它还能提供电子签名、期权管理、法律健康检查等服务。你可以在几天内完成一轮融资，而成本只有传统律所的一小部分。",
+          "rank": 3
+        },
+        {
+          "id": 31171,
+          "name": "Overshoot",
+          "url": "https://overshoot.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/overshoot",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "AI Infra for real-time vision applications",
+          "originalDescription": "Overshoot makes it easy for developers to build and run real-time vision applications. AI can see and understand the physical world. This unlocks new applications in physical security, safety, gaming, robotics and general consumer products. Soon, video agents will watch your home and your pet when you’re away. However, existing platforms make it painful for developers to build these real-time applications. Slow inference. Limited model availability. Break at scale. Overshoot solves this. Today, 300+ developers connect live video feeds to the largest collection of Vision Language Models with 3 lines of code. And get responses in less than 200ms. 10x faster than any existing inference platform. Zero infra headache. Our moat is focus. Image and Video are fundamentally different modalities from text. By focusing on them, we are able to make strong technical leaps from codec, streaming protocols to inference engines. Younes and Zakaria are cousins. Zakaria graduated top of his class at LSE and MIT, and later built low-latency high-throughput pricing systems (surge) at Uber and inference engines at Meta. He previously built and sold a software product and won several prominent AI hackathons. Younes was a founding engineer at Cosmonio (later acquired by Intel). He built a training and serving Computer Vision platform from scratch. He witnessed firsthand customers abandoning traditional Computer Vision because it lacked the “general” intelligence LLMs have today. Together we’ve shipped large-scale systems and know where they break.",
+          "published": "",
+          "story": "这家公司为实时视觉应用提供人工智能基础设施。想象你是一个开发人员，正在构建一个用摄像头监控宠物或家庭安全的应用程序，但现有平台推理速度慢，模型选择少，扩展时经常出问题。Overshoot 让你用三行代码就能把实时视频流连接到大量视觉语言模型，响应时间不到两百毫秒，比现有平台快十倍。它专注于图像和视频，与文本处理有本质不同，因此在编解码器、流媒体协议等方面做出了技术突破。目前已有三百多名开发者使用它的平台。",
+          "rank": 4
+        },
+        {
+          "id": 30288,
+          "name": "Harper",
+          "url": "https://www.harperinsure.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/harper",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Insurance",
+            "AI"
+          ],
+          "batch": "Winter 2025",
+          "isHiring": true,
+          "teamSize": 25,
+          "originalOneLiner": "AI-native commercial insurance brokerage",
+          "originalDescription": "At Harper, we are building a fully autonomous commercial insurance brokerage powered by AI. Our initial focus is on mid-sized businesses with complex insurance needs, but our vision is to eventually serve every business in the country. By leveraging AI to automate key workflows in the insurance process, we efficiently secure optimal coverage for each client's unique requirements at competitive prices and with rapid turnaround. Our AI system learns from the expertise of our brokers, accumulating not just knowledge but also the specific workflows, data, and capabilities that pave the way to full autonomy.",
+          "published": "",
+          "story": "这家公司做的是人工智能原生的商业保险经纪服务。想象你是一家中等规模企业的运营负责人，需要为公司的复杂风险购买保险，但传统经纪流程繁琐，报价慢，而且不一定能拿到最优方案。Harper 用人工智能自动化保险流程中的关键工作，为你快速找到合适的保险产品，价格有竞争力，周转时间短。它从资深经纪人的经验中学习，不仅积累知识，还积累工作流程和数据，目标是最终实现完全自主运营。这家公司目前有二十五人，正在招聘。",
+          "rank": 5
+        },
+        {
+          "id": 30445,
+          "name": "Mbodi AI",
+          "url": "https://www.mbodi.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/mbodi-ai",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Robotics",
+            "Automation",
+            "AI"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": true,
+          "teamSize": 6,
+          "originalOneLiner": "Industrial Robots that Learn and Operate Like Humans",
+          "originalDescription": "Teach robots new skills through natural language and run reliably in production in minutes. Mbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
+          "published": "",
+          "story": "这家公司做的是工业机器人的人工智能控制系统。想象你是一家工厂的自动化工程师，需要让机器人学会一个新任务，比如分拣不同形状的零件，但传统编程需要数周时间，而且难以应对变化。Mbodi AI 让你通过自然语言和快速演示来教机器人新技能，几分钟内就能在生产环境中可靠运行。它结合了生成式人工智能和智能体编排，把日常语言和演示转化为精确的机器人动作。这家公司来自 YC 春季批次，目前团队六人，正在招聘。",
+          "rank": 6
+        },
+        {
+          "id": 35522,
+          "name": "Hemlock",
+          "url": "https://hemlock.info",
+          "sourceUrl": "https://www.ycombinator.com/companies/hemlock",
+          "location": "Los Angeles, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Hardware"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 1,
+          "originalOneLiner": "Force-sensing wristband for training robotic AI",
+          "originalDescription": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch. Hemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
+          "published": "",
+          "story": "这家公司做的是用于训练机器人的力传感腕带。想象你是一个机器人实验室的研究员，正在收集人类操作物体的演示数据，但视频和手部姿态只能记录运动，无法记录力的大小。拿起鸡蛋和拿起石头，在视频上看起来几乎一样，但力完全不同。Hemlock 的腕带通过表面肌电信号读取前臂肌肉的电气活动，直接恢复收缩力，而不是从运动中推断。这解决了机器人学习触觉的关键问题。这家公司来自 YC 秋季批次，目前一人，正在招聘。",
+          "rank": 7
+        },
+        {
+          "id": 32261,
+          "name": "Rasyn",
+          "url": "https://www.rasyn.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/rasyn",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Biotech",
+            "Manufacturing"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Making chemicals 100,000x faster",
+          "originalDescription": "We builds foundational AI models for chemistry. Almost nothing you buy is a single chemical. Products like datacenter coolant, GPU thermal paste, paint, and glue are formulations, which are mixtures of around ten ingredients each, and demand for them has grown quickly because of AI and EVs. Designing a new formulation is essentially a search problem, because there are more possible mixtures than anyone could ever test, and none of them can be predicted in advance. As a result, bringing a single formulation to market today takes three to five years of trial and error in a lab. Our models predict how a mixture will behave far faster than the standard methods used today, which lets us design new formulations in weeks rather than years, at a fraction of the cost. To prove this, we used them to invent three chemicals that never existed before, including a PFAS-free coolant for datacenters, and we have since synthesized and patented all three. We are already working with some of the largest manufacturers to design formulations for them, and we are building our own lab to generate the data that will train our next models.",
+          "published": "",
+          "story": "这家公司做的是化学领域的基础人工智能模型。想象你是一名材料研发工程师，需要设计一种新的数据中心冷却液，但传统方法需要在实验室里反复试验，一个配方可能要花三到五年才能上市。Rasyn 的模型能比现有方法快得多地预测混合物行为，让你在几周内而不是几年内设计出新配方。他们已经用这个模型发明了三种前所未有的化学品，包括一种不含全氟和多氟烷基物质的冷却液。这家公司来自 YC 夏季批次，团队三人。",
+          "rank": 8
+        },
+        {
+          "id": 32195,
+          "name": "RealPact",
+          "url": "https://realpact.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/realpact",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Real Estate",
+            "Enterprise Software",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI-native OS for Real Estate Brokerages",
+          "originalDescription": "RealPact builds AI agents that handle the paperwork behind real estate transactions. They find property records like deeds, tax records, permits, parcel data, and MLS information, then use that data to fill out contracts, organize documents, track deadlines, and help brokerages close deals faster. We are starting by automating transactions and will expand into other parts of brokerage operations. Much of the software used across the real estate industry is outdated. With today’s advances in AI, we can build agents that handle this operational work and create modern software around how brokerages actually work. We currently sell to brokerages in New Hampshire and are expanding quickly.",
+          "published": "",
+          "story": "这家公司做的是房地产经纪公司的人工智能操作系统。想象你是一家房地产经纪公司的交易协调员，每天要处理大量文书工作，比如查找房产记录、填写合同、跟踪截止日期。RealPact 的人工智能智能体可以自动查找地契、税务记录、许可证和挂牌信息，然后用这些数据填写合同、整理文件、跟踪截止日期，帮助更快完成交易。它目前在新罕布什尔州销售，并正在扩展到经纪业务的其他运营环节。这家公司来自 YC 夏季批次，团队两人。",
+          "rank": 9
+        },
+        {
+          "id": 31129,
+          "name": "Verdex",
+          "url": "https://www.verdexai.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/verdex",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI Verification for Insurance",
+          "originalDescription": "Verdex is an AI insurance adjuster. We use data streams like satellite imagery to verify claims, allowing insurers to process it immediately and save billions of dollars. We are currently helping insure over 11% of all American farmland.",
+          "published": "",
+          "story": "这家公司做的是保险理赔的人工智能核验。想象你是一家农业保险公司的理赔员，收到一份关于农作物损失的索赔，传统上需要派人现场查勘，过程缓慢且成本高。Verdex 使用卫星图像等数据流来核验索赔，让你能立即处理，节省大量资金。它目前已经为超过百分之十一的美国农田提供保险服务。这家公司来自 YC 冬季批次，团队两人。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "TechCrunch-aHR0cHM6Ly90",
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+          "source": "TechCrunch",
+          "published": "Sat, 29 Aug 2026 13:00:00 +0000",
+          "story": "很多人以为做人工智能的公司，只要把芯片堆得够多就赢了。可这几年你会发现，算力只是入场券，真正拉开差距的，是芯片之外那些看不见的东西。比如怎么把几千张卡调度得像一台机器，怎么让模型训练不中断，怎么让成本降下来。这篇 TechCrunch 的文章，讲的就是英伟达的优势正在从硬件本身，蔓延到这些软功夫上。它适合那些想理解 人工智能 行业竞争逻辑的人读。读的时候，你可以留意作者是怎么把“优势”这个词拆开的，是看它讲的是技术壁垒，还是生态锁定，又或者是客户离不开它的那些日常细节。"
+        },
+        {
+          "id": "hn-49488242",
+          "title": "Show HN: Player vs. Computer",
+          "url": "https://github.com/Rubinoslaw/Player-vs-Computer/",
+          "source": "Hacker News",
+          "published": "2026-08-29T09:09:37Z",
+          "story": "你有没有想过，自己写一个小游戏，人和电脑对战，然后把它发到网上，会有人认真看吗？在 Hacker News 上，每天都有这样的“Show HN”帖子，作者把自己的作品摆出来，接受大家的挑刺和夸奖。这个叫“Player vs. Computer”的项目，看起来简单，却可能藏着作者对交互、对难度设计、对程序架构的不少心思。技术社区愿意讨论它，往往不是因为功能多炫，而是因为它触到了某个共同的痒处。读的时候，你可以先点开链接看看它的代码或演示，然后想想，如果是你，会怎么实现人机对战，又会卡在哪个环节。"
+        },
+        {
+          "id": "Latent Space-aHR0cHM6Ly93",
+          "title": "[AINews] OpenAI shuts off Cursor",
+          "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+          "source": "Latent Space",
+          "published": "Sat, 29 Aug 2026 05:11:52 GMT",
+          "story": "在 人工智能 工具圈，新闻总是来得又快又猛，今天这家公司发布新模型，明天那家平台改了规则。可真正值得琢磨的，不是新闻本身，而是它为什么发生。这篇来自 Latent Space 的报道，标题里写着“OpenAI 关掉了 Cursor 的通道”，听起来像是一场突然的断供，但背后往往是商业策略、技术路线或者合作条款的博弈。如果你平时用这类编程助手，或者在做相关产品，你可能会好奇，一个工具突然不能用了，用户会怎么反应，市场又会怎么调整。读的时候，别只盯着谁对谁错，试着看作者如何把一件孤立的事件，放进更大的行业图景里。"
+        }
+      ]
+    },
     {
       "date": "2026-08-28",
       "companies": [
@@ -3196,262 +3442,6 @@
           "source": "SaaStr",
           "published": "Sat, 15 Aug 2026 14:10:37 +0000",
           "story": "很多创业者都幻想过这样一个场景：产品足够好，用户自己会来，不用销售也能做到几亿收入。但真有人做到之后，回头却说这是个错误。这种反差本身就值得琢磨。这家公司的CEO在访谈里复盘了那段经历，讲清楚为什么没有销售团队也能增长，又为什么后来发现这条路走不通。读的时候，重点看他怎么区分“当时有效”和“长期正确”这两件事，以及他是在哪个节点意识到问题的。这种复盘，比那些一味鼓吹增长的故事要实在得多。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-15",
-      "companies": [
-        {
-          "id": 30647,
-          "name": "Cyberdesk",
-          "url": "https://www.cyberdesk.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/cyberdesk",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Robotic Process Automation",
-            "Workflow Automation",
-            "Enterprise Software"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Self learning computer use agent for developers",
-          "originalDescription": "Cyberdesk is the first self learning computer use agent for developers to automate desktop workflows. For example, one of our customers is building an AI agent for hospital patient intake, and they’re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. We launched mid July, and our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs. We’ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers. Mahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. Alan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He is a second time founder, having previously built and scaled a consumer AI app to thousands of paying users. Computer-use agents will automate the $6T dollars spent on enterprise knowledge work and Cyberdesk will be the platform to power this. We’d love to talk with you! https://cal.com/mahmoud-al-madi-klrs5s/30min",
-          "published": "",
-          "story": "Cyberdesk 是一家面向开发者的智能体公司，它让电脑操作自动化变得更聪明。想象你是一名软件工程师，正在为医院搭建一个病人登记系统，但每天都要手动在桌面应用里点击和输入，重复又耗时。Cyberdesk 的智能体能记住这些操作并自动执行，还能适应屏幕上的意外变化，比如弹窗或崩溃。它已经在上线环境中运行，比如自动在电子健康记录应用里创建预约，或在老式企业管理系统里处理文件。这家公司来自 YC 夏季 2025 批次，团队两人，产品刚发布就已在生产环境使用，值得关注。",
-          "rank": 1
-        },
-        {
-          "id": 32206,
-          "name": "DeepReach Inc.",
-          "url": "https://www.ycombinator.com/companies/deepreach-inc",
-          "sourceUrl": "https://www.ycombinator.com/companies/deepreach-inc",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Hardware",
-            "Machine Learning",
-            "Robotics",
-            "Computer Vision"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 6,
-          "originalOneLiner": "Real-world data network for robots & world models",
-          "originalDescription": "Physical AI — robots and world models — is bottlenecked on one thing: diverse, real-world data at massive scale showing how humans actually do work in the physical world. It was never written down, and you can't buy it, because no one has ever captured it. Only real local experts, the people who do this work every day, can produce data this authentic and valuable. DeepReach builds the network that reaches them. We design and manufacture wearable stereo capture devices, then place them with local data partners who run collection as their own business — in warehouses, workshops, farms, kitchens and repair shops. They own the local relationships; we supply the hardware, the software platform, the quality pipeline and the payments. Anyone can run a data business. That structure is what produces diversity. Instead of thousands of hours inside one environment, we deliver hours spread across thousands of environments — which is what actually makes robot policies generalize. 475 devices in the field and 100+ data partners are live across 7 countries, adding new partners every week. They've collected nearly 150,000 clips in the past three months, with volume roughly doubling month over month. Our data is in production with multiple frontier model and robotics companies, and we're scaling to 10,000+ devices across 50 countries.",
-          "published": "",
-          "story": "DeepReach 做的是机器人和世界模型的数据网络，核心是采集真实世界的操作数据。想象你是一家仓库的主管，每天都有大量搬运工作，而机器人需要学习这些动作才能替代人力。DeepReach 设计并制造可穿戴的立体捕捉设备，交给本地数据伙伴，让他们在仓库、车间、农场等地采集数据。这些数据多样且真实，是训练机器人的关键。公司来自 YC 夏季 2026 批次，团队六人，正在搭建这个网络，值得关注。",
-          "rank": 2
-        },
-        {
-          "id": 33062,
-          "name": "Hubble",
-          "url": "https://hubble.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/hubble-ai",
-          "location": "Seattle, WA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "Healthcare"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The intelligence layer for patient information",
-          "originalDescription": "Hubble retrieves complete medical records on behalf of patients using patient-mediated access. Under a patient's HIPAA right of access, they authorize us once and we pull their full history from every provider they've seen (hospitals, clinics, labs, imaging centers), no per-provider integration or IT project required. Getting records today still runs on faxes, patient portals, and release-of-information queues, so teams that need medical data wait weeks and get back a pile of unstructured PDFs. Hubble handles the retrieval end to end and returns clean, structured records, turning what used to take weeks into days. We work with teams that live or die on getting patient records fast: legal (personal injury, mass tort, disability), life sciences and research, and anyone building products that need a patient's real medical history to work. Instead of standing up records infrastructure themselves, they use Hubble as the retrieval layer. We're the team behind the AI agents at Grow Therapy and Amazon's One Medical used by millions of patients (Prabha was Grow's first PM building their AI agents, Aaron built the AI infra serving 1M+ clients).",
-          "published": "",
-          "story": "Hubble 是医疗信息领域的公司，它帮助患者获取完整的医疗记录。想象你是一名律师，正在处理一个人身伤害案件，需要快速拿到客户的病历，但传统方式要等几周，还都是杂乱的 PDF。Hubble 利用患者的合法访问权，一次性从所有就诊过的医院、诊所、实验室拉取完整历史，并整理成结构化数据，把几周缩短到几天。这家公司来自 YC 夏季 2026 批次，团队两人，专注于解决医疗数据获取的痛点，值得关注。",
-          "rank": 3
-        },
-        {
-          "id": 31539,
-          "name": "Klaimee",
-          "url": "https://www.klaimee.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/klaimee",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Liability insurance for AI Agents. You deploy agents, we cover you.",
-          "originalDescription": "Klaimee is the first insurance for your AI agents. It covers what traditional E&O and cyber explicitly carve out, so you can deploy agentic AI at scale with real peace of mind. Built for companies deploying agentic AI, self-serve from day one. The problem: AI agents are taking actions autonomously buying, emailing, modifying sensitive data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber and E&O insurance are excluding AI claims. Companies shipping agents have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer. We built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off. Team: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $60M revenue, 5 years launching insurance products from scratch and structuring a TokioMarine MGA into its own carrier) + Julien (AI software engineer + corporate strategy, enterprise compliance). We understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
-          "published": "",
-          "story": "Klaimee 做的是人工智能智能体的责任保险，这是保险行业的新方向。想象你是一家公司的法务负责人，公司准备部署一个人工智能智能体来自动处理客户邮件，但你担心它出错造成损失，而传统保险又不覆盖这类风险。Klaimee 提供专门的保险，涵盖智能体自主行动可能造成的损害，并提供风险评估和认证，让企业能安心部署。公司来自 YC 春季 2026 批次，正在招聘，团队两人，创始人有保险行业经验，值得关注。",
-          "rank": 4
-        },
-        {
-          "id": 31233,
-          "name": "Chasi",
-          "url": "https://chasi.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/chasi",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "AI Revenue Engine for the Equipment Industry",
-          "originalDescription": "Chasi deploys AI agents that help equipment dealers sell more, respond faster, and maximize fleet utilization - 24/7. One-third of the cost to build and maintain the physical world goes to equipment, yet fleet utilization across the industry often sits below 60%. Billions in assets sit idle while dealers drown in phone calls, emails, and manual data entry. Missed quotes, slow follow-ups, and disconnected systems mean lost revenue every day. Chasi plugs into a dealer's existing stack to deploy AI agents that handle sales, rentals, and service requests around the clock. The result: faster response times, higher utilization, and stronger margins, without adding headcount. We automate the busywork so teams can focus on what actually grows the business: customer relationships. Akash Pavan and Sarman Aulakh have built tractors, race cars, and robots, and previously led AI deployments at Tesla, Boeing, and Cummins, where they saw firsthand how much operational value gets left on the table in equipment-heavy industries. Chasi is live across equipment businesses in the US and Europe.",
-          "published": "",
-          "story": "Chasi 为设备行业提供人工智能销售引擎，帮助经销商提升销售和利用率。想象你是一家工程机械经销商的销售经理，每天要接大量电话、回邮件、手动录入数据，但设备利用率却不到六成。Chasi 的智能体能自动处理销售、租赁和服务请求，快速响应客户，提高设备利用率，同时减轻团队负担。公司来自 YC 冬季 2026 批次，正在招聘，团队两人，创始人曾在特斯拉领导人工智能部署，有硬件背景，值得关注。",
-          "rank": 5
-        },
-        {
-          "id": 30174,
-          "name": "Revise Robotics",
-          "url": "https://www.reviserobotics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/revise-robotics",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Robotic Process Automation",
-            "ClimateTech",
-            "Electronics"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Automating refurbishment of $1T in consumer electronics",
-          "originalDescription": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets. Our first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
-          "published": "",
-          "story": "Revise Robotics 用机器人自动化电子产品的翻新过程，切入的是电子垃圾回收行业。想象你是一家回收厂的运营经理，每天要人工分拣、测试、翻新大量旧笔记本电脑，效率低且成本高。Revise Robotics 的机器人系统能自动测试、擦除硬盘、拍照并上架到二手市场，每天处理数百台设备，无需人工干预。公司来自 YC 冬季 2025 批次，正在招聘，团队三人，产品已在实际设施中应用，值得关注。",
-          "rank": 6
-        },
-        {
-          "id": 31113,
-          "name": "CellType",
-          "url": "https://www.celltype.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/celltype",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "The agentic drug company. We simulate human biology.",
-          "originalDescription": "CellType is building an agentic drug company. AI agents that run the full drug discovery pipeline on top of biological foundation models that simulate human biology. Our core technology, developed with Google DeepMind, has already discovered and validated a new cancer treatment signal. We’re working with Top 10 pharma.",
-          "published": "",
-          "story": "CellType 是一家用人工智能智能体模拟人类生物学的新药研发公司。想象你是一名药物研发科学家，传统方法需要数年才能筛选出候选药物，而 CellType 的智能体可以在模拟环境中快速运行整个研发流程。核心技术与 Google DeepMind 合作开发，已经发现并验证了一个新的癌症治疗信号，并与前十大制药公司合作。公司来自 YC 冬季 2026 批次，正在招聘，团队两人，值得关注。",
-          "rank": 7
-        },
-        {
-          "id": 32518,
-          "name": "Agency Tool Company",
-          "url": "https://agencytool.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/agency-tool-company",
-          "location": "Denver, CO, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Robotics",
-            "Automation",
-            "Infrastructure",
-            "Self-Driving Vehicles"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Reliable infrastructure to build, deploy and manage real-world robots.",
-          "originalDescription": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics. Our second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets. Jack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had. Learn more at https://agencytool.com",
-          "published": "",
-          "story": "Agency Tool Company 为现实世界机器人提供可靠的软件部署工具。想象你是一家农业机器人公司的工程负责人，需要将软件更新部署到田间地头的机器人上，但网络不稳定，传统方式又慢又容易失败。ATC Deploy 只发送变更部分，断点续传，比 Docker 拉取快 20 倍。公司已有三个启动合作伙伴，覆盖农业、建筑和物流。创始人曾创立 Scythe Robotics 并成功出售，这次从 YC 夏季 2026 批次出来，团队三人，值得关注。",
-          "rank": 8
-        },
-        {
-          "id": 30533,
-          "name": "Pelica",
-          "url": "https://www.pelica.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/pelica",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "B2B",
-            "Healthcare",
-            "Healthcare IT",
-            "AI"
-          ],
-          "batch": "Spring 2025",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Transforming healthcare operations with AI agents",
-          "originalDescription": "Pelica is the AI-native operating system for value-based care organizations. We unify claims, EHR, pharmacy, lab, and ADT data into one live record and put an AI copilot next to every team that depends on it: quality/Stars, pharmacy, care management, provider network, and risk adjustment. The copilots don't just surface insights. They do the work, from engaging members for preventative care using multi-channel communications to preparing provider field reps with everything they need before they walk in the door. So teams spend time on relationships, not admin.",
-          "published": "",
-          "story": "Pelica 是面向价值型医疗的人工智能操作系统，整合数据并自动化工作流。想象你是一家医疗机构的护理协调员，每天要处理来自不同系统的患者数据，还要打电话提醒患者做预防性检查，繁琐且容易遗漏。Pelica 把所有数据整合到一个实时记录中，人工智能副驾驶能自动执行这些任务，比如多渠道通知患者、为现场代表准备资料。公司来自 YC 春季 2025 批次，正在招聘，团队五人，值得关注。",
-          "rank": 9
-        },
-        {
-          "id": 30541,
-          "name": "Code Four",
-          "url": "https://codefour.us/",
-          "sourceUrl": "https://www.ycombinator.com/companies/code-four",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "GovTech",
-            "Computer Vision"
-          ],
-          "batch": "Spring 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Modernizing the police workflow.",
-          "originalDescription": "Code Four slashes the administrative burden on law enforcement through AI-driven automation. Officers spend up to a third of their shifts manually transcribing body camera footage, creating inaccuracies, reducing transparency, and cutting into frontline duties. We're here to eliminate these inefficiencies by integrating with body cameras, record management systems, and digital evidence management systems—acting as a software layer for data processing. We free the most overworked and underappreciated people in the world: police officers.",
-          "published": "",
-          "story": "Code Four 用人工智能自动化警察的行政工作，特别是警员转录执法记录仪视频的环节。想象你是一名警官，每天要花三分之一的时间手动转录视频，不仅枯燥还容易出错，减少了街头巡逻时间。Code Four 集成到执法记录仪和记录管理系统，自动处理数据，生成报告，让警官回归一线工作。公司来自 YC 春季 2025 批次，正在招聘，团队三人，值得关注。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49308484",
-          "title": "Startup creates tech for pain-free tattoos",
-          "url": "https://news.cornell.edu/stories/2026/08/alums-company-creates-tech-pain-free-tattoos",
-          "source": "Hacker News",
-          "published": "2026-08-15T07:19:14Z",
-          "story": "很多人第一次纹身前，最担心的不是图案好不好看，而是那根针扎下去到底有多疼。这种顾虑让不少想尝试的人一直犹豫，也让纹身师很难吸引新手客户。现在有创业公司想用技术把疼痛感降下来，听起来像是直接回应了每个怕疼的人。这篇新闻之所以值得留意，是因为它不只是在讲一个新产品，而是在展示技术怎么改变一个传统又依赖个人体验的行业。读的时候可以注意，他们是怎么找到疼痛这个痛点的，又用什么思路去解决，是改进设备、改变操作方式，还是完全换一种思路，这些选择背后其实反映了对用户心理的理解。"
-        },
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-          "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-          "source": "TechCrunch",
-          "published": "Fri, 14 Aug 2026 22:43:24 +0000",
-          "story": "在支付行业里，大公司之间的合并或收购从来不是小事，它往往意味着市场格局要重新洗牌。如果你平时用 PayPal 付款，或者关注 Stripe 这类支付服务商的发展，可能会好奇为什么突然传出这样的消息。这篇报道来自 TechCrunch，它把谈判升温的过程摆了出来，让人看到资本和战略是怎么推动公司走向合并的。读的时候，不妨留意作者如何解释各方为什么要谈，是看中对方的技术、用户，还是为了对抗更大的竞争对手，这些判断能帮你理解支付行业未来的走向，也能让你对商业谈判背后的逻辑多一层认识。"
-        },
-        {
-          "id": "WIRED Business-aHR0cHM6Ly93",
-          "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-          "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-          "source": "WIRED Business",
-          "published": "Fri, 14 Aug 2026 20:59:03 +0000",
-          "story": "刷短视频时，你可能已经见过一些机器人跳舞、打招呼甚至带货，但一个四英尺高的机器人成为大网红，听起来还是有点新鲜。这件事之所以让人好奇，是因为它把机器人和社交媒体这两个看似不搭界的领域连在了一起。这篇来自 WIRED Business 的文章，正好讲了这个现象。它不只是介绍一个产品，而是在探讨人们为什么会关注一个机器人，是觉得可爱、新奇，还是真的把它当成了有性格的角色。读的时候，可以想想作者是怎么分析机器人走红的原因，是技术突破、内容策略，还是正好踩中了人们对陪伴和娱乐的需求，这些角度或许能让你对机器人的未来有新的看法。"
         }
       ]
     }
