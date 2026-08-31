@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-30T12:51:15.689Z",
+  "updatedAt": "2026-08-31T15:04:02.585Z",
   "readings": [
+    {
+      "key": "github.com/hebbian-robotics/hflow",
+      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+      "url": "https://github.com/Hebbian-Robotics/hflow",
+      "usedAt": "2026-08-31",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/weve-been-running-salesforce-headless-and-our-own-claudeforce-for-6-months-were-never-going-back",
+      "title": "We&#8217;ve Been Running Salesforce Headless for 6 Months on Our Own &#8220;Claudeforce.&#8221; We&#8217;re Never Going Back",
+      "url": "https://www.saastr.com/weve-been-running-salesforce-headless-and-our-own-claudeforce-for-6-months-were-never-going-back/",
+      "usedAt": "2026-08-31",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario",
+      "title": "MapQuest&#8217;s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
+      "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
+      "usedAt": "2026-08-31",
+      "site": "startup-radar"
+    },
     {
       "key": "lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
       "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
