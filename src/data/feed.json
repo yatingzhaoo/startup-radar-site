@@ -1,7 +1,251 @@
 {
-  "generatedAt": "2026-08-31T15:04:02.583Z",
+  "generatedAt": "2026-09-01T12:33:42.475Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-09-01",
+      "companies": [
+        {
+          "id": 32193,
+          "name": "Floracene",
+          "url": "https://www.floracene.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/floracene",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Health Tech",
+            "Medical Devices",
+            "Digital Health",
+            "Enterprise Software",
+            "Healthcare IT"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
+          "originalDescription": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team. The bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder’s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first design partner had multiple employees who had each built useful tools and dashboards locally, but couldn’t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to consolidate their BI tooling into Floracene and shipped 4 net-new to production. A staggering ~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption. Asaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
+          "published": "",
+          "story": "这是为医疗行业打造内部工具部署平台的公司。想象你是一家诊所的运营负责人，员工们用无代码工具做了很多有用的内部看板和流程工具，但都困在个人电脑里，因为涉及患者隐私数据，IT 部门不敢让这些工具上线。Floracene 让任何医疗运营人员用自然语言描述需求，一键部署合规的内部工具，连接生产数据，并按用户设置读写权限。它解决了医疗行业没有工程团队却需要安全部署工具的痛点，让员工自建的工具真正能共享和落地。这家公司来自 YC 夏季批次，团队虽小，但切中的是医疗信息化的真实瓶颈。",
+          "rank": 1
+        },
+        {
+          "id": 31003,
+          "name": "Voltair",
+          "url": "https://voltairlabs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/voltair",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Autonomous Drones for Earth Observation",
+          "originalDescription": "Voltair is building the world's first globally distributed network of autonomous drones for Earth observation. Power utilities are the perfect first customer. Aging infrastructure and extreme weather drive the need for millimeter-scale inspection data on the power grid. Utilities spend tens of billions of dollars every year just looking at their own equipment. Autonomous drone fleets will enable utilities to inspect 7 million miles of infrastructure more frequently, quickly, and accurately. Our long-range, weatherized flying robots work with charging pads installed directly on utility poles. Each new pad unlocks 1000 square miles of coverage. With a charging network deployed on the power grid, we can serve existing multi-billion dollar data markets in road, rail and telecom inspection at 10x lower prices while enabling entirely new applications in hyperlocal weather monitoring, forestry, construction, search & rescue, and insurance. We envision a future in which drone \"instances\" are requested on-demand through our platform, enabling any application builder to serve these critical markets without ever operating their own hardware.",
+          "published": "",
+          "story": "这是做自主无人机地球观测网络的公司。想象你是一家电力公司的巡检负责人，每年要花巨资检查数万公里的输电线路，传统人工巡检慢且危险。Voltair 的无人机能在电线杆上安装充电垫，实现远程充电和长距离巡航，覆盖范围达一千平方英里。它让电网巡检更频繁、更精准，还能服务公路、铁路和电信巡检市场，价格降低十倍。这家公司来自 YC 冬季批次，团队五人，正在招聘，其充电网络模式可能改变基础设施巡检的格局。",
+          "rank": 2
+        },
+        {
+          "id": 31201,
+          "name": "Robby",
+          "url": "https://tryrobby.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/robby",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "AI agents that grow revenue for home services businesses",
+          "originalDescription": "Robby is an AI growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our AI combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour. Our team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves. Vineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
+          "published": "",
+          "story": "这是为家庭服务行业做人工智能增长引擎的公司。想象你是一家空调维修公司的总经理，每天发愁怎么找到更多客户，也不知道技师上门时还能推销什么服务。Robby 的人工智能结合客户和第三方数据，每天生成几十条销售线索，并给技师提供话术提高成交率，你可以在一个后台统一管理。它有付费客户，每个客户每周能发现六位数的额外收入机会，上线第一天就促成了四万美元的新业务。这家公司来自 YC 冬季批次，团队三人，正在招聘，值得关注。",
+          "rank": 3
+        },
+        {
+          "id": 31128,
+          "name": "Cumulus Labs",
+          "url": "https://cumuluslabs.io",
+          "sourceUrl": "https://www.ycombinator.com/companies/cumulus-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "The Fastest Multimodal Inference OS",
+          "originalDescription": "Cumulus Labs lets engineering teams ship AI in production without needing a dedicated ML platform team. Right now, companies building AI products are forced to stitch together separate vendors for routing, observability, evaluation, fine-tuning, and inference. This fragmented approach is brittle, expensive, and is a common reason enterprises fail with AI. We replace that entire stack with a single unified platform. Developers can keep their existing code while instantly upgrading to a unified platform that handles routing, semantic caching, continuous shadow evaluation, simulated data, and one-click fine-tuning. Behind the platform is Ion, our proprietary inference engine running on a custom NVIDIA Grace GPU fleet. Ion uses in-house custom GPU kernels to deliver 30 to 50 percent more throughput than standard vLLM or SGLang, giving our customers SOTA inference economics.",
+          "published": "",
+          "story": "这是做多模态推理操作系统的公司。想象你是一家创业公司的工程负责人，想把人工智能模型部署到生产环境，却要拼凑路由、监控、评估、微调和推理等多个不同供应商，又贵又容易出错。Cumulus Labs 用一个统一平台替代这套碎片化技术栈，开发者可以保留现有代码，直接升级到集成平台，还能用自研推理引擎 Ion 获得比标准方案高百分之三十到五十的吞吐量。它来自 YC 冬季批次，团队两人，正在招聘，其自研 GPU 内核技术值得关注。",
+          "rank": 4
+        },
+        {
+          "id": 32202,
+          "name": "Dialogus",
+          "url": "https://www.dialoguslabs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/dialogus",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "B2B",
+            "Customer Support"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "The AI-native contact center.",
+          "originalDescription": "Dialogus builds voice agent infrastructure for enterprises. Most companies can demo an AI voice agent, but getting one into production is hard. Enterprise agents need to connect to phone systems, internal tools, databases, CRMs, messaging channels, human escalation flows, monitoring, and compliance processes. Dialogus provides the infrastructure to deploy production-grade voice agents that don’t just talk but complete real workflows. Our platform lets enterprises launch agents that collect information, validate it against internal systems, update records, send follow-up messages, and escalate edge cases to humans.",
+          "published": "",
+          "story": "这是做企业级语音智能体基础设施的公司。想象你是一家大型保险公司的客服负责人，演示人工智能语音助手很容易，但真要上线却要连接电话系统、内部工具、数据库和客户关系管理系统，还要处理人工升级和合规。Dialogus 提供生产级语音智能体基础设施，让智能体不只是对话，还能完成真实工作流：收集信息、验证数据、更新记录、发送后续消息，并把边缘情况转给人工。它来自 YC 夏季批次，团队三人，虽不招聘，但解决的是企业落地语音智能体的关键难题。",
+          "rank": 5
+        },
+        {
+          "id": 31085,
+          "name": "Ruma Care",
+          "url": "https://rumacare.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/ruma-care",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "The operations stack for biologic infusion clinics",
+          "originalDescription": "Ruma Care automates all admin work for infusion clinics - starting with prior authorizations & copay assistance enrollment. Biologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. Current medical workflows aren't built for infusion clinics. Inventory, storage, transport, and billing is still managed through paper and excel spreadsheets. And because they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, when workflows fail, or patients are infused before paperwork is cleared, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting forms. We do this in three ways: 1. For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. 2. We pull out the correct forms, then automate the form-filling for prior authorizations. 3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. We turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved.",
+          "published": "",
+          "story": "这是为生物制剂输注诊所做运营自动化的公司。想象你是一家输注诊所的运营经理，每天要处理昂贵的生物药预授权和共付额援助申请，这些药一年花费八万到十五万美元，保险拒付率高达百分之三十七，一旦出错诊所就要自掏腰包。Ruma Care 自动化所有行政工作，从预授权到共付额登记，替代纸质和电子表格管理库存、运输和计费。它来自 YC 冬季批次，团队五人，正在招聘，其解决的是专科药物管理的高风险痛点。",
+          "rank": 6
+        },
+        {
+          "id": 31193,
+          "name": "9 Mothers",
+          "url": "https://9mothers.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/9-mothers-corporation",
+          "location": "Austin, TX, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 19,
+          "originalOneLiner": "Counter Drone Systems. $1.6m sales. We delivered for the DoW.",
+          "originalDescription": "We have sold $1.6m of systems to the DoW. Multiple systems delivered to the DoW. Our first product - EDDA - is a counter drone system - small, low power, low cost fully autonomous-capable. It's designed to be used on vehicles, bases, or carried - to stop group 1 suicide drones. We have multiple contracts, sales, etc. We have 3 more products with demand in various stages of development. More details at https://9mothers.com",
+          "published": "",
+          "story": "这是做反无人机系统的公司。想象你是一名军事基地的安全负责人，面对小型自杀式无人机威胁，需要一种便携、低功耗、能自主运行的拦截设备。9 Mothers 的第一款产品 EDDA 就是这样的系统，可用于车辆、基地或随身携带，阻止第一类无人机。它已向国防部交付多套系统，销售额达一百六十万美元，还有三款产品在开发中。这家公司来自 YC 春季批次，团队十九人，正在招聘，其已实现的销售和交付是值得关注的信号。",
+          "rank": 7
+        },
+        {
+          "id": 32187,
+          "name": "Insurf",
+          "url": "https://www.insurf.io",
+          "sourceUrl": "https://www.ycombinator.com/companies/insurf",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Health Tech",
+            "Healthcare",
+            "Insurance",
+            "Automation",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "The AI-Native Decision Layer for Health Insurance",
+          "originalDescription": "Insurf is the AI-native data and decision layer for health insurance. Our model Surely identifies the lowest-cost coverage for anyone, saving individuals, families, and companies thousands per employee. Our product Inveto collects the data from hospitals and clinics that informs Surely.",
+          "published": "",
+          "story": "这是做健康保险人工智能决策层的公司。想象你是一家公司的福利负责人，每年要为员工挑选医疗保险计划，费用高昂，却难以找到最低成本的方案。Insurf 的模型 Surely 能识别每个人或家庭的最低成本保险，帮公司每位员工节省数千美元；另一个产品 Inveto 则从医院和诊所收集数据来支持 Surely。它来自 YC 夏季批次，团队三人，虽不招聘，但其切入的保险决策自动化领域有潜力。",
+          "rank": 8
+        },
+        {
+          "id": 30662,
+          "name": "DeepAware AI (Robotics Center of Silicon Valley)",
+          "url": "https://roboticscenter.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/deepaware-ai-robotics-center-of-silicon-valley",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Robotics",
+            "Supply Chain",
+            "Data Engineering"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Robots, parts & RL envs & evals - delivered in 48 hrs / pickup in SF.",
+          "originalDescription": "DeepAware (Robotics Center of Silicon Valley, https://roboticscenter.ai/) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup. Beyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
+          "published": "",
+          "story": "这是做机器人硬件和强化学习环境的公司。想象你是一家研究实验室的机器人研究员，急需一台特定型号的机器人或零件，但传统采购要等几周。DeepAware 提供美国境内七十二小时送达或硅谷自提服务，还帮助团队收集遥操作数据、搭建强化学习环境和部署机器人。客户包括人工智能实验室、工业运营和研究团队。这家公司来自 YC 夏季批次，团队四人，正在招聘，其快速交付模式值得关注。",
+          "rank": 9
+        },
+        {
+          "id": "hn-launch-49511007",
+          "name": "Almanac",
+          "url": "https://usealmanac.com/",
+          "sourceUrl": "https://news.ycombinator.com/item?id=49511007",
+          "location": "Unknown",
+          "source": [
+            "Launch HN"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "YC S26) – AI that knows your company",
+          "originalDescription": "YC S26) – AI that knows your company",
+          "published": "2026-08-31T15:34:34Z",
+          "story": "这家公司想做一个人工智能助手，它了解你所在公司的所有内部信息。想象你是一名新入职的产品经理，想了解公司历史决策和项目背景，却要翻遍文档和聊天记录。Almanac 的人工智能可以回答关于公司的问题，像一个熟悉一切的同事。它来自 YC 夏季批次，但公开信息很少，团队规模未知，不过这个方向对于提升企业知识管理效率很有吸引力。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49520718",
+          "title": "Hotaru – Single dot in your macOS menu bar showing CLI coding agents status",
+          "url": "https://github.com/ajwadjaved/hotaru",
+          "source": "Hacker News",
+          "published": "2026-09-01T11:53:58Z",
+          "story": "很多程序员现在习惯让命令行里的智能助手帮忙写代码、跑测试，但窗口一多，谁在忙、谁卡住了，常常要切来切去才知道。这时候如果菜单栏能有一个小点，用颜色或状态告诉你后台的编码代理正在干什么，就像手机上的通知灯，一眼就能扫到。这篇文章介绍的正是这样一个轻量小工具。它不一定解决什么惊天动地的问题，但那种把复杂状态浓缩成一个点的思路，挺值得琢磨。读的时候可以想想，作者为什么选择只展示一个点，而不是更详细的列表，这种克制是不是反而让工具更好用。"
+        },
+        {
+          "id": "TechCrunch-aHR0cHM6Ly90",
+          "title": "If space data centers feel far-fetched, why not interstellar travel?",
+          "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+          "source": "TechCrunch",
+          "published": "Tue, 01 Sep 2026 10:00:00 +0000",
+          "story": "当人们还在为地球上的数据中心耗电、占地而争论不休时，有人已经把目光投向了太空，甚至更远。你会觉得这想法太飘，可换个角度看，很多今天习以为常的技术，当初不也被当成天方夜谭吗。这篇 TechCrunch 的文章，不是要你立刻相信太空数据中心能成，而是带你看看那些敢于押注长远的人，他们是怎么思考问题边界的。读的时候，不妨留意作者如何把看似疯狂的念头，一步步拆成可以讨论的工程和商业问题，以及他判断哪些是炒作、哪些是趋势的线索。这样你就能明白，面对一个离当下很远的机会，理性的态度既不是嘲笑，也不是盲从，而是搞清楚它背后的逻辑到底站不站得住。"
+        },
+        {
+          "id": "MIT Technology Review-aHR0cHM6Ly93",
+          "title": "How engineered microbes could help feed the world’s crops",
+          "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+          "source": "MIT Technology Review",
+          "published": "Tue, 01 Sep 2026 09:00:00 +0000",
+          "story": "种地的农民都知道，庄稼要长得好，离不开肥料，可化肥用多了，土壤会板结，成本也年年涨。这几年，总有人提要用微生物来帮忙，但听起来像是实验室里的漂亮话，真拿到田里行不行，谁也说不准。这篇来自 MIT Technology Review 的文章，正好讲的就是这个从实验室走向田间的故事。它没有停留在概念上，而是带你看一群科学家和创业者，怎么把微小的生物变成实实在在能用的产品。你读的时候，可以重点看他们怎么解决一个最实际的问题：让农民愿意换掉用了几十年的化肥。这里面有技术难题，也有成本账，还有信任怎么建立。看懂这个过程，你就能理解一项新技术要真正改变世界，卡住的往往不是最尖端的那一步，而是最后落地的那一公里。"
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "companies": [
@@ -3219,249 +3463,6 @@
           "source": "Lenny's Newsletter",
           "published": "Tue, 18 Aug 2026 21:30:31 GMT",
           "story": "当新工具一个接一个冒出来，你可能会犯选择困难症。Grok Bot、Grok 4.6、Cursor Origin，这些名字听起来都很厉害，但到底哪个值得你花时间上手？Lenny 的这篇亲测文章，就像一位懂行的朋友帮你把了把关。他不仅用了，还给出了坦率的评价。读的时候，你可以关注他比较的维度，比如速度、易用性还是效果。这样，即使你暂时用不上这些工具，也能学会怎么评估一款新工具是否适合自己。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-18",
-      "companies": [
-        {
-          "id": 31513,
-          "name": "CharacterQuilt",
-          "url": "https://characterquilt.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/characterquilt",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Computer use agents to deploy enterprise marketing campaigns",
-          "originalDescription": "CharacterQuilt builds computer use agents to deploy enterprise marketing campaigns. Marketers today don’t actually do much marketing at all. Today, over 80% of time spent on launching a marketing campaign is actually ops work: tweaking automation flows in Pardot, configuring audiences in LinkedIn, or wiring HTML emails in Marketo. What’s crazy about enterprise marketing is companies pay agencies millions of dollars just to deploy campaigns in their systems — and they still have to wait weeks for each one. CharacterQuilt is AI infrastructure for marketing teams: a brain that learns your brand, and agents that operate your existing tools. Marketing campaigns that used to take 3 agencies, 10 tools, and 6 weeks are now being built, designed, and deployed from CQ in an hour. Customers submit a brief like they would send to a human teammate or marketing agency, and they get back fully designed and deployed campaigns. Teams like 1upHealth, ABC Fitness, and Emplifi use us to: 1-) Build segments/audiences faster 2-) Create on-brand creative (AI is terrible at staying on-brand) 3-) Deploy campaigns automatically into HubSpot, WordPress, LinkedIn etc. We replicate your brand guidelines, deeply understand past campaigns, and work inside your systems. If you run demand gen or lifecycle at a B2B/B2C company and want to ship campaigns faster, send us a brief and we’ll build it in 15 minutes.",
-          "published": "",
-          "story": "这家公司做的是企业营销自动化基础设施。想象你是一家大公司的营销负责人，每次上线一个营销活动，都要在好几个企业软件之间来回切换，调整自动化流程、配置受众、修改邮件模板，这些琐碎操作占掉你八成的时间，还要等外包公司好几周。CharacterQuilt 的人工智能智能体能学习你的品牌，直接操作你现有的工具，把以前要三个代理、十种工具、六周才能完成的营销活动，缩短到一个小时。你只需要像给同事发消息一样提交一份简报，它就能帮你设计并部署好整个活动。这家公司来自 YC 春季 2026 批次，目前团队四人，正在招人。",
-          "rank": 1
-        },
-        {
-          "id": 31453,
-          "name": "Minicor",
-          "url": "https://minicor.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/minicor",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 7,
-          "originalOneLiner": "Scalable windows desktop automations",
-          "originalDescription": "Minicor connects AI startups to legacy desktop apps that have no API. Reliably, quickly and at scale. Describe a workflow and get an API endpoint. Each call triggers a self-healing desktop automation on a Windows VM. On-prem, cloud, or Citrix. Build through your coding agent via our MCP. Complete with the observability tools to manage your customer relationship: full video replay of every automation, granular logging, and slack enabled alerts.",
-          "published": "",
-          "story": "这家公司解决的是没有接口的旧桌面软件的自动化问题。假如你是一家公司的技术负责人，想把人工智能接入公司用了多年的老系统，但这些系统没有接口，数据拿不出来，流程也改不了。Minicor 能把你的工作流程描述变成一个接口端点，每次调用都会在 Windows 虚拟机上触发一次自动修复的桌面自动化操作，支持本地、云端或 Citrix 环境。它还提供完整的视频回放和日志，让你能清楚看到每次操作过程。这家公司来自 YC 春季 2026 批次，团队七人，正在招聘。",
-          "rank": 2
-        },
-        {
-          "id": 31518,
-          "name": "Runtime",
-          "url": "https://www.runtm.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/runtime",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Build and run internal agents, without managing the infrastructure",
-          "originalDescription": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely. Eng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod. We're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
-          "published": "",
-          "story": "这家公司做的是让整个组织都能安全使用编程智能体的基础设施。想象你是一位工程负责人，团队里每个人都在用编程智能体写代码，但你完全看不到他们在干什么，也没法设置权限，更不敢让非工程师碰代码库。Runtime 提供沙盒环境、会话级监控和可配置的护栏，让工程师、产品经理、设计师、市场人员都能安全地用智能体贡献代码，或者从零搭建生产级应用。这家公司来自 YC 春季 2026 批次，团队三人，正在招聘，并且已经有一些快速成长的 YC 公司客户。",
-          "rank": 3
-        },
-        {
-          "id": 31447,
-          "name": "Allowance",
-          "url": "https://useallowance.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/allowance",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 1,
-          "originalOneLiner": "The spend control layer for AI agents",
-          "originalDescription": "Allowance lets AI agents make purchases on a user’s behalf without ever exposing your real card number. Users approve purchases directly from their iPhone with customizable controls like spending limits, merchant restrictions, and expiration windows. Once approved, Allowance generates scoped, one-time payment credentials designed specifically for that transaction. This enables AI agents to safely complete tasks like shopping, ordering food, booking reservations, or purchasing tickets while keeping humans in control of every payment.",
-          "published": "",
-          "story": "这家公司做的是人工智能智能体的支付控制层。想象你是一个忙碌的上班族，想让智能体帮你订餐、购物或买票，但又不敢把真实银行卡号交给它。Allowance 让你在 iPhone 上直接审批每一笔支付，还能设置消费限额、商户限制和有效期。一旦你批准，它会生成一张只用于该次交易的临时支付凭据，这样智能体就能安全地替你完成各种购买，而你始终掌握支付控制权。这家公司来自 YC 春季 2026 批次，目前只有一人，但产品已经很有想法。",
-          "rank": 4
-        },
-        {
-          "id": 31564,
-          "name": "Huscarl",
-          "url": "https://www.huscarl.io/",
-          "sourceUrl": "https://www.ycombinator.com/companies/huscarl",
-          "location": "San Francisco, CA, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "AI-native actuary enabling self-insurance for corporations",
-          "originalDescription": "Huscarl is building an autonomous AI actuary to enable self-insurance for corporations. Large companies use insurance subsidiaries (\"captives\") to self-insure their risks. Some of these captives are larger than regional insurers. We provide them the actuarial and modeling layer to operate and grow. We're building a future where self-insurance is the default, and commercial insurance the exception. This is the best way to solve the inefficiencies of the $1T corporate insurance market.",
-          "published": "",
-          "story": "这家公司做的是企业自保的保险精算软件。想象你是一家大型企业的风险管理负责人，公司通过自保子公司来承保自身风险，但精算建模非常复杂，需要专业团队和昂贵软件。Huscarl 提供一个人工智能精算师，帮助这些自保公司完成精算和建模工作，让他们能更高效地运营和扩展。这家公司来自 YC 春季 2026 批次，团队两人，正在招聘，目标是改变万亿美元规模的企业保险市场。",
-          "rank": 5
-        },
-        {
-          "id": 33053,
-          "name": "Shiraz AI",
-          "url": "https://shiraz.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/shiraz-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Generative AI",
-            "Robotics",
-            "Manufacturing"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Robots that learn on the job",
-          "originalDescription": "We deploy robots that learn new tasks from a single human demonstration in the factory. We're starting in contract manufacturing, where lines change every week and both traditional automation and today's VLAs fall over. Our founding team has 20+ years of experience in robotics. Navid was part of the core team that productized Spot at Boston Dynamics and led manipulation projects there. Before that, he was at Rethink Robotics. Mojtaba led whole-body control and manipulation efforts at Amazon Robotics and was a Research Assistant Professor at Northwestern University.",
-          "published": "",
-          "story": "这家公司做的是能在工厂里现场学习的机器人。想象你是一家合同制造厂的车间主管，生产线每周都要换，传统自动化设备根本跟不上，而现有人工智能机器人也经常出错。Shiraz AI 的机器人只需要一次人工演示就能学会新任务，特别适合产线频繁切换的场景。创始团队有二十多年机器人经验，核心成员来自波士顿动力和亚马逊机器人。这家公司来自 YC 夏季 2026 批次，团队两人，虽然还在早期，但技术方向很值得关注。",
-          "rank": 6
-        },
-        {
-          "id": 30977,
-          "name": "Rovi Health",
-          "url": "https://www.rovi.health",
-          "sourceUrl": "https://www.ycombinator.com/companies/rovi-health",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Consumer Health Services",
-            "Health Tech",
-            "Digital Health",
-            "Healthcare",
-            "Health Insurance"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI healthcare concierge for employees",
-          "originalDescription": "We deliver high-quality, cost-effective healthcare to employees through text. Employers cut 10–20% of healthcare spend. Employees get concierge care that improves outcomes. Our AI agents analyze clinical data to identify care needs. We treat common conditions through our integrated virtual clinic. For more complex care, our agents find the best in-network providers using millions of price and quality data points, and handle end-to-end appointment booking.",
-          "published": "",
-          "story": "这家公司做的是员工医疗保健的人工智能管家。想象你是一家公司的人力资源负责人，员工看病流程繁琐，公司医疗支出年年上涨。Rovi Health 通过短信为员工提供医疗管家服务，人工智能智能体分析临床数据，识别护理需求，处理常见病，并为复杂病症找到性价比最高的网络内医生，全程帮忙预约。雇主可以削减百分之十到二十的医疗支出，员工也能获得更好的护理。这家公司来自 YC 秋季 2025 批次，团队三人，正在招聘。",
-          "rank": 7
-        },
-        {
-          "id": 31441,
-          "name": "Infera",
-          "url": "https://www.infera.bio",
-          "sourceUrl": "https://www.ycombinator.com/companies/infera",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "SaaS",
-            "B2B",
-            "Biotech",
-            "Automation",
-            "AI"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Control lab instruments with natural language.",
-          "originalDescription": "Describe an experiment in plain English, and Infera turns it into a validated, instrument-ready run across the equipment your lab already uses. Infera handles the protocol logic, vendor-specific scripts, data, inventory, and institutional knowledge in one system. An AI-native compiler for the lab: one system from intent to execution.",
-          "published": "",
-          "story": "这家公司做的是实验室仪器的自然语言控制。想象你是一位生物技术研究员，每天要花大量时间写实验方案、转换仪器脚本、处理数据。Infera 让你直接用英语描述实验，它就能生成经过验证的、仪器可执行的完整流程，处理协议逻辑、厂商脚本、数据、库存和机构知识。这就像一个面向实验室的人工智能编译器，从意图到执行一站式搞定。这家公司来自 YC 春季 2026 批次，团队两人，虽然还没有融资，但产品概念很吸引人。",
-          "rank": 8
-        },
-        {
-          "id": 30530,
-          "name": "Rimba",
-          "url": "https://rimba.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/rimba",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "SaaS",
-            "Enterprise Software",
-            "AI"
-          ],
-          "batch": "Spring 2025",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "Streamlining Data Capture to Report Creation for Heavy Industries",
-          "originalDescription": "Rimba integrates fragmented data — PDFs, Excel files, time-series, IoT sensors, equipment telemetry, and system performance data — to complete a workflow, such as populating a database, running analytics, and creating a report. Our software streamlines the entire journey from data capture to report creation for the physical world, starting with heavy industries such as renewables, oil & gas, supply chain, and chemicals. Legacy systems don't communicate, and critical operational data remains siloed. Rimba bridges that gap by connecting data from fragmented systems and structures — ERPs, SCADA, SharePoint, email, and more — to automate workflows, classify inputs, transform data, and improve data monitoring.",
-          "published": "",
-          "story": "这家公司做的是重工业的数据到报告自动化。想象你是一家能源公司的运营分析师，每天要面对 PDF、Excel、传感器数据、设备遥测等一堆碎片信息，还要手动整理成报告。Rimba 把这些数据整合起来，自动完成从数据采集、分析到报告生成的全流程。它连接企业管理系统、监控系统、SharePoint 和邮件等不同系统，自动分类和转换数据，提升监控效率。这家公司来自 YC 春季 2025 批次，团队四人，专注于可再生能源、石油天然气、供应链和化工等行业。",
-          "rank": 9
-        },
-        {
-          "id": "hn-launch-49332751",
-          "name": "Speko",
-          "url": "https://speko.ai/",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49332751",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "AI"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) – OpenRouter for Voice AI",
-          "originalDescription": "YC S26) – OpenRouter for Voice AI",
-          "published": "2026-08-17T15:36:18Z",
-          "story": "这家公司做的是语音人工智能的接口聚合平台，类似 OpenRouter 但专门针对语音。想象你是一位开发者，正在构建语音助手，但对接多家语音服务提供商非常麻烦，每家接口都不一样。Speko 提供一个统一接口，让你通过一个接口就能访问多家语音人工智能服务，简化集成过程。这家公司来自 YC 夏季 2026 批次，目前还没有更多信息，但方向很实用。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "Stack Overflow Blog-aHR0cHM6Ly9z",
-          "title": "What does an agentic SDLC actually look like?",
-          "url": "https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/",
-          "source": "Stack Overflow Blog",
-          "published": "Tue, 18 Aug 2026 07:40:00 GMT",
-          "story": "当团队开始把人工智能代理引入软件开发流程，很多人会兴奋地想象一个全自动的未来。但真正的问题是，代理到底在哪个环节介入，才能不添乱反而提效？这篇文章来自Stack Overflow，它没有停留在概念层面，而是试图描绘一个具体的、可操作的代理化SDLC图景。读的时候，不妨留意作者如何区分哪些步骤适合交给代理，哪些还是需要人来拍板，这种取舍的智慧，往往比工具本身更重要。"
-        },
-        {
-          "id": "hn-49341424",
-          "title": "At least 62 YC startups with over $1.9B in funding are hosting on Replit",
-          "url": "https://runtimewire.com/article/at-least-62-yc-startups-with-over-1-9-billion-in-funding-are-hosting-on-replit",
-          "source": "Hacker News",
-          "published": "2026-08-18T04:53:40Z",
-          "story": "一个创业公司决定把产品托管在某个平台上，这本来是个内部技术决策。但当一个数据点变成“62家YC公司、19亿美元融资都选它”，它就成了一种信号：也许这个平台解决了早期团队共有的某个痛点，比如部署速度、成本或者易用性。这篇在Hacker News上被热议，正因为它触动了工程师和创始人的神经。读的时候，可以想想，为什么这些聪明团队会做出类似选择，背后是不是有一种新的默认路径正在形成。"
-        },
-        {
-          "id": "Latent Space-aHR0cHM6Ly93",
-          "title": "[AINews] Stripe buys OpenRouter for $7B",
-          "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
-          "source": "Latent Space",
-          "published": "Mon, 17 Aug 2026 23:13:41 GMT",
-          "story": "当一家支付巨头花70亿美元买下一个人工智能模型路由平台，这消息很容易被当成一则收购新闻划过。但如果你停下来想，Stripe为什么需要OpenRouter？它看中的可能不是技术本身，而是人工智能应用层正在变成一种需要“支付”的基础设施。这篇来自Latent Space的报道，或许能帮你理解这笔交易背后的产业逻辑。读的时候，试着关注作者如何从一笔收购推测出人工智能生态的走向，以及谁会是下一个受益者。"
         }
       ]
     }

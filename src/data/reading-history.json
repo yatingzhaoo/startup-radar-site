@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-31T15:04:02.585Z",
+  "updatedAt": "2026-09-01T12:33:42.477Z",
   "readings": [
+    {
+      "key": "github.com/ajwadjaved/hotaru",
+      "title": "Hotaru – Single dot in your macOS menu bar showing CLI coding agents status",
+      "url": "https://github.com/ajwadjaved/hotaru",
+      "usedAt": "2026-09-01",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel",
+      "title": "If space data centers feel far-fetched, why not interstellar travel?",
+      "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+      "usedAt": "2026-09-01",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks",
+      "title": "How engineered microbes could help feed the world’s crops",
+      "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "usedAt": "2026-09-01",
+      "site": "startup-radar"
+    },
     {
       "key": "github.com/hebbian-robotics/hflow",
       "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
