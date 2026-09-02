@@ -1,7 +1,251 @@
 {
-  "generatedAt": "2026-09-01T12:33:42.475Z",
+  "generatedAt": "2026-09-02T12:05:48.881Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-09-02",
+      "companies": [
+        {
+          "id": 31453,
+          "name": "Minicor",
+          "url": "https://minicor.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/minicor",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 7,
+          "originalOneLiner": "Scalable windows desktop automations",
+          "originalDescription": "Minicor connects AI startups to legacy desktop apps that have no API. Reliably, quickly and at scale. Describe a workflow and get an API endpoint. Each call triggers a self-healing desktop automation on a Windows VM. On-prem, cloud, or Citrix. Build through your coding agent via our MCP. Complete with the observability tools to manage your customer relationship: full video replay of every automation, granular logging, and slack enabled alerts.",
+          "published": "",
+          "story": "Minicor 是一家帮助人工智能初创公司连接老旧桌面软件的公司，这些软件往往没有接口。想象你是一家保险公司的运营主管，每天要处理大量数据，但核心系统还是二十年前的 Windows 程序，只能手动操作。Minicor 让你描述一个工作流程，就能得到一个接口，每次调用都会在 Windows 虚拟机上自动执行，还能自我修复。它支持本地、云端或 Citrix 环境，并提供完整的监控工具，包括视频回放和日志。这家公司来自 YC 春季 2026 批次，目前团队 7 人，正在招聘，值得关注。",
+          "rank": 1
+        },
+        {
+          "id": 31470,
+          "name": "Tasklet",
+          "url": "https://tasklet.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/tasklet-2",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 8,
+          "originalOneLiner": "Agents that own the work",
+          "originalDescription": "AI chatbots can answer questions, but they can't do your work — they aren't connected to your tools, can't take actions, and stop running when you close the tab. Meanwhile, knowledge workers are still spending most of their day switching between dozens of SaaS apps, manually stitching together workflows that should be automated. Tasklet is the AI agent that actually does the work. It connects to every tool you use — via thousands of built-in integrations, any HTTP API, or MCP servers — and takes real actions on your behalf: pulling reports, updating CRMs, triaging emails, processing data, and more. When it needs a UI, it generates one on the fly. When it needs to crunch numbers or do bulk operations, it writes and runs code in a cloud sandbox. When it needs to interact with a website that doesn't have an API, it uses a real browser. And because it runs in the cloud 24/7, you can set up triggers to have it take ongoing responsibility for workflows — not just do something once, but handle it going forward. The product is deliberately simple: a chat interface where you talk to an extremely capable agent. But underneath that simplicity is a cloud-native agent runtime, best-in-class context engineering, a universal connections layer, and multi-model support that keeps us on the frontier as AI improves. We think legacy SaaS is being unbundled by agents, and Tasklet is the operating system that ties it all together.",
+          "published": "",
+          "story": "Tasklet 做的是能真正完成工作的智能体，而不只是聊天机器人。想象你是一个销售主管，每天要在 CRM、邮箱、报表工具之间来回切换，手动整理数据。Tasklet 连接到你的所有工具，通过内置集成、接口或 MCP 服务器，能帮你拉取报告、更新客户信息、处理邮件。它还能在云端 24 小时运行，需要时生成界面，处理大量数据时写代码运行，遇到没有接口的网站就用真实浏览器。这家公司来自 YC 春季 2026 批次，团队 8 人，正在招聘，值得关注。",
+          "rank": 2
+        },
+        {
+          "id": 30456,
+          "name": "Tinfoil",
+          "url": "https://tinfoil.sh",
+          "sourceUrl": "https://www.ycombinator.com/companies/tinfoil",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Security",
+            "Privacy",
+            "Cloud Computing"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "Encrypted AI with verifiable privacy",
+          "originalDescription": "Tinfoil makes it easy to make your AI workloads secure and provably private. You get the privacy of on-prem deployments, while running on the cloud. It's like end-to-end encrypted messaging but for your AI applications. We’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to trade off performance for privacy. We integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims like \"we can't see and don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user -- not even by Tinfoil or the cloud provider it’s processed on. Everything can be made end-to-end encrypted and private with Tinfoil. The founding team combines deep academic and industry experience in security and Internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha hold PhDs from MIT, where they worked on secure hardware, cryptography, and privacy technologies. Jules has also worked at NVIDIA on their confidential computing team. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and the massive data privacy implications of deeply integrated AI. AI is a universal tool that becomes part of our personal lives and business workflows. In the process, it needs access to all personal, private, and proprietary data. Right now, the only solutions are data processing agreements (i.e., \"pinky promises\"), band-aids like PII redaction that don't work in practice, or AI locally/on-prem, which doesn't scale. Tinfoil promises to unlock significantly deeper AI adoption and integrations by making it easy to obtain true privacy, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network. Today we offer several self-serve products: - A consumer-facing chatbot that keeps your chats end-to-end encrypted and provides zero-access inference with powerful open-source models like Kimi, Gemma, and GLM. You can try it out for free: https://chat.tinfoil.sh - A developer-friendly API that allows you to build AI applications where all user data is kept private and we as the inference provider cannot see any of the prompts. Our SDKs make sure that all relevant security measures are checked for you before even sending a single byte of data. Learn more:https://docs.tinfoil.sh - An advanced confidential computing platform we call Tinfoil Containers that allows you to secure any Docker application. We make it easy to deploy your own logic and applications inside secure enclaves and prove to the world what code is running inside. This enables attested workloads and publicly verifiable privacy policies for sensitive applications. Learn more: https://tinfoil.sh/containers",
+          "published": "",
+          "story": "Tinfoil 做的是加密人工智能，让 人工智能 应用在云端运行时也能保护隐私。想象你是一家金融公司的合规负责人，想用 人工智能 分析客户数据，但又担心云端泄露。Tinfoil 基于最新的 NVIDIA GPU 和机密计算技术，让你获得本地部署的隐私性，同时享受云端的性能。它保证数据始终加密，连 Tinfoil 和云服务商都无法访问。这家公司来自 YC 春季 2025 批次，团队 5 人，已推出产品，值得关注。",
+          "rank": 3
+        },
+        {
+          "id": 31239,
+          "name": "Fort",
+          "url": "https://fort.cx",
+          "sourceUrl": "https://www.ycombinator.com/companies/fort",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Strength Tracking Wearable",
+          "originalDescription": "Fort is a wearable that tracks strength training for people who care about longevity. Other wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
+          "published": "",
+          "story": "Fort 是一款追踪力量训练的可穿戴设备，专为关注长寿的人设计。想象你是一个健身爱好者，每次举铁都要手动记录组数和次数，很麻烦。Fort 通过心率传感器和运动数据自动识别你的动作，无需手动输入，还能提供关于疲劳的反馈，帮你调整训练计划。它不只是一个应用，而是把能力放进腕带里，让你在健身房自然佩戴。这家公司来自 YC 冬季 2026 批次，团队 4 人，正在招聘，值得关注。",
+          "rank": 4
+        },
+        {
+          "id": 31564,
+          "name": "Huscarl",
+          "url": "https://www.huscarl.io/",
+          "sourceUrl": "https://www.ycombinator.com/companies/huscarl",
+          "location": "San Francisco, CA, USA; Remote",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "AI-native actuary enabling self-insurance for corporations",
+          "originalDescription": "Huscarl is building an autonomous AI actuary to enable self-insurance for corporations. Large companies use insurance subsidiaries (\"captives\") to self-insure their risks. Some of these captives are larger than regional insurers. We provide them the actuarial and modeling layer to operate and grow. We're building a future where self-insurance is the default, and commercial insurance the exception. This is the best way to solve the inefficiencies of the $1T corporate insurance market.",
+          "published": "",
+          "story": "Huscarl 在做一个自主的人工智能精算师，帮助大公司实现自保。想象你是一家跨国企业的风险总监，每年要支付高额保费给商业保险公司，但理赔体验很差。Huscarl 为大型企业的自保子公司提供精算和建模服务，这些子公司有的比区域性保险公司还大。它让自保成为默认选项，商业保险成为例外，解决万亿级企业保险市场的低效问题。这家公司来自 YC 春季 2026 批次，团队 2 人，正在招聘，值得关注。",
+          "rank": 5
+        },
+        {
+          "id": 31136,
+          "name": "Scheduling Wizard",
+          "url": "https://www.schedulingwiz.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/scheduling-wizard",
+          "location": "Washington, DC, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Logistics infrastructure to modernize healthcare operations",
+          "originalDescription": "Scheduling Wizard is building the logistics infrastructure to modernize healthcare operations. Hospitals still rely on manual workflows to manage staffing, patient flow, and core operations, contributing to $760B in annual inefficiency. 20 departments across 16 hospitals already outsource their physician scheduling to us, powered by our internal Scheduling Programming Language and AI-driven workflows. We work with Mass General, Johns Hopkins, UT Southwestern, UCSF, and many others. We are actively onboarding new clients and expanding into patient triaging and provider management systems, working with partner departments at UCSF and other leading institutions. Scheduling Wizard aims to bring healthcare operations into the future by reducing administrative burden and improving clinical care coordination. Our goal is to create the AI-native administrative layer in healthcare operations.",
+          "published": "",
+          "story": "Scheduling Wizard 在构建医疗运营的后勤基础设施，让医院排班更智能。想象你是一家大医院的医生排班负责人，每天要协调几十位医生的时间，处理请假和急诊，非常头疼。Scheduling Wizard 用自研的排班编程语言和 人工智能 工作流，自动生成排班表，目前已有 16 家医院的 20 个科室在使用，包括麻省总医院、约翰霍普金斯等。这家公司来自 YC 冬季 2026 批次，团队 3 人，正在扩展新客户，值得关注。",
+          "rank": 6
+        },
+        {
+          "id": 33178,
+          "name": "TovenAI",
+          "url": "https://toven.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/tovenai",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "Compliance",
+            "Regtech"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI agents for compliance at institutional trading firms",
+          "originalDescription": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage. With prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+          "published": "",
+          "story": "TovenAI 为机构交易公司的合规团队构建 人工智能 智能体，处理繁琐的数据工作。想象你是一家大型券商的合规分析师，每天要检查大量交易记录，筛选可疑行为，人工操作 Bloomberg 和 NICE Actimize 等系统，耗时费力。TovenAI 提供六个智能体，预置了 30 多个系统的连接器，包括 Bloomberg、Cloud9 等，一周内就能上线，用你自己的数据评估效果。这家公司来自 YC 夏季 2026 批次，团队 2 人，已有客户包括排名前十的机构经纪商，值得关注。",
+          "rank": 7
+        },
+        {
+          "id": 30305,
+          "name": "Forge Automation",
+          "url": "https://www.forgeautomation.ca",
+          "sourceUrl": "https://www.ycombinator.com/companies/forge-automation",
+          "location": "Toronto, ON, Canada",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Hardware",
+            "Robotics",
+            "Manufacturing",
+            "Industrial"
+          ],
+          "batch": "Winter 2025",
+          "isHiring": true,
+          "teamSize": 21,
+          "originalOneLiner": "Software Enabled CNC Parts Supplier",
+          "originalDescription": "Forge Automation runs software enabled factories that deliver custom metal parts in four days or less. Instead of mechanical engineers having to wait two to three weeks for their low volume CNC parts, they can simply upload a CAD model on our platform and we will ship it out in four days or less. We aim to give mechanical engineers the \"Amazon experience\" for custom metal parts.",
+          "published": "",
+          "story": "Forge Automation 经营着软件驱动的工厂，能在四天内交付定制金属零件。想象你是一个机械工程师，正在设计新产品，急需一个 CNC 加工的原型，但传统供应商要等两三周。你只需上传 CAD 模型，Forge 就能在四天内发货，就像用亚马逊一样方便。这家公司来自 YC 冬季 2025 批次，团队 21 人，正在招聘，值得关注。",
+          "rank": 8
+        },
+        {
+          "id": 33281,
+          "name": "Earendil Robotics",
+          "url": "https://earendil.io",
+          "sourceUrl": "https://www.ycombinator.com/companies/earendil-robotics",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Drones",
+            "Swarm Robotics",
+            "AR"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 7,
+          "originalOneLiner": "Drone swarm defence at a small-unit level",
+          "originalDescription": "Earendil Robotics builds cUAS solutions for the modern warfighter, enabling effective air defence at the small-unit level. We deliver spotting, engaging, and destroying capabilities through advanced sensors, autonomous interceptors, and integrated systems. Our product lineup covers every stage of the kill chain, complemented by the Drone Warfare Academy that trains soldiers to eliminate enemy drone threats in contested environments. Backed by worldwide frontline combat experience, we equip units with combat-proven tools to counter evolving aerial threats.",
+          "published": "",
+          "story": "Earendil Robotics 为现代士兵构建小型无人机防御系统。想象你是一个前线小队的队长，面对敌方无人机侦察和攻击，需要快速发现并摧毁它们。Earendil 提供从探测到拦截的全套产品，包括先进传感器、自主拦截器和集成系统，还设有无人机战争学院，训练士兵在复杂环境中应对无人机威胁。这家公司来自 YC 夏季 2026 批次，团队 7 人，由有实战经验的人创立，值得关注。",
+          "rank": 9
+        },
+        {
+          "id": "hn-launch-49525153",
+          "name": "Nori Robotics",
+          "url": "https://www.norirobotics.com/",
+          "sourceUrl": "https://news.ycombinator.com/item?id=49525153",
+          "location": "Unknown",
+          "source": [
+            "Launch HN"
+          ],
+          "tags": [
+            "Smart Hardware"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "YC S26) – A low-cost humanoid robot for development",
+          "originalDescription": "YC S26) – A low-cost humanoid robot for development",
+          "published": "2026-09-01T17:35:10Z",
+          "story": "Nori Robotics 是一家开发低成本人形机器人的公司，目标是让开发者都能负担得起。想象你是一个机器人研究员，想测试新的控制算法，但市面上的双足机器人动辄数十万美元，难以承受。Nori 提供低成本的开发平台，让你能专注于研究，而不必担心硬件成本。这家公司来自 YC 夏季 2026 批次，通过 Launch HN 发布，团队规模未披露，值得关注。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "Crunchbase News-aHR0cHM6Ly9u",
+          "title": "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
+          "url": "https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/",
+          "source": "Crunchbase News",
+          "published": "Wed, 02 Sep 2026 11:00:10 +0000",
+          "story": "当一家公司决定上市，背后往往不只是财务数字，还有整个市场情绪的冷暖。创业者们盯着窗口期，投资人也在猜哪一波浪潮还能托起估值。可窗口不会一直开着，风向一变，原本排队的公司就得重新算账。这篇文章挑出了八家值得关注的初创公司，读的时候不妨想想，作者为什么在当下这个时间点选中它们，是看中了技术壁垒，还是商业模式刚好踩中了需求。你可以带着一个问题去读：如果窗口真的关闭，这些公司靠什么撑到下一轮机会，而它们的处境又能告诉你多少关于市场周期的信号。"
+        },
+        {
+          "id": "WIRED Business-aHR0cHM6Ly93",
+          "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+          "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+          "source": "WIRED Business",
+          "published": "Wed, 02 Sep 2026 10:00:00 +0000",
+          "story": "现在写东西的人越来越多，机器写的和真人写的混在一起，肉眼很难分辨。于是出现了专门检测人工智能的工具，号称能一眼看穿。可这些工具到底靠不靠谱，会不会误伤人类作者，或者反过来被人工智能轻松骗过，心里都没底。这篇文章把Pangram捧成了检测领域的标杆，但标杆不等于真理。读的时候你可以留意，作者是怎么验证它的可信度的，是拿真实案例测试，还是只看宣传数据。顺便想想，如果连检测工具本身都存疑，那我们日常判断信息真假时，还能依赖什么更实在的依据。"
+        },
+        {
+          "id": "TechCrunch-aHR0cHM6Ly90",
+          "title": "Larry Page&#8217;s flying car company Pivotal loses its CEO",
+          "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+          "source": "TechCrunch",
+          "published": "Tue, 01 Sep 2026 23:59:59 +0000",
+          "story": "一家公司从梦想起飞到CEO突然离场，中间往往藏着比新闻稿更复杂的故事。拉里·佩奇投资的飞行汽车公司，听起来像是科幻照进现实，可现实里连掌舵人都换了。读者看到这种消息，第一反应可能是项目要黄了，但事情没这么简单。创始人离开有时是战略分歧，有时是业绩压力，有时只是个人选择。读这篇报道时，不妨把注意力放在细节上：官方说法是什么，各方评论里有没有弦外之音。你还可以试着从公司发展的角度推演，失去CEO之后，技术路线和融资节奏会不会变，这种变动对还处在早期的飞行汽车行业又意味着什么。"
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "companies": [
@@ -3219,250 +3463,6 @@
           "source": "TechCrunch",
           "published": "Wed, 19 Aug 2026 22:25:01 +0000",
           "story": "想象一下，你站在路边，一辆没有司机的车缓缓停下，你扫码上车，它带你穿过城市。这不是科幻，Waymo的新一代机器人出租车已经向三个城市的乘客开放。对普通人来说，这或许只是出行方式的升级，但对整个行业来说，这可能意味着商业模式的成熟。这篇报道分析了它的意义，不妨读读看，它如何把技术进展转化为大众可用的服务，以及这对未来交通有什么影响。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-19",
-      "companies": [
-        {
-          "id": 31415,
-          "name": "Synphony",
-          "url": "https://www.synphony.co/",
-          "sourceUrl": "https://www.ycombinator.com/companies/synphony",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 10,
-          "originalOneLiner": "robots & software for farms",
-          "originalDescription": "Strawberry farming is a $3B industry in California alone with 60% labor cost using 40-year old software. Synphony provides strawberry picking robots and software services including: bed-level analytics, data pipeline integration, and agentic solutions. Synphony's \"side hustle\" is selling data, evals, and viral demos to robot foundation labs while building capacity for general robot deployments. We've started with strawberry farming for great margins and outdoor data moat, but also received requests for robots in semi-conductors and autonomous space labs. Synphony's team has won over 15 hackathons together (taking home 4 Jensen-signed GPUs!). Sean did ML research at NVIDIA and led AI products used by IRS and Citibank. Lucas' research spanned robotics, IoT devices, and neuromorphic computing. Alex architected an app with 400k users.",
-          "published": "",
-          "story": "Synphony 是一家把机器人和软件带入农业的公司，从草莓采摘切入。想象你是一个大型草莓农场的运营负责人，每天最头疼的就是人力成本太高，占掉六成开销，而地里用的软件还是四十年前的老古董。Synphony 的采摘机器人能下地干活，同时提供地块级别的数据分析、数据管道整合和智能体方案，让你对每块地的收成和成本一目了然。更妙的是，他们顺带把农业数据卖给机器人基础模型实验室，还收到了半导体和太空实验室的机器人需求。团队拿过十五次黑客松大奖，成员有 NVIDIA 研究背景和做过 IRS 与花旗银行人工智能产品的经历，值得关注。",
-          "rank": 1
-        },
-        {
-          "id": 32418,
-          "name": "Traceforce",
-          "url": "https://www.traceforce.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/traceforce",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "SaaS",
-            "Security",
-            "Cybersecurity",
-            "Enterprise"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Securing AI native apps directly on devices",
-          "originalDescription": "AI apps such as ChatGPT and Claude have become part of everyone's daily workflow, but they introduce new security risks that traditional security tools weren't built to handle. Security teams at companies from startups to Fortune 500s, are struggling to keep up. Traceforce gives a company’s security team visibility of how AI apps are being used across company’s devices, and the ability to detect and prevent security breaches and unsafe actions as early as possible.",
-          "published": "",
-          "story": "Traceforce 做的是保护人工智能应用安全的工具，切的是企业安全这个方向。假如你是一家公司的安全主管，员工天天用 ChatGPT 和 Claude 干活，可传统安全工具根本看不见这些应用里发生了什么，数据泄露风险让你睡不着觉。Traceforce 能让你在公司所有设备上看到人工智能应用的使用情况，及时发现和阻止不安全的行为。它来自 YC 夏季批次，团队虽然只有两个人但正在招人，说明他们已经有客户在用了，这个方向对从初创到大厂的安全团队都很有吸引力。",
-          "rank": 2
-        },
-        {
-          "id": 30778,
-          "name": "Perspectives Health",
-          "url": "https://www.ycombinator.com/companies/perspectives-health",
-          "sourceUrl": "https://www.ycombinator.com/companies/perspectives-health",
-          "location": "Chicago, IL, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Workflow Automation",
-            "Healthcare",
-            "Mental Health",
-            "Healthcare IT"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "AI to run behavioral health programs better",
-          "originalDescription": "America is facing an addiction and mental health crisis, but the treatment programs trying to solve the problem are faced with administrative burden, staff shortages, and pressure from payers. We work with treatment programs to incorporate AI that reduces administrative burden, prevents insurance denials, and helps directors run their program better. Our agents analyze charts to prevent insurance denials, complete documentation and insurance paperwork to save staff time, and sift through historical data to find opportunities for improvement.",
-          "published": "",
-          "story": "Perspectives Health 用人工智能帮助行为健康治疗项目更好地运转，瞄准的是美国成瘾和心理健康危机背后的管理难题。想象你是一家戒毒治疗项目的主任，每天被文书和保险理赔压得喘不过气，还要应付员工短缺和支付方的压力。这个平台能自动分析病历防止保险拒赔，帮忙填写文书和保险文件，还能从历史数据里找改进机会，让你的团队从行政泥潭里脱身。它来自 YC 夏季 2025 批次，团队五个人正在招人，说明已经有治疗项目在用，值得关注。",
-          "rank": 3
-        },
-        {
-          "id": 31360,
-          "name": "Lightsprint",
-          "url": "https://lightsprint.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/lightsprint",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Collaborative product development with cloud agents",
-          "originalDescription": "Lightsprint is a collaborative platform for software teams to plan visually, preview live and ship with an army of cloud agents. Your whole team, including non-engineers, can now ship end to end reliably. The company is founded by Ben Ong, an AI investor who previously scaled AI products at SEA Group (NYSE: SE) and Temasek ($300B fund), Benedict Chan who was VP Engineering at Chainlink and CTO at BitGo (NYSE:BTGO), and Heng Hong Lee who built Facebook Messenger in 2013 and was Director of Engineering at Fazz (YC S17).",
-          "published": "",
-          "story": "Lightsprint 是一个让软件团队协作开发产品的云平台，核心是让非工程师也能参与交付。想象你是一个产品经理，每天要和技术团队来回对齐需求，还要盯着开发进度，但代码仓库对你来说就像黑盒。在 Lightsprint 上，你们可以可视化地规划、实时预览，然后让一群云端智能体帮你把功能真正发出去，整个团队包括非工程师都能端到端地交付。创始人背景很亮眼，有做过 Facebook Messenger 的工程总监，还有 Chainlink 的工程副总裁，来自 YC 春季 2026 批次，正在招人。",
-          "rank": 4
-        },
-        {
-          "id": 33013,
-          "name": "Operon",
-          "url": "https://operonsolutions.com/en",
-          "sourceUrl": "https://www.ycombinator.com/companies/operon",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Computer Vision",
-            "Manufacturing",
-            "Infrastructure"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 0,
-          "originalOneLiner": "Agentic data layer for manufacturing & process industries.",
-          "originalDescription": "Operon is the data intelligence layer for heavy industry. We ingest the messy documents a plant runs on (P&IDs, schematics, datasheets, scans) and turn them into one structured, queryable model of the facility. On top of it, engineers query their plant in natural language and build agentic workflows for safety, compliance, and design.",
-          "published": "",
-          "story": "Operon 做的是重工业的数据智能层，把工厂里那些杂乱无章的文档变成可查询的结构化模型。想象你是一个化工厂的工程负责人，手里一堆管道仪表图、设备数据表和扫描件，想查个参数得翻半天档案，更别提做安全合规分析了。Operon 把这些文档吃进去，整理成一个统一的设施模型，你就能用自然语言直接问问题，还能构建安全、合规和设计方面的智能体工作流。这家公司来自 YC 夏季 2026 批次，目前正在招人，团队规模虽小但方向很实在。",
-          "rank": 5
-        },
-        {
-          "id": 31345,
-          "name": "Replicas",
-          "url": "https://tryreplicas.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/replicas",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Run any coding agent harness in the cloud",
-          "originalDescription": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets. Replicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
-          "published": "",
-          "story": "Replicas 是一个云端编码智能体平台，让你能同时跑很多个编码任务。想象你是一个研发团队的负责人，平时用 Slack、Linear 和 GitHub 协调工作，但代码评审和修 CI 故障特别耗时。Replicas 能让你从这些工具里直接派任务给 Claude Code 或 Codex，每个任务在独立的虚拟机里跑，还能自动处理 CI 失败和代码评审意见，生成高质量的合并请求。它来自 YC 春季 2026 批次，团队两人正在招人，这种把编码智能体并行化的思路很值得关注。",
-          "rank": 6
-        },
-        {
-          "id": 31465,
-          "name": "Aseon Labs",
-          "url": "https://www.aseonlabs.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/aseon-labs",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Robotic pitstops for self-driving cars",
-          "originalDescription": "Aseon Labs builds robotic pitstops for self-driving cars. Autonomous vehicles can drive themselves, but they still rely on humans and centralized depots for charging, cleaning and servicing multiple times per day. As fleets scale, the operational layer makes up 70% of the cost of the service and is of the largest barrier to uptime, profitability and market expansion. Aseon Pods are robotic micro-depots that can be deployed directly within operating zones, bringing fleet servicing to where demand exists. By eliminating unnecessary depot trips and automating routine operations, Aseon helps autonomous fleet operators increase uptime, reduce reset cost by 50% and unlock scale. Founded by the team behind Pushme, which deployed 5,000 mobility infrastructure locations across 40 cities before its acquisition by TIER-Dott, Aseon is funded and building product in Redwood City for pilot deployment with major autonomous vehicle operators.",
-          "published": "",
-          "story": "Aseon Labs 为自动驾驶汽车造机器人补给站，解决车队运营的难题。想象你是一个自动驾驶出租车车队的运营经理，车辆每天要回基地充电、清洁和保养，来回跑一趟既费时又费钱，运营成本占整个服务的七成。Aseon Pods 是能部署在运营区域里的微型机器人站，让车辆就地完成这些日常维护，省去回程，还能把重置成本降低一半。团队之前做过共享出行基础设施，被收购过，现在正在红木城做试点，来自 YC 春季 2026 批次，正在招人。",
-          "rank": 7
-        },
-        {
-          "id": 30515,
-          "name": "Libretto",
-          "url": "https://libretto.sh",
-          "sourceUrl": "https://www.ycombinator.com/companies/libretto",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Turn website workflows into reliable APIs",
-          "originalDescription": "Libretto is an open-source CLI that lets agents turn website workflows into fast, reusable scripts you can deploy The problem: Most browser automation tools work by sending an AI agent to operate a website in real time, like a robot typing and clicking on your behalf. This is slow, expensive, and unpredictable. They rely on fragile DOM parsing that breaks on legacy and complex sites, and you can never fully trust what the agent will do on unintuitive or inconsistent workflows. Our approach: Libretto helps your coding agents generate workflows as actual, readable code during development, not at runtime. Under the hood it combines Playwright with direct in-session network/API calls for reliability and bot detection evasion. It also supports step-through debugging and a read-only mode to prevent accidental data changes while your agent builds and debugs workflows. This makes Libretto cheaper, faster, and easier to maintain, especially for more complex websites and high stakes workflows.",
-          "published": "",
-          "story": "Libretto 是一个开源命令行工具，能把网站操作流程变成可靠的接口。想象你是一个开发人员，需要自动化一些网站上的重复操作，比如从旧系统里抓数据，但用传统浏览器自动化工具又慢又容易出错，还得担心验证码和页面结构变化。Libretto 让你在开发时就把流程写成可读的代码，结合 Playwright 和直接网络请求，既能调试又支持只读模式防止误操作。它来自 YC 春季 2025 批次，团队两人，虽然不招人，但这个思路在智能体开发里很有用。",
-          "rank": 8
-        },
-        {
-          "id": 32228,
-          "name": "Standard Medical",
-          "url": "https://standardmedical.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/standard-medical",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Health Tech",
-            "Telehealth",
-            "Digital Health",
-            "Healthcare",
-            "Primary Care"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "A primary care clinic where AI earns clinical autonomy",
-          "originalDescription": "Standard Medical is building a primary care clinic where AI earns clinical autonomy. Physician attention is the scarcest resource in medicine, and nearly everything wrong with healthcare follows from that scarcity: the waitlists, the prices, the counties with no doctor at all. We are building the way out. The clinic is designed for AI to do more than draft notes or recommend next steps. For defined clinical workflows, the AI progresses on the same principle used in medical training: supervised first, then progressively entrusted as it demonstrates competence, clearing safety and performance gates for each capability. We'll begin with prescription renewals and routine lab ordering and review, then expand into the rest of longitudinal primary care and common, low-acuity urgent care. Physicians set its scope, supervise its work, and take every complex or unusual case. Any authority the AI earns can be revoked if performance slips. We're pursuing participation in Utah's first-in-nation AI regulatory sandbox to test this model and seek authorization under state oversight, as Washington moves to take clinical AI national. First patients: Utah, 2026. The model is built to repeat state by state. Long term, we want routine care to be increasingly autonomous, nearly free to deliver, and available whenever a patient needs it. The goal is one physician safely caring for a hundred times more patients, with the marginal cost of routine care driven toward zero.",
-          "published": "",
-          "story": "Standard Medical 在打造一家人工智能逐步获得临床自主权的初级保健诊所。想象你是一个长期缺医少药地区的患者，约个医生要等几个月，或者你是一个医生，被大量简单重复的处方和化验工作淹没。这家诊所让人工智能先从处方续签和常规化验做起，在医生的监督下通过安全考核后逐步承担更多工作，医生只处理复杂病例。它来自 YC 夏季 2026 批次，团队两人，虽然不招人，但这个模式直击医疗资源稀缺的痛点，值得关注。",
-          "rank": 9
-        },
-        {
-          "id": "hn-launch-49348136",
-          "name": "machine0",
-          "url": "https://machine0.io",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49348136",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "Product"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) – Persistent CPU and GPU VMs from the CLI",
-          "originalDescription": "YC S26) – Persistent CPU and GPU VMs from the CLI",
-          "published": "2026-08-18T16:26:42Z",
-          "story": "machine0 是一个从命令行就能创建持久 CPU 和 GPU 虚拟机的工具，来自 YC 夏季 2026 批次。想象你是一个机器学习研究员，经常需要临时租用带 GPU 的机器来跑实验，但每次配置环境、管理实例都很麻烦。machine0 让你直接在终端里敲命令就能启动和管理虚拟机，而且机器是持久的，不用每次重新设置。虽然团队规模和地点未知，但这类开发者工具能大大简化云端计算的使用，对需要大量算力的人来说很实用。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49358183",
-          "title": "Show HN: Superprez.io – Sharing and Collaboration for AI-Generated Decks",
-          "url": "https://www.superprez.io",
-          "source": "Hacker News",
-          "published": "2026-08-19T07:32:03Z",
-          "story": "你有没有遇到过这种情况：用 人工智能 工具快速生成了一版演示文稿，但发给同事后，大家各自改了几处，版本就乱成一团。这其实是很多团队在尝试 人工智能 生成内容时都会撞上的墙。Superprez.io 这个项目，就是有人想专门解决这个问题。它出现在 Hacker News 上，说明不少技术人正在关注这个方向。读的时候，不妨留意作者是怎么定义这个痛点的，以及他选择了哪些功能来回应。这能帮你理解，一个看似简单的协作需求，背后藏着多少设计上的取舍。"
-        },
-        {
-          "id": "TechCrunch AI-aHR0cHM6Ly90",
-          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-          "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-          "source": "TechCrunch AI",
-          "published": "Tue, 18 Aug 2026 22:14:25 +0000",
-          "story": "当你习惯了某个平台，却总被一些细节卡住，比如部署流程繁琐、权限设置不顺手，这时候突然冒出一个替代品，你会不会心动？Cursor 推出自己的托管平台，正是抓住了开发者对 GitHub 的这类不满。TechCrunch 的这篇报道，把这件事放到了行业竞争的背景里。读的时候，可以想想：一个以编辑器出名的公司，凭什么进入托管领域？它看准了用户的哪些痛点？这或许能让你对工具市场的变迁有更具体的感知。"
-        },
-        {
-          "id": "Lenny's Newsletter-aHR0cHM6Ly93",
-          "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
-          "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
-          "source": "Lenny's Newsletter",
-          "published": "Tue, 18 Aug 2026 21:30:31 GMT",
-          "story": "当新工具一个接一个冒出来，你可能会犯选择困难症。Grok Bot、Grok 4.6、Cursor Origin，这些名字听起来都很厉害，但到底哪个值得你花时间上手？Lenny 的这篇亲测文章，就像一位懂行的朋友帮你把了把关。他不仅用了，还给出了坦率的评价。读的时候，你可以关注他比较的维度，比如速度、易用性还是效果。这样，即使你暂时用不上这些工具，也能学会怎么评估一款新工具是否适合自己。"
         }
       ]
     }

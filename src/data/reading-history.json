@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-01T12:33:42.477Z",
+  "updatedAt": "2026-09-02T12:05:48.883Z",
   "readings": [
+    {
+      "key": "news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026",
+      "title": "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
+      "url": "https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/",
+      "usedAt": "2026-09-02",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo",
+      "title": "Larry Page&#8217;s flying car company Pivotal loses its CEO",
+      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "usedAt": "2026-09-02",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection",
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+      "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+      "usedAt": "2026-09-02",
+      "site": "startup-radar"
+    },
     {
       "key": "github.com/ajwadjaved/hotaru",
       "title": "Hotaru – Single dot in your macOS menu bar showing CLI coding agents status",
