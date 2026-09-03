@@ -1,7 +1,259 @@
 {
-  "generatedAt": "2026-09-02T12:05:48.881Z",
+  "generatedAt": "2026-09-03T12:05:12.715Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-09-03",
+      "companies": [
+        {
+          "id": 31057,
+          "name": "Valgo",
+          "url": "https://valgo.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/valgo",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Insurance risk layer for physical AI",
+          "originalDescription": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk. Our team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs with leading expertise in safety of physical AI systems. Sydney wrote the textbook on validating safety-critical systems and teaches the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB and an actuary who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
+          "published": "",
+          "story": "这家公司做的是物理人工智能的保险风险量化，简单说就是给自动驾驶卡车、机器人这类自主系统定价保险。想象你是一家保险公司的精算师，过去给汽车定价靠的是几十亿条理赔记录，可面对几乎没有历史数据的自动驾驶系统，你完全无从下手。Valgo 从底层构建路线、任务和环境的风险模型，输出模拟损失估算，让保险公司敢于为自主系统承保。团队两位创始人是斯坦福博士，一位还写过安全关键系统验证的教科书，另一位在 MIT 林肯实验室待了七年，专业背景相当扎实。",
+          "rank": 1
+        },
+        {
+          "id": 30510,
+          "name": "Cactus Compute",
+          "url": "https://www.cactuscompute.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/cactus-compute",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Hard Tech",
+            "Open Source",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": false,
+          "teamSize": 8,
+          "originalOneLiner": "Tiny Edge AI For Tiny Devices",
+          "originalDescription": "On-device AI for phones, wearables, smart home, robots and small robots: - Cactus Needle: 14MB agentic LLM for tiny devices - Cactus Engine: fastest runtime for tiny devices - Cactus Hybrid: post-trained models fall back to cloud",
+          "published": "",
+          "story": "这家公司专注让手机、手表、智能家居和小机器人这些微型设备也能跑人工智能。想象你是一个可穿戴设备的产品经理，想让手表离线就能做语音助手，可模型太大装不下，联网又费电。Cactus Compute 提供了只有 14MB 的智能体语言模型，配合自家最快的推理引擎，还能在模型搞不定时自动切换到云端。它背后是 8 人团队，来自 YC 夏季批次，开源路线也让开发者能快速上手。",
+          "rank": 2
+        },
+        {
+          "id": 31100,
+          "name": "Sentrial",
+          "url": "https://sentrial.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/sentrial",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Datadog for Agent Reliability",
+          "originalDescription": "Sentrial is the monitoring platform for AI products in production. When your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
+          "published": "",
+          "story": "这家公司做的是人工智能产品上线后的监控，类似给智能体装一个故障诊断仪。想象你是一个人工智能应用的后端工程师，用户反馈智能体卡在死循环里或者胡说八道，你翻日志却找不到原因。Sentrial 能实时检测这类异常，自动分析根因并给出修复建议，让团队不再只依赖离线测试，而是根据线上真实情况迭代。目前团队两人，来自 YC 冬季批次。",
+          "rank": 3
+        },
+        {
+          "id": 30515,
+          "name": "Libretto",
+          "url": "https://libretto.sh",
+          "sourceUrl": "https://www.ycombinator.com/companies/libretto",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2025",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Turn website workflows into reliable APIs",
+          "originalDescription": "Libretto is an open-source CLI that lets agents turn website workflows into fast, reusable scripts you can deploy The problem: Most browser automation tools work by sending an AI agent to operate a website in real time, like a robot typing and clicking on your behalf. This is slow, expensive, and unpredictable. They rely on fragile DOM parsing that breaks on legacy and complex sites, and you can never fully trust what the agent will do on unintuitive or inconsistent workflows. Our approach: Libretto helps your coding agents generate workflows as actual, readable code during development, not at runtime. Under the hood it combines Playwright with direct in-session network/API calls for reliability and bot detection evasion. It also supports step-through debugging and a read-only mode to prevent accidental data changes while your agent builds and debugs workflows. This makes Libretto cheaper, faster, and easier to maintain, especially for more complex websites and high stakes workflows.",
+          "published": "",
+          "story": "这家公司做的是把网站操作流程变成稳定接口的开源工具。想象你是一个开发智能体的工程师，过去让智能体像真人一样在网页上点击输入，又慢又容易出错，遇到老旧的复杂网站更是频繁崩溃。Libretto 让编码智能体在开发阶段就把流程生成可读的代码，运行时直接调用底层接口，既快又稳，还支持逐步调试和只读模式防止误改数据。团队两人，来自 YC 春季批次。",
+          "rank": 4
+        },
+        {
+          "id": 30778,
+          "name": "Perspectives Health",
+          "url": "https://www.ycombinator.com/companies/perspectives-health",
+          "sourceUrl": "https://www.ycombinator.com/companies/perspectives-health",
+          "location": "Chicago, IL, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Workflow Automation",
+            "Healthcare",
+            "Mental Health",
+            "Healthcare IT"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "AI to run behavioral health programs better",
+          "originalDescription": "America is facing an addiction and mental health crisis, but the treatment programs trying to solve the problem are faced with administrative burden, staff shortages, and pressure from payers. We work with treatment programs to incorporate AI that reduces administrative burden, prevents insurance denials, and helps directors run their program better. Our agents analyze charts to prevent insurance denials, complete documentation and insurance paperwork to save staff time, and sift through historical data to find opportunities for improvement.",
+          "published": "",
+          "story": "这家公司用人工智能帮助行为健康治疗机构减轻行政负担。想象你是一家戒瘾治疗中心的运营总监，每天要处理大量保险文书，还要提防理赔被拒，人手总是不够。Perspectives Health 的智能体自动分析病历预防拒赔，完成文档和保险文书，并从历史数据里找出改进机会。团队五人，来自 YC 夏季批次，目前正在招聘。",
+          "rank": 5
+        },
+        {
+          "id": 31415,
+          "name": "Synphony",
+          "url": "https://www.synphony.co/",
+          "sourceUrl": "https://www.ycombinator.com/companies/synphony",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 10,
+          "originalOneLiner": "robots & software for farms",
+          "originalDescription": "Strawberry farming is a $3B industry in California alone with 60% labor cost using 40-year old software. Synphony provides strawberry picking robots and software services including: bed-level analytics, data pipeline integration, and agentic solutions. Synphony's \"side hustle\" is selling data, evals, and viral demos to robot foundation labs while building capacity for general robot deployments. We've started with strawberry farming for great margins and outdoor data moat, but also received requests for robots in semi-conductors and autonomous space labs. Synphony's team has won over 15 hackathons together (taking home 4 Jensen-signed GPUs!). Sean did ML research at NVIDIA and led AI products used by IRS and Citibank. Lucas' research spanned robotics, IoT devices, and neuromorphic computing. Alex architected an app with 400k users.",
+          "published": "",
+          "story": "这家公司做草莓采摘机器人和配套的农场软件。想象你是一个大型农场的运营负责人，草莓采摘人工成本占六成，用的软件还是四十年前的旧系统。Synphony 提供采摘机器人，还能做田垄级分析、数据对接和智能体方案，顺带把数据卖给机器人基础模型实验室。团队十人，拿过 15 次黑客松冠军，有人曾在英伟达做机器学习研究，也有人做过用户量四十万的应用。",
+          "rank": 6
+        },
+        {
+          "id": 30509,
+          "name": "Boost Robotics",
+          "url": "https://www.boostrobotics.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/boost-robotics",
+          "location": "Boston, MA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Hard Tech",
+            "Hardware",
+            "Robotics",
+            "Infrastructure"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Robots for the inspection and maintenance of data centers",
+          "originalDescription": "Boost Robotics is building autonomous mobile manipulation robots to remotely perform manual tasks in data centers. The surge in AI applications is pushing data centers to scale faster than they can manage, leading to suboptimal operations and staffing shortages amid rising power and compute demands. We save data centers millions in insurance premiums and SLA violations by increasing the frequency of inspection and maintenance while reducing the time it takes to triage and address failures.",
+          "published": "",
+          "story": "这家公司做数据中心巡检维护机器人。想象你是一个数据中心设施主管，人工智能热潮让机房扩张飞快，但人手不足，巡检和维护跟不上，一旦出故障可能面临巨额保险罚款。Boost Robotics 的自主移动操作机器人能远程执行人工任务，提高巡检频率，缩短故障响应时间，帮数据中心省下不少保险和违约成本。团队两人，来自 YC 春季批次。",
+          "rank": 7
+        },
+        {
+          "id": 30512,
+          "name": "MorphoAI",
+          "url": "https://morpho.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/morphoai",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Robotics",
+            "Manufacturing",
+            "AI"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": true,
+          "teamSize": 7,
+          "originalOneLiner": "Software tool for designing robots and machines",
+          "originalDescription": "We're building an AI powered platform for engineers that are building new robots and machines. We allow users to invent and modify machine designs in a matter of minutes, not years. Ayna and Andy, the co-founders, met during their time at Harvard and started this in 2024 as their programs were wrapping up. We're commercializing 10+ years research done by our team at Harvard and MIT on this space. Our team wrote the very first papers on applying GenAI and optimization algorithms to compose robots from parts and applying computational design to fine tune machine designs. We're bringing in our deep knowledge of modifying equipment and integrating it into factories keenly understanding what makes hardware hard. We take in parts under consideration, constraints and tasks at hand and our algorithm formulates and fine tunes from 100s of possible design options. All in a few clicks, so engineers can push hardware to market faster and companies can benefit from the inventions being done by their R&D teams. We already have two paying customers in the OEM and system integrator spaces. We are venture backed and supported by a GBP 2.5MM grant by ARIA, the UK Government's invention agency.",
+          "published": "",
+          "story": "这家公司提供人工智能平台，帮工程师快速设计机器和设备。想象你是一个工厂自动化工程师，想改造一台机器但传统设计要花好几年，而客户催得很紧。MorphoAI 的算法能根据零件、约束和任务，从几百个方案里筛选优化，几分钟就给出设计。两位创始人在哈佛相识，团队把哈佛和 MIT 十多年的研究成果商业化，还写过这个领域的首批论文。",
+          "rank": 8
+        },
+        {
+          "id": 32523,
+          "name": "Stratum Industries",
+          "url": "https://stratumindustries.co/",
+          "sourceUrl": "https://www.ycombinator.com/companies/stratum-industries",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "GovTech",
+            "Automation"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Applied AI for Governments.",
+          "originalDescription": "Stratum Industries is the applied AI company for governments. We build AI agents that automate the slow, complex manual workflows governments run on, starting with application review, where files are still reviewed by hand, one at a time, leaving millions stuck in queues. Stratum's agents review applications end to end with a human in the loop and full auditability, clearing entire backlogs in a fraction of the time. Our mission is to deploy AI across every vertical inside the government, saving agencies tens of billions in administrative cost and making the government one of the most efficient institutions in the world.",
+          "published": "",
+          "story": "这家公司为政府提供人工智能智能体，专门处理繁琐的手工流程。想象你是一个市政审批部门的负责人，每天面对堆积如山的申请表，人工一份份审核，效率极低。Stratum Industries 的智能体可以端到端审核申请，全程有人类监督和完整审计记录，能快速清空积压。团队两人，来自 YC 夏季批次，瞄准的是政府这个效率洼地。",
+          "rank": 9
+        },
+        {
+          "id": 30533,
+          "name": "Pelica",
+          "url": "https://www.pelica.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/pelica",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "Healthcare",
+            "Healthcare IT",
+            "AI"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "AI agents for risk-bearing healthcare organizations",
+          "originalDescription": "Pelica helps risk-bearing healthcare organizations improve quality performance, close care gaps, and lower administrative cost using specialized AI agents. Built for health plans, IPAs, MSOs, ACOs, and risk-bearing medical groups, Pelica unifies claims, EHR, pharmacy, lab, and ADT data into one live member record, then gives quality, risk adjustment, pharmacy, provider network, and care management teams agents that carry work through to completion. Pelica currently serves more than 350,000 members.",
+          "published": "",
+          "story": "这家公司为承担风险的医疗机构提供人工智能智能体。想象你是一家健康计划的质量管理负责人，要盯着几百个成员的护理缺口，还要处理理赔、病历、药房等一堆数据，头都大了。Pelica 把各种数据整合成一份活档案，再给质量、风险调整、药房等团队配智能体，自动完成任务。目前服务超过三十五万成员，团队五人，来自 YC 春季批次，正在招聘。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49548847",
+          "title": "Show HN: StillMade – Programmable AI video pipeline; Chat to video (now)",
+          "url": "https://www.stillmade.shop",
+          "source": "Hacker News",
+          "published": "2026-09-03T11:58:10Z",
+          "story": "过去几年，视频生成工具层出不穷，但大多数都像黑盒子：你输入一句话，它吐出一段画面，中间发生了什么你既不知道也改不了。于是有些团队开始不满足于这种“开箱即用”的体验，他们想把生成过程拆开，让每一步都能被编排、被控制。StillMade 出现在 Hacker News 上，标题里直接点出“可编程”和“聊天生成视频”两个词，这其实是在回应一批人的真实需求：他们可能在做原型、做批量内容，或者只是厌倦了每次都要靠运气调参数。读这条讨论时，值得留意的不是它宣称能做到什么，而是评论区里那些追问：管线到底怎么拆，哪些环节真的可以编程，哪些只是包装。这样你就能看出，所谓可编程视频，究竟是工程上的进步，还是又一个营销话术。"
+        },
+        {
+          "id": "Crunchbase News-aHR0cHM6Ly9u",
+          "title": "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues",
+          "url": "https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/",
+          "source": "Crunchbase News",
+          "published": "Thu, 03 Sep 2026 11:00:52 +0000",
+          "story": "如果你平时不怎么看融资新闻，可能会觉得“全球风险投资八月增长 122%”只是一串数字。但换个场景想：你是一家创业公司的创始人，正在犹豫要不要启动新一轮融资，或者你只是在一家小公司做产品，担心明年预算会不会被砍，这时候你就会想知道，钱到底流向了哪里，是人工智能、气候科技，还是某个你完全没听过的领域。Crunchbase 的这篇报道把单月数据和连续出现的十亿美元级大单放在一起，其实是在帮你判断，这波热度是短暂的脉冲，还是某种持续的趋势。读的时候，别只盯着总额，试着去看它拆解了哪些行业、哪些地区，以及它认为谁在推动这些交易，这样你才能判断，这波水涨船高，会不会漫到你所在的岸边。"
+        },
+        {
+          "id": "MIT Technology Review-aHR0cHM6Ly93",
+          "title": "Agriculture relies on fossil fuels. It’s costing us.",
+          "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+          "source": "MIT Technology Review",
+          "published": "Thu, 03 Sep 2026 10:00:00 +0000",
+          "story": "很多人以为，农业离科技很远，离化石燃料更远。但只要你稍微留意一下化肥的价格波动，或者听说过合成氨需要高温高压，就会明白，现代农业的每一粒粮食里，其实都藏着石油和天然气的影子。MIT Technology Review 这篇报道把化肥价格和化石燃料绑在一起讨论，本质上是在提醒我们：餐桌上看似便宜的农产品，它的成本结构里有一大块是跟着油价走的。当你看到超市里的菜价上涨，或者新闻里说某个产粮区因为能源短缺而减产，背后往往是这条链条在起作用。读这篇文章时，可以带着一个问题去看：作者是怎么把化肥生产、能源市场和粮食价格这三件事串起来的，他指出了哪个环节最脆弱，以及谁在承担最终的代价。这样你就能理解，为什么说农业依赖化石燃料，最终是我们在为它买单。"
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "companies": [
@@ -3216,253 +3468,6 @@
           "source": "WIRED Business",
           "published": "Fri, 21 Aug 2026 06:00:00 +0000",
           "story": "当一家科技巨头想进入公共部门，通常都是政府点头、公司签约，很少听到反对的声音。但英国有一个郡偏偏说不，拒绝与 Palantir 合作。这件事听起来像地方新闻，其实牵扯到隐私、权力和公共服务的边界。适合那些关心技术如何落地、以及谁在替普通用户把关的人读。读的时候，可以留意作者如何呈现双方的理由，而不是简单站队。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "companies": [
-        {
-          "id": 31557,
-          "name": "Amorphic Labs",
-          "url": "https://www.amorphiclabs.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/amorphic-labs",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Marketplace",
-            "B2B"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Software Commerce Infrastructure for Agents",
-          "originalDescription": "The next billion software users are AI agents, yet fully autonomous agents remain impossible while every account, bill, and tool still runs through a human. We solve this for both agents and software vendors: vendors use us to let agents sign up and get billed directly, and to improve their agent experience across interfaces like MCP. Agents use us to find, acquire, and pay for what they need, including MCP servers, APIs, datasets, and skills.",
-          "published": "",
-          "story": "这家公司做的是面向智能体的软件商业基础设施。想象你是一家软件公司的销售负责人，过去要花大量时间处理客户的注册、账单和续费，而现在越来越多的客户变成了自动化的智能体，它们不会填表格，也不会打电话。Amorphic Labs 让智能体可以直接注册你的服务并自动付费，同时帮你优化智能体使用你产品时的体验。反过来，智能体也能通过它找到并购买需要的接口、数据集和技能。这家公司来自 YC 夏季 2026 批次，团队只有两个人，但切中的是智能体经济里最基础的钱和账号问题，值得关注。",
-          "rank": 1
-        },
-        {
-          "id": 30894,
-          "name": "Unsiloed AI",
-          "url": "https://www.unsiloed.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/unsiloed-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "B2B",
-            "Infrastructure",
-            "APIs"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "API for parsing multimodal unstructured data",
-          "originalDescription": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets. Our APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
-          "published": "",
-          "story": "这家公司做的是把多模态非结构化数据变成结构化数据的接口服务。假如你是一家企业的数据工程师，正在搭建一个知识库检索系统，却发现文档里的表格、图片和图表总是被解析得乱七八糟，导致下游应用效果很差。Unsiloed AI 用自研的视觉模型来处理这些复杂文档，把内容变成人工智能可以直接使用的格式。它的接口已经在为初创公司和纳斯达克上市企业解析数十万份文档，公开基准测试里也超过了多个主流方案。来自 YC 秋季 2025 批次，正在招聘，团队虽小但已经进入大企业，值得关注。",
-          "rank": 2
-        },
-        {
-          "id": 31434,
-          "name": "Adialante",
-          "url": "https://www.ycombinator.com/companies/adialante",
-          "sourceUrl": "https://www.ycombinator.com/companies/adialante",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Cancer screening without barriers",
-          "originalDescription": "We know how to improve cancer outcomes by 8x-10x: you catch it early. MRI is the most robust and powerful cancer-detection tool in the world, yet systems cost millions to purchase, take months to install, and require high levels of technical skill to operate. We've redesigned MRI from the ground up with new physics, algorithms, and hardware, all to bring cancer screening to the entire world. Our mobile MRI is an imaging clinic on wheels. No equipment to buy, no infrastructure needed. For a flat per-scan fee, any medical site can offer MRI cancer screening. Starting with prostate cancer. Then everything else.",
-          "published": "",
-          "story": "这家公司想重新发明核磁共振成像设备，让癌症筛查变得没有门槛。想象你是一家基层诊所的负责人，一直想给病人提供核磁检查，但设备要几百万美元，安装还要好几个月，根本负担不起。Adialante 把核磁设备改造成了移动诊所，按次收费，任何医疗点都能直接提供筛查服务，不用买设备，也不用改造场地。它从前列腺癌开始，未来扩展到更多癌症类型。来自 YC 春季 2026 批次，团队四人，正在招聘。这种把大型医疗设备小型化、服务化的思路，可能真的能改变癌症早筛的普及率。",
-          "rank": 3
-        },
-        {
-          "id": 31214,
-          "name": "Pocket",
-          "url": "https://heypocket.com/now",
-          "sourceUrl": "https://www.ycombinator.com/companies/pocket",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "Take Notes in the Real World",
-          "originalDescription": "Pocket is a Y Combinator W26 company building a premium hardware plus software product in the AI voice recorder space. We are obsessed with quality and speed. We are scaling very fast in the US and now European markets and building a device experience that can become the category leader.",
-          "published": "",
-          "story": "这家公司做的是人工智能语音记录设备，硬件加软件一起卖。想象你是一个经常开会、采访或者灵光一现的创意工作者，过去掏出手机录音总觉得不方便，而且录完还要花时间整理。Pocket 是一个小巧的随身设备，能随时随地记录语音，并自动转成文字和摘要。它不只是一个手机应用，而是把录音能力放进了专用硬件里，让你不用打开手机就能快速记录。团队十五人，来自 YC 冬季 2026 批次，正在招聘，产品在美国和欧洲增长很快，目标是成为这个品类的领导者。",
-          "rank": 4
-        },
-        {
-          "id": 33606,
-          "name": "Billow AI Labs",
-          "url": "https://thebillow.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/billow-ai-labs",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Finance",
-            "B2B",
-            "Workflow Automation"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "AI-native Accounting Firm to Replace the Big-4",
-          "originalDescription": "Billow handles the work of Accounting and FP&A FTEs keeping teams compliant and audit-ready. We work within existing stacks (NetSuite, Coupa, and 80+ other systems) and complex spreadsheets, chasing down information and coordinating approvals across stakeholders. Built by repeat founders; Joan built and exited an accounting/ERP platform (45,000 businesses in 4 years) and Phil built Bloomberg's financial “brain” data infrastructure, and as CTO of a trading platform ($1B in volume). Advisors include CFOs, controllers, auditors from publicly-traded biopharma, and a Big-4 Accounting firm.",
-          "published": "",
-          "story": "这家公司想做一个人工智能原生的会计事务所，替代传统的四大。想象你是一家公司的财务负责人，月底要对账、准备审计材料，还要协调各个部门提供数据，常常忙得焦头烂额。Billow AI Labs 能自动完成会计和财务分析的工作，并且接入你现有的企业管理系统和表格，帮你追着各部门要数据、协调审批。创始人之前做过会计和企业管理系统平台，服务过四万五千家企业，另一位创始人做过彭博的金融数据基础设施。来自 YC 夏季 2026 批次，虽然团队目前为零，但背景很强，值得关注。",
-          "rank": 5
-        },
-        {
-          "id": 31430,
-          "name": "Voquill",
-          "url": "https://voquill.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/voquill",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "The agentic OS for medical labs",
-          "originalDescription": "Voquill is the modern AI-native operating system for medical labs. This software manages the entire workflow of the lab (accessioning, workflow, reporting, coding, compliance, and revenue) and contains modern agentic AI tools to help each step. For example, pathologists can write reports 20% faster through our voice AI coworker. Incumbent lab operating systems are old, don't scale with how modern labs work, and can’t integrate existing AI solutions. As a result, labs are either building their own or paying millions for band-aid solutions and consultants. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
-          "published": "",
-          "story": "这家公司做的是医疗实验室的人工智能原生操作系统。想象你是一家病理科的主任，每天要处理样本接收、报告撰写、编码合规等一堆琐事，还要面对老旧的信息系统，想引入人工智能却接不进去。Voquill 管理实验室的整个流程，并且内置智能体工具，比如病理医生可以用语音助手写报告，速度提升百分之二十。它来自 YC 春季 2026 批次，团队三人，正在招聘。实验室信息系统是个巨大又老旧的市场，Voquill 想用人工智能平台取代那些昂贵的补丁方案，值得关注。",
-          "rank": 6
-        },
-        {
-          "id": 31526,
-          "name": "Uno Wallet",
-          "url": "https://myunowallet.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/uno-wallet",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Fintech",
-            "Payments",
-            "Consumer",
-            "Infrastructure"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "The AI mobile wallet that replaces Apple Pay",
-          "originalDescription": "We are changing the way that people pay... Founded by: Saket Joshi: www.linkedin.com/in/saket-dattatray-joshi/ Mordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
-          "published": "",
-          "story": "这家公司想用人工智能钱包取代 Apple Pay。想象你是一个经常用手机支付的消费者，每次付款都要解锁手机、打开应用，还要担心支付安全。Uno Wallet 是一个智能钱包应用，它利用人工智能来优化支付流程，可能还能根据你的消费习惯提供建议。它来自 YC 春季 2026 批次，团队两人，正在招聘。支付领域竞争激烈，但这家公司有两位创始人，具体背景没有公开，不过能进入 YC 说明想法有独到之处。它能不能真的改变支付方式，还要看产品发布后的表现。",
-          "rank": 7
-        },
-        {
-          "id": 31177,
-          "name": "Prana",
-          "url": "https://pranadoc.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/prana-health",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "An AI primary care doctor in your pocket",
-          "originalDescription": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits. Most AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions. Safety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer 24/7 physician care for a fraction of the cost of traditional care. The Team: - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments. - Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals. - Sanjit Menon (CHO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine. Traction: Live in beta with early users.",
-          "published": "",
-          "story": "这家公司做的是口袋里的全科医生，用人工智能提供持续的健康管理。想象你是一个有慢性病的患者，每年只体检一次，平时身体有点小变化也不知道要不要去医院。Prana 连接你的医疗记录和可穿戴设备，持续监测你的健康数据，发现细微的异常就提醒你，还能解释化验单、管理处方。它不只是一个聊天机器人，而是一个完整的医疗服务提供者，人工智能负责大部分工作，人类医生只处理关键决策。来自 YC 冬季 2026 批次，团队四人，创始人有生物医学和量化背景。这种模式可能让全天候的医生服务变得负担得起。",
-          "rank": 8
-        },
-        {
-          "id": 31366,
-          "name": "Nine Fives",
-          "url": "https://ninefives.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/nine-fives",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech",
-            "Aerospace",
-            "Telecommunications"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "RF test equipment for next-gen spacecraft, drones, and cellphones",
-          "originalDescription": "Nine Fives produces modern radio frequency test equipment and solutions to disrupt the $130B test equipment industry. By combining modern electronics, AI ready test automation, and strategic supply chains, we’re equipping our customers to cut their time to market in half.",
-          "published": "",
-          "story": "这家公司做的是下一代航天器、无人机和手机用的射频测试设备。想象你是一个卫星制造商的测试工程师，过去测试一台设备要花几周时间，而且设备又贵又笨重。Nine Fives 用现代电子和人工智能自动化重新设计了测试设备，能帮客户把产品上市时间缩短一半。它来自 YC 春季 2026 批次，团队两人，正在招聘。测试设备行业有一千三百亿美元的市场，但创新缓慢，这家公司想用新方法切入，值得关注。",
-          "rank": 9
-        },
-        {
-          "id": "hn-launch-49363710",
-          "name": "OneCLI",
-          "url": "https://github.com/onecli/onecli",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49363710",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "AI"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) – OSS sandboxed agent harness for teams",
-          "originalDescription": "YC S26) – OSS sandboxed agent harness for teams",
-          "published": "2026-08-19T16:29:02Z",
-          "story": "这家公司发布了一个开源的沙盒智能体工具，叫 OneCLI，是 YC 夏季 2026 批次的项目。想象你是一个团队的技术负责人，想让团队成员安全地运行人工智能智能体，但又担心它们访问敏感数据或执行危险操作。OneCLI 提供了一个沙盒环境，让智能体在隔离的空间里运行，既方便协作又安全。它通过 Launch HN 发布，说明是开发者社区关注的项目。虽然团队规模和具体业务没有公开，但开源工具往往能快速积累用户，值得关注。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49371598",
-          "title": "Why is there no programmatic access to the Start menu pin list? (2003)",
-          "url": "https://devblogs.microsoft.com/oldnewthing/20030903-00/?p=42673",
-          "source": "Hacker News",
-          "published": "2026-08-20T07:41:30Z",
-          "story": "当你第一次用电脑时，可能会好奇：为什么某些软件能固定在开始菜单，而另一些不能？这个问题看似简单，却困扰了无数开发者。2003年，一位微软工程师在博客上回答了这个问题，如今这篇文章又被翻出来讨论。它不仅仅是一个技术问答，更像是一扇窗，让人看到操作系统设计背后的权衡。读的时候，不妨留意作者如何解释那些看似任性的限制，以及他如何把复杂的系统逻辑讲得通俗易懂。"
-        },
-        {
-          "id": "Latent Space-aHR0cHM6Ly93",
-          "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
-          "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
-          "source": "Latent Space",
-          "published": "Thu, 20 Aug 2026 05:17:12 GMT",
-          "story": "在人工智能领域，模型的参数规模曾是衡量实力的标尺，但最近风向变了。Z.ai的CEO在访谈中提出了“后训练扩展定律”，这可能会让很多人的认知发生动摇。如果你关注人工智能行业的动态，这篇访谈值得一读，因为它不仅解释了技术趋势，还揭示了公司战略的转变。读的时候，可以思考一下：当大家都在追求大模型时，为什么有人开始反其道而行之？这种变化又会给谁带来机会？"
-        },
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-          "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-          "source": "TechCrunch",
-          "published": "Wed, 19 Aug 2026 22:25:01 +0000",
-          "story": "想象一下，你站在路边，一辆没有司机的车缓缓停下，你扫码上车，它带你穿过城市。这不是科幻，Waymo的新一代机器人出租车已经向三个城市的乘客开放。对普通人来说，这或许只是出行方式的升级，但对整个行业来说，这可能意味着商业模式的成熟。这篇报道分析了它的意义，不妨读读看，它如何把技术进展转化为大众可用的服务，以及这对未来交通有什么影响。"
         }
       ]
     }

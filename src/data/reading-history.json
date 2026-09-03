@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-02T12:05:48.883Z",
+  "updatedAt": "2026-09-03T12:05:12.717Z",
   "readings": [
+    {
+      "key": "news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026",
+      "title": "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues",
+      "url": "https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/",
+      "usedAt": "2026-09-03",
+      "site": "startup-radar"
+    },
+    {
+      "key": "stillmade.shop",
+      "title": "Show HN: StillMade – Programmable AI video pipeline; Chat to video (now)",
+      "url": "https://www.stillmade.shop",
+      "usedAt": "2026-09-03",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels",
+      "title": "Agriculture relies on fossil fuels. It’s costing us.",
+      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "usedAt": "2026-09-03",
+      "site": "startup-radar"
+    },
     {
       "key": "news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026",
       "title": "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
