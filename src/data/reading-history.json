@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-03T12:05:12.717Z",
+  "updatedAt": "2026-09-04T12:07:04.440Z",
   "readings": [
+    {
+      "key": "news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti",
+      "title": "A Startup General Counsel Knew What Corporate Lawyers Needed From AI. So She Built It.",
+      "url": "https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti/",
+      "usedAt": "2026-09-04",
+      "site": "startup-radar"
+    },
+    {
+      "key": "status.npmjs.org/incidents/b6958bgj1sm3",
+      "title": "NPM Status – Intermittent Failures Impacting NPM Publish",
+      "url": "https://status.npmjs.org/incidents/b6958bgj1sm3",
+      "usedAt": "2026-09-04",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment",
+      "title": "Feds launch investigation into Tesla&#8217;s Cybercab deployment",
+      "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+      "usedAt": "2026-09-04",
+      "site": "startup-radar"
+    },
     {
       "key": "news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026",
       "title": "Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues",
