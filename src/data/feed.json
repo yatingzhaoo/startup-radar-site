@@ -1,7 +1,263 @@
 {
-  "generatedAt": "2026-09-04T12:07:04.438Z",
+  "generatedAt": "2026-09-05T11:15:15.271Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-09-05",
+      "companies": [
+        {
+          "id": 32168,
+          "name": "Synapse Semiconductor",
+          "url": "https://synapsesemi.org",
+          "sourceUrl": "https://www.ycombinator.com/companies/synapse-semiconductor",
+          "location": "Durham, NC, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Edge Computing Semiconductors",
+            "Hard Tech",
+            "Robotics",
+            "Defense",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "New semiconductors that merge compute and vision",
+          "originalDescription": "We want to push machines to where humans cant go. Presidential early career award winning Duke Semiconductor ECE Faculty Tania Roy and Sanjeev Chauhan are building a frontier semiconductor research lab. Their focus is on solving physical AI challenges from the semiconductor device level and building products around the moat of impossible to copy innovation. Their first work is on a new vision sensor that can run neural network filters right in the camera pixels and only collect data that machines care about. As physical AI develops, machines needs to understand the world around them if they aim to interact with them.",
+          "published": "",
+          "story": "这是一家从半导体器件层面解决物理人工智能难题的硬科技公司，由杜克大学电子与计算机工程系获奖教授创立。想象你是一位负责研发下一代机器人的工程师，正为传统摄像头无法在极端环境下高效识别障碍物而苦恼。Synapse Semiconductor 正在开发的视觉传感器，能把神经网络过滤直接做在摄像头像素里，只采集机器关心的数据，大幅降低功耗和延迟。这家公司来自 YC 夏季 2026 批次，目前团队只有两人但正在招聘，其技术有望推动机器人、国防等领域突破人类无法到达的极限。",
+          "rank": 1
+        },
+        {
+          "id": 30695,
+          "name": "Channel3",
+          "url": "https://trychannel3.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/channel3",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "E-commerce"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Database of every product on the internet",
+          "originalDescription": "Channel3 is building a database of every product on the internet. Google and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities. We don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy. As AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive. Alex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
+          "published": "",
+          "story": "这家公司瞄准电商基础设施，试图打造一个覆盖互联网所有商品的数据库。假如你是一位正在开发人工智能购物助手的开发者，最头疼的就是无法获取完整、准确的商品信息。Channel3 不仅收集商品数据，还能用图像分类和推理模型跨商家匹配商品，即使图片和描述不同也能识别变体。它来自 YC 夏季 2025 批次，团队五人正在扩招，其数据层有望让开发者更容易构建新型购物体验，让人工智能真正理解用户想要什么。",
+          "rank": 2
+        },
+        {
+          "id": 31233,
+          "name": "Chasi",
+          "url": "https://chasi.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/chasi",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "AI Revenue Engine for the Equipment Industry",
+          "originalDescription": "Chasi deploys AI agents that help equipment dealers sell more, respond faster, and maximize fleet utilization - 24/7. One-third of the cost to build and maintain the physical world goes to equipment, yet fleet utilization across the industry often sits below 60%. Billions in assets sit idle while dealers drown in phone calls, emails, and manual data entry. Missed quotes, slow follow-ups, and disconnected systems mean lost revenue every day. Chasi plugs into a dealer's existing stack to deploy AI agents that handle sales, rentals, and service requests around the clock. The result: faster response times, higher utilization, and stronger margins, without adding headcount. We automate the busywork so teams can focus on what actually grows the business: customer relationships. Akash Pavan and Sarman Aulakh have built tractors, race cars, and robots, and previously led AI deployments at Tesla, Boeing, and Cummins, where they saw firsthand how much operational value gets left on the table in equipment-heavy industries. Chasi is live across equipment businesses in the US and Europe.",
+          "published": "",
+          "story": "这家公司为设备经销行业打造人工智能销售引擎。想象你是一家工程机械经销商的销售主管，每天被电话、邮件和手动录入淹没，报价经常遗漏，跟单缓慢，导致大量设备闲置。Chasi 部署的智能体能自动处理销售、租赁和服务请求，24 小时不间断，直接接入现有系统，提高响应速度和设备利用率。它来自 YC 冬季 2026 批次，团队两人正在招聘，创始人有特斯拉等背景，其价值在于把设备行业的繁琐事务自动化，让团队专注客户关系。",
+          "rank": 3
+        },
+        {
+          "id": 30691,
+          "name": "Embedder",
+          "url": "https://www.embedder.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/embedder",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Hardware",
+            "B2B"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": false,
+          "teamSize": 6,
+          "originalOneLiner": "Hardware-Aware AI for Embedded Software Development",
+          "originalDescription": "Embedder is an AI agent for embedded software. It reads your datasheets and schematics, writes the code, flashes the board, runs the tests, and fixes its own mistakes. Testing is hardware-in-the-loop: Embedder drives the equipment your team already owns (debug probes, logic analyzers, power profilers, oscilloscopes) and validates firmware on real silicon, not just against a compiler. Embedder works with some of the top semiconductor ecosystems in the world, supporting 500+ MCUs and 3,000+ peripherals.",
+          "published": "",
+          "story": "这是一家为嵌入式软件开发提供人工智能代理的工具公司。想象你是一位固件工程师，正在调试一块新电路板，需要反复查阅数据手册、编写代码、烧录并测试，非常耗时。Embedder 的智能体能阅读数据手册和原理图，自动写代码、烧板、跑测试，并修复自己的错误。它支持 500 多种微控制器和 3000 多种外设，直接驱动你团队已有的调试工具，在真实芯片上验证固件。这家公司来自 YC 夏季 2025 批次，团队六人，其硬件在环的测试方式能大幅缩短嵌入式开发周期。",
+          "rank": 4
+        },
+        {
+          "id": 31083,
+          "name": "Kita",
+          "url": "https://www.kita.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/kita",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Computer Vision",
+            "Lending",
+            "Emerging Markets"
+          ],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Automate credit assessment for lenders in emerging markets",
+          "originalDescription": "In emerging markets, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Kita is the AI platform for global lending operations. We help lenders in emerging markets automate application completion, document verification, and underwriting from messy financial documents — using AI to extract fraud-checked data and localized risk signals that power faster, better credit decisions. Under the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system. We’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
+          "published": "",
+          "story": "这家公司为新兴市场的贷款机构提供人工智能信贷评估平台。想象你是一位在东南亚工作的风控分析师，每天面对大量格式混乱的电子钱包记录、银行流水和账单，只能手动审核，效率低且容易出错。Kita 用人工智能自动完成申请填写、文件验证和承销，从杂乱文件中提取反欺诈数据和本地化风险信号，帮助做出更快的信贷决策。它来自 YC 冬季 2026 批次，团队三人，其学习引擎能不断用还款结果改进模型，有望释放新兴市场巨大的信贷潜力。",
+          "rank": 5
+        },
+        {
+          "id": 31434,
+          "name": "Adialante",
+          "url": "https://www.ycombinator.com/companies/adialante",
+          "sourceUrl": "https://www.ycombinator.com/companies/adialante",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Cancer screening without barriers",
+          "originalDescription": "We know how to improve cancer outcomes by 8x-10x: you catch it early. MRI is the most robust and powerful cancer-detection tool in the world, yet systems cost millions to purchase, take months to install, and require high levels of technical skill to operate. We've redesigned MRI from the ground up with new physics, algorithms, and hardware, all to bring cancer screening to the entire world. Our mobile MRI is an imaging clinic on wheels. No equipment to buy, no infrastructure needed. For a flat per-scan fee, any medical site can offer MRI cancer screening. Starting with prostate cancer. Then everything else.",
+          "published": "",
+          "story": "这家公司重新设计了核磁共振成像设备，目标是让癌症筛查无处不在。想象你是一家基层诊所的负责人，一直想为患者提供前列腺癌早期筛查，但传统核磁设备动辄数百万美元且需要专门机房。Adialante 推出的移动核磁共振车，按次收费，无需购买设备或建设基础设施，任何医疗点都能提供筛查服务。它来自 YC 春季 2026 批次，团队四人正在招聘，其新物理算法和硬件有望将早期发现率提高数倍，改变癌症诊疗格局。",
+          "rank": 6
+        },
+        {
+          "id": 32981,
+          "name": "Marengo",
+          "url": "https://marengox.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/marengo",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Design",
+            "Energy",
+            "Architecture"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "AI-Native Engineering Firm designing Data Centers",
+          "originalDescription": "Marengo is an AI-native engineering firm designing data centers in half the time and half the cost. We have $4M in design partnerships with two of the world's largest developers ($XB). Marengo is backed by YC, Future Planet Capital, undisclosed $2B AUM family office, and other top-tier investors. Our advisors include the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",
+          "published": "",
+          "story": "这家公司是一家用人工智能设计数据中心的新型工程公司。想象你是一位负责大型数据中心项目的工程负责人，正为传统设计周期长、成本高而头疼。Marengo 声称能在一半时间和一半成本内完成设计，目前已与两家全球顶级开发商签有 400 万美元的设计合同。它来自 YC 夏季 2026 批次，团队五人，并得到 YC 和 Future Planet Capital 等投资，顾问包括前 Saipem America 总裁等，其人工智能原生方法有望重塑能源与建筑行业。",
+          "rank": 7
+        },
+        {
+          "id": 30657,
+          "name": "Nori",
+          "url": "https://nori.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/nori",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Consumer Health Services",
+            "Health Tech",
+            "Digital Health",
+            "Health & Wellness"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "AI health coach in your pocket",
+          "originalDescription": "Nori is a concierge-level AI health coach in your pocket. It takes all of your health data—Apple Health, medical records, wearables, everything—and boils it down into a personalized daily plan. Users love it: “It's truly one of the best apps and I check it first every day. Since using Nori, I've been limiting devices in bed and eating earlier—and I'll be damned if it's not working... I started getting more deep sleep, my resting HR dropped to 43, my recovery improved.”—Jen, Nori user\"",
+          "published": "",
+          "story": "这是一款装在口袋里的个人人工智能健康教练应用。想象你是一位关注自身健康的上班族，每天被各种健康数据淹没，却不知道如何改善睡眠和精力。Nori 整合苹果健康、医疗记录和可穿戴设备数据，生成个性化每日计划。有用户反馈说，使用后开始限制睡前使用设备、提早进食，深睡增加，静息心率降到 43。它来自 YC 秋季 2025 批次，团队三人，其价值在于把复杂健康数据转化为可执行的日常建议，让健康管理变得简单有效。",
+          "rank": 8
+        },
+        {
+          "id": 30860,
+          "name": "Alt-X",
+          "url": "https://alt-x.co",
+          "sourceUrl": "https://www.ycombinator.com/companies/alt-x",
+          "location": "Los Angeles, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Building the best venue for private markets exposure.",
+          "originalDescription": "Alt-X is building the AI-native liquidity layer for private markets. Private markets have created trillions of dollars in value, yet remain fragmented, illiquid, and inaccessible. While public markets benefit from exchanges, market makers, brokerages, and data infrastructure, private markets still rely on brokers, spreadsheets, and manual workflows to connect buyers and sellers. Alt-X uses AI to automate the core functions required to make private assets liquid. We streamline diligence, valuation, investor matching, and transaction execution, reducing the friction that makes private-market transactions slow, expensive, and opaque today. Our initial focus is venture-backed secondaries. We source opportunities from founders, employees, and early investors while building a network of accredited investors seeking exposure to the world's most valuable private companies. Over time, we believe every private asset—from startup equity to private credit and alternative investments—will require modern liquidity infrastructure. Building trusted infrastructure for private markets is difficult. Transactions involve complex diligence, fragmented information, transfer restrictions, and significant compliance requirements. Alt-X is focused on creating systems that can support real transactions at scale, not just marketplace listings. Ryan Samadi (Stanford CS/AI, former Citadel commodities trader) and Michael Wachsman (Cornell CS, infrastructure engineer) are building Alt-X because they believe ownership of innovation should be more liquid, transparent, and accessible. Today, Alt-X has sourced over $1.5 million in transaction opportunities and assembled a network of 40 accredited investors representing hundreds of millions of dollars in investable assets. Our mission is to democratize ownership of innovation by building the financial infrastructure that private markets have never had.",
+          "published": "",
+          "story": "这家公司正在为私募市场打造人工智能驱动的流动性基础设施。想象你是一家初创公司的早期员工，手握公司期权，却难以找到买家变现。Alt-X 用人工智能自动化尽职调查、估值、投资者匹配和交易执行，降低私募交易的成本和摩擦。它来自 YC 冬季 2026 批次，团队两人，目前专注风险投资二级市场，连接卖方和合格投资者，有望让私募资产像公开市场一样易于交易。",
+          "rank": 9
+        },
+        {
+          "id": 30728,
+          "name": "OS3",
+          "url": "https://os3robotics.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/os3",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hardware",
+            "Robotics",
+            "B2B",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Deploying US-Built Humanoid Robots & Training Video Action Models",
+          "originalDescription": "OS3 deploys US-built mobile semi humanoid robots for repetitive physical work. We designed the robot, custom actuators, model and control stack as one system, then pretrained the model exclusively on 150,000 hours of video data spanning more than 2,000 tasks. Hospitality is our first deployment vertical. Through our Startup Partner program, teams are deploying OS3 robots in biotech, hospitals and data centers. Our two-person team built the robot and trained its first model in four months. We are making American robotics accessible to more businesses.",
+          "published": "",
+          "story": "这家公司部署美国制造的半人形机器人，并训练视频动作模型，用于重复性体力工作。想象你是一家生物技术实验室的运营经理，正为样本搬运等繁琐任务耗费人力而烦恼。OS3 的机器人经过 15 万小时、2000 多个任务的视频数据预训练，能自主完成这些工作。它来自 YC 夏季 2026 批次，团队两人正在招聘，其机器人、执行器和模型一体化设计，四个月内完成原型，并通过合作伙伴计划进入医院和数据中心等场景，让美国机器人技术更普及。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49575248",
+          "title": "Show HN: I built an AI that audits businesses. It's first job was to catch me",
+          "url": "https://www.moltybeeai.com/#pricing",
+          "source": "Hacker News",
+          "published": "2026-09-05T10:48:04Z",
+          "story": "很多创业者都害怕被自己做的产品抓住把柄，尤其是当这个产品是用来审查别人时。你可能会想，如果让一个人工智能来审计公司，它会不会先拿创始人开刀？这篇帖子之所以值得看，是因为它把工具开发者的处境摆到了台前：你创造了一个挑剔的观察者，而它第一个审视的对象就是你自己。读的时候不妨留意，作者是怎么面对这种自找的尴尬，他是把这次“被抓”当成产品缺陷，还是当成一次难得的信任测试，这背后往往藏着他对工具边界的真实判断。"
+        },
+        {
+          "id": "TechCrunch Startups-aHR0cHM6Ly90",
+          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+          "source": "TechCrunch Startups",
+          "published": "Fri, 04 Sep 2026 23:36:14 +0000",
+          "story": "当一家公司刚从隐身模式出来三个月，就开始谈B轮融资，而且估值到了十二亿美元，你自然会想问：它凭什么这么快？这类新闻在创投圈里总让人既兴奋又怀疑。兴奋的是可能又有一个新赛道被点燃，怀疑的是这种速度背后是真实需求还是资本催熟。这篇文章值得一读，因为它提供了一个观察窗口，让你看到市场情绪和公司基本面是如何在早期阶段互相拉扯的。读的时候可以重点看它提到了哪些关键信号，是客户增长、技术壁垒，还是创始团队背景，这些信号会帮你判断这种估值是泡沫还是提前兑现。"
+        },
+        {
+          "id": "AWS Machine Learning-aHR0cHM6Ly9h",
+          "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
+          "source": "AWS Machine Learning",
+          "published": "Fri, 04 Sep 2026 21:45:52 +0000",
+          "story": "如果你经营一家小店，顾客可能更愿意发消息下单，而不是打开网页或App。但让人工智能理解文字、图片甚至语音里的订单信息，再自动对接流程，听起来像是个不小的工程。这篇文章讲的是如何用现成的云服务，在WhatsApp上搭一个能处理多种消息格式的订购助手。它值得一读，因为它把复杂的技术拆成了可操作的步骤，让你看到即使没有深厚人工智能背景的团队，也能借助平台能力快速试水。读的时候可以留意作者是如何安排对话流程和异常处理的，这些细节往往决定了助手是真能用，还是只能演示。"
+        }
+      ]
+    },
     {
       "date": "2026-09-04",
       "companies": [
@@ -3229,248 +3485,6 @@
           "source": "Lenny's Newsletter",
           "published": "Sat, 22 Aug 2026 19:23:07 GMT",
           "story": "刚进一家新公司，面前堆着几十个工具和流程，你根本不知道先学哪个；另一边，HR 们正为简历筛选发愁，人工智能 似乎能帮忙却总怕看走眼。这些零碎的问题，恰好是 Lenny 这份社区问答合集想碰的。它把产品经理、设计师和创业者在日常里反复纠结的小事，比如用什么工具、怎么排优先级，集中起来让有经验的人回答。它值得读，是因为答案来自真实工作场景，而不是教科书。读的时候可以挑一两个你最近头疼的问题，看看大家给出的取舍逻辑，说不定能帮你换个角度想事情。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-22",
-      "companies": [
-        {
-          "id": 32262,
-          "name": "Alkera AI",
-          "url": "https://alkera.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/alkera-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Data Science",
-            "Data Engineering",
-            "Enterprise Software"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Reliable and safe data engineering and data science agents",
-          "originalDescription": "Alkera is a data engineering/analysis/science agent that works in your IDE or CLI. If you’re tired of agents that produce false, or even dangerous, reports about your data, then Alkera is for you. Our agent is equipped with your data’s history and lineage, your team’s knowledge, and tailored plugins for data apps such as Snowflake and dbt. Simply install and connect your services to begin doing trusted agentic data work. We also offer VPC & on-prem deployment options for when data can't leave your boundary.",
-          "published": "",
-          "story": "这是一家做数据工程和数据分析智能体的公司。想象你是一位数据工程师，每天要处理大量数据请求，最怕智能体给出错误甚至危险的分析报告。Alkera 的智能体直接运行在你的开发环境或命令行里，它了解你的数据历史和数据血缘，还带着你团队的知识，以及针对 Snowflake 和 dbt 这类数据应用的定制插件。你只需安装并连接服务，就能开始可信的智能体数据工作。它还提供 VPC 和本地部署选项，当数据不能离开你的边界时也能用。这家公司来自 YC 夏季 2026 批次，团队只有三个人，但专注于解决智能体在数据领域可靠性的痛点。",
-          "rank": 1
-        },
-        {
-          "id": 30859,
-          "name": "Locus",
-          "url": "https://paywithlocus.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/locus",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Finance",
-            "AI"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Payment infrastructure for AI agents",
-          "originalDescription": "We make your agents pay. As agents evolve from tools into dependable, autonomous actors, they’ll need the ability to execute open-ended workflows end-to-end. This inevitably means payments: accessing paywalled data, transacting for services or with other specialist agents. But autonomy requires guardrails. Businesses and developers will need a way to ensure their agents only spend how much and on what they’re supposed to. The machine economy is coming, and Locus (YC F25) is building the connector businesses will need to participate. We connect agents securely to funds, letting you define permissions and limits for every transaction. Each payment is traceable, auditable, and fully reconcilable with your existing financial stack.",
-          "published": "",
-          "story": "Locus 做的是人工智能智能体的支付基础设施。想象你是一个开发智能体的工程师，你的智能体需要访问付费数据、购买服务，或者与其他智能体交易，但你又担心它乱花钱。Locus 让你可以为每一笔交易设定权限和限额，智能体只能花你允许的金额，而且每笔支付都可追踪、可审计，并和你现有的财务系统对账。这家公司来自 YC 秋季 2025 批次，团队两人，他们看到了机器经济的到来，正在建设连接器，让企业和开发者安全地参与其中。",
-          "rank": 2
-        },
-        {
-          "id": 31311,
-          "name": "Cardinal",
-          "url": "https://trycardinal.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/trycardinal-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 0,
-          "originalOneLiner": "Revenue Agents for GTM teams",
-          "originalDescription": "Hey YC! We're Devi and Jianna - the founders of Cardinal. Hey guys! We’re launching Cardinal publicly today - co’s like Mintlify, Deepgram, Giga, etc. use us to build revenue agents & design how they sell. The Problem “Spray and Pray” outbound is dead. The best teams at outbound do it with extreme precision. Finding things in common with your customers, staying in touch with them through their content, mapping inbound from signups and ads, tracking website visitors, monitoring various signals, etc. This sounds great in theory, but in reality involves stringing together 10+ tools and hiring a GTM engineer. That’s where Cardinal comes in. Cardinal is an AI platform for precision outbound. Our agents can create workflows that normally require the work of fulltime GTM engineers. If you're a founder or sales leader looking to bring AI into your sales org, would love to chat!",
-          "published": "",
-          "story": "Cardinal 是一个面向销售团队的人工智能收入智能体平台。想象你是一家公司的销售主管，你发现传统的盲目外呼已经失效，顶尖团队都在做精准外呼，但你需要整合十多个工具，还要雇一个专门做销售运营的工程师。Cardinal 的智能体能帮你创建工作流，完成以前需要全职销售运营工程师才能做的事情，比如寻找与客户的共同点、跟踪他们的内容、映射注册和广告带来的线索、监控网站访客等。这家公司来自 YC 冬季 2026 批次，正在招聘，已经有一些公司如 Mintlify、Deepgram、Giga 在使用。",
-          "rank": 3
-        },
-        {
-          "id": 31393,
-          "name": "KelAI",
-          "url": "https://kelaitech.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/kelai",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
-          "originalDescription": "Founded by former WorldQuant portfolio manager & head of event driven systematic strategies Jeremie Cohen, KelAI is building the autonomous alpha engine for hedge funds, traders and institutional investors. Investment teams now have more data, tools and compute than ever, but research still runs across siloed systems and inefficient workflows. KelAI turns that fragmented process into a compounding AI-native engine that continuously finds, tests and validates trading signals at a pace no human team can match.",
-          "published": "",
-          "story": "KelAI 正在为基金和交易者构建自主的阿尔法引擎。想象你是一位量化研究员，每天面对海量数据，但研究过程分散在不同的系统和低效的工作流中。KelAI 把这个碎片化的过程变成一个持续发现、测试和验证交易信号的引擎，速度远超人类团队。这家公司由前 WorldQuant 投资组合经理创立，来自 YC 春季 2026 批次，团队三人，正在招聘。",
-          "rank": 4
-        },
-        {
-          "id": 31552,
-          "name": "Arctic Health",
-          "url": "https://arctic.health",
-          "sourceUrl": "https://www.ycombinator.com/companies/arctic-health",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "AI-native credentialing and contracting for healthcare",
-          "originalDescription": "Arctic Health is building AI-native credentialing and contracting for healthcare organizations. We automate the full workflow, from establishing payer contracts to enrolling each provider. We collect and validate organization and provider data according to each state and payer’s requirements, and submit on the organization's behalf. We then monitor status and compliance on an ongoing basis. Tools on the market today either perform small pieces of the workflow or price out small and mid-sized organizations. We handle the process end-to-end regardless of organization type or size. Our browser automations enable AI agents to submit and monitor across hundreds of payer portals, and our system is trained by experienced industry experts who handle every edge case. Healthcare organizations get one simple platform. We handle the rest.",
-          "published": "",
-          "story": "Arctic Health 做的是面向医疗机构的人工智能原生的认证和签约服务。想象你是一家小型诊所的运营负责人，你需要与保险公司签约，并为每位医生完成认证，这个过程繁琐且要求严格。Arctic Health 自动化了整个流程，从建立付款人合同到注册每个提供者，它收集和验证组织与提供者数据，根据各州和付款人的要求提交，并持续监控状态和合规性。它的浏览器自动化让智能体可以在数百个付款人门户上提交和监控，系统由经验丰富的行业专家训练，处理各种边缘情况。这家公司来自 YC 春季 2026 批次，团队四人。",
-          "rank": 5
-        },
-        {
-          "id": 31485,
-          "name": "ANORIA",
-          "url": "https://www.anoria.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/anoria",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "The first wearable that reads your emotions to enhance your EQ.",
-          "originalDescription": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
-          "published": "",
-          "story": "ANORIA 是一款能读取你情绪的可穿戴设备，旨在提升你的情商。想象你是一个工作压力很大的咨询顾问，你每天要开很多会，你总感觉自己的情绪影响表现，但你不清楚具体是为什么。ANORIA 能理解你的感受，告诉你原因，并建议你如何应对。它不只是一个手机应用，而是把能力放进一个设备里，让你随身佩戴，实时捕捉生理信号，从而训练你的情绪智力。这家公司来自 YC 春季 2026 批次，团队五人，正在招聘。",
-          "rank": 6
-        },
-        {
-          "id": 36084,
-          "name": "Covera",
-          "url": "https://www.covera-agents.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/covera",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "AIOps"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "AI-native OS for insurance brokers",
-          "originalDescription": "Covera builds AI agents for insurance brokers. Our ready-to-use agents take over the day-to-day servicing work: submission intake, carrier quoting, quote comparison, claims handling, past-due collections, and account rounding. That means brokers can spend their time advising and selling clients instead of doing data entry. We work with agencies of every size and connect natively to the tools they already use.",
-          "published": "",
-          "story": "Covera 为保险经纪人构建人工智能智能体。想象你是一个保险经纪人，你每天要处理大量日常服务工作，比如提交申请、获取报价、比较报价、处理索赔、追讨逾期款项，这些繁琐的数据录入占用了你大量时间。Covera 的智能体可以接管这些工作，让你专注于为客户提供建议和销售。这家公司来自 YC 秋季 2026 批次，团队两人，正在招聘，它连接经纪人已经使用的工具，并适用于各种规模的机构。",
-          "rank": 7
-        },
-        {
-          "id": 30635,
-          "name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
-          "url": "https://gru.space",
-          "sourceUrl": "https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space",
-          "location": "Los Angeles, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Moon Hotel -> The Intergalactic Construction Company of Earth",
-          "originalDescription": "GRU Space is building permanent lunar infrastructure to make humanity interplanetary within our lifetime, starting with the first hotel on the Moon. In just 6 weeks, we built the world's first Moon factory: patent-pending hardware that turns lunar regolith into bricks and inflates modular pressurized habitats designed to withstand lunar temperature and pressure extremes. Our first mission lands on the Moon in 2027 to demonstrate in-situ brick manufacturing and habitat deployment. A second mission lays the hotel's foundation inside a lunar cave, and a third opens the first lunar hotel, targeted for 2032. We don’t stop at Moon hotels. GRU’s long-term plan: 1. Build the first hotel on the Moon. GRU solves off‑world surface habitation. 2. Become the Moon Base Company of America: build roads, mass drivers, warehouses, and physical infrastructure. 3. Repeat on Mars and build the first cities there. 4. Own property on the Moon and Mars as these economies grow. 5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond—reaching our final form: Galactic Resource Utilization. GRU Space is backed by investors in SpaceX and Anduril, is part of Nvidia's Inception program, and our launch generated 1B+ views across 60+ countries, earning invitations to the White House, Senate, and Pentagon.",
-          "published": "",
-          "story": "GRU Space 正在建设月球永久基础设施，目标是让人类在你有生之年成为跨行星物种。想象你是一位月球基地的工程负责人，你需要在月球表面建造能抵御极端温度和压力的栖息地。GRU Space 开发了专利硬件，可以把月球风化层变成砖块，并充气展开模块化加压栖息地。它的首个任务计划在 2027 年登陆月球，演示现场制砖和栖息地部署。这家公司来自 YC 冬季 2026 批次，团队五人，正在招聘。",
-          "rank": 8
-        },
-        {
-          "id": 30623,
-          "name": "Playgent",
-          "url": "https://useplaygent.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/playgent",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "SaaS",
-            "Infrastructure",
-            "AI"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Sandboxes for AI agents",
-          "originalDescription": "When enterprise agents fail in production, the conditions that caused the failure are critical: user state, data, tool calls, and context. Without a way to recreate these conditions, teams can't fix what broke. Playgent provides infrastructure to create high-fidelity sandbox environments for AI agents. Our environments come packaged as a single MCP url where tool calls are mocked, authentication is abstracted away, and test data can be initialized via natural language or JSON specifications. Teams can use Playgent to reproduce production failures in safe, scoped environments that accurately reconstruct state. Finally, export runs as OTel traces from Playgent's environment to plug directly into your observability tools or RL pipelines.",
-          "published": "",
-          "story": "Playgent 为人工智能智能体提供沙盒环境。想象你是一个负责企业智能体运维的工程师，当智能体在生产环境失败时，你需要重现当时的用户状态、数据、工具调用和上下文，否则无法修复。Playgent 提供高保真沙盒，你可以用自然语言或 JSON 初始化测试数据，工具调用被模拟，认证被抽象，让你安全地重现故障。它来自 YC 夏季 2025 批次，团队两人，专注于解决智能体在生产环境中的可观测性问题。",
-          "rank": 9
-        },
-        {
-          "id": 32260,
-          "name": "Manifold",
-          "url": "https://www.manifoldindustries.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/manifold-2",
-          "location": "Los Angeles, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hardware",
-            "Warehouse Management Tech",
-            "Robotics",
-            "Logistics",
-            "Supply Chain"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Low-cost, deployment-ready robotic labor for warehouses",
-          "originalDescription": "The US Warehouse industry spends $75bn on labor each year. Yet, only 10% of US warehouses have any form of automation, because existing robotics are too expensive and hard to integrate. Manifold deploys autonomous robots that handle picking, loading / unloading, and palletizing — priced by pick. Integration in hours. No upfront costs. No retrofitting. No need to rebuild the operation around the robot. Our mission is to make it easy for any warehouse to adopt robotics.",
-          "published": "",
-          "story": "Manifold 为仓库提供低成本的机器人劳动力。想象你是一个仓库主管，你每年在劳动力上花费巨大，但现有机器人太贵且难以集成，所以只有少数仓库实现了自动化。Manifold 部署自主机器人，负责拣选、装卸和码垛，按件计费，集成只需几小时，无需前期成本，也无需改造现有运营。这家公司来自 YC 夏季 2026 批次，团队两人，他们想让任何仓库都能轻松采用机器人。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "Latent Space-aHR0cHM6Ly93",
-          "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
-          "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-          "source": "Latent Space",
-          "published": "Sat, 22 Aug 2026 07:36:00 GMT",
-          "story": "做人工智能的人经常被算力账单吓一跳，训练一次模型的钱够买好几辆车。于是有人开始琢磨，能不能不真跑那么多遍，先在电脑里模拟一个世界，让模型在里面练手。这篇讲的就是这种思路为什么突然流行起来。它不直接说哪个技术更厉害，而是把成本、速度和效果放在一起比，让人看清一条新的取舍路径。读的时候可以留意作者怎么解释“便宜”和“好用”之间的关系，以及哪些公司会最先尝到甜头。"
-        },
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "Michael Polansky is training an AI model on skin that’s still alive",
-          "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-          "source": "TechCrunch",
-          "published": "Sat, 22 Aug 2026 01:31:04 +0000",
-          "story": "你可能听说过用照片训练人工智能，但有没有想过，直接拿还活着的皮肤组织来训练？这不是科幻片，而是真有人在做的事。听起来有点吓人，但背后其实是在解决一个实际问题：机器怎么理解真实的触感，而不是纸上画的示意图。这篇报道带我们走进这个有点前沿的实验室，看他们怎么把生物样本变成数据。读的时候不用急着评判伦理，先看科学家如何把复杂的生物过程拆成模型能学的东西，这个思路本身就很值得琢磨。"
-        },
-        {
-          "id": "Cloudflare-aHR0cHM6Ly9i",
-          "title": "Say it once: introducing Bot Preference Sync",
-          "url": "https://blog.cloudflare.com/bot-preference-sync/",
-          "source": "Cloudflare",
-          "published": "Fri, 21 Aug 2026 23:19:57 GMT",
-          "story": "运营网站的人都有这种经历：明明设置了拦截爬虫，结果换了个浏览器，设置就失效了，还得重新配一遍。这种重复劳动特别烦人，尤其是在不同工具之间来回切换的时候。这篇讲的就是Cloudflare怎么解决这个痛点，让偏好设置能自动同步。它不只是在说一个功能，更像是在讲一个团队如何发现用户真正卡住的地方，然后动手修好。读的时候可以看看他们怎么描述问题，以及为什么这个看似简单的同步，做起来其实没那么容易。"
         }
       ]
     }
