@@ -1,7 +1,241 @@
 {
-  "generatedAt": "2026-09-05T11:15:15.271Z",
+  "generatedAt": "2026-09-06T11:38:41.406Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-09-06",
+      "companies": [
+        {
+          "id": 32227,
+          "name": "Context.dev",
+          "url": "https://context.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/contextdev",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "B2B",
+            "AI",
+            "APIs"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 1,
+          "originalOneLiner": "We give AI agents realtime web context via API",
+          "originalDescription": "Context.dev gives AI agents structured data from any website through a single API. We help developers build smarter agents & products that depend on accurate, fresh web data. If you need structured data from the internet, you need Context.dev Proud to power agentic products at Mintlify, Super, Vizzy, Klarna, and 400+ other companies.",
+          "published": "",
+          "story": "这是一家做人工智能智能体数据接口的公司。想象你是一名开发者，正在构建一个需要实时网页数据的智能体，却发现抓取网页内容既麻烦又容易出错。Context.dev 通过一个接口就能让智能体获取任何网站的结构化数据，省去你写爬虫和解析的功夫。它已经被 Mintlify、Super、Vizzy、Klarna 等 400 多家公司采用，说明这套方案在真实场景中经得起考验。对于依赖准确、新鲜网页数据的开发者来说，这可能是让智能体更聪明的关键一环。",
+          "rank": 1
+        },
+        {
+          "id": 30675,
+          "name": "BootLoop",
+          "url": "https://bootloop.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/bootloop",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Firmware in minutes, not months - rigorously tested on real hardware",
+          "originalDescription": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
+          "published": "",
+          "story": "这家公司做的是嵌入式系统的人工智能开发工具。假如你是一名硬件工程师，正在为一块新的芯片编写固件，传统编程助手往往帮不上忙，因为嵌入式开发需要阅读数据手册和原理图。BootLoop 的人工智能智能体能够阅读这些设计文件，按照你的代码风格编写固件，并自动在真实硬件上测试。它来自 YC 夏季批次，目前团队正在招聘。对于饱受固件开发周期漫长之苦的团队来说，这个工具可能把几个月的工作缩短到几分钟。",
+          "rank": 2
+        },
+        {
+          "id": 30610,
+          "name": "TraceRoot.AI",
+          "url": "https://traceroot.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/traceroot-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Infrastructure",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Open source self-improving layer for AI agents",
+          "originalDescription": "TraceRoot is the open-source self-improving layer for AI agents — observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix — so your agent gets better with every release.",
+          "published": "",
+          "story": "这是一家做人工智能智能体可观测性的开源工具公司。想象你是一名平台工程师，负责维护生产环境中的人工智能智能体，它偶尔会出错，你却很难定位原因。TraceRoot 能够自动检测故障，结合你的源代码和 GitHub 历史进行根因分析，然后直接开出修复的拉取请求，并评估每个修复的效果。它来自 YC 夏季批次，团队正在招聘。通过不断从错误中学习，你的智能体会随着每次发布而变得更可靠，这也许是让人工智能真正能自我改进的基础设施。",
+          "rank": 3
+        },
+        {
+          "id": 36084,
+          "name": "Covera",
+          "url": "https://www.covera-agents.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/covera",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AIOps"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "AI-native OS for insurance brokers",
+          "originalDescription": "Covera builds AI agents for insurance brokers. Our ready-to-use agents take over the day-to-day servicing work: submission intake, carrier quoting, quote comparison, claims handling, past-due collections, and account rounding. That means brokers can spend their time advising and selling clients instead of doing data entry. We work with agencies of every size and connect natively to the tools they already use.",
+          "published": "",
+          "story": "这家公司切的是保险经纪人的后台运营。想象你是一名保险经纪人，每天被大量的投保提交、承运商报价、理赔处理和逾期催款淹没，几乎没有时间真正去给客户做咨询。Covera 提供现成的人工智能智能体，自动接管这些日常事务，从提交投保到比较报价，再到处理理赔和追款。它能够连接你已有的工具，无论机构大小都能使用。对于想让工作回归到顾问和销售本色的经纪人来说，这套系统值得关注，它来自 YC 秋季批次，团队正在招聘。",
+          "rank": 4
+        },
+        {
+          "id": 31477,
+          "name": "BioStack Platforms",
+          "url": "https://www.getbiostack.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/biostack-platforms",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 9,
+          "originalOneLiner": "Real world training envs for healthcare AI models",
+          "originalDescription": "BioStack is building the data engine for healthcare and drug discovery AI. The bottleneck is not models. It is access to high-quality biological data. Clinical and experimental data is fragmented, unstructured, and locked inside hospitals, labs, and CROs, while generating new data is slow and expensive. BioStack fixes this with proprietary clinical and preclinical data pipelines that turn real biomedical workflows into ML-ready training environments. We structure longitudinal multimodal data across imaging, EHR, and experimental assays, then package it for post-training and reinforcement learning so models can learn how research and care actually happen. Instead of static datasets, BioStack gives AI labs workflow-aligned data and environments that improve reasoning, decision-making, and real-world performance in biology and medicine.",
+          "published": "",
+          "story": "这家公司做的是医疗和药物发现人工智能的数据引擎。想象你是一名生物医药研究员，拥有顶尖的模型，却苦于找不到高质量、结构化的临床和实验数据来训练它。BioStack 通过专有的临床和临床前数据管道，把分散在医院、实验室和合同研究组织里的生物医学工作流程，转化为机器学习可用的训练环境。它整合了影像、电子病历和实验分析等多模态纵向数据，让模型能学习真实的研究和护理过程。这家公司来自 YC 春季批次，团队有 9 人，正在招聘，专注于数据而非模型，可能解决医疗人工智能发展的真正瓶颈。",
+          "rank": 5
+        },
+        {
+          "id": 31188,
+          "name": "Maywood",
+          "url": "https://www.ycombinator.com/companies/maywood",
+          "sourceUrl": "https://www.ycombinator.com/companies/maywood",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "The first finance-compliant proactive AI that runs 24/7",
+          "originalDescription": "Maywood is the first finance-compliant proactive AI that runs 24/7, working across your network, pipeline, and active processes, running constantly in the background and surfacing things you'd otherwise miss. It tracks relationships and sector context to flag when a target is gearing up for a process (and drafts the outreach in your voice), watches network activity across LinkedIn, news, and conference follow-ups, and surfaces where active processes stand, including what's at risk since you last looked. It also auto-updates CRMs and trackers and creates meeting briefs that includes relationship history, recent activity, deal context, external research, talking points that can pull from internal and external data sources. Dealmakers interact with it over email, Teams, or the platform itself.",
+          "published": "",
+          "story": "这家公司做的是面向金融交易人士的合规人工智能助手。想象你是一名投行分析师，每天要盯着无数潜在客户和交易进展，生怕错过任何风吹草动。Maywood 是一个全天候运行的人工智能，它默默监控你的网络、交易流程和关系动态，一旦发现目标公司可能启动交易，就会用你的口吻草拟外联邮件。它还能跟踪领英上的关系变化、新闻和会议后续，并自动更新客户关系管理系统，生成包含关系历史和交易背景的会议简报。你只需要通过邮件、Teams 或平台和它互动。它来自 YC 冬季批次，团队正在招聘。",
+          "rank": 6
+        },
+        {
+          "id": 31113,
+          "name": "CellType",
+          "url": "https://www.celltype.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/celltype",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "The agentic drug company. We simulate human biology.",
+          "originalDescription": "CellType is building an agentic drug company. AI agents that run the full drug discovery pipeline on top of biological foundation models that simulate human biology. Our core technology, developed with Google DeepMind, has already discovered and validated a new cancer treatment signal. We’re working with Top 10 pharma.",
+          "published": "",
+          "story": "这家公司想用人工智能智能体模拟人类生物学，做一家智能体驱动的制药公司。想象你是一名药物研发科学家，正为靶点验证和化合物筛选耗费数年时间。CellType 的人工智能智能体能够在生物基础模型之上运行完整的药物发现流程，这些模型可以模拟人体生物学。据称其核心技术是与谷歌 DeepMind 合作开发的，已经发现并验证了一个新的癌症治疗信号，并且正在与全球前十的制药公司合作。它来自 YC 冬季批次，团队正在招聘。如果真能加速药物发现，这家公司值得密切关注。",
+          "rank": 7
+        },
+        {
+          "id": 31552,
+          "name": "Arctic Health",
+          "url": "https://arctic.health",
+          "sourceUrl": "https://www.ycombinator.com/companies/arctic-health",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "AI-native credentialing and contracting for healthcare",
+          "originalDescription": "Arctic Health is building AI-native credentialing and contracting for healthcare organizations. We automate the full workflow, from establishing payer contracts to enrolling each provider. We collect and validate organization and provider data according to each state and payer’s requirements, and submit on the organization's behalf. We then monitor status and compliance on an ongoing basis. Tools on the market today either perform small pieces of the workflow or price out small and mid-sized organizations. We handle the process end-to-end regardless of organization type or size. Our browser automations enable AI agents to submit and monitor across hundreds of payer portals, and our system is trained by experienced industry experts who handle every edge case. Healthcare organizations get one simple platform. We handle the rest.",
+          "published": "",
+          "story": "这家公司做的是医疗保健领域的认证和签约自动化。想象你是一家诊所的运营负责人，每天要为医生处理与保险公司的合同和网络准入，繁琐的文书和各家保险公司的门户网站让你焦头烂额。Arctic Health 用人工智能自动化整个流程，从建立支付方合同到为每位医生注册，它收集并验证组织和医生数据，符合各州和支付方的要求，然后代为提交，并持续监控状态和合规性。它通过浏览器自动化，能在数百个支付方门户上提交和监控，系统还经过资深行业专家训练。这家公司来自 YC 春季批次，目前不招聘，但为各种规模的医疗机构提供了一个简单平台。",
+          "rank": 8
+        },
+        {
+          "id": 32585,
+          "name": "Hilstart",
+          "url": "https://hilstart.io/",
+          "sourceUrl": "https://www.ycombinator.com/companies/hilstart",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Hardware"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "Autonomous Hardware Testing",
+          "originalDescription": "We build physical agent harnesses to enable AI to debug, validate, and ship functional hardware and software.",
+          "published": "",
+          "story": "这家公司做的是硬件测试的自动化，用物理智能体夹具让人工智能能够调试和验证硬件。想象你是一名硬件工程师，正在开发一款新的设备，每次修改后都要手动测试，既费时又容易出错。Hilstart 构建的物理智能体系统，可以让人工智能在真实硬件上运行测试，就像人类工程师一样操作设备。它来自 YC 夏季批次，目前团队规模为零，但方向很特别。对于希望加快硬件迭代速度的团队来说，这种物理层的人工智能应用值得一看。",
+          "rank": 9
+        },
+        {
+          "id": 31465,
+          "name": "Aseon Labs",
+          "url": "https://www.aseonlabs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/aseon-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Robotic pitstops for self-driving cars",
+          "originalDescription": "Aseon Labs builds robotic pitstops for self-driving cars. Autonomous vehicles can drive themselves, but they still rely on humans and centralized depots for charging, cleaning and servicing multiple times per day. As fleets scale, the operational layer makes up 70% of the cost of the service and is of the largest barrier to uptime, profitability and market expansion. Aseon Pods are robotic micro-depots that can be deployed directly within operating zones, bringing fleet servicing to where demand exists. By eliminating unnecessary depot trips and automating routine operations, Aseon helps autonomous fleet operators increase uptime, reduce reset cost by 50% and unlock scale. Founded by the team behind Pushme, which deployed 5,000 mobility infrastructure locations across 40 cities before its acquisition by TIER-Dott, Aseon is funded and building product in Redwood City for pilot deployment with major autonomous vehicle operators.",
+          "published": "",
+          "story": "这家公司做的是自动驾驶汽车的机器人维修站。想象你是一名自动驾驶车队运营主管，车辆每天需要多次返回集中式基地进行充电、清洁和维护，这占据了运营成本的很大一部分。Aseon 的机器人微型维修站可以部署在运营区域内，让车辆就近得到服务，省去不必要的往返。据称可以将重置成本降低 50%，提高车辆可用率。这家公司来自 YC 春季批次，团队正在招聘，创始团队之前创立了 Pushme，后来被 TIER-Dott 收购。对于扩大自动驾驶车队规模来说，这个基础设施层面的创新值得关注。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49584724",
+          "title": "Start with one customer",
+          "url": "https://josem.co/start-with-one-customer/",
+          "source": "Hacker News",
+          "published": "2026-09-06T09:31:05Z",
+          "story": "做产品的人大概都有过这种时刻：脑子里装着一堆想法，觉得每个用户都该用上，于是拼命加功能，结果谁都不满意。尤其是刚起步的时候，资源少，时间紧，最怕的就是做了一堆东西却没人真正需要。这篇文章谈的正是怎么从一团迷雾里走出来，办法听起来简单，就是先盯住一个客户。可难的是怎么选，怎么判断对方是不是真的需要，又怎么把一个人的需求变成产品的起点。读的时候可以留意作者怎么描述这个选择过程，他是靠什么信号决定投入的，又怎么避免被单个客户带偏。这些细节往往比结论更有用。"
+        },
+        {
+          "id": "TechCrunch AI-aHR0cHM6Ly90",
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "source": "TechCrunch AI",
+          "published": "Sat, 05 Sep 2026 22:49:55 +0000",
+          "story": "当报纸和科技公司打官司，普通人可能觉得离自己很远，但仔细想，我们每天读的新闻、用的搜索工具，背后都牵扯着内容怎么被使用、怎么被付费。过去几年，类似纠纷陆续出现，每次都能让行业紧张一阵。这篇报道把两家地方报纸和两家大公司放在一起，像是给这场持续拉锯战又添了一个新注脚。读的时候不妨留意，作者怎么交代各方立场，是偏向解释法律细节，还是更关注商业压力，这样你能看出媒体在报道这类冲突时真正想让你关注什么。"
+        },
+        {
+          "id": "Latent Space-aHR0cHM6Ly93",
+          "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+          "url": "https://www.latent.space/p/grok-bot",
+          "source": "Latent Space",
+          "published": "Sat, 05 Sep 2026 15:01:02 GMT",
+          "story": "如果你关注科技产品，大概见过那种宣传很猛、到手却难用的东西，尤其是带点实验性质的硬件。反过来，也有东西看着简陋，用起来却顺手得让人意外。这篇记录的是作者带着一个叫 Grok 的机器人生活五天，标题把两种印象放在一起，像是要回答一个问题：当设备有了新能力，它到底该像工具还是像宠物？读的时候可以跟着作者每天怎么用它、哪些时刻觉得值、哪些时刻想放弃，看他怎么判断一个产品是真进步还是只是新鲜感。"
+        }
+      ]
+    },
     {
       "date": "2026-09-05",
       "companies": [
@@ -3236,255 +3470,6 @@
           "source": "Lenny's Newsletter",
           "published": "Sun, 23 Aug 2026 12:31:43 GMT",
           "story": "对很多做销售或者创业的人来说，谈成一笔十万美金以上的企业订单，听起来像是一个遥远的目标，但真正难的不是金额，而是过程中那些琐碎又关键的步骤。你可能已经见过了各种销售技巧，但到了实际推进的时候，还是会卡在某个环节：不知道找谁拍板，不知道报价怎么出，不知道合同怎么谈。这篇文章请来了一位有实战经验的人，她愿意把整个过程一步一步拆开讲。读的时候，不妨把自己代入那个正在跟进大客户的销售角色，看看作者在每一个节点是怎么做决定的，尤其是那些容易被忽略的细节，比如怎么判断客户的真实预算，怎么在多方周旋时保持主动权。这样你学到的就不是空泛的道理，而是能直接用在下一场谈判里的思路。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-23",
-      "companies": [
-        {
-          "id": 31241,
-          "name": "Corelayer",
-          "url": "https://www.corelayer.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/corelayer",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "B2B",
-            "Enterprise Software",
-            "AI"
-          ],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "AI production engineer for regulated industries",
-          "originalDescription": "Corelayer is the AI-native platform for production software support, built for regulated industries like finance and healthcare. It continuously monitors alerts, logs, infrastructure, and underlying data for issues and uses agents to debug and suggest fixes. We're helping SRE, production services, and on-call engineers at companies ranging from growth-stage fintechs to Fortune 500 financial institutions spend less time on support and more on high-leverage work.",
-          "published": "",
-          "story": "Corelayer 是一家为金融、医疗等监管严格行业打造人工智能生产支持平台的公司。想象你是一位负责线上支付系统的值班工程师，凌晨两点被警报吵醒，日志、指标和告警铺天盖地，却一时找不到根因。Corelayer 持续监控这些信号，用智能体自动排查问题并给出修复建议，让你从繁琐的故障排查中解脱出来，把精力放在更有价值的工作上。这家公司来自 YC 冬季批次，团队虽小，但瞄准的正是大银行和成长型金融科技公司都头疼的生产支持痛点，值得关注。",
-          "rank": 1
-        },
-        {
-          "id": 30903,
-          "name": "Kestrel AI",
-          "url": "https://usekestrel.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/kestrel-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "AIOps",
-            "Developer Tools",
-            "DevOps",
-            "Infrastructure"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "AI Agents for Platform Engineering",
-          "originalDescription": "Kestrel is the AI automation layer for platform engineering teams. Platform teams use Kestrel to automate incident response, cloud provisioning, CI/CD, security, and developer requests across their stack. Kestrel turns natural-language prompts into deterministic, production-ready workflows with 40+ integrations, 200+ pre-built actions, and support for custom HTTP and webhook actions. Developer-first, with a CLI, Python SDK, and MCP server to manage workflows from where platform teams already work.",
-          "published": "",
-          "story": "Kestrel AI 做的是平台工程团队的人工智能自动化层。假如你是一个平台工程师，每天要处理大量重复的开发者请求、云资源开通和故障响应，忙得不可开交。Kestrel 能把自然语言指令变成可靠的生产级工作流，内置四十多种集成和两百多个预置操作，还支持自定义接口。你可以通过命令行、Python 工具包或 MCP 服务器来管理这些流程，不用离开熟悉的工作环境。这家公司来自 YC 秋季批次，团队虽小，但切中了平台工程自动化的真实需求。",
-          "rank": 2
-        },
-        {
-          "id": 33673,
-          "name": "Caution",
-          "url": "https://caution.co",
-          "sourceUrl": "https://www.ycombinator.com/companies/caution",
-          "location": "George Town, George Town, Cayman Islands",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Cybersecurity",
-            "Cloud Computing",
-            "Infrastructure"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "Hosting platform for software you don't want to have hacked",
-          "originalDescription": "Caution is a hosting platform for software you can't afford to get hacked. It simplifies and extends confidential compute, and lets developers deploy workloads to secure enclaves in minutes and give customers, auditors, and counterparties cryptographic proof that production is running the exact reviewed source code, build, configuration, and runtime - not an opaque binary controlled by a cloud operator or internal admin. Confidential computing hardware exists, but the tooling is too fragmented and incomplete for most teams to use well. Today, attestation often proves only that a binary has a certain hash; it does not prove what source code produced that binary. Building the missing deployment, reproducibility, and verification layer requires specialized security engineering and often locks teams into one cloud or hardware stack. Caution turns that into a simple git-based workflow that builds reproducible enclave images, provisions infrastructure, and lets anyone independently verify what is running. We built Caution after years securing high-risk systems through Distrust, where we worked with hedge funds, custodians, blockchain teams, cloud platforms, and critical grid operators on systems responsible for more than $600B in assets. Again and again, the same problem showed up: teams running mission-critical infrastructure could not reliably prove what was executing in production. As AI, fintech, healthcare, and regulated data collaboration move into the cloud, \"trust us\" is no longer enough. Caution is a general-purpose platform: if it runs on a server, it can run verifiably on Caution. We're starting where trust failures cost the most, but we believe verifiable compute will become the default way software runs, the same way HTTPS became the default way it's served. Infrastructure you can verify, not trust.",
-          "published": "",
-          "story": "Caution 是一个托管平台，专门用来部署那些绝对不能出安全问题的软件。想象你是一家金融科技公司的安全负责人，客户要求你证明生产环境运行的就是经过审查的源代码，而不是一个无法验证的二进制文件。Caution 利用机密计算技术，让你在几分钟内把工作负载部署到安全 enclave，并提供加密证明，让客户、审计师和交易对手都能验证代码、配置和运行时的真实性。这家公司来自 YC 夏季批次，团队五人，在云安全和合规领域填补了一个关键空白。",
-          "rank": 3
-        },
-        {
-          "id": 31464,
-          "name": "Soria",
-          "url": "https://www.soriaanalytics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/soria",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI Financial Research Terminal built for Healthcare (and beyond)",
-          "originalDescription": "Soria is an AI-native Financial Terminal for investors who specialize in a particular sector, starting with healthcare. Our agents convert hundreds of the most important public and private sources into an always-on financial model, reviewed by domain experts and delivered to hedge funds, banks, and asset managers through a terminal UI, MCP, API, warehouse sync, and research feed. Unlike our competitors, we own the data layer and expand bottom-up, one sector at a time - additionally our agents proactively do research on behalf of our clients without them lifting a finger or sharing any data.",
-          "published": "",
-          "story": "Soria 是一个面向专业投资者的金融研究终端，先从医疗行业切入。如果你是一位医疗板块的基金经理，每天要阅读大量研报、会议纪要和临床试验数据，还要更新财务模型，非常耗时。Soria 的智能体能把数百个公开和私有来源的信息整合成一个持续更新的财务模型，由领域专家审核，并通过终端界面、接口、数据仓库同步等方式推送给你。这家公司来自 YC 春季批次，正在招聘，团队三人，他们自己掌握数据层，按行业逐步扩展，值得关注。",
-          "rank": 4
-        },
-        {
-          "id": 32650,
-          "name": "Risklytics",
-          "url": "https://www.risklytics.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/risklytics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Hardware",
-            "Machine Learning",
-            "B2B",
-            "Insurance"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Insurance for the Frontier",
-          "originalDescription": "Risklytics is a commercial insurance brokerage for frontier tech: robotics, autonomy, data centers, and energy infrastructure. Insurers are writing AI exclusions into standard liability forms, so companies whose products act in the physical world end up holding risk they thought they had transferred. We specialize in that gap, and we know which carriers in the admitted and surplus lines markets will still underwrite it. If you're building anything that moves, lifts, drives, or powers something, we'd like to talk.",
-          "published": "",
-          "story": "Risklytics 是一家面向前沿科技的商业保险经纪公司，专注于机器人、自动驾驶、数据中心和能源基础设施。想象你是一家机器人公司的创始人，产品即将交付，却发现自己买的保险里有人工智能除外条款，风险并没有真正转移。Risklytics 专门处理这种风险缺口，知道哪些保险公司在标准市场和超额市场愿意承保。如果你在造会动、会举、会开或会供电的东西，他们能帮你找到合适的保险。这家公司来自 YC 夏季批次，团队两人，切中了一个新兴且棘手的领域。",
-          "rank": 5
-        },
-        {
-          "id": 30970,
-          "name": "Exonic",
-          "url": "https://exonic.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/exonic",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Unsupervised Biological AI",
-          "originalDescription": "What if you could train a biological foundation model on... the entire internet? Exonic is pioneering a new generation of biological foundation models, focused on heterogeneous, unstructured, and noisy datasets. Our first application is the design of safer gene therapies. In 2025, we used AI to set a new state of the art in liver cancer targeted gene therapy, validated in vitro in our lab in San Francisco. So far in 2026, we have trained a new model with unprecedented zero-shot generalization on genomic regulatory expression in hold-out biosample datasets. More to be shared soon.",
-          "published": "",
-          "story": "Exonic 正在探索用互联网上的海量数据训练生物基础模型。想象你是一位基因治疗研究员，正在设计更安全的疗法，却苦于现有模型对复杂生物数据的处理能力有限。Exonic 的模型在零样本泛化上表现出色，能处理异质、非结构化和有噪声的数据，并在肝癌靶向基因治疗上取得了进展，已在旧金山实验室验证。这家公司来自 YC 秋季批次，正在招聘，团队三人，他们的研究可能为基因治疗带来新突破。",
-          "rank": 6
-        },
-        {
-          "id": 31435,
-          "name": "Lumius",
-          "url": "https://www.lumius-imaging.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/lumius",
-          "location": "Durham, NC, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Fast, smart, accessible 3D ultrasound that anyone can use",
-          "originalDescription": "Ultrasound today is still mostly 2D. Clinicians have to imagine the 3D anatomy in their head while also moving the probe at the same time. This makes procedures like vascular access hard to learn and perform consistently, especially for beginners. ~50% fail on their first attempt. Hospitals also spend millions each year on 2D ultrasound training. Meanwhile, existing 3D ultrasound devices can cost >10× as much. Lumius is building fast, smart, and accessible 3D ultrasound systems to eliminate this 2D guesswork. Our technology shows a clear, real-time 3D view of what’s inside the body. It works over a large volume, not just a thin slice. The device is also affordable, compact, and portable. We are starting with vascular access, especially central line. Future use cases include blood clot detection, tumor diagnosis, and biopsy guidance. Our long-term vision is a universal 3D ultrasound platform that brings easy-to-use, real-time imaging to a wide range of clinical and eventually consumer applications.",
-          "published": "",
-          "story": "Lumius 正在开发快速、智能且人人都能用的三维超声设备。想象你是一位急诊科医生，要给病人做中心静脉置管，传统二维超声需要你在脑中想象三维解剖结构，新手往往要试好几次才能成功。Lumius 的设备能实时显示清晰的三维图像，覆盖大范围体积，而且价格亲民、小巧便携。它先从血管穿刺应用开始，未来可能扩展到血栓检测、肿瘤诊断和活检引导。这家公司来自 YC 春季批次，正在招聘，团队四人，他们想用三维超声消除二维的猜测。",
-          "rank": 7
-        },
-        {
-          "id": 30914,
-          "name": "Sunflower",
-          "url": "https://sunflowersober.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/sunflower",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "Building the Sobriety Platform for the future of Superintelligence. 🌻",
-          "originalDescription": "Sunflower is on a mission to create one trillion days sober. Our product is both a consumer app (think a \"Duolingo for addiction\") but also with a tele-therapy clinic inside. Consumer App: - We built the #1 AI Sponsor for any kind of addiction - Beautiful visual progression tracking to power the core \"task to be done\" of addiction - A twitter style social media for addicts - DIY learn content (think Masterclass for addiction) for all major addiction types - CBT based journaling exercises Tele-Therapy: - Think a \"Early Medical Peter Attia\" quality of clinic, but completely focused on addiction - Starting with talk therapy in CA & TX we're rolling out to all 50 states + MAT - Bringing together the worlds best doctors to create the most effective protocol for addiction Sunflower went from 0 - 100k MAU in less than 6 months, and now we're continuing the traction to create the #1 product for addiction for the 1.2B humans on this planet that struggle with this fundamental human problem.",
-          "published": "",
-          "story": "Sunflower 是一个帮助人们戒除成瘾的平台，既有类似多邻国的消费应用，也内置了远程治疗诊所。想象你是一个正在戒酒的人，每天都要和冲动对抗，需要有人随时支持。Sunflower 提供人工智能赞助者、视觉进度追踪、成瘾者社交网络、自助学习内容和认知行为疗法日记练习，同时还有专业的远程治疗服务，从加州和得克萨斯州开始，逐步扩展到全美。这家公司来自 YC 夏季批次，团队十五人，应用在不到六个月里达到十万月活用户，他们想创造十亿个清醒日。",
-          "rank": 8
-        },
-        {
-          "id": 32979,
-          "name": "RonanRx Inc.",
-          "url": "https://ronanrx.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/ronanrx-inc",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Health Tech",
-            "Telehealth",
-            "Therapeutics"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "We use AI to personalize peptides to your biology",
-          "originalDescription": "RonanRX helps you personalize GLP-1s like Ozempic, peptides, and other treatments using your labs, wearables, medical history, treatment response, and the latest medical research. Instead of treating the average patient, we continuously personalize your treatment as your body changes. We've built the complete feedback loop for personalized medicine: your health data automatically syncs into one place, AI helps personalize treatment, licensed doctors make prescribing decisions, medications are delivered to your door, and every outcome continuously improves your protocol. Connect your health data once. RonanRX automatically syncs your labs, wearables, and medical records into a single AI-powered health profile that helps personalize GLP-1s like Ozempic, peptides, supplements, and other treatments around your biology. If prescribed, your medication is delivered to your door. Our founders have built and exited multiple companies, raised over $100M, and previously built a $50M U.S. medical manufacturing business. Start with a text at RonanRX.com and become the maximum version of yourself,",
-          "published": "",
-          "story": "RonanRx 利用人工智能根据你的生物学特征个性化定制 GLP-1 药物（如司美格鲁肽）和其他肽类治疗。想象你是一个正在使用减肥药的患者，体重下降却遇到了平台期，还担心副作用。RonanRx 自动同步你的化验数据、可穿戴设备和病历，构建一个人工智能健康档案，医生根据这些信息调整你的用药方案，药物直接送到家，每次治疗结果都会反馈到档案里，不断优化。这家公司来自 YC 夏季批次，团队五人，他们想实现真正的个性化医疗闭环。",
-          "rank": 9
-        },
-        {
-          "id": 31451,
-          "name": "Archer",
-          "url": "https://archermoney.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/archer",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Crypto / Web3",
-            "Neobank",
-            "AI"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "Global payouts for the workforce powering AI",
-          "originalDescription": "Archer is the financial infrastructure for the AI data economy. We’re building global payouts, stablecoin banking, and yield infrastructure for the companies supplying data to frontier AI labs. As demand for high-quality data grows, millions of contributors around the world are generating, labeling, validating, and improving the datasets that power modern AI systems. Yet the financial infrastructure behind these platforms remains slow, fragmented, and expensive. Archer enables data marketplaces, AI labor platforms, and reinforcement learning environment providers to onboard workers globally, pay contributors instantly, and earn yield on idle balances. Today, companies use Archer to manage contributor earnings, global payouts, and treasury operations across hundreds of countries and payment corridors. We believe the next generation of AI companies will need purpose-built financial infrastructure. Just as cloud providers became the backbone of software, Archer is building the financial layer for the global workforce powering artificial intelligence.",
-          "published": "",
-          "story": "Archer 是为人工智能数据经济打造的金融基础设施，提供全球支付、稳定币银行和收益服务。想象你是一家数据标注平台的创始人，有成千上万的全球贡献者为你工作，但支付给他们却要经过缓慢且昂贵的跨境转账。Archer 让你能快速、低成本地支付给全球员工，还能让闲置余额产生收益。这家公司来自 YC 春季批次，团队四人，他们看到了人工智能劳动力金融服务的巨大空白，想要为下一代人工智能公司提供专用金融支持。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49406808",
-          "title": "Show HN: Zuse\" One agent coordinating 20 Linear issues in worktrees",
-          "url": "https://www.zuse.sh/",
-          "source": "Hacker News",
-          "published": "2026-08-23T07:40:13Z",
-          "story": "一个人同时盯二十个任务，每个任务还各自开着独立的工作区，这在很多工程师看来是手忙脚乱的起点。过去大家要么靠脚本硬撑，要么靠人肉切换分支，稍不留神就乱了套。这篇在技术社区热起来的帖子，讲的正是有人试着让一个智能体去协调这些乱糟糟的活。它值得读，是因为它把“人工智能 能不能真正干活”这个空泛的问题，落到了很具体的场景里。读的时候不妨留意，作者是怎么把二十个任务拆给一个智能体去管的，是简单堆权限，还是真的理清了任务之间的依赖关系，这往往才是能不能跑通的关键。"
-        },
-        {
-          "id": "TechCrunch Startups-aHR0cHM6Ly90",
-          "title": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leaders",
-          "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-          "source": "TechCrunch Startups",
-          "published": "Sun, 23 Aug 2026 03:00:00 +0000",
-          "story": "印度街头那些承诺几分钟送到家的小店，这两年突然成了大公司争抢的战场。你打开手机下单，半小时内东西就上门，这种便利背后是仓储、配送和算法的层层比拼。这篇报道讲的是沃尔玛旗下的 Flipkart 入场两年后，居然快要追上那些先跑一步的对手。它值得读，是因为它把“快商务”这个热词，拆成了实实在在的运营细节。读的时候可以盯着看，作者是怎么解释后来者追上的原因，是砸钱补贴，还是找到了更聪明的配送路径，这比单纯看市场份额有意思得多。"
-        },
-        {
-          "id": "Lenny's Newsletter-aHR0cHM6Ly93",
-          "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
-          "source": "Lenny's Newsletter",
-          "published": "Sat, 22 Aug 2026 19:23:07 GMT",
-          "story": "刚进一家新公司，面前堆着几十个工具和流程，你根本不知道先学哪个；另一边，HR 们正为简历筛选发愁，人工智能 似乎能帮忙却总怕看走眼。这些零碎的问题，恰好是 Lenny 这份社区问答合集想碰的。它把产品经理、设计师和创业者在日常里反复纠结的小事，比如用什么工具、怎么排优先级，集中起来让有经验的人回答。它值得读，是因为答案来自真实工作场景，而不是教科书。读的时候可以挑一两个你最近头疼的问题，看看大家给出的取舍逻辑，说不定能帮你换个角度想事情。"
         }
       ]
     }

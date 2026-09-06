@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-05T11:15:15.274Z",
+  "updatedAt": "2026-09-06T11:38:41.408Z",
   "readings": [
+    {
+      "key": "josem.co/start-with-one-customer",
+      "title": "Start with one customer",
+      "url": "https://josem.co/start-with-one-customer/",
+      "usedAt": "2026-09-06",
+      "site": "startup-radar"
+    },
+    {
+      "key": "latent.space/p/grok-bot",
+      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "url": "https://www.latent.space/p/grok-bot",
+      "usedAt": "2026-09-06",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "usedAt": "2026-09-06",
+      "site": "startup-radar"
+    },
     {
       "key": "aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore",
       "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
