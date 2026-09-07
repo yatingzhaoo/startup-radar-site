@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-06T11:38:41.408Z",
+  "updatedAt": "2026-09-07T13:29:25.264Z",
   "readings": [
+    {
+      "key": "lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+      "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "usedAt": "2026-09-07",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "usedAt": "2026-09-07",
+      "site": "startup-radar"
+    },
+    {
+      "key": "theanalyst.dev",
+      "title": "Show HN: The Analyst (A data science analytics simulator)",
+      "url": "https://theanalyst.dev",
+      "usedAt": "2026-09-07",
+      "site": "startup-radar"
+    },
     {
       "key": "josem.co/start-with-one-customer",
       "title": "Start with one customer",
