@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-07T13:29:25.264Z",
+  "updatedAt": "2026-09-08T12:07:22.760Z",
   "readings": [
+    {
+      "key": "docs.getfraise.dev",
+      "title": "Show HN: Fraise: a memory database for AI agents",
+      "url": "https://docs.getfraise.dev",
+      "usedAt": "2026-09-08",
+      "site": "startup-radar"
+    },
+    {
+      "key": "menlovc.com/perspective/welcome-alex-kurland-menlos-newest-partner",
+      "title": "Welcome Alex Kurland, Menlo’s Newest Partner",
+      "url": "https://menlovc.com/perspective/welcome-alex-kurland-menlos-newest-partner/",
+      "usedAt": "2026-09-08",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "usedAt": "2026-09-08",
+      "site": "startup-radar"
+    },
     {
       "key": "lennysnewsletter.com/p/build-your-own-company-brain-the",
       "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
