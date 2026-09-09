@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-08T12:07:22.760Z",
+  "updatedAt": "2026-09-09T12:19:14.024Z",
   "readings": [
+    {
+      "key": "buttondown.com/blog/lotus-notes-email",
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "url": "https://buttondown.com/blog/lotus-notes-email",
+      "usedAt": "2026-09-09",
+      "site": "startup-radar"
+    },
+    {
+      "key": "news.crunchbase.com/venture/startup-investment-qa-ai-hr-fintech-jacobsohn-norwest",
+      "title": "The Sales Test This Norwest Partner Gives Founders Before He&#8217;ll Invest",
+      "url": "https://news.crunchbase.com/venture/startup-investment-qa-ai-hr-fintech-jacobsohn-norwest/",
+      "usedAt": "2026-09-09",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "usedAt": "2026-09-09",
+      "site": "startup-radar"
+    },
     {
       "key": "docs.getfraise.dev",
       "title": "Show HN: Fraise: a memory database for AI agents",
