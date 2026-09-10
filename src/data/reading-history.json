@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-09T12:19:14.024Z",
+  "updatedAt": "2026-09-10T12:12:50.294Z",
   "readings": [
+    {
+      "key": "listpro.app",
+      "title": "Show HN: Listpro – Turn product screenshots into launch assets",
+      "url": "https://listpro.app",
+      "usedAt": "2026-09-10",
+      "site": "startup-radar"
+    },
+    {
+      "key": "news.crunchbase.com/venture/measure-innovation-ecosystem-south-korea-onetti-mind-the-bridge",
+      "title": "How To Measure An Innovation Economy: South Korea",
+      "url": "https://news.crunchbase.com/venture/measure-innovation-ecosystem-south-korea-onetti-mind-the-bridge/",
+      "usedAt": "2026-09-10",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern",
+      "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
+      "url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
+      "usedAt": "2026-09-10",
+      "site": "startup-radar"
+    },
     {
       "key": "buttondown.com/blog/lotus-notes-email",
       "title": "Lotus Notes and the dangers of starting from scratch",
