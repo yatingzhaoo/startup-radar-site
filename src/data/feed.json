@@ -1,7 +1,257 @@
 {
-  "generatedAt": "2026-09-10T12:12:50.291Z",
+  "generatedAt": "2026-09-12T11:35:59.916Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-09-12",
+      "companies": [
+        {
+          "id": 30652,
+          "name": "OnDeck AI",
+          "url": "https://www.ondeckai.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/ondeck-ai",
+          "location": "Vancouver, BC, Canada",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Machine Learning",
+            "SaaS",
+            "Computer Vision",
+            "B2B",
+            "Video"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 7,
+          "originalOneLiner": "Analyze any footage, without training a model",
+          "originalDescription": "OnDeck is the infrastructure layer that makes Vision Language Models accessible and scalable for enterprise. Our model, Perception-0, let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data. The Pain: Creating vision models usually takes months: collecting training data, training, then deployment. Worse yet: + it’s often impossible to get enough data for a specific task, and + even the best cv models struggle to generalize across diverse camera setups, workflows and environments. To overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks. Now, our model Perception-0 beats the best VLMs including Gemini at long video understanding. Our current customers include: - National Defense Organizations - Robotics Research - Security cameras - Behaviour analysis for port monitoring - Off-shore oil & gas monitoring",
+          "published": "",
+          "story": "这是做视频理解基础设施的公司。假如你是一家工厂的质检负责人，厂里装了上百路摄像头，你想让系统自动找出工人没戴安全帽的画面，可传统做法要先收集几千张标注图片再训练模型，一等就是好几个月。OnDeck 走的是另一条路，它用视觉语言模型做引擎，不需要训练数据，直接就能在任意视频里找对象、行为和事件，团队还发表过 NeurIPS 研讨会论文，说明这套方法在冷门任务上也能超过传统视觉方案。它属于 YC 夏季 2025 批次，团队七人，正在招聘，值得关注的地方在于它把过去要几个月才能落地的视觉能力压缩成了即开即用的服务。",
+          "rank": 1
+        },
+        {
+          "id": 33673,
+          "name": "Caution",
+          "url": "https://caution.co",
+          "sourceUrl": "https://www.ycombinator.com/companies/caution",
+          "location": "George Town, George Town, Cayman Islands",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Cybersecurity",
+            "Cloud Computing",
+            "Infrastructure"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "Hosting platform for software you can't afford to have hacked",
+          "originalDescription": "Caution is a hosting platform for software you can't afford to get hacked. It simplifies and extends confidential compute, and lets developers deploy workloads to secure enclaves in minutes and give customers, auditors, and counterparties cryptographic proof that production is running the exact reviewed source code, build, configuration, and runtime - not an opaque binary controlled by a cloud operator or internal admin. Confidential computing hardware exists, but the tooling is too fragmented and incomplete for most teams to use well. Today, attestation often proves only that a binary has a certain hash; it does not prove what source code produced that binary. Building the missing deployment, reproducibility, and verification layer requires specialized security engineering and often locks teams into one cloud or hardware stack. Caution turns that into a simple git-based workflow that builds reproducible enclave images, provisions infrastructure, and lets anyone independently verify what is running. We built Caution after years securing high-risk systems through Distrust, where we worked with hedge funds, custodians, blockchain teams, cloud platforms, and critical grid operators on systems responsible for more than $600B in assets. Again and again, the same problem showed up: teams running mission-critical infrastructure could not reliably prove what was executing in production. As AI, fintech, healthcare, and regulated data collaboration move into the cloud, \"trust us\" is no longer enough. Caution is a general-purpose platform: if it runs on a server, it can run verifiably on Caution. We're starting where trust failures cost the most, but we believe verifiable compute will become the default way software runs, the same way HTTPS became the default way it's served. Infrastructure you can verify, not trust.",
+          "published": "",
+          "story": "这家公司切的是机密计算托管。想象你是一家处理敏感数据的软件团队负责人，客户和审计方要求你证明线上跑的正是他们审过的那份源代码，可你只能给出一个二进制哈希，说不清它是从哪份代码编译出来的。Caution 把这件事变成基于 git 的简单流程，开发者几分钟就能把工作负载部署到安全隔离区，并向客户、审计方和交易对手提供密码学证明，说明生产环境运行的确实是经过审阅的源码、构建、配置和运行时。它来自 YC 夏季 2026 批次，团队五人，目前不招聘。机密计算硬件早已存在，但工具链零散，这家公司补的正是缺失的部署与验证层。",
+          "rank": 2
+        },
+        {
+          "id": 30754,
+          "name": "Locata",
+          "url": "https://www.locatahealth.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/locata",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "AI Referral Automation for Primary Care Clinics",
+          "originalDescription": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care. Primary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers. Alejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users. Within two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
+          "published": "",
+          "story": "这是做基层医疗转诊自动化的公司。一个诊所的后台运营负责人每天要面对堆积如山的转诊单，从提交预授权到通知患者再到反复跟进，电话和传真来回折腾，人手根本不够用。Locata 部署智能体把这些步骤自动跑完，让工作人员腾出手来做真正的患者服务。美国每年发出一亿多次专科转诊，实际完成的只有一半左右，患者因为流程卡住而耽误治疗，后果可能很严重。它属于 YC 夏季 2025 批次，团队四人，正在招聘。值得看的地方是它盯上的不是锦上添花的功能，而是转诊完成率这个长期被忽视的硬缺口。",
+          "rank": 3
+        },
+        {
+          "id": 31511,
+          "name": "Arzana",
+          "url": "https://www.arzana.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/arzana",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 6,
+          "originalOneLiner": "The autonomous ERP for every manufacturer",
+          "originalDescription": "Arzana trains custom models on manufacturers' operational data to automate their quoting, order entry, invoicing, and other repetitive office work. We've saved our customers over $1.5M in avoided staff costs. In the future, we'll expand into shop-floor automation, sending instructions to machinery and robots to produce the orders that our office agents processed. By 2035, we aim to fully automate 10,000 American factories.",
+          "published": "",
+          "story": "这家公司做的是面向制造业的企业管理系统自动化。如果你是一家中小工厂的老板，每天最烦的可能是报价、录订单、开发票这些重复的办公室工作，招人贵又留不住。Arzana 用工厂自己的运营数据训练定制模型，把这些活接过去，据其介绍已帮客户省下超过一百五十万美元的人员成本。它来自 YC 春季 2026 批次，团队六人，正在招聘。更长远的方向是把指令下发到机床和机器人，让办公室智能体处理过的订单直接进入车间生产，目标是在 2035 年前全面自动化一万家美国工厂。这个从后台走向车间的路径，是它区别于普通办公自动化工具的地方。",
+          "rank": 4
+        },
+        {
+          "id": 30735,
+          "name": "Evergrove",
+          "url": "https://www.evergrovelabs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/evergrove",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Healthcare",
+            "Insurance",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Instant healthcare for all, starting with work comp",
+          "originalDescription": "We've built voice agents for the largest work comp managed care orgs and specialist PT networks in the country, making >500K calls annually and accelerating the speed at which they coordinate care. On average, our customers see a 40% increase in workflow completion, 10x decrease in cycle times, and >60% reduction in cost. We think voice agents are the starting point for solving slow and fragmented care coordination in this market. Companies that manage an injured worker's care rely on short-staffed contact centres and archaic methods of info exchange: phone, fax, and email. Every delay along the path of care leads to slower rehab of the injured worker, lower throughput for providers, and higher expense for the insurer/employer.",
+          "published": "",
+          "story": "这是做工伤医疗协调的公司。一个保险理赔员每天要打无数电话，确认受伤工人有没有约上复诊、理疗排期到没到，可对方常常不接，信息还散落在电话、传真和邮件里。Evergrove 为全美大型工伤管理机构和专业理疗网络搭建语音智能体，每年打出超过五十万通电话，把协调护理的流程跑起来。据其介绍，客户的工作流完成率平均提升四成，周期缩短到原来的十分之一，成本下降超过六成。它属于 YC 夏季 2026 批次，团队两人，目前不招聘。这个市场慢而碎，每一次延误都意味着工人康复更慢、机构吞吐更低、雇主花钱更多，语音智能体只是它切入的起点。",
+          "rank": 5
+        },
+        {
+          "id": 36348,
+          "name": "antimattr",
+          "url": "https://antimattr.one/",
+          "sourceUrl": "https://www.ycombinator.com/companies/antimattr",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hardware",
+            "Consumer",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "voice-first hardware interface for human-agent interaction",
+          "originalDescription": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy. Reserve early access at https://www.antimattr.one/project-mnemosyne [use code YC at checkout]",
+          "published": "",
+          "story": "这是做语音优先人机交互硬件的公司。想象你是个会议很多的咨询顾问，一天下来脑子里全是待办，掏出手机记录又打断谈话。antimattr 做了一枚戒指和一副耳机，戒指可以录下并总结你的对话、随手捕捉想法，也能用来控制你的智能体，耳机则用自研的语音隔离技术把背景噪声压掉，让你在嘈杂的酒吧里也能清楚通话或准确口述。它属于 YC 秋季 2026 批次，团队两人，目前不招聘。这不是一个手机应用，而是把拾音、降噪和交互能力直接放进随身佩戴的设备里，所以场景才成立。产品目前开放早期体验预约。",
+          "rank": 6
+        },
+        {
+          "id": 31340,
+          "name": "Illume Labs",
+          "url": "https://www.illumelabs.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/illume-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Generative AI",
+            "Health Tech",
+            "Biotech",
+            "Health & Wellness"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "24/7 Personal Health & Longevity Companion",
+          "originalDescription": "Illume is a 24/7 AI personal health & longevity companion that connects your wearables, blood panels, and genomic data to text you personalized and actionable insights. We pull in your health data and fuse it into one secure model. You get daily text updates on what changed, what it means, and what to do next; conversational health Q&A like \"What should I do to improve my bloodwork?\"; cross-data trend detection that catches patterns individual platforms miss; and a full platform to dig deeper, explore your health data, and text your Illume agent anytime. We're 3 MIT grads & friends, with experience at Windsurf, MIT CSAIL, Eli Lilly, & the Broad Institute.",
+          "published": "",
+          "story": "这是做个人健康与长寿陪伴的公司。如果你戴着手环、做过血液检测、也测过基因，数据散在好几个应用里，没人告诉你这些数字连起来意味着什么。Illume 把这些来源汇总成一个安全的健康模型，每天用短信告诉你哪些指标变了、意味着什么、下一步该做什么，你还能直接向它提问，比如该怎么改善血检结果，它会做跨数据的趋势识别，捕捉单个平台看不到的模式。团队三人，是麻省理工学院的毕业生和朋友，曾在 Windsurf、麻省理工学院计算机科学与人工智能实验室、礼来和布罗德研究所工作。它属于 YC 夏季 2026 批次，目前不招聘，值得看的是它把分散的健康数据真正串成了一条可执行的线索。",
+          "rank": 7
+        },
+        {
+          "id": 32750,
+          "name": "Ultrasonium",
+          "url": "https://ultrasonium.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/ultrasonium",
+          "location": "Boston, MA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Hardware",
+            "Robotics",
+            "Manufacturing"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "Metal manufacturing, faster, cheaper, and more versatile.",
+          "originalDescription": "The technologies that define this century, including data centers, rockets, satellites, and robots, are built from complex metal parts. As these systems advance, the parts get harder to make. Past a certain complexity, casting and machining stop working, and the advanced methods that remain are slow, expensive, and hazardous. Ultrasonium has invented a new manufacturing method to make these critical parts 15x faster and 75% cheaper than the methods they replace, in the U.S. and at scale. Solid metal feedstock goes in and a finished part safely comes out, controlled by a physical AI layer and novel control processes. The systems that matter most, in aerospace, energy, and compute, are demanding metal geometries that can't be machined or cast and are too expensive and slow to make with incumbent methods, at a moment when domestic manufacturing capacity is a national priority. Our founding team has built and innovated some of the most complex engineering systems known to man: quantum computers, superconductors, nuclear reactors, and novel aerospace alloy processing methods.",
+          "published": "",
+          "story": "这家公司做的是金属零件制造。假如你是一家航天企业的工艺工程师，手里有个形状复杂的零件，铸造和机加工都做不出来，剩下的先进方法又慢又贵还有危险。Ultrasonium 发明了一种新制造方法，把固态金属原料送进去，成品零件安全地出来，据其介绍比被替代的方法快十五倍、便宜七成半，并且可以在美国规模化生产，整个过程由物理人工智能层和新的控制工艺来管理。它属于 YC 夏季 2026 批次，团队五人，目前不招聘。数据中心、火箭、卫星和机器人这些系统都依赖复杂金属件，而本土制造能力正被当作国家优先事项，这让它的位置显得关键。",
+          "rank": 8
+        },
+        {
+          "id": 31560,
+          "name": "Intelligence Factory",
+          "url": "https://intelligence-factory.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/intelligence-factory",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 10,
+          "originalOneLiner": "Human Intelligence for Robots",
+          "originalDescription": "Robotics is the new paradigm. With hardware converging, Intelligence is the biggest bottleneck. Our world was built for humans and we're giving robots the ability to reason and act like us. The way we learn any task - by seeing, doing, and feeling - is how we train robots. We're building general intelligence that works on any robot and fits seamlessly within our world.",
+          "published": "",
+          "story": "这是给机器人提供智能的公司。想象你是一家仓储企业的自动化负责人，买了一台机械臂，可它只会重复固定动作，换个货架或换个箱子就傻眼。Intelligence Factory 的思路是让机器人像人一样通过看、做和感受来学习任务，训练出的通用智能可以装到任何机器人身上，无缝融入为人类建造的世界。它来自 YC 春季 2026 批次，团队十人，正在招聘。硬件正在趋同，智能成了最大的瓶颈，这家公司押注的正是这个缺口。它值得关注的地方在于，它不只做某一个场景的机器人，而是想做一层可以迁移到不同机体上的通用能力。",
+          "rank": 9
+        },
+        {
+          "id": 31296,
+          "name": "Unifold",
+          "url": "https://unifold.io",
+          "sourceUrl": "https://www.ycombinator.com/companies/unifold",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Multi-chain deposit and payment infrastructure",
+          "originalDescription": "Launch crypto deposits in minutes. Unifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works. If you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.",
+          "published": "",
+          "story": "这家公司切的是多链充值与支付基础设施。如果你在做一个面向消费者的链上产品，工程负责人最头疼的往往是接入充值：每条链、每种代币都要单独处理，还要盯确认、对账和异常。Unifold 提供开发者优先的接口和开发工具包，不到十行代码就能让应用接受任意链和代币的链上充值，完整的充值流程由它来兜底，团队可以更快上线，用户端体验也更顺。它属于 YC 冬季 2026 批次，团队三人，目前不招聘。多链环境越来越碎，愿意把这块脏活接过去的团队不多，这正是它值得看的地方。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "Latent Space-aHR0cHM6Ly93",
+          "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+          "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+          "source": "Latent Space",
+          "published": "Sat, 12 Sep 2026 05:56:05 GMT",
+          "story": "每隔一段时间，做模型的人会突然发现自己熟悉的那套做法不够用了，于是开始重新翻旧账，把几年前被认为过时的结构再拿出来看。DeepSeek 这次的新版本就落在这样一个节点上：它把编码器和解码器重新拼在一起，还带上了视觉能力，同时把参数规模推到七百多亿。如果你平时只关注聊天效果，可能觉得这跟自己没关系，但只要你关心推理成本、模型怎么分工、多模态怎么落地，这篇就绕不开。读的时候可以留意作者是怎么把架构选择讲清楚的：哪些地方是工程上的取舍，哪些地方是赌一个方向，以及他为什么认为这次变化值得单独拿出来说。"
+        },
+        {
+          "id": "TechCrunch AI-aHR0cHM6Ly90",
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "source": "TechCrunch AI",
+          "published": "Fri, 11 Sep 2026 22:58:17 +0000",
+          "story": "做机器人的人最近都会碰到同一个难题：算法可以开源，硬件可以买，但让机器学会抓、走、避障的那些数据，几乎没法凭空造出来。于是围绕机器人训练数据的公司开始被资本盯上，估值一路往上走。这篇讲的就是其中一家，在红杉领投的交易里接近五亿美元估值。它值得读，是因为它把一条平时不太显眼的产业链摆到了台面上：谁在卖数据，谁在买，为什么现在这么急。读的时候不妨顺着作者的问题往下看：这笔钱到底押的是什么，数据从哪来，以及当所有人都在抢同一批素材时，这门生意还能撑多久。"
+        },
+        {
+          "id": "WIRED Business-aHR0cHM6Ly93",
+          "title": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
+          "url": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
+          "source": "WIRED Business",
+          "published": "Fri, 11 Sep 2026 19:21:34 +0000",
+          "story": "预测市场这几年越来越像真的交易场所，人们用真金白银押注选举、政策、甚至某件事会不会发生。一旦钱多了，监管就会跟上来，而且往往不是大张旗鼓地来。这篇报道讲的是美国政府悄悄启动的三项调查，之前没有被公开过，涉及的是 Polymarket 上的某些交易。它值得读的地方在于，它让人看到规则是怎么一点点收紧的：不是一纸禁令，而是一条条线索被翻出来。读的时候可以注意作者是怎么把零散的文件和消息拼成一条时间线的，以及他如何判断哪些交易引起了注意，哪些只是背景噪音。"
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "companies": [
@@ -3241,247 +3491,6 @@
           "source": "Latent Space",
           "published": "Sat, 29 Aug 2026 05:11:52 GMT",
           "story": "在 人工智能 工具圈，新闻总是来得又快又猛，今天这家公司发布新模型，明天那家平台改了规则。可真正值得琢磨的，不是新闻本身，而是它为什么发生。这篇来自 Latent Space 的报道，标题里写着“OpenAI 关掉了 Cursor 的通道”，听起来像是一场突然的断供，但背后往往是商业策略、技术路线或者合作条款的博弈。如果你平时用这类编程助手，或者在做相关产品，你可能会好奇，一个工具突然不能用了，用户会怎么反应，市场又会怎么调整。读的时候，别只盯着谁对谁错，试着看作者如何把一件孤立的事件，放进更大的行业图景里。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "companies": [
-        {
-          "id": 31051,
-          "name": "Corvera",
-          "url": "https://corvera.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/corvera",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "SaaS",
-            "Consumer",
-            "B2B",
-            "Data Engineering",
-            "AI"
-          ],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "The context layer for AI-native CPG brands",
-          "originalDescription": "Corvera (YC W26) is the context layer for AI-native CPG brands. We help brands unlock the full potential of AI by making their unified data legible to any AI tool via MCP. As of mid-March 2026, we scaled from $0 to $33k in MRR in 4 weeks, are serving 12 brands, and are growing 130% week-on-week. With Corvera in place, brands can enable anyone in their organization to: - Rapidly deploy AI agents via tools such as Claude and ChatGPT, - Build dashboards and apps using Cursor and Lovable, and - Automate workflows across the entire business, from category management to supply chain. All in a secure, audit-logged, and access-controlled environment, without the need for a team of data engineers or AI specialists, in a simple plug-and-play solution. We're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS). To-date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP are omnichannel retail-focused CPG brands at the $100M+ revenue inflection point. Our mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people. Our vision is even bolder: to be the system of intelligence for the $5.4T global CPG industry. Visit www.corvera.ai to learn more!",
-          "published": "",
-          "story": "Corvera 是一家为人工智能原生的消费品品牌提供数据基础设施的公司。想象你是一家新兴零食品牌的运营负责人，品牌刚上线几款产品，各种销售、库存和营销数据散落在不同系统里，每次想用人工智能工具分析都因为数据格式混乱而失败。Corvera 能把所有数据统一成人工智能工具能读懂的格式，通过 MCP 协议直接接入 Claude 或 ChatGPT，让你不用数据工程师也能快速搭建看板、自动化供应链和品类管理流程。这家公司来自 YC 冬季批次，团队四人，上线四周就做到了月经常性收入三万多美元，服务十二个品牌，周增长百分之一百三十，这种速度在数据基础设施领域相当少见。",
-          "rank": 1
-        },
-        {
-          "id": 31535,
-          "name": "Arlo Industries",
-          "url": "https://arlo1.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/arlo-industries",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech",
-            "Hardware",
-            "Defense"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Track drones and missiles without radars - Accurate, Passive, Scalable",
-          "originalDescription": "Arlo Industries is building a network of sensors that precisely tracks stealthy drones and aerial threats better than radars. This capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems. Deo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise. The people behind Arlo1 includes a PhD in drones and autonomy and military experts. Arlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
-          "published": "",
-          "story": "Arlo Industries 做的是国防科技里的无源传感器网络，用来追踪无人机和导弹。想象你是一个防空指挥中心的军官，雷达屏幕上有几个小点，但你知道那是诱饵，真正的威胁藏在低空慢速的无人机群后面，传统雷达要么漏掉，要么被干扰。Arlo 的传感器不发射信号，而是被动接收周围环境的电磁波，通过多个传感器组成网状结构，让追踪精度随着节点增加而指数级提升，成本却只是线性增长。创始人曾在以色列国防生态待了六年，亲历过铁穹系统，团队三人，正在招聘，来自 YC 春季批次，这种被动式广域覆盖的思路可能改变现代战争的防御逻辑。",
-          "rank": 2
-        },
-        {
-          "id": 30999,
-          "name": "Antigen",
-          "url": "https://antigen.sh/",
-          "sourceUrl": "https://www.ycombinator.com/companies/antigen",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Cybersecurity",
-            "AI"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Continuous offensive security for the enterprise.",
-          "originalDescription": "Antigen is an AI adversary for the enterprise. It maps, exploits, and secures your attack surface through nightly automated offensive testing and monthly human red team assessments. Every finding is delivered with traces, reproduction steps, and remediation directly in GitHub, Linear, or the Antigen Platform. We work with companies in financial services, healthcare, retail, and government where security is trust. We're backed by Lightspeed, DST Global, and Susa Ventures.",
-          "published": "",
-          "story": "Antigen 做的是企业安全里的持续性攻击模拟，相当于给公司请了一个不知疲倦的人工智能对手。假设你是某家银行的网络安全负责人，白天要处理各种告警，晚上还要担心新漏洞被利用，传统渗透测试一年才做一次，根本跟不上变化。Antigen 每晚自动扫描你的攻击面，尝试利用漏洞，第二天早上把发现的问题连同复现步骤直接发到 GitHub 或 Linear 上，每月还有人来做一次深度渗透。这家公司来自 YC 秋季批次，团队五人，正在招聘，已经拿到 Lightspeed、DST Global 等机构的投资，服务的行业包括金融、医疗、零售和政府，安全即信任，这类工具对大型企业来说越来越刚需。",
-          "rank": 3
-        },
-        {
-          "id": 30946,
-          "name": "Sourcebot",
-          "url": "https://www.sourcebot.dev/",
-          "sourceUrl": "https://www.ycombinator.com/companies/sourcebot",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Open Source"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Helping humans and AI agents understand massive codebases",
-          "originalDescription": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks. Understanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase. Sourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval. We met a decade ago at McGill University and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
-          "published": "",
-          "story": "Sourcebot 做的是开源代码理解平台，专门解决大型代码库的阅读难题。想象你刚加入一家大公司，接手一个有几百万行代码的老项目，光是搞清楚某个模块怎么调用就要翻半天，更别提让智能体去改代码了。Sourcebot 让你能用正则表达式在几百万行代码里瞬间搜索，还能用各种主流推理模型对几千个仓库提问，帮你和人工智能代理快速找到需要的上下文，减少幻觉。这家公司来自 YC 秋季批次，团队三人，正在招聘，已经被英伟达、红帽、维基媒体和 Arista Networks 等公司使用，开源且支持本地部署，几分钟就能上线，比很多需要审批的工具快得多。",
-          "rank": 4
-        },
-        {
-          "id": 30708,
-          "name": "Perseus Defense",
-          "url": "https://perseusdefense.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/perseus-defense",
-          "location": "Austin, TX, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "America's Golden Dome for Drones",
-          "originalDescription": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our self-guided missile platform is man-portable and multi-domain capable. It senses, engages, and eliminates threats with drastically reduced cost per engagement over existing kinetic solutions. Solving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued their PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer The White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. Traction: Jason and Steve used more than 100 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. In 8 short weeks following a strict 2-week design-build-test cycle, the team has gone through 4 major guided missile iterations with over 30 live-fire flight tests. They were invited to Ft. Hood to present their platform to the 1st Cavalry Division, and also briefed the Pentagon and U.S. congressmen on current U.S. vulnerabilities to advanced drone technology. Perseus Defense is actively standing up cooperative research agreements with U.S. Army DEVCOM's Applied Research Laboratory, Aviation and Missile Center, Armaments Center, and High Performance Computing Modernization Program.",
-          "published": "",
-          "story": "Perseus Defense 做的是反无人机系统，目标是成为美国本土的无人机防护罩。想象你是一个负责国土安全的官员，有小型无人机飞近机场或政府大楼，现有解决方案要么是一对一拦截，成本高得离谱，要么因为可能误伤平民而无法在城市使用。Perseus 的自导导弹平台可以单兵携带，能感知、追踪并摧毁威胁，单次拦截成本远低于传统动能武器。团队来自 YC 夏季批次，三人，正在招聘，两位创始人是航空航天工程博士和硕士，参与过 NASA 的火星直升机项目，也做过波音飞机的自主降落系统，这种硬核火箭科学背景让他们的方案值得关注。",
-          "rank": 5
-        },
-        {
-          "id": 30992,
-          "name": "Amera",
-          "url": "https://amerahealthsolutions.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/amera",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Fall 2025",
-          "isHiring": false,
-          "teamSize": 12,
-          "originalOneLiner": "Automating claims processing workflows for health insurance payers.",
-          "originalDescription": "Amera automates claims processing for health insurance payers. We turn messy claim inputs (PDFs, bills, receipts, EDI and non-standard submissions) into structured data that plugs into existing systems. This cuts manual entry and exception handling, speeding up operations and reducing cost. We are already working with payers / plan administrators representing ~100k members, giving them access to more affordable care options.",
-          "published": "",
-          "story": "Amera 做的是医疗保险理赔处理自动化。想象你是一个保险公司的理赔审核员，每天面对堆积如山的 PDF 账单、收据和乱七八糟的 EDI 文件，手动录入数据不仅慢，还容易出错，导致拒赔和争议。Amera 能把各种非标准理赔文件自动转换成结构化数据，直接接入你现有的系统，省去大量人工录入和异常处理。这家公司来自 YC 秋季批次，团队十二人，已经和代表约十万会员的保险公司及计划管理方合作，让更多人能获得更便宜的医疗服务。对于理赔员来说，这意味着可以把时间花在真正需要判断的案例上，而不是重复劳动。",
-          "rank": 6
-        },
-        {
-          "id": 30724,
-          "name": "Risely AI",
-          "url": "https://www.risely.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/risely-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": false,
-          "teamSize": 8,
-          "originalOneLiner": "AI agents that automate administrative work across college campuses.",
-          "originalDescription": "Risely’s AI agents will form the new operating system for universities, improving retention, staff productivity, and efficiency. Our platform integrates directly into existing university systems (SIS, LMS, CRM), learns each institution’s unique workflows, and deploys specialized AI agents. This dramatically reduces the $735 billion universities spend annually on administrative labor, expands staff capacity without increasing headcount, and improves the student experience. This hasn't been done before because university workflows require nuanced, autonomous judgment, exactly what agentic AI was designed to solve. Our team uniquely combines deep expertise in higher education, enterprise-scale AI, and regulated enterprise sales. Sadia previously built Salesforce’s Education Cloud from scratch, creating the core Student Information System widely used across higher education. She deeply understands university operations and maintains trusted relationships with hundreds of higher-ed CIOs and Provosts. Danial was one of DoorDash’s earliest engineers, where he architected and scaled complex systems from zero to billions of transactions, including their search, recommendation, and Voice AI platforms. He knows how to build robust AI solutions that reliably perform at enterprise scale. Shahryar was a GM at Airwallex, where he built the entire Americas business from 0 to 1 and drove 11x revenue growth. He’s also a master closer, single-handedly securing over $17M in enterprise deals at NerdWallet. He’s a relentless startup executor with deep expertise launching and scaling go-to-market machines in highly regulated industries. We launched six weeks ago and are already at $8k MRR, growing 55% week-over-week -- one of the fastest ramps ever in higher ed. Universities urgently need solutions that expand labor capacity and efficiency, especially as they face unprecedented budget pressure and staffing shortages. With unmatched buyer access, deep technical expertise, and rapid early traction, we are perfectly positioned to own this enormous market.",
-          "published": "",
-          "story": "Risely AI 做的是大学行政工作的自动化，用人工智能智能体处理校园里的各种事务。想象你是一个大学招生办公室的负责人，每年申请季要处理成千上万份材料，还要协调各个院系的录取标准，现有系统又老又难用。Risely 的人工智能智能体直接接入学校的学籍系统、学习管理系统和 CRM，学习每个学校特有的流程，然后自动完成材料审核、课程安排、学生咨询等工作，减少行政负担。这家公司来自 YC 夏季批次，团队八人，创始人曾在 Salesforce 从零搭建教育云，深刻理解高等教育行业的复杂性，他们瞄准的是美国大学每年七千多亿美元的行政开支，这个市场足够大。",
-          "rank": 7
-        },
-        {
-          "id": 31362,
-          "name": "Discovered Materials",
-          "url": "https://discoveredmaterials.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/discovered-materials",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Semiconductors",
-            "AI"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "AI scientists to discover materials for the semiconductor industry.",
-          "originalDescription": "We use AI to discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents. Akash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies. Power consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going - Discovered Materials will help find them.",
-          "published": "",
-          "story": "Discovered Materials 用人工智能为半导体行业发现新材料。想象你是一个芯片制造厂的工艺工程师，面临一个头疼的问题：芯片越来越小，发热越来越严重，现有材料已经快到极限，而实验室里研发一种新材料通常要十年以上。这家公司用一群人工智能智能体并行工作，把十年压缩到几个月。创始人是斯坦福博士，他发现的纳米级互连材料已经被英特尔和台积电采用，另一位创始人是 Persona 人工智能 的创始应用科学家，做过长时间跨度的自主智能体。团队来自 YC 春季批次，两人，正在招聘，随着人工智能芯片功耗每年翻倍，新材料的需求越来越迫切。",
-          "rank": 8
-        },
-        {
-          "id": 31484,
-          "name": "AbInitio Bio",
-          "url": "https://www.abinitio-bio.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/abinitio-bio",
-          "location": "Boston, MA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The Intelligence layer for Drug Manufacturing",
-          "originalDescription": "Abinitio Bio builds foundation models for biomanufacturing, validated against wet lab data. Our first model, Echo, predicts manufacturing outcomes more accurately than standard models, and any pharma or CDMO can adapt it to their own workflow instantly. By making process decisions that take 6-18 months today in hours, we help teams avoid the cost of delay on a single program.",
-          "published": "",
-          "story": "AbInitio Bio 做的是生物制药制造环节的人工智能模型。想象你是一个生物制药公司的生产主管，正在为一批单克隆抗体设定培养条件，传统上这个过程需要六到十八个月的试验和调整，每次失败都意味着巨额损失。AbInitio 的模型 Echo 能根据湿实验室数据预测生产结果，比标准模型更准，而且任何药企或 CDMO 都能快速适配自己的流程，把决策时间从几个月缩短到几小时。这家公司来自 YC 春季批次，团队两人，虽然还很小，但生物制造是整个制药行业最烧钱的环节，哪怕只优化一点点，也能省下大量成本。",
-          "rank": 9
-        },
-        {
-          "id": 31418,
-          "name": "Taiga",
-          "url": "https://taigabilling.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/taiga",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Autonomous medical billing",
-          "originalDescription": "Taiga automates medical billing for doctor's offices. A doctor uploads their visit data, our AI figures out the right billing codes, checks the claim for errors, and submits it to insurance, dealing with any denials. Faster billing, fewer rejected claims, less busywork. We're Nanda and Adam, friends since 3rd grade. Both of our parents are doctors with their own practices, and billing was always a source of stress and lost revenue for them. We want providers to treat patients while we handle the rest.",
-          "published": "",
-          "story": "Taiga 做的是医生诊所的医疗账单自动化。想象你是一个小诊所的医生，每天看完病人还要花大量时间填写账单代码，错了就被保险公司拒付，追款又费时费力。Taiga 让你上传看诊数据，它会自动匹配正确的账单代码，检查错误，提交给保险公司，并处理拒赔问题。这家公司来自 YC 春季批次，团队两人，创始人是发小，父母都是开私人诊所的医生，他们亲眼看到账单问题带来的压力和收入损失。对于医生来说，这意味着可以把更多时间花在病人身上，而不是和保险公司扯皮。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49482843",
-          "title": "Show HN: Hi agent – run `npx microfeed/CLI manage` to deploy CMS on Cloudflare",
-          "url": "https://docs.microfeed.org/start-here/",
-          "source": "Hacker News",
-          "published": "2026-08-28T18:55:07Z",
-          "story": "很多人第一次接触部署，都会在命令行和配置文件里绕半天。明明只想把内容管理系统跑起来，却要先搞懂域名、缓存和边缘网络。这个项目把部署简化成一条命令，让人在 Cloudflare 上直接搭建 CMS。如果你曾经因为环境配置而放弃一个工具，或者想给团队找个低门槛的发布方案，这篇文章值得一看。读的时候留意作者怎么把复杂流程藏进简单命令背后，以及他为什么选择 Cloudflare 作为默认平台，这能帮你判断它适不适合自己的场景。"
-        },
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "Brave&#8217;s browser one-ups Chrome with its new support for email aliases",
-          "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-          "source": "TechCrunch",
-          "published": "Fri, 28 Aug 2026 18:50:00 +0000",
-          "story": "每天打开邮箱，总会收到各种订阅邮件，想退订又怕错过重要信息。这时候，如果浏览器能自动生成临时邮箱地址，就能把骚扰挡在门外。Brave 浏览器最近加了这个功能，比 Chrome 更贴心。这篇文章讲的就是这件事，它可能改变你管理在线身份的方式。读的时候可以想想，这个功能对普通用户意味着什么，是不是真的比用第三方邮件服务更方便，以及它会不会带动其他浏览器跟进。"
-        },
-        {
-          "id": "WIRED Business-aHR0cHM6Ly93",
-          "title": "Microsoft Teams Has Become a Haven for Scammers in China",
-          "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
-          "source": "WIRED Business",
-          "published": "Fri, 28 Aug 2026 18:23:17 +0000",
-          "story": "你可能以为诈骗只发生在电话或短信里，但现在连办公软件也不安全了。微软 Teams 在中国被骗子盯上，成了他们行骗的新场所。这听起来有点意外，毕竟 Teams 是正经的工作工具。这篇文章揭示了骗子如何利用平台的漏洞，以及为什么他们偏偏选 Teams。读的时候可以关注，平台在安全方面做了什么，又没做什么，以及作为用户，我们该怎么保护自己。"
         }
       ]
     }

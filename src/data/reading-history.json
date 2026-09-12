@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-10T12:12:50.294Z",
+  "updatedAt": "2026-09-12T11:35:59.919Z",
   "readings": [
+    {
+      "key": "latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+      "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+      "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+      "usedAt": "2026-09-12",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "usedAt": "2026-09-12",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/polymarket-investigations-iran-biden-google-foia",
+      "title": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
+      "url": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
+      "usedAt": "2026-09-12",
+      "site": "startup-radar"
+    },
     {
       "key": "listpro.app",
       "title": "Show HN: Listpro – Turn product screenshots into launch assets",
