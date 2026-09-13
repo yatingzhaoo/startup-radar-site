@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-12T11:35:59.919Z",
+  "updatedAt": "2026-09-13T12:43:05.759Z",
   "readings": [
+    {
+      "key": "analystidx.com",
+      "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
+      "url": "https://www.analystidx.com/",
+      "usedAt": "2026-09-13",
+      "site": "startup-radar"
+    },
+    {
+      "key": "lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+      "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+      "usedAt": "2026-09-13",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "usedAt": "2026-09-13",
+      "site": "startup-radar"
+    },
     {
       "key": "latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
       "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
