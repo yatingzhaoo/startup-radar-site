@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-13T12:43:05.759Z",
+  "updatedAt": "2026-09-14T13:59:48.786Z",
   "readings": [
+    {
+      "key": "github.com/chaos-vy/chaostree",
+      "title": "Show HN: ChaosTree – A zero-dependency Java tree library (AVL,RBT,B-Tree,B+Tree)",
+      "url": "https://github.com/Chaos-vy/ChaosTree",
+      "usedAt": "2026-09-14",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "usedAt": "2026-09-14",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision",
+      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "usedAt": "2026-09-14",
+      "site": "startup-radar"
+    },
     {
       "key": "analystidx.com",
       "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",

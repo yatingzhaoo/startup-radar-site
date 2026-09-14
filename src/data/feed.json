@@ -1,7 +1,262 @@
 {
-  "generatedAt": "2026-09-13T12:43:05.757Z",
+  "generatedAt": "2026-09-14T13:59:48.784Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-09-14",
+      "companies": [
+        {
+          "id": 31000,
+          "name": "Vector Legal",
+          "url": "https://vectorlegal.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/vector-legal",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "A premier AI-native law firm & legal operating system for Startups.",
+          "originalDescription": "A modern solution for Startup legal. Vector combines premier lawyers/paralegals (averaging 10+ years of Big Law experience) + custom-built AI, so our clients get world class startup legal service at a fraction of Big Law rates. See our client testimonials - https://www.vectorlegal.com/testimonials. Services: fundraise & priced rounds | customer contracts | international flips | complex formations | grow your team | agentic data rooms | e-signatures | cap table management | legal health checks | mergers & acquisitions | co-founder separations | dissolutions.",
+          "published": "",
+          "story": "这是做初创企业法律服务的公司。如果你是一家刚完成融资的初创公司创始人，今天正为一份投资条款清单发愁，既想快点签下来又怕漏掉关键条款，Vector Legal 就是为这种时刻准备的。它把平均十年以上大所经验的律师和律师助理与自研人工智能结合起来，处理融资和定价轮、客户合同、跨国架构调整、复杂设立、股权结构管理、法律健康检查、并购以及联合创始人分家等事务，让初创公司以远低于大所的价格拿到同等水准的服务。它来自 YC 冬季 2026 批次，团队五人，正在招聘，客户评价也放在官网上。",
+          "rank": 1
+        },
+        {
+          "id": 30207,
+          "name": "Promptless",
+          "url": "https://promptless.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/promptless",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "Generative AI",
+            "SaaS",
+            "B2B"
+          ],
+          "batch": "Winter 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "An AI teammate that automatically updates your customer-facing docs",
+          "originalDescription": "Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more. Promptless is designed to be flexible—it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source. With Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability.",
+          "published": "",
+          "story": "这是做客户文档自动更新的公司。想象你负责一家快速增长的软件公司的产品文档，每次功能上线、支持工单堆积、内部 Slack 讨论里冒出关键信息，你都要手动翻遍各处再把文档改一遍，稍慢一步客户就来投诉。Promptless 是一个自动帮你更新面向客户文档的智能体，它根据功能发布、支持工单、内部 Slack 对话等信号自动改动内容，能接入各种文档平台，也能从内部知识源拉取上下文。它来自 YC 冬季 2025 批次，团队五人，正在招聘，既有快速增长的初创公司使用，也有财富五百强企业使用。",
+          "rank": 2
+        },
+        {
+          "id": 31051,
+          "name": "Corvera",
+          "url": "https://corvera.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/corvera",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "SaaS",
+            "Consumer",
+            "B2B",
+            "Data Engineering",
+            "AI"
+          ],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "The context layer for AI-native CPG brands",
+          "originalDescription": "Corvera (YC W26) is the context layer for AI-native CPG brands. We help brands unlock the full potential of AI by making their unified data legible to any AI tool via MCP. As of mid-March 2026, we scaled from $0 to $33k in MRR in 4 weeks, are serving 12 brands, and are growing 130% week-on-week. With Corvera in place, brands can enable anyone in their organization to: - Rapidly deploy AI agents via tools such as Claude and ChatGPT, - Build dashboards and apps using Cursor and Lovable, and - Automate workflows across the entire business, from category management to supply chain. All in a secure, audit-logged, and access-controlled environment, without the need for a team of data engineers or AI specialists, in a simple plug-and-play solution. We're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS). To-date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP are omnichannel retail-focused CPG brands at the $100M+ revenue inflection point. Our mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people. Our vision is even bolder: to be the system of intelligence for the $5.4T global CPG industry. Visit www.corvera.ai to learn more!",
+          "published": "",
+          "story": "这是做消费品品牌数据底层的公司。假如你是一家新兴消费品牌的运营负责人，公司数据散在电商后台、广告平台和表格里，你想让人工智能帮忙做品类管理或供应链自动化，却发现工具根本读不懂这些数据。Corvera 就是为这类品牌准备的情境层，它把品牌内部数据整理成任何人工智能工具都能读懂的形式，让员工可以快速部署智能体、用 Cursor 和 Lovable 搭看板和应用、把品类管理到供应链的流程自动化，而且整个过程有安全、审计日志和权限控制，不需要专门的数据工程团队。它来自 YC 冬季 2026 批次，团队四人，输入提到它在四周内从零做到每月三万三千美元经常性收入，服务十二个品牌，每周环比增长百分之一百三十。",
+          "rank": 3
+        },
+        {
+          "id": 35522,
+          "name": "Hemlock",
+          "url": "https://hemlock.info",
+          "sourceUrl": "https://www.ycombinator.com/companies/hemlock",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Hardware"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 1,
+          "originalOneLiner": "Force-sensing wristband for training robotic AI",
+          "originalDescription": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch. Hemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
+          "published": "",
+          "story": "这是做机器人训练数据采集硬件的公司，具体来说是一只戴在手腕上的力传感手环。假如你在一家机器人实验室负责训练机械臂抓取模型，你手上已经有很多第一视角视频和手部姿态数据，可你发现模型学会的只是形状和角度，拿起鸡蛋和拿起石头在画面与关节角度上几乎一样，差别全在力度，而力度恰恰没人记录。Hemlock 的手环通过读取前臂肌肉的电活动，直接还原手部发力的大小，而不是事后从运动轨迹里猜。它值得关注的地方在于，这不是一个手机应用，而是把传感能力放进随身佩戴的设备里，从数据产生的源头补上触觉这一层。公司来自 YC 秋季批次，目前团队只有一人，正在招聘，方向属于硬科技与硬件。",
+          "rank": 4
+        },
+        {
+          "id": 31385,
+          "name": "Zolvo",
+          "url": "https://zolvo.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/zolvo",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "AI Back-Office Automation for Commercial Lenders",
+          "originalDescription": "Commercial lenders manage billions in assets on legacy software and manual workflows, their systems live on people’s heads like its the 90s. Zolvo replaces the entire back office with AI: automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring. Our clients go live in weeks and eliminate hours of daily manual work per operator, allowing teams to only handle exceptions. We're building the future of commercial lending.",
+          "published": "",
+          "story": "这是做商业贷款后台自动化的公司。一个商业贷款机构的运营人员每天要处理成堆的发票、对账、催收和外部的资金方监控，系统老旧，很多流程还靠人脑记着，一天下来大半时间耗在重复劳动上。Zolvo 用人工智能替掉整个后台，自动完成数据录入、发票核对、催收触达和资金方监控，客户几周内就能上线，每个操作人员每天省下数小时手工工作，团队只需要处理例外情况。它来自 YC 春季 2026 批次，团队三人，目前没有招聘，切入的是商业贷款这个资产规模巨大却长期依赖旧软件的领域。",
+          "rank": 5
+        },
+        {
+          "id": 31535,
+          "name": "Arlo Industries",
+          "url": "https://arlo1.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/arlo-industries",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Hardware",
+            "Defense"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Track drones and missiles without radars - Accurate, Passive, Scalable",
+          "originalDescription": "Arlo Industries is building a network of sensors that precisely tracks stealthy drones and aerial threats better than radars. This capability does not exist yet because traditional radars are built on past war doctrines designed to protect single, centralised assets. Modern warfare, however, demands wide-area, persistent coverage that is both passive and economically scalable. By utilising a mesh architecture, Arlo Industries unlocks unprecedented asymmetric economics. The network is fundamentally built to scale: the cost of adding sensors grows linearly, but the tracking accuracy increases exponentially, delivering highly resilient, persistent coverage for a fraction of the cost of legacy systems. Deo founded Arlo Industries after spending over 6 years in the Israeli defence ecosystem, where he lived through multiple conflicts and experienced the Iron Dome and other systems in action against ICBMs and the infamous Shahed drones. Learning exactly how these defence systems could be improved after a Shahed exploded close to his apartment, he built Arlo Industries around the core philosophy that conflict should be concise & precise. The people behind Arlo1 includes a PhD in drones and autonomy and military experts. Arlo Industries has actively showcased this technology directly to Ukrainian militaries on the frontlines, as well as to operators across Europe and the USA.",
+          "published": "",
+          "story": "这是做无人机和导弹追踪传感网络的公司。如果你负责一片区域的低空防御，今天最头疼的是小型隐身无人机贴着地面飞过来，传统雷达要么看不见，要么成本高得没法铺满。Arlo Industries 用一张网状传感器网络来精确追踪这类空中威胁，不靠雷达，而是被动探测，覆盖范围广，可以持续工作。它的逻辑是传感器数量线性增加，追踪精度却指数上升，因此比传统系统便宜得多，也更能承受损失。它来自 YC 春季 2026 批次，团队三人，正在招聘，创始人此前在以色列防务领域待了六年多，亲历过多次冲突并见过铁穹等系统的实际运作。",
+          "rank": 6
+        },
+        {
+          "id": 31294,
+          "name": "Dispatch",
+          "url": "https://dispatch.space/",
+          "sourceUrl": "https://www.ycombinator.com/companies/dispatch",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Satellites for Manufacturing in Space",
+          "originalDescription": "Dispatch is building refurbishable reentry vehicles that host and return payloads for companies making ultra-high-value materials (semiconductors, biotech, and pharma) that can only be manufactured in space. Right now, these companies have no practical way to manufacture and get their products back to Earth. We solve this bottleneck. We just returned from the Mojave Desert testing our first full-scale reentry heat shield designed to protect the satellite as it returns from space at Mach 20+, built in an apartment for 100x cheaper than competitors. To test, we held it behind a rocket engine to simulate the forces of atmospheric reentry. IT WORKED! Watch here - https://youtu.be/dhlQmnIoptg To scale, we anchor permanent infrastructure in orbit - building high power Autonomous Space Stations designed from day one for \"lights-out\" manufacturing serviced by the reentry vehicles.",
+          "published": "",
+          "story": "这是做太空制造往返运输的公司。假设你在一家半导体或生物医药企业负责工艺，你很清楚有些材料只有在微重力环境下才能造出来，可造完怎么安全运回地球，一直没有可行的办法。Dispatch 造的是可翻新的再入飞行器，用来搭载并带回这些高价值载荷，同时还在轨道上布置为无人化制造设计的高功率自主空间站。团队刚从莫哈韦沙漠回来，测试了首个全尺寸再入隔热罩，在公寓里造出来，成本比同行低一百倍，测试方式是把隔热罩放在火箭发动机后面模拟再入大气层的受力，结果成功了。它来自 YC 春季 2026 批次，团队两人，正在招聘。",
+          "rank": 7
+        },
+        {
+          "id": 32979,
+          "name": "RonanRx Inc.",
+          "url": "https://ronanrx.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/ronanrx-inc",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Health Tech",
+            "Telehealth",
+            "Therapeutics"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "Full Stack Pharmaceutical Company for Personalized Peptides and GLP-1s",
+          "originalDescription": "RonanRX is a full-stack pharmaceutical company, starting with personalized peptides and GLP-1s. In our first 10 weeks, we went from having no pharmacy to being licensed in 33 states. Since launch, we’ve grown 50% week over week. We manufacture the medications ourselves, sell directly to patients, and eliminate the layers of middlemen that make prescription drugs more expensive. What makes this possible is AI. Traditional pharmaceutical companies are built to manufacture one drug for millions of people. RonanRX is purpose-built to personalize treatment for each patient: different biology, different response, different dose. Patients come directly to RonanRX or through doctors using our platform. Every patient completes our medical intake, meets with a licensed doctor through our telehealth platform, and receives a personalized prescription when appropriate. From there, we manufacture the medication ourselves and deliver it directly to the patient. Labs, wearables, medical history, treatment response, and other health data feed back into the platform so doctors can continuously refine treatment over time. Before AI, doing this for every patient at scale was impossible. We didn't invent the demand we are seeing. 80 Million people are on a GLP-1 and millions more are using Peptides. We're building a better way to manufacture, personalize, prescribe, and deliver them. Our founders have built and exited multiple companies, raised more than $100M, built a $50M U.S. medical manufacturing business, and spent years developing peptide therapeutics at companies including Eli Lilly and AbbVie. We’re just getting started with peptides and GLP-1s. Next comes hormone therapy and the rest of personalized medicine.",
+          "published": "",
+          "story": "这是做个性化肽类和减重药物的全栈制药公司。如果你是一位想用这类药物但标准剂量总不对路的患者，今天可能正为找不到合适的方案而反复换药。RonanRx 让患者直接完成医疗问诊，通过远程医疗平台与持牌医生会面，在合适的情况下拿到个性化处方，药物由公司自己生产，直接卖给患者，省掉层层中间商。它用人工智能支撑按人定制的生产逻辑，而不是像传统药企那样一款药卖给几百万人。它来自 YC 夏季 2026 批次，团队五人，输入提到它在最初十周从没有药房做到在三十三个州获得执照，上线后每周环比增长百分之五十。",
+          "rank": 8
+        },
+        {
+          "id": 31268,
+          "name": "Cova",
+          "url": "https://cova.care/",
+          "sourceUrl": "https://www.ycombinator.com/companies/cova",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Consumer Health Services",
+            "Healthcare",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Financial infrastructure for family caregiving",
+          "originalDescription": "Cova is an AI-native home care agency, licensed in Michigan. We serve Medicaid, LTCI, and private-pay patients; we pay caregivers the highest base rate in the state; and we help unpaid family caregivers get paid through programs they didn't know they qualified for. Our entire operation runs on AI agents, which means less overhead and more value passed directly to the people doing the real work.",
+          "published": "",
+          "story": "这是做家庭照护财务基础设施的公司。假如你是一位在家照顾年迈父母的子女，今天正为请护工的费用发愁，却不知道自己可能符合某些补贴项目的条件。Cova 是一家在密歇根州获得执照的人工智能原生居家护理机构，服务医疗补助、长期护理保险和自费患者，给护理员开出全州最高的基础时薪，还帮无偿的家庭照护者申请他们原本不知道自己有资格拿到的项目款项。整家公司由智能体运转，开销更低，省下的价值直接给到真正干活的人。它来自 YC 夏季 2026 批次，团队两人，目前没有招聘。",
+          "rank": 9
+        },
+        {
+          "id": 31323,
+          "name": "Hedge",
+          "url": "https://www.hedgespecialty.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/hedge",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "B2B",
+            "Insurance",
+            "AI"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "AI-Native insurance company",
+          "originalDescription": "Hedge is an AI-Native specialty insurance company. We help insurance brokers find faster, cheaper, and better coverage for their customers.",
+          "published": "",
+          "story": "这是做人工智能原生保险的公司。一个保险经纪人每天要替客户在多家承保方之间比价，今天遇到一个特殊风险的单子，传统渠道要么报价慢，要么干脆不接。Hedge 是一家专注特殊风险的人工智能原生保险公司，帮经纪人更快、更便宜、更合适地为客户找到保障。它来自 YC 春季 2026 批次，团队两人，正在招聘，切的是保险这个长期依赖人工核保和纸质流程的领域，用人工智能把报价和承保环节压缩下来。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "TechCrunch Startups-aHR0cHM6Ly90",
+          "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+          "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+          "source": "TechCrunch Startups",
+          "published": "Mon, 14 Sep 2026 13:55:00 +0000",
+          "story": "现在做音乐 App 的人常被一个问题困住：要不要加 人工智能 生成，不加会不会显得落后。可真实场景里，很多人打开音乐软件只是想随便点几下，听点好玩的东西，并不想先写一段提示词。这篇讲的是东京涩谷一家黑胶酒吧做起的创业公司，偏偏选择不做 人工智能 提示这条路。值得读，是因为它把“不用最新技术也能做出有趣产品”当成正经生意来试。读的时候可以留意作者怎么描述用户玩音乐的具体时刻，以及团队在功能取舍上把什么留了下来、把什么砍掉了。"
+        },
+        {
+          "id": "MIT Technology Review-aHR0cHM6Ly93",
+          "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+          "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+          "source": "MIT Technology Review",
+          "published": "Mon, 14 Sep 2026 12:10:00 +0000",
+          "story": "每当有人讨论 人工智能 会不会毁灭人类，话题很容易滑向科幻式的想象，反而看不清眼前真正该担心什么。普通读者刷到这类标题时，常常分不清哪些是危言耸听，哪些是研究者认真在算的账。这篇来自 MIT Technology Review 的每日简报，把 人工智能 的灭绝风险和一项针对眼睛的逆龄技术放在一起讲。值得读，是因为它帮你把两个看似无关的方向摆在同一张桌上看。读的时候注意作者如何区分不同层级的风险，以及他判断一项技术离实用还有多远时，看的是哪些证据。"
+        },
+        {
+          "id": "hn-49694404",
+          "title": "Show HN: ChaosTree – A zero-dependency Java tree library (AVL,RBT,B-Tree,B+Tree)",
+          "url": "https://github.com/Chaos-vy/ChaosTree",
+          "source": "Hacker News",
+          "published": "2026-09-14T10:03:46Z",
+          "story": "写 Java 的人大概都有过这种时刻：想找个数据结构库，结果拉进来一堆依赖，最后为了一个平衡树背上了整个生态。Hacker News 上这类 Show HN 帖子，往往就是某个工程师受够了现状，自己动手写了一个。这条讲的是 ChaosTree，一个零依赖的 Java 树库，涵盖 AVL、红黑树、B 树和 B+ 树。值得读，是因为它让人看到一个人如何把日常的不方便变成一个小项目。读的时候可以看作者怎么划定范围，为什么选这几种树，以及社区在评论里追问的是性能、接口还是维护意愿。"
+        }
+      ]
+    },
     {
       "date": "2026-09-13",
       "companies": [
@@ -3233,266 +3488,6 @@
           "source": "SaaStr",
           "published": "Mon, 31 Aug 2026 14:10:36 +0000",
           "story": "很多公司用了 Salesforce 之后，发现它功能强大却笨重，想定制又怕被绑死。于是有人开始琢磨，能不能把它的界面扔了，只留底层的销售数据逻辑。这篇的作者就试了六个月，自己搭了个叫 Claudeforce 的前端。读它的时候，别只羡慕他们的技术能力，重点看他们是怎么一步步拆开原系统的，哪些部分必须保留，哪些可以替换，这个过程能帮你理解企业软件到底哪些地方是真正离不开的。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-30",
-      "companies": [
-        {
-          "id": 31539,
-          "name": "Klaimee",
-          "url": "https://www.klaimee.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/klaimee",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Liability insurance for AI Agents. You deploy agents, we cover you.",
-          "originalDescription": "Klaimee is the first insurance for your AI agents. It covers what traditional E&O and cyber explicitly carve out, so you can deploy agentic AI at scale with real peace of mind. Built for companies deploying agentic AI, self-serve from day one. The problem: AI agents are taking actions autonomously buying, emailing, modifying sensitive data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber and E&O insurance are excluding AI claims. Companies shipping agents have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer. We built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off. Team: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $60M revenue, 5 years launching insurance products from scratch and structuring a TokioMarine MGA into its own carrier) + Julien (AI software engineer + corporate strategy, enterprise compliance). We understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
-          "published": "",
-          "story": "Klaimee 是一家为人工智能智能体提供责任保险的公司。想象你是一家公司的法务负责人，公司刚刚部署了一批能自动下单、发邮件、修改敏感数据的智能体，你心里最怕的就是它们闯祸。传统保险条款里明确排除了人工智能造成的损失，而新的法规又让部署方承担责任，你问自己：如果智能体搞砸了，谁来赔？Klaimee 就是回答这个问题的。它提供风险评估、认证、财务担保和真正意义上的责任保险，还附带企业采购需要的文档。它来自 YC 春季 2026 批次，团队两位创始人，正在招人。这家公司切的是人工智能时代的新风险，值得关注是因为它解决了企业大规模部署智能体时最头疼的合规和赔偿问题。",
-          "rank": 1
-        },
-        {
-          "id": 32206,
-          "name": "DeepReach Inc.",
-          "url": "https://www.ycombinator.com/companies/deepreach-inc",
-          "sourceUrl": "https://www.ycombinator.com/companies/deepreach-inc",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Hardware",
-            "Machine Learning",
-            "Robotics",
-            "Computer Vision"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 6,
-          "originalOneLiner": "Real-world data network for robots & world models",
-          "originalDescription": "Physical AI — robots and world models — is bottlenecked on one thing: diverse, real-world data at massive scale showing how humans actually do work in the physical world. It was never written down, and you can't buy it, because no one has ever captured it. Only real local experts, the people who do this work every day, can produce data this authentic and valuable. DeepReach builds the network that reaches them. We design and manufacture wearable stereo capture devices, then place them with local data partners who run collection as their own business — in warehouses, workshops, farms, kitchens and repair shops. They own the local relationships; we supply the hardware, the software platform, the quality pipeline and the payments. Anyone can run a data business. That structure is what produces diversity. Instead of thousands of hours inside one environment, we deliver hours spread across thousands of environments — which is what actually makes robot policies generalize. 475 devices in the field and 100+ data partners are live across 7 countries, adding new partners every week. They've collected nearly 150,000 clips in the past three months, with volume roughly doubling month over month. Our data is in production with multiple frontier model and robotics companies, and we're scaling to 10,000+ devices across 50 countries.",
-          "published": "",
-          "story": "DeepReach 做的是机器人和世界模型所需的真实世界数据网络。想象你是一家机器人公司的工程师，你想让机器人学会在仓库里搬运箱子，或者在厨房里切菜，但你发现网上根本找不到足够的真实操作数据，因为这些技能从来没有人记录过。DeepReach 的办法是制造可穿戴的立体捕捉设备，交给各地真正干这行的本地专家，让他们把日常操作拍下来，作为一项生意来经营。这样收集到的数据覆盖了仓库、车间、农场、厨房和修理铺，多样性远超单一环境里的几千小时。这家公司来自 YC 夏季 2026 批次，团队六人。它值得关注是因为它把数据采集变成一门生意，解决了物理人工智能发展的最大瓶颈。",
-          "rank": 2
-        },
-        {
-          "id": 33062,
-          "name": "Hubble",
-          "url": "https://hubble.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/hubble-ai",
-          "location": "Seattle, WA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "Healthcare"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Retrieve records other APIs can't",
-          "originalDescription": "Hubble is the AI Plaid for healthcare: we use AI to retrieve patient medical records and deliver them to developers through a single API. We're the team behind the AI agents at Grow Therapy and Amazon's One Medical, used by millions of patients (Prabha was Grow's first PM building and scaling their AI agents, and Aaron built the AI infrastructure at One Medical serving 1M+ patients). Companies building in legal, life insurance underwriting, clinical trials, and digital health all need a patient's records to make decisions, but pulling that data out of thousands of EHRs and payors is still slow and manual. Our AI agents retrieve records the way a person would and normalize them into one clean API. We signed our first paying customers within three weeks of launching, all on usage-based pricing. https://hubble.ai",
-          "published": "",
-          "story": "Hubble 是医疗数据接口公司，用人工智能从医院系统里抓取病历，再通过一个干净的接口交给开发者。想象你是一家保险公司的核保分析师，客户申请寿险，你需要拿到他的完整病历才能决定是否承保，但病历分散在几千家医院和支付方手里，打电话、发传真、等邮件，慢得要命。Hubble 的智能体像人一样去检索这些记录，然后整理成统一格式。这家公司来自 YC 夏季 2026 批次，团队两人，创始人之前在 Grow Therapy 和亚马逊 One Medical 做过人工智能基础设施。他们上线三周就签了第一批付费客户，按用量收费。它值得关注是因为它把医疗数据获取从手动变成自动，直接加速了核保、临床试验和数字医疗的决策。",
-          "rank": 3
-        },
-        {
-          "id": 30647,
-          "name": "Cyberdesk",
-          "url": "https://www.cyberdesk.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/cyberdesk",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Robotic Process Automation",
-            "Workflow Automation",
-            "Enterprise Software"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Self learning computer use agent for developers",
-          "originalDescription": "Cyberdesk is the first self learning computer use agent for developers to automate desktop workflows. For example, one of our customers is building an AI agent for hospital patient intake, and they’re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. We launched mid July, and our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs. We’ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers. Mahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. Alan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He is a second time founder, having previously built and scaled a consumer AI app to thousands of paying users. Computer-use agents will automate the $6T dollars spent on enterprise knowledge work and Cyberdesk will be the platform to power this. We’d love to talk with you! https://cal.com/mahmoud-al-madi-klrs5s/30min",
-          "published": "",
-          "story": "Cyberdesk 做的是能自我学习的电脑操作智能体，专门给开发者用来自动化桌面工作流。想象你是一家医院的 IT 负责人，你们的前台团队每天要对着老旧的桌面应用手动点击和输入来预约病人，又慢又容易错。Cyberdesk 的智能体像人一样操作电脑，它先记住任务，然后快速重复，遇到弹窗或崩溃还能随机应变。这家公司来自 YC 夏季 2025 批次，团队两人，产品在 7 月中旬发布后已经在真实环境里跑起来，比如在电子病历应用里创建预约、在旧版企业管理系统里处理文件。它值得关注是因为它把电脑操作从脚本自动化提升到了能适应变化的层面，任何需要自动化人工桌面流程的公司都可能用得上。",
-          "rank": 4
-        },
-        {
-          "id": 30729,
-          "name": "Floot",
-          "url": "https://floot.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/floot",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "SaaS",
-            "No-code",
-            "Web Development"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "The app platform inside Claude and ChatGPT.",
-          "originalDescription": "Floot is the layer where vibecoded software runs. SaaS is dead. Hundreds of millions of people already spend their day in Claude or ChatGPT - and increasingly, when they need an app, they won't buy one. They'll describe it, and it will exist. We're building the infrastructure that makes that real. When Claude creates an app, it needs somewhere for that app to live: a backend, a database, hosting, a domain, the ability to scale, various services, maybe even to be able to work as a mobile app. Floot is that place - a full stack purpose-built for AI to operate, from a specialized framework that defines how AI writes and runs code, down to scalable hosting on AWS. This means you can now build and ship real apps directly inside Claude and ChatGPT. Connect Floot, and the model you already pay for writes and debugs the code, shows a live preview, and publishes to your own domain. No need to wire up git, vercel, supabase and a dozen other providers. And no AI credits - every message runs on the subscription you already have, because we charge for the platform, not for a token markup. We built Floot this way because we've watched the model layer commoditize - every serious builder writes good code now, including us. The lasting value isn't another agent between you and the model. It's the layer underneath, from wherever people already are. We're building Floot to be the home for all operation software, for the decades where most new software on earth is written by AI. ✨ Try it: floot.com",
-          "published": "",
-          "story": "Floot 是一个应用平台，专门跑在 Claude 和 ChatGPT 里面生成的应用。想象你是一个咨询顾问，你习惯在聊天窗口里描述你想要的小工具，比如一个客户反馈收集表，以前你得找开发团队排期，现在你希望它直接就能用。Floot 就是给这些由人工智能生成的应用提供后端、数据库、托管和域名的地方。它来自 YC 夏季 2025 批次，团队四人，正在招人。它值得关注是因为它瞄准了软件开发的未来：当人们不再购买软件，而是描述软件时，需要一个新的基础设施来承载这些应用。Floot 就是那个基础设施。",
-          "rank": 5
-        },
-        {
-          "id": 30218,
-          "name": "Toothy AI",
-          "url": "https://www.toothy.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/toothy-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Health Tech",
-            "Healthcare",
-            "Dental",
-            "Conversational AI"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "AI for insurance verification & billing at dental clinics",
-          "originalDescription": "We’re Toothy.ai. We’re building AI agents for dental practices that handle everything related to patient insurance. The average dental clinic spends over 160 hours a month on insurance tasks like verifying patient policies, billing, and claims processing. Our AI agents automate this entire workflow—including making insurance calls with voice AI—saving clinics time, reducing costs, and ensuring faster reimbursements.",
-          "published": "",
-          "story": "Toothy AI 做的是牙科诊所的保险核验和计费人工智能。想象你是一家牙科诊所的经理，你发现每个月有超过 160 个小时花在核对病人保险、提交理赔这些琐事上，前台忙得焦头烂额，诊所现金流还受影响。Toothy AI 的智能体可以自动完成这些工作，甚至用语音人工智能打电话给保险公司核实资格。这家公司来自 YC 冬季 2025 批次，团队十五人，正在招人。它值得关注是因为它把牙科诊所最耗时的后台工作自动化了，让诊所能把时间还给病人，同时更快拿到保险公司的赔款。",
-          "rank": 6
-        },
-        {
-          "id": 33016,
-          "name": "Gamgee",
-          "url": "https://gamgee.io/",
-          "sourceUrl": "https://www.ycombinator.com/companies/gamgee",
-          "location": "San Francisco, CA, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Biotech",
-            "Genomics",
-            "Oncology",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Scalable Personalised Cancer Treatment",
-          "originalDescription": "​Gamgee began with Rosie, founder Paul Conyngham’s dog. After surgery, chemotherapy and immunotherapy failed, Rosie was given months to live. Paul used AI and genomic analysis to identify targets in her tumour, then worked with scientists at UNSW to produce what is believed to be the first fully computationally designed mRNA cancer vaccine delivered to a dog. Following treatment, several tumours shrank significantly and her quality of life improved Gamgee is building an end to end platform for personalised mRNA cancer vaccines for dogs. We sequence a dog’s tumour and healthy DNA, identify mutations unique to its cancer, and design a vaccine that teaches the immune system what to attack. We manage the entire process- from vet intake and tissue collection through genomic analysis, vaccine production, treatment and response monitoring ​We are now turning that one off effort into a repeatable clinical system. Gamgee is running clinical trials in Australia, working with vets, oncologists and specialised laboratories, and accepting cases globally. Our goal is to make personalised cancer treatment accessible to every dog that needs it- and use each case to improve the treatment for the next",
-          "published": "",
-          "story": "Gamgee 是一家为狗开发个性化癌症疫苗的公司。想象你是一只宠物狗的主人，兽医告诉你它得了癌症，常规治疗都试过了，没有效果，你只剩下几个月的时间。Gamgee 的创始人就经历过这样的事，他用人工智能分析肿瘤基因，设计出信使核糖核酸疫苗，救了自己的狗。现在他们把这个过程变成平台：从兽医接诊、组织取样、基因组分析，到疫苗设计、生产和监测。这家公司来自 YC 夏季 2026 批次，团队两人。它值得关注是因为它把一次性的救命尝试变成了可重复的流程，为宠物癌症治疗开辟了新路。",
-          "rank": 7
-        },
-        {
-          "id": 31369,
-          "name": "InLoop Robotics",
-          "url": "https://inloop-robotics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/inloop-robotics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "Robotic arms that pick and pack your orders.",
-          "originalDescription": "We are building AI-native fulfillment powered by robotics. Warehouses without human labor that get better, faster, and cheaper with every order. Most robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't. Every failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
-          "published": "",
-          "story": "InLoop Robotics 做的是用机械臂来拣货和打包的仓库自动化系统。想象你是一家电商仓库的运营主管，你面对的是海量订单和越来越高的用人成本，传统机器人系统要等完美才敢上线，但你的仓库等不起。InLoop 的做法是先把不完美的系统部署到真实仓库，实时发现错误，能自动恢复就自动恢复，不行就远程人工介入。每一次失败都变成训练数据，系统越用越好。这家公司来自 YC 春季 2026 批次，团队四人。它值得关注是因为它让机器人在真实环境中边干边学，而不是在实验室里空转，这可能是仓库自动化的实际路径。",
-          "rank": 8
-        },
-        {
-          "id": 30174,
-          "name": "Revise Robotics",
-          "url": "https://www.reviserobotics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/revise-robotics",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Robotic Process Automation",
-            "ClimateTech",
-            "Electronics"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Automating refurbishment of $1T in consumer electronics",
-          "originalDescription": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets. Our first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
-          "published": "",
-          "story": "Revise Robotics 做的是电子废弃物回收的自动化。想象你是一家回收厂的质检员，你每天要从堆积如山的旧电器里挑出还能用的笔记本电脑，测试、擦除数据、拍照、挂到网上卖，这些重复劳动占了你大部分时间。Revise 的机器人系统可以自动完成这些步骤，不管什么品牌、型号、操作系统，一天能处理几百台笔记本。这家公司来自 YC 冬季 2025 批次，团队三人，正在招人。它值得关注是因为它瞄准的是价值一万亿美元的二手电子市场，用机器人把回收再售的流程自动化，既环保又经济。",
-          "rank": 9
-        },
-        {
-          "id": 30205,
-          "name": "Scout",
-          "url": "https://scoutforschools.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/scout-4",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Education",
-            "Workflow Automation"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 8,
-          "originalOneLiner": "AI-powered student information system for K-12 schools",
-          "originalDescription": "The student information system (SIS) is the core system of record in every K-12 school. It tracks students, attendance, grades, schedules, staff, and more - kind of like the ERP for schools. Legacy SIS providers do just about that, and not much more. School districts layer dozens of tools on top of their SIS to fill in the gaps. Scout is an AI-powered student information system that automates school- and district-wide busywork, from day-to-day operations like attendance tracking to annual compliance reports. Our mission is to help school districts run like high-performing organizations, enabling them to provide high-quality, personalized instruction to every student.",
-          "published": "",
-          "story": "Scout 做的是面向中小学的人工智能学生信息系统。想象你是一所学校的校长助理，每天要处理考勤、成绩、排课，还要应付各种上级要求的合规报告，这些数据散落在不同的老系统里，整理起来特别费劲。Scout 把人工作自动化，从日常考勤到年度合规报告都能搞定。这家公司来自 YC 冬季 2025 批次，团队八人，正在招人。它值得关注是因为它把学校从繁琐的后台事务中解放出来，让学校能像高效的企业一样运行，把精力放在教学上。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "Lenny's Newsletter-aHR0cHM6Ly93",
-          "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
-          "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
-          "source": "Lenny's Newsletter",
-          "published": "Sun, 30 Aug 2026 12:31:30 GMT",
-          "story": "我们每天打开电脑，用的工具大多还是那种你点一下它动一下的软件。可这两年，人工智能开始悄悄从对话框里走出来，想变成能自己找活干、能跟你长期配合的同事。这个转变听起来很酷，但真正做起来，要处理的问题远不止把模型调聪明一点那么简单。这篇访谈请来了 OpenAI 的产品负责人，专门聊这种新形态的 人工智能 到底改变了什么。读的时候，可以留意她是怎么把一个大趋势拆成产品里一个个具体的决定，比如该让 人工智能 主动到什么程度，又该在哪里停下来等人确认。"
-        },
-        {
-          "id": "hn-49497791",
-          "title": "Show HN: ShevtoneAudio Orchestrator – Turning MIDI into Full Orchestration",
-          "url": "https://orchestra.shevtoneaudio.com",
-          "source": "Hacker News",
-          "published": "2026-08-30T11:36:46Z",
-          "story": "很多喜欢音乐制作的人，可能都遇到过这样的时刻：脑子里有一段旋律，或者已经在键盘上弹出了一段和弦，但接下来要把它们变成真正的管弦乐，却总觉得无从下手。你心里知道该有弦乐、木管、铜管，但具体怎么分配，怎么让它们听起来像真的乐队在演奏，往往需要大量乐理知识和混音经验。这个工具想做的事情，就是帮你跨过这道门槛。它把 MIDI 输入直接转化成完整的管弦乐编曲，听起来像是一个让创作过程变得更快、更直观的尝试。读这条帖子的时候，可以特别留意作者是怎么解释工具背后的思路的，比如他如何处理不同乐器的音色平衡，或者怎么在自动化和人工控制之间取舍，这些细节往往比工具本身更能看出一个独立开发者的判断力。"
-        },
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "Hollywood celebs are getting into microdrama apps",
-          "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-          "source": "TechCrunch",
-          "published": "Sat, 29 Aug 2026 16:10:00 +0000",
-          "story": "你可能已经注意到，短视频那种一两分钟讲完一个完整故事的格式，正在悄悄改变人们看内容的方式。现在这种被称为微短剧的形式，又有了新的动向：一些好莱坞明星也开始参与进来。这看起来像是娱乐行业在适应新平台的一个信号。对于普通观众来说，这或许只是多了些熟悉面孔；但对于做产品、做内容的人来说，它可能意味着内容生产、分发和变现的逻辑正在发生变化。读这篇报道的时候，可以带着一个问题去看：为什么是现在，为什么是这些明星，他们带来的不只是名气，还有哪些行业资源？这样你就能从一条娱乐新闻里，读出一点关于市场趋势和商业模式的东西。"
         }
       ]
     }
