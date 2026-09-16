@@ -1,7 +1,264 @@
 {
-  "generatedAt": "2026-09-14T13:59:48.784Z",
+  "generatedAt": "2026-09-16T12:35:01.312Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-09-16",
+      "companies": [
+        {
+          "id": 32206,
+          "name": "DeepReach Inc.",
+          "url": "https://www.ycombinator.com/companies/deepreach-inc",
+          "sourceUrl": "https://www.ycombinator.com/companies/deepreach-inc",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Hardware",
+            "Machine Learning",
+            "Robotics",
+            "Computer Vision"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 6,
+          "originalOneLiner": "Network for Physical AI Data Business",
+          "originalDescription": "Physical AI — robots and world models — is bottlenecked on one thing: diverse, real-world data at massive scale showing how humans actually do work in the physical world. It was never written down, and you can't buy it, because no one has ever captured it. Only real local experts, the people who do this work every day, can produce data this authentic and valuable. DeepReach builds the network that reaches them. We design and manufacture wearable stereo capture devices, then place them with local data partners who run collection as their own business — in warehouses, workshops, farms, kitchens and repair shops. They own the local relationships; we supply the hardware, the software platform, the quality pipeline and the payments. Anyone can run a data business. That structure is what produces diversity. Instead of thousands of hours inside one environment, we deliver hours spread across thousands of environments — which is what actually makes robot policies generalize. 475 devices in the field and 100+ data partners are live across 7 countries, adding new partners every week. They've collected nearly 150,000 clips in the past three months, with volume roughly doubling month over month. Our data is in production with multiple frontier model and robotics companies, and we're scaling to 10,000+ devices across 50 countries.",
+          "published": "",
+          "story": "这是给物理世界的人工智能做数据网络的公司。想象你是一位在仓库里干了多年的老师傅，每天分拣、搬运、维修，手上全是别人学不会的经验，可这些动作从来没有被完整记录下来，机器人想学也找不到素材。DeepReach 设计和制造可穿戴的立体拍摄设备，把它交到本地数据合作方手里，让他们把采集当成自己的生意来做，仓库、车间、农场、厨房、修理铺都能成为采集现场。合作方负责本地关系，公司提供硬件、软件平台、质量流程和结算。它来自 YC 夏季 2026 批次，团队六人，正在用这种分散结构换取数据的多样性，而不是把上千小时都堆在同一个环境里。",
+          "rank": 1
+        },
+        {
+          "id": 33838,
+          "name": "Simantic",
+          "url": "https://simantic.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/simantic",
+          "location": "Waterloo, ON, Canada",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Hardware",
+            "Semiconductors",
+            "Electronics",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Firmware simulation for AI agents",
+          "originalDescription": "Simantic is modernizing the embedded firmware industry with hardware simulation developed for the adoption of AI in hardware engineering. Simantic gives both humans and AI the visibility into hardware previously limited by the physical world.",
+          "published": "",
+          "story": "这家公司切的是嵌入式固件开发工具，把硬件仿真做成了给智能体用的基础设施。假如你是一位负责硬件工程的工程师，板子还没回来，固件却已经写了一大半，你只能干等实物到手才能验证，一次流片或打样的周期就能拖掉几周。Simantic 让人类和人工智能都能看到原本被物理世界挡住的那部分硬件行为，在仿真环境里提前跑起来。它来自 YC 秋季 2026 批次，位于加拿大滑铁卢，团队四人，并且正在招聘，方向是把人工智能带进硬件工程流程。",
+          "rank": 2
+        },
+        {
+          "id": 31570,
+          "name": "Rindler",
+          "url": "https://maxxwell.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/rindler",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Developer Tools",
+            "SaaS",
+            "Infrastructure"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "The IDE for Tokenmaxxers",
+          "originalDescription": "We build Maxxwell, a desktop app for people who run several coding agents at once. Past two or three sessions, you become the bottleneck. Every session asks you something, most of it small, and you spend the day answering instead of deciding. It is also hard to tell which sessions are making progress, which are stuck on something trivial, and which have quietly started building the wrong thing. Maxxwell puts every session in one window and marks each one working, idle, or waiting on you. On top of that sits an orchestrator, a real coding-agent session of its own that reads the others and reports back. You talk to it instead of to twelve terminals. It tells you what landed, what it decided for you, and what actually needs your call. Every worker is your own tool, unmodified. Claude Code, Codex and Cursor Agent run in real terminal sessions you can attach to and take over at any point",
+          "published": "",
+          "story": "这是给同时运行多个编程智能体的人做的开发工具。如果你是一位一天要盯十几个终端会话的开发者，很快就会发现自己成了瓶颈，每个会话都在问你问题，大多是小决定，你整天在回答而不是在判断，也分不清哪个在推进、哪个卡在琐事上、哪个已经悄悄做错了方向。Rindler 做的 Maxxwell 是一个桌面应用，把所有会话放进同一个窗口，标出每个是在工作、空闲还是等你回复，上面还有一个自己的编排会话替你读其他会话并汇报。它来自 YC 夏季 2026 批次，团队两人，Claude Code、Codex 和 Cursor Agent 都能以未修改的原样在真实终端里运行，你随时可以接管。",
+          "rank": 3
+        },
+        {
+          "id": 31539,
+          "name": "Klaimee",
+          "url": "https://www.klaimee.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/klaimee",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Liability insurance for AI Agents. You deploy agents, we cover you.",
+          "originalDescription": "Klaimee is the first insurance for your AI agents. It covers what traditional E&O and cyber explicitly carve out, so you can deploy agentic AI at scale with real peace of mind. Built for companies deploying agentic AI, self-serve from day one. The problem: AI agents are taking actions autonomously buying, emailing, modifying sensitive data. AB 316 already holds deployers liable. EU AI Act enforces in August. Cyber and E&O insurance are excluding AI claims. Companies shipping agents have zero coverage and no third-party proof their agent is safe. Enterprise legal asks \"who pays if your agent breaks something?\" and there's no good answer. We built the answer. Critical-category risk evaluation, certification, financial guarantee, liability insurance and the documentation enterprise procurement needs to sign off. Team: Ines (ex-General Manager at SafetyWing, grew insurance product from $5M to $60M revenue, 5 years launching insurance products from scratch and structuring a TokioMarine MGA into its own carrier) + Julien (AI software engineer + corporate strategy, enterprise compliance). We understand how insurance works, what enterprises require, and why startups can't wait 6 months for either.",
+          "published": "",
+          "story": "这是给部署智能体的公司做责任保险的团队。一个风控或法务负责人每天会被业务部门追问，智能体自己下单、发邮件、改敏感数据，万一它闯了祸，到底谁来赔，传统的错误遗漏险和网络安全险又明确把这类理赔排除在外。Klaimee 把风险评级、认证、财务担保、责任保险和采购需要的文件打包成自助产品，让公司敢把智能体放到真实业务里跑。它来自 YC 春季 2026 批次，团队两人，正在招聘，切入的正是监管开始收紧、而保险条款留下空白的时点。",
+          "rank": 4
+        },
+        {
+          "id": 36015,
+          "name": "Ignition Benefits",
+          "url": "https://www.ignitionbenefits.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/ignition-benefits",
+          "location": "Los Angeles, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Health Insurance",
+            "Insurance",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 8,
+          "originalOneLiner": "The AI-Native Benefits Brokerage",
+          "originalDescription": "Ignition is an AI-native employee benefits brokerage for companies with under 200 employees. Health insurance is one of the largest line items these companies carry, and employers absorb 15 to 40% rate increases year after year without ever seeing their own numbers. We have rebuilt the sales and back office to be AI-first. This market represents about $500B of market cap, and those businesses have not fundamentally changed in over 50 years. While scaling Plated, I wore every HR hat from doing payroll myself, to managing a PEO, to eventually hiring an employee benefits broker on our way to 1,500 employees. We wasted over $4M on benefits over 5 years, and I'm building Ignition to help companies under 200 employees avoid making my mistakes.",
+          "published": "",
+          "story": "这是做员工福利经纪的公司，服务的是两百人以下的企业。假如你是一家小公司的运营或人事负责人，医疗保险是账上最大的一笔支出之一，每年费率涨一成半到四成，你只能照单全收，连自己公司的实际理赔数字都看不到。Ignition 把销售和后台重做成人工智能优先的流程，帮这类企业看清自己的数据、少走弯路。它来自 YC 秋季 2026 批次，团队八人，正在招聘，创始人此前在把公司做到一千五百人的过程中亲手做过工资、人事和福利经纪，五年里在福利上花掉超过四百万美元，这段经历正是它想帮别人避开的坑。",
+          "rank": 5
+        },
+        {
+          "id": 30708,
+          "name": "Perseus Defense",
+          "url": "https://perseusdefense.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/perseus-defense",
+          "location": "Austin, TX, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "America's Golden Dome for Drones",
+          "originalDescription": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our self-guided missile platform is man-portable and multi-domain capable. It senses, engages, and eliminates threats with drastically reduced cost per engagement over existing kinetic solutions. Solving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued their PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer The White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. Traction: Jason and Steve used more than 100 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. In 8 short weeks following a strict 2-week design-build-test cycle, the team has gone through 4 major guided missile iterations with over 30 live-fire flight tests. They were invited to Ft. Hood to present their platform to the 1st Cavalry Division, and also briefed the Pentagon and U.S. congressmen on current U.S. vulnerabilities to advanced drone technology. Perseus Defense is actively standing up cooperative research agreements with U.S. Army DEVCOM's Applied Research Laboratory, Aviation and Missile Center, Armaments Center, and High Performance Computing Modernization Program.",
+          "published": "",
+          "story": "这家公司做的是反无人机防御，面向国防和国土安全场景。想象你是一位负责基地或关键设施防护的安保主管，天上飞来一群廉价无人机，现有拦截手段一次只能对付一个目标，价格还比威胁本身贵出几个数量级，而且在美国本土使用风险太大。Perseus Defense 做的是可单兵携带、多域适用的自导导弹平台，能感知、接战并摧毁目标，把每次交战的成本大幅压下来。它来自 YC 夏季 2025 批次，团队三人，正在招聘，两位创始人在宾州州立大学分别攻读航空航天博士和硕士，做过为美国航天局设计太空直升机、让波音客机自动降落以及控制无人机集群等工作。",
+          "rank": 6
+        },
+        {
+          "id": 32261,
+          "name": "Rasyn",
+          "url": "https://www.rasyn.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/rasyn",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Biotech",
+            "Manufacturing"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Making chemicals 100,000x faster",
+          "originalDescription": "We builds foundational AI models for chemistry. Almost nothing you buy is a single chemical. Products like datacenter coolant, GPU thermal paste, paint, and glue are formulations, which are mixtures of around ten ingredients each, and demand for them has grown quickly because of AI and EVs. Designing a new formulation is essentially a search problem, because there are more possible mixtures than anyone could ever test, and none of them can be predicted in advance. As a result, bringing a single formulation to market today takes three to five years of trial and error in a lab. Our models predict how a mixture will behave far faster than the standard methods used today, which lets us design new formulations in weeks rather than years, at a fraction of the cost. To prove this, we used them to invent three chemicals that never existed before, including a PFAS-free coolant for datacenters, and we have since synthesized and patented all three. We are already working with some of the largest manufacturers to design formulations for them, and we are building our own lab to generate the data that will train our next models.",
+          "published": "",
+          "story": "这是做化学基础模型的公司，方向是配方材料。如果你在一家化工或材料企业负责配方研发，你会知道数据中心冷却液、导热膏、油漆、胶水这些产品都不是单一化学品，而是十种左右成分的混合物，可能的组合比任何人能试的都多，也没法提前预测，一款配方上市往往要在实验室里试错三到五年。Rasyn 的模型能比现有方法快得多地预测混合物行为，把设计周期从数年压缩到数周，成本也低得多。它来自 YC 夏季 2026 批次，团队三人，已经用模型造出三种此前不存在的化学品，其中包括不含全氟化合物的数据中心冷却液。",
+          "rank": 7
+        },
+        {
+          "id": 31047,
+          "name": "Waddle Labs",
+          "url": "https://www.waddlelabs.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/waddle-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Generative AI",
+            "Robotics",
+            "Automation"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "LLMs that control robots",
+          "originalDescription": "",
+          "published": "",
+          "story": "这家公司做的是用大语言模型控制机器人。假如你是一位工厂或仓储的自动化负责人，机械臂和移动机器人换一个任务就要重新写一遍控制逻辑，产线一变，工程师就得从头调，响应速度跟不上业务。Waddle Labs 想让语言模型直接承担控制这一层，让人用自然语言下达任务，机器人自己完成动作。它来自 YC 夏季 2026 批次，团队两人，正在招聘，方向落在生成式人工智能和机器人自动化的交叉点上，这个位置目前真正跑通产品的团队并不多。",
+          "rank": 8
+        },
+        {
+          "id": 32188,
+          "name": "IMPACT Drones",
+          "url": "https://www.impact-drones.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/impact-drones",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Hardware",
+            "Drones",
+            "Swarm Robotics"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Air Defense as a Service for Civilian Infrastructure.",
+          "originalDescription": "IMPACT builds autonomous interceptor drones that ship in sealed containers. The box sits at the site it protects, data centers, power grids, airports, bases, with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard vision that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $30k threats; ours cost less than the threat and scale with the swarm, the same class of interceptor already downing Shahed drones over Ukraine. Sites subscribe to protection instead of buying missiles, hardware, reloads and monitoring included: Air Defense as a Service. 180M+ USD in signed letters of intent.",
+          "published": "",
+          "story": "这是给民用基础设施提供空中防御服务的公司。想象你是一座数据中心或机场的设施负责人，周围空域偶尔出现来路不明的无人机，传统拦截弹一发上百万美元，而对面那架可能只值三万美元，你根本打不起，也不可能在场地常驻一支操作班组。IMPACT 把自主拦截无人机装进密封箱体，直接放在被保护的地点，传感器发现目标后，拦截机顶开易碎盖升空，靠机载视觉在卫星导航被干扰时仍然锁定并撞击目标。它来自 YC 夏季 2026 批次，团队两人，站点按订阅方式获得保护，硬件、补弹和监控都包含在内，目前已签下超过一亿八千万美元的意向书。",
+          "rank": 9
+        },
+        {
+          "id": 30709,
+          "name": "Novaflow",
+          "url": "https://www.novaflow.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/novaflow",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "The AI data analyst for biology labs",
+          "originalDescription": "Novaflow is the AI data analyst for biology labs. -- Bioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. Researchers at leading institutions like UCSF, Mount Sinai, UC Berkeley, and Harvard are already using Novaflow in their labs.",
+          "published": "",
+          "story": "这是给生物实验室做人工智能数据分析的公司。如果你是一位生命科学研究者，做完一轮实验拿到测序数据，接下来往往要花几个月做生信分析，画图、调流程、反复确认，真正用来思考生物学问题的时间被挤得所剩无几。Novaflow 让研究者直接上传实验数据，用日常语言提问，几分钟内拿到可直接用于发表的图表，而不是等上几个月。它来自 YC 夏季 2025 批次，团队四人，正在招聘，加州大学旧金山分校、西奈山、加州大学伯克利分校和哈佛等机构的研究者已经在实验室里使用它。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "MIT Technology Review-aHR0cHM6Ly93",
+          "title": "The Download: AI’s trillion-dollar gamble and OpenAI&#8217;s biology data bid",
+          "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+          "source": "MIT Technology Review",
+          "published": "Wed, 16 Sep 2026 12:10:00 +0000",
+          "story": "每隔一段时间，行业里就会冒出一个听起来大到不真实的数字，然后所有人开始追问：这笔钱到底会落在哪里。做投资、做产品、甚至只是关心自己所在行业的人，都会在某个时刻被这类问题绕进去，因为它牵动的不是某一家公司的命运，而是整条链条上谁先受益、谁先承压。这篇值得读的地方在于，它没有停在数字本身，而是把注意力放到钱流向哪里、又由谁来承接。读的时候可以留意作者是怎么把一个大而模糊的命题拆成几个可以追问的环节，以及他在哪些地方给出了判断，哪些地方留了余地。"
+        },
+        {
+          "id": "Lenny's Newsletter-aHR0cHM6Ly93",
+          "title": "Muse review: The personal AI agent that gets consumer UX right",
+          "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+          "source": "Lenny's Newsletter",
+          "published": "Wed, 16 Sep 2026 12:02:14 GMT",
+          "story": "做产品的人大概都有过这种体验：功能明明做出来了，用户却不知道怎么用，或者用了一次就再也不回来。问题往往不在能力本身，而在第一眼看到的东西有没有说清楚它能干什么。这篇讲的是一款面向普通人的 人工智能 助手，它被拿出来讨论，恰恰是因为在这一点上做对了。读的时候不妨带着自己的产品去看：作者是怎么判断哪些交互细节真正影响了用户的理解和信任，又是怎么区分“看起来聪明”和“用起来顺手”的。这类判断对做消费产品的人尤其有参考价值。"
+        },
+        {
+          "id": "hn-49725019",
+          "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+          "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+          "source": "Hacker News",
+          "published": "2026-09-16T11:26:38Z",
+          "story": "有些设备一开始只是小众玩物，后来慢慢变成一群人每天随身带的东西，电子墨水阅读器大概就是这一类。它不追求性能参数，而是解决一个很具体的问题：在不想被通知打断的时候，还能不能安静地看点东西。这条讨论出现在技术社区里，说明关注它的人不只是普通消费者，还有不少工程师和早期用户在琢磨它的取舍。读的时候可以看它这次改了什么、又保留了什么，以及社区里的人在争论哪些点：是手写笔的加入，还是外形和手感的变化，往往能看出这类产品真正的用户在意什么。"
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "companies": [
@@ -3242,252 +3499,6 @@
           "source": "MIT Technology Review",
           "published": "Tue, 01 Sep 2026 09:00:00 +0000",
           "story": "种地的农民都知道，庄稼要长得好，离不开肥料，可化肥用多了，土壤会板结，成本也年年涨。这几年，总有人提要用微生物来帮忙，但听起来像是实验室里的漂亮话，真拿到田里行不行，谁也说不准。这篇来自 MIT Technology Review 的文章，正好讲的就是这个从实验室走向田间的故事。它没有停留在概念上，而是带你看一群科学家和创业者，怎么把微小的生物变成实实在在能用的产品。你读的时候，可以重点看他们怎么解决一个最实际的问题：让农民愿意换掉用了几十年的化肥。这里面有技术难题，也有成本账，还有信任怎么建立。看懂这个过程，你就能理解一项新技术要真正改变世界，卡住的往往不是最尖端的那一步，而是最后落地的那一公里。"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-31",
-      "companies": [
-        {
-          "id": 31440,
-          "name": "Mount",
-          "url": "https://mount.insure",
-          "sourceUrl": "https://www.ycombinator.com/companies/mount",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The AI Agent Insurance Carrier",
-          "originalDescription": "TLDR: Mount is building the AI insurance carrier, starting with liability coverage for deployed AI agents. As everyone moves AI Agents into production and gives them more responsibility, we help businesses insure and secure them. Whenever responsibility shifts from human operators to autonomous systems, so too does the liability that accompanies it. The systems also introduce new risks: agentic software failures, prompt injection attacks, autonomous workflow errors, data leaks, and more. Legacy insurance was not built for this. Existing policies are often silent, ambiguous, or exclude autonomous software, and traditional insurers lack the data and technical capability to assess deployed AI Systems. Our first product, the Mount AI Liability Policy, is built for mid-market and enterprise companies deploying autonomous AI agents in real business processes. We scan and red-team AI deployments, quantify operational risk, help fix vulnerabilities, and insure the residual risk with purpose-built AI liability coverage. Mount is best thought of as a highly automated version of today's commercial insurance carriers, which run on manual workflows, layers of intermediaries, and tens of thousands of employees. AI enables automation of underwriting, pricing, policy issuance, claims, fraud detection, customer support, and distribution. We believe that the best way to use this opportunity is to rebuild those processes from the ground up.",
-          "published": "",
-          "story": "Mount 是一家为人工智能智能体提供保险的初创公司，专注为部署在真实业务流程中的自主智能体提供责任险。想象你是一家中型企业的风控负责人，公司刚把一个人工智能客服智能体接入订单系统，它却因为一次提示注入攻击而泄露了客户数据。传统保险条款对这类自主软件故障往往含糊其辞，甚至明确排除。Mount 的产品会先扫描并红队测试你的人工智能部署，再提供专门的责任险，让你在智能体犯错时有所保障。这家公司来自 YC 春季 2026 批次，团队仅两人，但切入的是随着智能体大规模落地而必然出现的全新风险领域，值得关注。",
-          "rank": 1
-        },
-        {
-          "id": 31008,
-          "name": "Moss",
-          "url": "https://moss.dev",
-          "sourceUrl": "https://www.ycombinator.com/companies/moss",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "SaaS",
-            "AI"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Real-time semantic search for Conversational AI",
-          "originalDescription": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural. If you’ve ever built a conversational or voice AI product, you’ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs. Moss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70–90% token savings compared to traditional pipelines.",
-          "published": "",
-          "story": "Moss 在做的是对话式人工智能的实时语义搜索运行时，让语音智能体、助手和聊天界面能在十毫秒内完成检索和响应。假如你正在开发一个语音助手，用户问完问题后那一下停顿，往往就是检索延迟造成的，它瞬间打破了对话的自然感。Moss 把向量索引优化到极致，用 Rust 和 WebAssembly 编写，能在浏览器、手机和服务器上原生运行，让检索紧跟智能体所在的位置。这家公司来自 YC 秋季 2025 批次，团队五人，正在招聘，它的价值在于把人工智能交互中那关键的几十毫秒压缩掉，让对话真正流畅起来。",
-          "rank": 2
-        },
-        {
-          "id": 31284,
-          "name": "Origami Robotics",
-          "url": "https://www.origami-robotics.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/origami-robotics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "Manipulate Anything Robot",
-          "originalDescription": "We are building a \"manipulate anything\" model with the robot hardware that embodies it. We designed a hand-based data-collection device and a high DOF, direct drive robotic hand that match each other exactly, enabling us to eliminate embodiment gap and collect real-world data and deploy it directly. We want to scale real world manipulation data by deploying our devices \"in the wild\" like manufacturing factories, logistic centers to collect Tesla like data, use these data to train our model and then provide automation solutions to these industries.",
-          "published": "",
-          "story": "Origami Robotics 正在打造一个能操作任意物体的机器人模型，并配套设计了高自由度直驱机械手和与之完全匹配的数据采集设备。想象你是一家工厂的自动化工程负责人，想让机器人完成分拣和装配任务，但市面上的方案要么数据采集和部署之间有偏差，要么泛化能力太差。Origami 通过让采集设备与机械手结构完全一致，消除了这种差距，可以直接把野外采集的数据用于训练，再部署到工厂和物流中心。它来自 YC 冬季 2026 批次，团队五人，目标是像特斯拉那样积累海量真实操作数据，为制造业提供自动化方案，这个方向值得关注。",
-          "rank": 3
-        },
-        {
-          "id": 33283,
-          "name": "Locke",
-          "url": "https://locke.inc",
-          "sourceUrl": "https://www.ycombinator.com/companies/locke",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "GovTech",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "AI agents that help companies and governments work together.",
-          "originalDescription": "Locke builds AI agents that help companies and governments work together. Our agents power Locke Government Affairs, the first AI-native government affairs firm, and are being deployed to government agencies across America. Every consequential American company in the 21st century will need to work with the government: AI labs, data centers, healthcare, defense, robotics, the list goes on. Locke is building the AI infrastructure to power the next era of public-private collaboration. Locke's team comes from The White House, Deloitte, the US Congress, and the Pentagon.",
-          "published": "",
-          "story": "Locke 做的是帮助企业和政府协作的人工智能智能体，它既为一家号称人工智能原生的政府事务公司提供动力，也在向美国各地政府机构部署。想象你是一家数据中心公司的政府关系负责人，正为审批和合规焦头烂额，需要随时跟踪政策动态并准备材料。Locke 的智能体可以自动整理法规、生成报告、协调沟通，把繁琐的政务流程变得高效。这家公司来自 YC 夏季 2026 批次，团队两人，正在招聘，创始团队有白宫、国防部等背景，但输入里没有具体姓名，所以只能看它切入的政企协作场景，确实是个重要方向。",
-          "rank": 4
-        },
-        {
-          "id": 31088,
-          "name": "RunAnywhere",
-          "url": "https://www.runanywhere.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/runanywhere",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "The default way of running on-device AI at Scale",
-          "originalDescription": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
-          "published": "",
-          "story": "RunAnywhere 解决的是在设备端大规模运行人工智能的难题，它提供一个统一的软件开发工具包，外加一个控制平面来管理模型、执行策略并衡量效果。假如你是一家智能硬件公司的工程负责人，要在几千台不同型号的设备上部署模型，每台设备的芯片、内存和功耗限制都不同，性能很容易崩溃。RunAnywhere 让你一次接入，就能管理所有设备上的模型运行，还能监控策略执行情况。这家公司来自 YC 冬季 2026 批次，团队五人，正在招聘，它的价值在于把边缘人工智能从痛苦的碎片化部署，变成企业级的标准工作流。",
-          "rank": 5
-        },
-        {
-          "id": 31086,
-          "name": "Prescience, Inc.",
-          "url": "https://www.getprescience.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/prescience-inc",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "Health Insurance",
-            "Insurance"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Healthcare for the age of abundant intelligence.",
-          "originalDescription": "Prescience is the preeminent health benefits platform for the world's most ambitious companies. We save employers 20-50% on health insurance while offering best-in-industry health benefits: www.getprescience.com About us: Prescience is building a new healthcare system for America. We train AI systems to: create, operate, insure, and deliver healthcare for employer health plans. Prescience Time Machine – an AlphaGo-like system – steers patients towards “Move 37 health trajectories” that deliver dramatic cost savings for employers. Rishab Jain and Aditya Jain, M.D. are serial entrepreneurs and brothers from Harvard & Harvard Medical School with backgrounds in machine learning and medicine. We believe abundant intelligence will bring an opportunity to fundamentally rebuild the $4.5T healthcare industry around proactive (prescient) health and wellness.",
-          "published": "",
-          "story": "Prescience 是一个面向高要求企业的健康福利平台，声称能帮雇主节省两到五成的医疗保险费用，同时提供行业顶级的福利。想象你是一家快速扩张公司的薪酬福利负责人，正为不断上涨的保费发愁，员工也在抱怨看病难。Prescience 训练人工智能系统来运营和管理雇主健康计划，其中有个类似 AlphaGo 的系统，能引导患者走上更经济的健康路径。这家公司来自 YC 夏季 2026 批次，团队两人，正在招聘，创始人是哈佛背景的兄弟，但输入里没有具体收入数据，所以只能看它试图用人工智能重建美国医疗体系的宏大场景。",
-          "rank": 6
-        },
-        {
-          "id": 30541,
-          "name": "Code Four",
-          "url": "https://codefour.us/",
-          "sourceUrl": "https://www.ycombinator.com/companies/code-four",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "GovTech",
-            "Computer Vision"
-          ],
-          "batch": "Spring 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Modernizing the police workflow.",
-          "originalDescription": "Code Four slashes the administrative burden on law enforcement through AI-driven automation. Officers spend up to a third of their shifts manually transcribing body camera footage, creating inaccuracies, reducing transparency, and cutting into frontline duties. We're here to eliminate these inefficiencies by integrating with body cameras, record management systems, and digital evidence management systems—acting as a software layer for data processing. We free the most overworked and underappreciated people in the world: police officers.",
-          "published": "",
-          "story": "Code Four 用人工智能自动化减轻执法人员的行政负担。想象你是一名警察，每天值勤后要花好几个小时手动转录执法记录仪视频，既枯燥又容易出错。Code Four 与执法记录仪、记录管理系统和数字证据管理系统集成，自动处理视频转录和报告生成，把警员从文书工作中解放出来，让他们有更多时间投入一线。这家公司来自 YC 春季 2025 批次，团队三人，正在招聘，它切入的警察工作流现代化问题，既关乎效率也关乎透明度，值得关注。",
-          "rank": 7
-        },
-        {
-          "id": 31420,
-          "name": "Kimpton AI",
-          "url": "https://kimpton.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/kimpton-ai",
-          "location": "San Francisco, CA, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "The IDE for Investors",
-          "originalDescription": "In investment management, the final outcome isn't a deck or a memo. It's the trade. Kimpton is the AI-native research platform for portfolio managers. We're commoditizing the research layer and handing PMs data distilled into structured trades. The whole industry is fighting underperformance. Active managers trail their benchmarks, and capital keeps bleeding into passive. AI was supposed to fix that, but it hasn't. Funds either stitch together a dozen point tools or babysit general agents all day, and neither gets them to the trade. Kimpton goes straight to it. It ingests a fund's mandate, strategy, and positions. It runs them through our own harness and returns a structured trade proposal built for that fund. It connects to any institutional data source they already run on. And it's built to disagree, because consensus is poison for investment decisions. Instead of telling a PM what they want to hear, it surfaces the breaches and risks they'd otherwise miss. We're two ex-Goldman engineers and an ex-SpaceX engineer. We left to start our own quantitative systematic hedge fund. We raised $10M from a family office at 21 and 22, and scaled it to $35M over four years. We built Kimpton inside that fund, then productized the stack. We're live with our first institutional client, a $3.3B manager, and our first market is fundamental equity funds from $1B to $10B. Humans make the decisions. Kimpton does everything else.",
-          "published": "",
-          "story": "Kimpton 是面向投资经理的人工智能原生研究平台，它直接把基金的投资任务、策略和持仓数据整合起来，生成结构化的交易建议。想象你是一名投资组合经理，每天被各种研究报告和数据淹没，却很难转化为实际的交易决策。Kimpton 会分析你的基金约束，运行自己的模型，然后给出一个具体的交易提案，甚至故意提出不同意见，因为共识对投资决策有害。这家公司来自 YC 春季 2026 批次，团队五人，正在招聘，它把研究层商品化，直指交易本身，对主动管理行业来说是一个值得关注的尝试。",
-          "rank": 8
-        },
-        {
-          "id": 32518,
-          "name": "Agency Tool Company",
-          "url": "https://agencytool.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/agency-tool-company",
-          "location": "Denver, CO, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Robotics",
-            "Automation",
-            "Infrastructure",
-            "Self-Driving Vehicles"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Reliable infrastructure to build, deploy and manage real-world robots.",
-          "originalDescription": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics. Our second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets. Jack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had. Learn more at https://agencytool.com",
-          "published": "",
-          "story": "Agency Tool Company 为现场机器人提供可靠的部署基础设施，它的第一个产品 ATC Deploy 只传输变更的字节，网络中断还能续传，比传统方式快二十倍。想象你是一家农业机器人公司的运维负责人，需要给分布在各地的自动割草机更新软件，网络不稳定时更新经常失败。Agency Tool 解决了这个痛点，第二个产品 ATC Build 还能让开发者在真实硬件上运行测试。这家公司来自 YC 夏季 2026 批次，团队三人，创始团队曾创立并出售过一家机器人公司，部署过数百台自动割草机，所以这个基础设施方向是实际经验积累出来的。",
-          "rank": 9
-        },
-        {
-          "id": "hn-launch-49510632",
-          "name": "Hebbian Robotics",
-          "url": "https://github.com/Hebbian-Robotics/hflow",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49510632",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "Smart Hardware",
-            "Design",
-            "Data"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) – Build scalable robotics data pipelines",
-          "originalDescription": "YC S26) – Build scalable robotics data pipelines",
-          "published": "2026-08-31T15:02:41Z",
-          "story": "Hebbian Robotics 来自 YC 夏季 2026 批次，在 Launch HN 上发布，专注于构建可扩展的机器人数据管道。想象你是一家机器人公司的数据负责人，每天要处理海量的传感器数据，但数据清洗、标注和存储的流程混乱不堪。Hebbian Robotics 提供一套工具，帮你把数据从采集到训练模型的全流程自动化，让数据管道像流水线一样顺畅。它来自 YC 夏季 2026 批次，但输入里没有更多细节，所以只能看这个场景本身的价值：机器人数据管理是行业发展的关键瓶颈，值得关注。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49510632",
-          "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "url": "https://github.com/Hebbian-Robotics/hflow",
-          "source": "Hacker News",
-          "published": "2026-08-31T15:02:41Z",
-          "story": "做机器人的人都知道，真正难的不是让机械臂动起来，而是让它在真实环境里一遍遍试错，把数据攒下来。可这些数据格式乱、来源杂，整理起来比写算法还耗人。如果你也卡在这一步，这篇来自一个创业团队的分享值得看看。他们说自己解决了数据管线的问题，但读的时候别只看结论，留意他们怎么把零散的传感器信号变成能训练模型的干净数据，这个过程里的取舍才最见功夫。"
-        },
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "MapQuest&#8217;s app surges to No. 1 in Navigation after refusing to rename Lake Ontario",
-          "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
-          "source": "TechCrunch",
-          "published": "Mon, 31 Aug 2026 14:51:33 +0000",
-          "story": "地图导航这类产品，大家以为拼的是技术，可有时候一个名字就能引发用户用脚投票。这篇讲的是 MapQuest 因为拒绝改名而冲上榜首的事，听起来像个小插曲，背后却藏着用户对品牌和地域的情感。你平时可能不会关注地图应用，但当你看到一款产品因为一个决定突然被追捧，就会好奇这种情绪是怎么被点燃的。读的时候可以想想，产品团队在坚持原则和迎合市场之间，到底怎么判断值不值得。"
-        },
-        {
-          "id": "SaaStr-aHR0cHM6Ly93",
-          "title": "We&#8217;ve Been Running Salesforce Headless for 6 Months on Our Own &#8220;Claudeforce.&#8221; We&#8217;re Never Going Back",
-          "url": "https://www.saastr.com/weve-been-running-salesforce-headless-and-our-own-claudeforce-for-6-months-were-never-going-back/",
-          "source": "SaaStr",
-          "published": "Mon, 31 Aug 2026 14:10:36 +0000",
-          "story": "很多公司用了 Salesforce 之后，发现它功能强大却笨重，想定制又怕被绑死。于是有人开始琢磨，能不能把它的界面扔了，只留底层的销售数据逻辑。这篇的作者就试了六个月，自己搭了个叫 Claudeforce 的前端。读它的时候，别只羡慕他们的技术能力，重点看他们是怎么一步步拆开原系统的，哪些部分必须保留，哪些可以替换，这个过程能帮你理解企业软件到底哪些地方是真正离不开的。"
         }
       ]
     }

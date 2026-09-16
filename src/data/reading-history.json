@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-14T13:59:48.786Z",
+  "updatedAt": "2026-09-16T12:35:01.316Z",
   "readings": [
+    {
+      "key": "lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "title": "Muse review: The personal AI agent that gets consumer UX right",
+      "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "usedAt": "2026-09-16",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data",
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI&#8217;s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "usedAt": "2026-09-16",
+      "site": "startup-radar"
+    },
+    {
+      "key": "theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+      "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+      "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+      "usedAt": "2026-09-16",
+      "site": "startup-radar"
+    },
     {
       "key": "github.com/chaos-vy/chaostree",
       "title": "Show HN: ChaosTree – A zero-dependency Java tree library (AVL,RBT,B-Tree,B+Tree)",
