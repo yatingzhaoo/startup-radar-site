@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-18T12:13:10.926Z",
+  "updatedAt": "2026-09-19T11:55:24.204Z",
   "readings": [
+    {
+      "key": "celeris.ai/building-the-worlds-fastest-llms",
+      "title": "Building the fastest LLMs: why we're starting with diffusion",
+      "url": "https://celeris.ai/building-the-worlds-fastest-llms",
+      "usedAt": "2026-09-19",
+      "site": "startup-radar"
+    },
+    {
+      "key": "latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+      "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "usedAt": "2026-09-19",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/join-the-wired-world-fair-in-miami-on-november-4",
+      "title": "Join the WIRED World Fair in Miami on November 4",
+      "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+      "usedAt": "2026-09-19",
+      "site": "startup-radar"
+    },
     {
       "key": "news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup",
       "title": "What 25,000 Startup Applications Reveal About The New Rules Of Seed-Stage Startups",
