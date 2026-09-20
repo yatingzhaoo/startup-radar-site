@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-19T11:55:24.204Z",
+  "updatedAt": "2026-09-20T12:18:55.269Z",
   "readings": [
+    {
+      "key": "gpu.studio/trolley",
+      "title": "Show HN: Will Jev pull the lever in the trolley problem?",
+      "url": "https://gpu.studio/trolley",
+      "usedAt": "2026-09-20",
+      "site": "startup-radar"
+    },
+    {
+      "key": "lennysnewsletter.com/p/community-wisdom-finding-your-first",
+      "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+      "usedAt": "2026-09-20",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "usedAt": "2026-09-20",
+      "site": "startup-radar"
+    },
     {
       "key": "celeris.ai/building-the-worlds-fastest-llms",
       "title": "Building the fastest LLMs: why we're starting with diffusion",
