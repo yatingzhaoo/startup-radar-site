@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-20T12:18:55.269Z",
+  "updatedAt": "2026-09-21T14:04:30.575Z",
   "readings": [
+    {
+      "key": "deepanwadhwa.github.io/opendecision",
+      "title": "Show HN: OpenDecision – a 400M zero-shot model makes local decisions, plays Doom",
+      "url": "https://deepanwadhwa.github.io/OpenDecision/",
+      "usedAt": "2026-09-21",
+      "site": "startup-radar"
+    },
+    {
+      "key": "huggingface.co/blog/multiversecomputingcai/pruning-llms-like-a-physicist-block-removal-as-an",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "usedAt": "2026-09-21",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs",
+      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+      "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "usedAt": "2026-09-21",
+      "site": "startup-radar"
+    },
     {
       "key": "gpu.studio/trolley",
       "title": "Show HN: Will Jev pull the lever in the trolley problem?",
