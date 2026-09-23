@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-21T14:04:30.575Z",
+  "updatedAt": "2026-09-23T12:44:17.878Z",
   "readings": [
+    {
+      "key": "filmstudio.rxlab.app",
+      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+      "url": "https://filmstudio.rxlab.app",
+      "usedAt": "2026-09-23",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes",
+      "title": "Comma&#8217;s hands-off driving tech under investigation after 2 fatal crashes",
+      "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
+      "usedAt": "2026-09-23",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/atandt-is-automating-away-its-old-telecom-empire",
+      "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+      "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
+      "usedAt": "2026-09-23",
+      "site": "startup-radar"
+    },
     {
       "key": "deepanwadhwa.github.io/opendecision",
       "title": "Show HN: OpenDecision – a 400M zero-shot model makes local decisions, plays Doom",
