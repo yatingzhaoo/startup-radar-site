@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-23T12:44:17.878Z",
+  "updatedAt": "2026-09-24T12:42:39.299Z",
   "readings": [
+    {
+      "key": "maxxmod.com",
+      "title": "Show HN: Maxxmod – The browser extension built for YouTube power users",
+      "url": "https://maxxmod.com/",
+      "usedAt": "2026-09-24",
+      "site": "startup-radar"
+    },
+    {
+      "key": "news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart",
+      "title": "Gaming Startup Funding Levels Up A Bit In 2026",
+      "url": "https://news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart/",
+      "usedAt": "2026-09-24",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week",
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "usedAt": "2026-09-24",
+      "site": "startup-radar"
+    },
     {
       "key": "filmstudio.rxlab.app",
       "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
