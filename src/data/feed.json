@@ -1,7 +1,254 @@
 {
-  "generatedAt": "2026-09-24T12:42:39.297Z",
+  "generatedAt": "2026-09-25T12:44:51.786Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-09-25",
+      "companies": [
+        {
+          "id": 31214,
+          "name": "Pocket",
+          "url": "https://www.ycombinator.com/companies/pocket",
+          "sourceUrl": "https://www.ycombinator.com/companies/pocket",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 15,
+          "originalOneLiner": "Take Notes in the Real World",
+          "originalDescription": "Pocket is a Y Combinator W26 company building a premium hardware plus software product in the AI voice recorder space. We are obsessed with quality and speed. We are scaling very fast in the US and now European markets and building a device experience that can become the category leader.",
+          "published": "",
+          "story": "这是做人工智能语音记录硬件的公司。如果你是一位每天开完会就头疼的咨询顾问，客户电话、现场走访、内部讨论混在一起，回到工位还要凭记忆整理纪要，漏掉一句关键承诺就可能影响后续方案。Pocket 把录音、转写和整理能力放进随身设备里，而不是只做一个手机应用，让你在真实场景中按一下就能留下内容，事后由软件把零散语音变成可用的笔记。它来自 YC 冬季 2026 批次，团队十五人，正在招聘，并且同时在美国和欧洲市场快速扩张。值得关注的地方在于，它切入的是硬件加软件的完整体验，而不是单纯的功能叠加。",
+          "rank": 1
+        },
+        {
+          "id": 30729,
+          "name": "Floot",
+          "url": "https://floot.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/floot",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "SaaS",
+            "No-code",
+            "Web Development"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "The app platform inside Claude and ChatGPT.",
+          "originalDescription": "Floot is the layer where vibecoded software runs. SaaS is dead. Hundreds of millions of people already spend their day in Claude or ChatGPT - and increasingly, when they need an app, they won't buy one. They'll describe it, and it will exist. We're building the infrastructure that makes that real. When Claude creates an app, it needs somewhere for that app to live: a backend, a database, hosting, a domain, the ability to scale, various services, maybe even to be able to work as a mobile app. Floot is that place - a full stack purpose-built for AI to operate, from a specialized framework that defines how AI writes and runs code, down to scalable hosting on AWS. This means you can now build and ship real apps directly inside Claude and ChatGPT. Connect Floot, and the model you already pay for writes and debugs the code, shows a live preview, and publishes to your own domain. No need to wire up git, vercel, supabase and a dozen other providers. And no AI credits - every message runs on the subscription you already have, because we charge for the platform, not for a token markup. We built Floot this way because we've watched the model layer commoditize - every serious builder writes good code now, including us. The lasting value isn't another agent between you and the model. It's the layer underneath, from wherever people already are. We're building Floot to be the home for all operation software, for the decades where most new software on earth is written by AI. ✨ Try it: floot.com",
+          "published": "",
+          "story": "这家公司切的是人工智能应用运行的基础设施。假如你是一位产品负责人，白天用 Claude 或 ChatGPT 讨论需求，晚上想让模型直接生成一个能上线的小应用，却卡在后端、数据库、域名和部署这些环节上。Floot 做的事就是给这些由人工智能写出来的软件一个真正的落脚点，从定义代码如何编写和运行的框架，到可扩展的托管服务，让模型自己写代码、调试、预览并发布到你自己的域名。它来自 YC 夏季 2025 批次，团队四人，正在招聘。值得关注的是它押注的方向：当人们不再购买应用，而是描述出应用，运行这些应用的地方就会变得关键。",
+          "rank": 2
+        },
+        {
+          "id": 31301,
+          "name": "OpenVector",
+          "url": "https://openvector.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/openvector",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Robotics",
+            "Computer Vision",
+            "Infrastructure",
+            "Industrial"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "AI that turns any camera to an autonomous worker with real-time vision",
+          "originalDescription": "OpenVector transforms any existing camera into an automated 24/7 workforce without requiring new hardware. We've built the world's fastest vision-language model inference engine that allows users to simply describe a task in plain English and automatically build a custom AI vision model to monitor their feed. When it detects an important physical event—like a stalled production cycle, a safety violation, or a waiting customer—it operates a computer just like a human to take immediate action. It integrates with legacy systems, makes calls, sends emails, updates a POS/CRM, or triggers webhooks in real time. OpenVector enables any camera to do real work.",
+          "published": "",
+          "story": "这是做工业视觉人工智能基础设施的公司。想象你是一家工厂的质检员或产线主管，车间里已经装了不少摄像头，但画面只能靠人盯着看，一旦出现生产停滞、安全违规或者客户久等，往往要等到问题发生之后才知道。OpenVector 把现有摄像头变成能自动工作的眼睛，你只需要用平常的话描述任务，它就能生成对应的视觉模型来监控画面，发现异常后还能像人一样操作电脑去处理，比如对接老系统、打电话、发邮件、更新销售或客户系统。它来自 YC 夏季 2026 批次，团队四人。值得关注的是，它不要求更换硬件，而是让已经存在的摄像头开始干活。",
+          "rank": 3
+        },
+        {
+          "id": 31416,
+          "name": "Callab AI",
+          "url": "https://callab.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/callab-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 7,
+          "originalOneLiner": "AI voice agents for on-prem telephony stack.",
+          "originalDescription": "58% of the $400B call center industry runs on on-prem phone systems, and until now bringing AI voice automation to them meant ripping out their entire infrastructure first. That's the largest unserved segment in the market. Callab AI connects directly to legacy PBX systems like Avaya, Cisco UCM, and Mitel, and automates up to 70% of call volume with zero migration needed. We plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like Dunkin Donuts.",
+          "published": "",
+          "story": "这是做企业电话系统人工智能语音客服的公司。想象你是一家连锁品牌的客服运营负责人，门店电话仍然跑在本地部署的老式交换机上，想用智能语音接听，却被告知要先把整套设备换掉，预算和停机时间都让人退缩。Callab AI 直接接入 Avaya、Cisco UCM、Mitel 这类传统电话系统，不需要迁移就能自动处理大部分来电。它来自 YC 春季 2026 批次，团队七人，正在招聘，客户横跨三个大洲，其中包括 Dunkin Donuts 这样的品牌。值得关注的是，它盯上的是电话客服行业里长期没被服务的那一大块本地部署市场。",
+          "rank": 4
+        },
+        {
+          "id": 30860,
+          "name": "Alt-X",
+          "url": "https://alt-x.co",
+          "sourceUrl": "https://www.ycombinator.com/companies/alt-x",
+          "location": "Los Angeles, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Building the best venue for private markets exposure.",
+          "originalDescription": "Alt-X is building the AI-native liquidity layer for private markets. Private markets have created trillions of dollars in value, yet remain fragmented, illiquid, and inaccessible. While public markets benefit from exchanges, market makers, brokerages, and data infrastructure, private markets still rely on brokers, spreadsheets, and manual workflows to connect buyers and sellers. Alt-X uses AI to automate the core functions required to make private assets liquid. We streamline diligence, valuation, investor matching, and transaction execution, reducing the friction that makes private-market transactions slow, expensive, and opaque today. Our initial focus is venture-backed secondaries. We source opportunities from founders, employees, and early investors while building a network of accredited investors seeking exposure to the world's most valuable private companies. Over time, we believe every private asset—from startup equity to private credit and alternative investments—will require modern liquidity infrastructure. Building trusted infrastructure for private markets is difficult. Transactions involve complex diligence, fragmented information, transfer restrictions, and significant compliance requirements. Alt-X is focused on creating systems that can support real transactions at scale, not just marketplace listings. Ryan Samadi (Stanford CS/AI, former Citadel commodities trader) and Michael Wachsman (Cornell CS, infrastructure engineer) are building Alt-X because they believe ownership of innovation should be more liquid, transparent, and accessible. Today, Alt-X has sourced over $1.5 million in transaction opportunities and assembled a network of 40 accredited investors representing hundreds of millions of dollars in investable assets. Our mission is to democratize ownership of innovation by building the financial infrastructure that private markets have never had.",
+          "published": "",
+          "story": "这家公司切的是私募市场的流动性基础设施。如果你是一位关注未上市公司的风控分析师或投资经理，想买入或卖出创业公司老股，会发现整个流程还停留在经纪人和表格之间，尽调、估值、匹配买家卖家、执行交易都慢且不透明。Alt-X 用人工智能自动化这些核心环节，先聚焦有风投支持的二手份额，从创始人、员工和早期投资人那里寻找机会，同时搭建合格投资人的网络。它来自 YC 冬季 2026 批次，团队两人。值得关注的是，公开市场有交易所、做市商和数据设施，私募市场长期缺少对应的基础层，这正是它想补上的位置。",
+          "rank": 5
+        },
+        {
+          "id": 31260,
+          "name": "Copperlane",
+          "url": "https://www.copperlane.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/copperlane",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Agentic Mortgage Origination",
+          "originalDescription": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
+          "published": "",
+          "story": "这是做房贷发起流程自动化的公司。假如你是一家贷款机构的信贷运营人员，每天面对堆积如山的申请材料，要核对申请人资料、验证文件真伪、完成初步核保，稍有疏漏就可能拖慢放款甚至带来合规风险。Copperlane 用智能体去理解申请人的整体情况，验证文件，并接手初始核保任务，让贷款流程更快、更少出错。它来自 YC 冬季 2026 批次，团队三人，正在招聘。值得关注的是，房贷是高度依赖人工审核的行业，把智能体放进这条流程，直接对应的是时间成本和错误成本。",
+          "rank": 6
+        },
+        {
+          "id": 31552,
+          "name": "Arctic Health",
+          "url": "https://arctic.health",
+          "sourceUrl": "https://www.ycombinator.com/companies/arctic-health",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "AI-native credentialing and contracting for healthcare",
+          "originalDescription": "Arctic Health is building AI-native credentialing and contracting for healthcare organizations. We automate the full workflow, from establishing payer contracts to enrolling each provider. We collect and validate organization and provider data according to each state and payer’s requirements, and submit on the organization's behalf. We then monitor status and compliance on an ongoing basis. Tools on the market today either perform small pieces of the workflow or price out small and mid-sized organizations. We handle the process end-to-end regardless of organization type or size. Our browser automations enable AI agents to submit and monitor across hundreds of payer portals, and our system is trained by experienced industry experts who handle every edge case. Healthcare organizations get one simple platform. We handle the rest.",
+          "published": "",
+          "story": "这家公司做的是医疗行业的资质认证与合同管理。如果你在一家中型医疗机构负责运营，新医生入职前要面对各州和各保险支付方不同的要求，收集资料、逐项核对、在数百个门户网站上提交并持续跟踪状态，任何一步卡住都会影响医生能否正常接诊和收费。Arctic Health 把整套流程自动化，从建立支付方合同到为每位医生完成登记，用浏览器自动化让智能体代为提交和监控，并由有经验的行业专家处理各种边缘情况。它来自 YC 春季 2026 批次，团队四人。值得关注的是，现有工具往往只覆盖流程的一小段，或者价格把小机构挡在门外。",
+          "rank": 7
+        },
+        {
+          "id": 30218,
+          "name": "Toothy AI",
+          "url": "https://www.toothy.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/toothy-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Health Tech",
+            "Healthcare",
+            "Dental",
+            "Conversational AI"
+          ],
+          "batch": "Winter 2025",
+          "isHiring": true,
+          "teamSize": 15,
+          "originalOneLiner": "AI for insurance verification & billing at dental clinics",
+          "originalDescription": "We’re Toothy.ai. We’re building AI agents for dental practices that handle everything related to patient insurance. The average dental clinic spends over 160 hours a month on insurance tasks like verifying patient policies, billing, and claims processing. Our AI agents automate this entire workflow—including making insurance calls with voice AI—saving clinics time, reducing costs, and ensuring faster reimbursements.",
+          "published": "",
+          "story": "这是给牙科诊所做保险核验和账单处理的公司。假如你是一家牙科诊所的运营负责人，每个月有大量时间花在核对患者保单、处理账单和理赔上，电话打给保险公司常常要等很久，报销到账慢，前台和后台都被拖住。Toothy AI 用智能体接手这些与保险相关的工作，包括用语音人工智能拨打保险电话，把整个流程自动化，帮诊所省时间、降成本，也让报销更快。它来自 YC 冬季 2025 批次，团队十五人，正在招聘。值得关注的是，它切入的是牙科诊所每月超过一百六十小时的重复劳动，这是非常具体的痛点。",
+          "rank": 8
+        },
+        {
+          "id": 37601,
+          "name": "Lark",
+          "url": "https://trylark.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/lark-2",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "Supply Chain"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Lark - Specialized agents for wholesale distributors",
+          "originalDescription": "Lark builds specialized AI agents that automate manual workflows for wholesale distributors. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation.",
+          "published": "",
+          "story": "这家公司做的是批发分销商的运营智能体。如果你是一家批发分销企业的负责人，订单、库存、报价和客户跟进散落在企业管理系统和表格里，老员工凭经验做决定，新人上手慢，业务一忙就容易出错。Lark 的智能体与现有的企业管理系统配合，从分销商的历史数据和团队过往决策中学习，逐步接手人工流程，最终目标是把整个运营跑起来。它来自 YC 秋季 2026 批次，团队两人。值得关注的是，批发分销是一个庞大却很少被新技术认真对待的行业，而它的做法是顺着已有系统进入，而不是要求企业推倒重来。",
+          "rank": 9
+        },
+        {
+          "id": 31526,
+          "name": "Uno Wallet",
+          "url": "https://myunowallet.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/uno-wallet",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Fintech",
+            "Payments",
+            "Consumer",
+            "Infrastructure"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "The AI mobile wallet that replaces Apple Pay",
+          "originalDescription": "We are changing the way that people pay... Founded by: Saket Joshi: www.linkedin.com/in/saket-dattatray-joshi/ Mordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
+          "published": "",
+          "story": "这是做人工智能移动钱包的消费金融产品。假如你是一位习惯用手机付款的普通用户，每次结账都要先解锁、打开应用、找到卡片，步骤多到让人不耐烦。Uno Wallet 想取代现有的手机支付方式，把支付这件事交给更主动的人工智能来处理。它来自 YC 春季 2026 批次，团队两人，正在招聘，方向是消费者支付，值得看的是支付入口历来由少数巨头把持，任何想重新定义结账体验的尝试都会面对极高的习惯门槛，而它选择从钱包这个最贴近日常的环节切入。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49843746",
+          "title": "Show HN: Wave – Layered gradient wave backgrounds using Three.js and shaders",
+          "url": "https://wave.subworkflow.ai/",
+          "source": "Hacker News",
+          "published": "2026-09-25T12:34:56Z",
+          "story": "做前端或独立产品的人，大概都有过这种时刻：页面功能都对了，可看起来就是差点意思，想加个背景动画又怕拖慢加载、写出一堆难维护的代码。于是有人会去翻 Hacker News 上的 Show HN，看别人怎么用最少的代价做出好看的视觉效果。这篇的作者用 Three.js 和着色器做了一层层的渐变波浪背景，正好落在这种需求上。读的时候不妨留意他是怎么把一个大效果拆成可控的小块，参数怎么调、性能怎么权衡，以及为什么选这条路而不是用现成的图片或视频。对平时写界面的人来说，这类取舍比最终效果本身更值得看。"
+        },
+        {
+          "id": "WIRED Business-aHR0cHM6Ly93",
+          "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
+          "url": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/",
+          "source": "WIRED Business",
+          "published": "Fri, 25 Sep 2026 11:32:17 +0000",
+          "story": "当一家公司在海外被监管机构开出罚单，通常只是它自己的事，交钱或上诉，按流程走。但这一次，罚单还没落地，另一国政府先站出来替它说话，事情的性质就变了。你可能会想，这不就是外交层面的讨价还价吗。值得读的地方在于，它把一笔看似技术性的罚款，放回到更大的角力里：谁在替谁出头，出面的人想要什么回报。读的时候可以留意作者怎么梳理时间线，谁先动、谁后应，以及把商业纠纷说成政治议题时，各方各自得到了什么。看作者如何区分公开表态和实际动作，也看它有没有交代这笔钱对当事公司到底意味着什么。"
+        },
+        {
+          "id": "MIT Technology Review-aHR0cHM6Ly93",
+          "title": "Young organs may not be a fountain of youth for recipients",
+          "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+          "source": "MIT Technology Review",
+          "published": "Fri, 25 Sep 2026 09:00:00 +0000",
+          "story": "器官移植这件事，过去几十年里一直有个朴素的期待：换上更年轻的器官，人也许就能多撑些年。这个念头不荒唐，它来自移植本身确实能救命。但救命和返老还童是两回事，中间隔着一堆没人说清的问题。这篇文章值得读，是因为它没有停在希望或失望上，而是去问证据到底说了什么。读的时候可以注意作者怎么处理那些听起来很诱人的说法：哪些来自动物实验，哪些来自零星的临床观察，哪些只是推测。也看它如何解释为什么年轻器官可能带来别的问题，以及研究者判断一件事能不能成立时，会先看什么。"
+        }
+      ]
+    },
     {
       "date": "2026-09-24",
       "companies": [
@@ -3288,246 +3535,6 @@
           "source": "Menlo Ventures",
           "published": "Tue, 08 Sep 2026 10:00:00 +0000",
           "story": "一家投资机构宣布新合伙人加入，表面上看只是人事变动，但如果你在创业或者打算融资，这类消息里往往藏着风向标。新合伙人过去投过什么、关注什么领域，通常意味着这家机构接下来想把钱往哪里放。Menlo Ventures 在业界不算陌生，这次请来的人背景也值得琢磨。读这篇公告时，别只看头衔和客套话，试着从她的经历里推断，什么样的创业公司更容易引起这家机构兴趣，这对你判断自己的项目是否踩在趋势上会有帮助。"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-07",
-      "companies": [
-        {
-          "id": 30726,
-          "name": "Socratix AI",
-          "url": "https://getsocratix.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/socratix-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "AI coworkers for fraud and compliance teams.",
-          "originalDescription": "Socratix builds AI coworkers for fraud and compliance teams so that humans don't have to spend their days drowning in alerts and spreadsheets. Today, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. Socratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount. We've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and compliance. We're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution.",
-          "published": "",
-          "story": "Socratix AI 为金融科技公司和银行的反欺诈与合规团队打造人工智能同事。想象你是一家银行的风控分析师，每天面对数百条警报，在不同工具间切换，手动拼接线索，在压力下做出判断，过程缓慢且容易出错。Socratix 的智能体能够实时调查警报，取代人工复核，提供快速且可解释的决策，帮助团队减少欺诈损失、降低误报率，并在不增加人手的情况下扩大运营规模。这家公司来自 YC 夏季 2025 批次，团队仅四人，正在招聘，其创始人在 DoorDash 曾帮助节省超过 3000 万美元，这足以说明他们对问题的深刻理解。",
-          "rank": 1
-        },
-        {
-          "id": 31464,
-          "name": "Soria",
-          "url": "https://www.soriaanalytics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/soria",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI Financial Research Terminal built for Healthcare (and beyond)",
-          "originalDescription": "Soria is an AI-native Financial Terminal for investors who specialize in a particular sector, starting with healthcare. Our agents convert hundreds of the most important public and private sources into an always-on financial model, reviewed by domain experts and delivered to hedge funds, banks, and asset managers through a terminal UI, MCP, API, warehouse sync, and research feed. Unlike our competitors, we own the data layer and expand bottom-up, one sector at a time - additionally our agents proactively do research on behalf of our clients without them lifting a finger or sharing any data.",
-          "published": "",
-          "story": "Soria 是一个面向专业投资者的财务终端，从医疗健康行业起步。如果你是一家对冲基金的研究员，负责跟踪医疗公司，你每天要阅读大量公开和私有数据，手动维护财务模型。Soria 的智能体能将数百个数据源转化为持续更新的财务模型，并由领域专家审核，通过终端界面、接口、数据仓库同步等方式交付。它自己拥有数据层，并自下而上地拓展，每个行业独立推进，智能体还会主动为你做研究，无需你动手或分享数据。这家公司来自 YC 春季 2026 批次，目前正在招聘，团队三人。",
-          "rank": 2
-        },
-        {
-          "id": 31445,
-          "name": "Harbor",
-          "url": "https://runharbor.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/runharbor",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "AI-native CRO for clinical trial operations",
-          "originalDescription": "Harbor is building an AI-native contract research organization (CRO) for clinical trials. We started with an AI-native system of record for clinical trial data (electronic data capture system), grew the software business to seven trials and ~$187k in contracted software revenue over the next twelve months, then expanded into full-service trial execution and signed our first CRO contract worth $1.93M over three years. Clinical trials consume 45% of all new drug and device development spend. While some of that goes to software, sites, and patients, the largest line items are services: project management, monitoring, data management, site coordination, source verification, query resolution, record reconciliation, and analysis. Today, drug and device companies outsource clinical operations to legacy CROs and their massive teams, which is why the CRO market is $82B annually. Harbor delivers the regulated services companies buy from legacy CROs, but built around our AI-native system of record from day one. Our software already automates the core data workflows: study build, data capture, query generation, monitoring, signing, and database lock. Because we own the system of record, we can expand into the surrounding service workflows: site contracting and billing, subject engagement and retention, statistics, reporting, and more. We built Harbor because we lived through the problem. Albert spent four years in clinical trials and regulatory strategy at a medical device startup, taking an unproven wearable from first-in-human trials to FDA authorization. Nate brings the technical depth, having built scalable software at Google and Ramp and served as employee #1 at a previous YC startup.",
-          "published": "",
-          "story": "Harbor 正在为临床试验运营打造人工智能原生的合同研究组织。想象你是一家制药公司的临床试验运营负责人，正为项目进度和成本头疼。Harbor 先开发了人工智能原生的电子数据采集系统，并已签约七个试验，软件合同收入约 18.7 万美元，随后扩展到全服务试验执行，并签下价值 193 万美元的三年期合同。临床试验消耗了药物和器械开发支出的 45%，而传统合同研究组织依赖庞大团队，市场高达 820 亿美元。Harbor 来自 YC 春季 2026 批次，团队三人，正在招聘。",
-          "rank": 3
-        },
-        {
-          "id": 31485,
-          "name": "ANORIA",
-          "url": "https://www.anoria.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/anoria",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "The first wearable that reads your emotions to enhance your EQ.",
-          "originalDescription": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
-          "published": "",
-          "story": "ANORIA 制造第一款能读取情绪的可穿戴设备，旨在提升你的情商。想象你是一个经常在高压工作后感到疲惫但说不清原因的人，你已追踪睡眠、恢复和步数，却依然无法理解自己的情绪。ANORIA 的设备能感知你的感受，告诉你原因，并给出建议，让情绪智力变得可训练，帮助你更好地与人连接和创造。这不仅仅是手机应用，因为它把能力放进了贴近身体的传感器中，实现随时随地的情绪反馈。这家公司来自 YC 春季 2026 批次，团队五人，正在招聘。",
-          "rank": 4
-        },
-        {
-          "id": 30977,
-          "name": "Rovi Health",
-          "url": "https://www.rovi.health",
-          "sourceUrl": "https://www.ycombinator.com/companies/rovi-health",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Consumer Health Services",
-            "Health Tech",
-            "Digital Health",
-            "Healthcare",
-            "Health Insurance"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI healthcare concierge for employees",
-          "originalDescription": "We deliver high-quality, cost-effective healthcare to employees through text. Employers cut 10–20% of healthcare spend. Employees get concierge care that improves outcomes. Our AI agents analyze clinical data to identify care needs. We treat common conditions through our integrated virtual clinic. For more complex care, our agents find the best in-network providers using millions of price and quality data points, and handle end-to-end appointment booking.",
-          "published": "",
-          "story": "Rovi Health 为员工提供人工智能医疗管家服务，通过短信实现高质量、低成本的医疗保健。想象你是一家公司的人力资源负责人，正为员工健康福利成本上涨而烦恼。Rovi Health 让雇主削减 10% 到 20% 的医疗支出，同时员工获得更好的护理。其人工智能智能体分析临床数据，识别护理需求，通过内置虚拟诊所治疗常见病，并为复杂病例找到网络内最佳医生，全程负责预约。这家公司来自 YC 秋季 2025 批次，团队三人，正在招聘，专注于消费者健康服务。",
-          "rank": 5
-        },
-        {
-          "id": 35395,
-          "name": "Workers IO",
-          "url": "https://www.ycombinator.com/companies/workers-io",
-          "sourceUrl": "https://www.ycombinator.com/companies/workers-io",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "B2B",
-            "Infrastructure"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Deterministic Virtual Machines",
-          "originalDescription": "Workers IO makes sure everything you ship works. Our platform maps every scenario your software can face in production and verifies each release against all of them in simulation environments, every failure comes back as an exact, replayable run. Engineering teams stop chasing bugs and ship at agent speed, with certainty that used to be impossible.",
-          "published": "",
-          "story": "Workers IO 提供确定性虚拟机，确保你发布的软件都能正常工作。想象你是一位工程负责人，每次发布新版本都担心生产环境出错。Workers IO 的平台会映射软件在生产中可能遇到的每种场景，并在模拟环境中验证每个版本，所有失败都会以可精确重放的运行记录返回。工程团队不再追逐 bug，可以以智能体速度交付，同时获得前所未有的确定性。这家公司来自 YC 秋季 2026 批次，团队两人，目前未招聘。",
-          "rank": 6
-        },
-        {
-          "id": 30449,
-          "name": "Attune",
-          "url": "https://attunehq.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/attune",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Infrastructure"
-          ],
-          "batch": "Spring 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Faster builds, zero effort.",
-          "originalDescription": "Attune makes blazingly fast build tools that require zero migration effort. As AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it. Existing solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your builds. Instead, we do native, first-class integrations into compilers and build systems. With Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds. Eliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
-          "published": "",
-          "story": "Attune 让构建变得更快，且无需迁移。想象你是一位开发者，写完代码只需一分钟，但编译、部署和测试却要等 30 分钟。现有方案要么需要痛苦地迁移到 Bazel 等新工具，要么依赖更大的服务器。Attune 则直接集成到编译器和构建系统中，你只需将 `cargo build` 改为 `hurry cargo build`，就能获得 20 倍的构建加速。这家公司来自 YC 春季 2025 批次，团队三人，正在招聘，创始人在 FOSSA 共事三年，分别担任工程和产品负责人。",
-          "rank": 7
-        },
-        {
-          "id": 31435,
-          "name": "Lumius",
-          "url": "https://www.lumius-imaging.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/lumius",
-          "location": "Durham, NC, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Fast, smart, accessible 3D ultrasound that anyone can use",
-          "originalDescription": "Ultrasound today is still mostly 2D. Clinicians have to imagine the 3D anatomy in their head while also moving the probe at the same time. This makes procedures like vascular access hard to learn and perform consistently, especially for beginners. ~50% fail on their first attempt. Hospitals also spend millions each year on 2D ultrasound training. Meanwhile, existing 3D ultrasound devices can cost >10× as much. Lumius is building fast, smart, and accessible 3D ultrasound systems to eliminate this 2D guesswork. Our technology shows a clear, real-time 3D view of what’s inside the body. It works over a large volume, not just a thin slice. The device is also affordable, compact, and portable. We are starting with vascular access, especially central line. Future use cases include blood clot detection, tumor diagnosis, and biopsy guidance. Our long-term vision is a universal 3D ultrasound platform that brings easy-to-use, real-time imaging to a wide range of clinical and eventually consumer applications.",
-          "published": "",
-          "story": "Lumius 正在开发快速、智能且人人都能使用的 3D 超声设备。想象你是一位新手医生，第一次尝试血管穿刺，需要一边移动探头一边在脑海中想象 3D 解剖结构，约 50% 的初学者首次尝试会失败。Lumius 的设备能实时显示体内清晰的 3D 视图，覆盖大范围体积而非薄层，且价格亲民、小巧便携。公司从血管通路切入，未来将用于血栓检测、肿瘤诊断和活检引导。这家公司来自 YC 春季 2026 批次，团队四人，正在招聘，位于北卡罗来纳州达勒姆。",
-          "rank": 8
-        },
-        {
-          "id": 30884,
-          "name": "Flick",
-          "url": "https://flick.art",
-          "sourceUrl": "https://www.ycombinator.com/companies/flick",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Creator Economy"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "We Handle AI. You Direct Films.",
-          "originalDescription": "Flick is an AI filmmaking software that lets people create Hollywood-level short films completely using AI end-to-end. There are many AI tools that can give you 8-second casual clips to post on social media, but when it comes to creating truly high-quality films with coherent storylines, consistent characters, and cinematic aesthetics, they don’t come close due to their lack of flexibility, creative control, and fragmented creative flow. Founded by an award-winning filmmaker and a founding engineer at Instagram, Flick defines an interface specifically designed for native AI filmmaking that feels natural and enables end-to-end creative flows. Think of Flick as Figma for AI filmmaking. There are 4 complete AI short films created using Flick that got 20+ awards in international film festivals already and our early creator residency community are generating several AI short films every week. We are also building a community where we produce our own AI films as well as collaborating with other well-known filmmakers to share their “behind-the-scenes” workflows as resuable templates to inspire users in our community. We not only build product, we also build world-class content. The whole film industry will be revolutionized by AI and our goal is to be “the product” that defines this category.",
-          "published": "",
-          "story": "Flick 是一款人工智能电影制作软件，让你完全用人工智能创作好莱坞级别的短片。想象你是一位独立电影导演，想用人工智能讲述连贯的故事，但现有工具只能生成几秒钟的片段，缺乏对角色一致性和电影美学的控制。Flick 提供了一个专为人工智能电影制作设计的界面，支持端到端的创作流程，就像电影制作的 Figma。创始人包括一位获奖电影制作人和 Instagram 的创始工程师。已有四部用 Flick 制作的短片在国际电影节上获得 20 多个奖项，早期创作者社区每周产出多部短片。这家公司来自 YC 秋季 2025 批次，团队两人，正在招聘。",
-          "rank": 9
-        },
-        {
-          "id": "hn-launch-49451495",
-          "name": "Risklytics",
-          "url": "https://www.risklytics.ai/",
-          "sourceUrl": "https://news.ycombinator.com/item?id=49451495",
-          "location": "Unknown",
-          "source": [
-            "Launch HN"
-          ],
-          "tags": [
-            "Product"
-          ],
-          "batch": "",
-          "isHiring": false,
-          "teamSize": 0,
-          "originalOneLiner": "YC S26) – Insurance brokerage for frontier tech companies",
-          "originalDescription": "YC S26) – Insurance brokerage for frontier tech companies",
-          "published": "2026-08-26T16:06:01Z",
-          "story": "Risklytics 是一家面向前沿科技公司的保险经纪公司，来自 YC 夏季 2026 批次，在 Hacker News 上发布。想象你是一家太空初创公司的创始人，正在为卫星发射寻找保险，但传统保险公司不理解你的技术风险。Risklytics 专门为这类前沿科技公司设计保险方案，它们可能包括太空、生物技术或自动驾驶等领域。由于信息有限，其价值在于专注这一细分市场，为高风险高创新行业提供定制化保险服务。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49597892",
-          "title": "Show HN: The Analyst (A data science analytics simulator)",
-          "url": "https://theanalyst.dev",
-          "source": "Hacker News",
-          "published": "2026-09-07T12:58:46Z",
-          "story": "学数据分析的人常常卡在同一个地方：书上的案例都懂，一到自己面对一堆乱糟糟的表格就不知道从哪下手。市面上有很多教程讲工具怎么用，却很少有东西能让人在安全的环境里反复练习那种“拿到问题、拆解数据、得出结论”的完整过程。这个叫 The Analyst 的模拟器，看起来就是想补上这块空缺。它出现在 Hacker News 上，说明不少工程师和自学者正在找这样的练习场。读的时候可以留意，它把数据分析的哪个环节做成了核心玩法，是让你更怕犯错，还是更敢去试错。"
-        },
-        {
-          "id": "MIT Technology Review-aHR0cHM6Ly93",
-          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-          "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-          "source": "MIT Technology Review",
-          "published": "Mon, 07 Sep 2026 12:10:00 +0000",
-          "story": "每天打开科技新闻，总能看到一些让人摸不着头脑的新词，比如地下氢，又比如那些行为出格的人工智能代理。你可能想问，这跟我有什么关系？其实这些看似遥远的技术动向，往往预示着我们未来几年会用什么方式生活和工作。这篇文章就像一扇窗户，帮你把零散的信息串起来，看清背后真正在发生的变化。读的时候不用急着记结论，可以留意作者是怎么从一条新闻切入，逐步展开到行业甚至社会层面的思考，这种拆解问题的路径，比新闻本身更有意思。"
-        },
-        {
-          "id": "Lenny's Newsletter-aHR0cHM6Ly93",
-          "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-          "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-          "source": "Lenny's Newsletter",
-          "published": "Mon, 07 Sep 2026 12:04:19 GMT",
-          "story": "很多公司都在说要用人工智能提效，但真到落地时往往卡住：数据散落各处，工具互不连通，员工也不知道该从哪里问起。如果你正在为这类事头疼，或者只是好奇大公司内部到底怎么把人工智能用起来，这篇来自Stripe工程团队的分享值得一看。它讲的不是宏大愿景，而是他们如何一步步搭建起一个真正能用的企业知识系统。读的时候，可以特别关注作者提到的那些细节，比如他们遇到了什么阻力，又是如何判断优先级的，这些真实取舍往往比漂亮的方法论更有启发。"
         }
       ]
     }

@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-24T12:42:39.299Z",
+  "updatedAt": "2026-09-25T12:44:51.789Z",
   "readings": [
+    {
+      "key": "technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients",
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "usedAt": "2026-09-25",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wave.subworkflow.ai",
+      "title": "Show HN: Wave – Layered gradient wave backgrounds using Three.js and shaders",
+      "url": "https://wave.subworkflow.ai/",
+      "usedAt": "2026-09-25",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine",
+      "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
+      "url": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/",
+      "usedAt": "2026-09-25",
+      "site": "startup-radar"
+    },
     {
       "key": "maxxmod.com",
       "title": "Show HN: Maxxmod – The browser extension built for YouTube power users",
