@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-25T12:44:51.789Z",
+  "updatedAt": "2026-09-28T15:23:38.904Z",
   "readings": [
+    {
+      "key": "hn.watch",
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "url": "https://hn.watch/",
+      "usedAt": "2026-09-28",
+      "site": "startup-radar"
+    },
+    {
+      "key": "lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
+      "title": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
+      "usedAt": "2026-09-28",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026",
+      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+      "usedAt": "2026-09-28",
+      "site": "startup-radar"
+    },
     {
       "key": "technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients",
       "title": "Young organs may not be a fountain of youth for recipients",
