@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-28T15:23:38.904Z",
+  "updatedAt": "2026-10-02T13:49:45.624Z",
   "readings": [
+    {
+      "key": "blog.cloudflare.com/introducing-web-search-api",
+      "title": "Introducing Web Search API via AI Gateway",
+      "url": "https://blog.cloudflare.com/introducing-web-search-api/",
+      "usedAt": "2026-10-02",
+      "site": "startup-radar"
+    },
+    {
+      "key": "github.com/heychristoph/soc2-auditor",
+      "title": "Show HN: SOC2 Auditor Skill",
+      "url": "https://github.com/heychristoph/soc2-auditor",
+      "usedAt": "2026-10-02",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles",
+      "title": "Tesla sustains its EV sales momentum despite US troubles",
+      "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+      "usedAt": "2026-10-02",
+      "site": "startup-radar"
+    },
     {
       "key": "hn.watch",
       "title": "Show HN: HN.watch – Videos of all Hacker News posts",

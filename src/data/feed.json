@@ -1,7 +1,261 @@
 {
-  "generatedAt": "2026-09-28T15:23:38.902Z",
+  "generatedAt": "2026-10-02T13:49:45.622Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-10-02",
+      "companies": [
+        {
+          "id": 31241,
+          "name": "Corelayer",
+          "url": "https://www.corelayer.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/corelayer",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "B2B",
+            "Enterprise Software",
+            "AI"
+          ],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "AI production engineer for regulated industries",
+          "originalDescription": "Corelayer is the AI-native platform for production software support, built for regulated industries like finance and healthcare. It continuously monitors alerts, logs, infrastructure, and underlying data for issues and uses agents to debug and suggest fixes. We're helping SRE, production services, and on-call engineers at companies ranging from growth-stage fintechs to Fortune 500 financial institutions spend less time on support and more on high-leverage work.",
+          "published": "",
+          "story": "这是做受监管行业生产软件支持的公司。假如你是一名在大型金融机构值夜班的待命工程师，凌晨三点系统突然报警，你手边堆着日志、监控面板和基础设施信息，却要在最短时间内判断到底哪里出了问题。Corelayer 会持续盯着这些报警、日志和底层数据，用智能体帮助定位故障并给出修复建议，让待命工程师少花时间在救火上。它来自 YC 冬季 2026 批次，团队目前三人，方向是开发工具和企业软件，服务对象从成长中的金融科技公司到大型金融机构，这类场景对稳定性和合规要求都很高。",
+          "rank": 1
+        },
+        {
+          "id": 30903,
+          "name": "Kestrel AI",
+          "url": "https://usekestrel.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/kestrel-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AIOps",
+            "Developer Tools",
+            "DevOps",
+            "Infrastructure"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI Agents for Platform Engineering",
+          "originalDescription": "Kestrel is the AI automation layer for platform engineering teams. Platform teams use Kestrel to automate incident response, cloud provisioning, CI/CD, security, and developer requests across their stack. Kestrel turns natural-language prompts into deterministic, production-ready workflows with 40+ integrations, 200+ pre-built actions, and support for custom HTTP and webhook actions. Developer-first, with a CLI, Python SDK, and MCP server to manage workflows from where platform teams already work.",
+          "published": "",
+          "story": "这家公司切的是平台工程团队的自动化层。想象你是一名平台工程师，开发同事每天在群里提各种请求，从云资源开通到持续集成流程、安全配置，你既要处理事故又要维护整套基础设施。Kestrel AI 让平台团队用自然语言描述需求，再转成确定性的生产级工作流，覆盖事故响应、云资源开通、持续集成与安全等环节，还提供四十多种集成和两百多个预制动作。它来自 YC 秋季 2025 批次，团队两人，属于人工智能运维和基础设施方向，开发者可以用命令行、Python 开发包和 MCP 服务来管理这些流程。",
+          "rank": 2
+        },
+        {
+          "id": 31176,
+          "name": "Rhizome AI",
+          "url": "https://rhizomeai.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/rhizome-ai",
+          "location": "New York City, NY, USA; Remote",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 1,
+          "originalOneLiner": "Agent Platform for Life Sciences",
+          "originalDescription": "It takes 500,000 days of office work to bring a drug to market. We want to make it 5. To get there, we need agents doing most of the work. Today, our research agent is the best way to know what the FDA thinks. Users ask a question and get an answer backed by up to 1,000 documents, where each statement has a citation. It’s the best because we have the best retrieval engine. We’ve tuned it on our life science-specific dataset, and we find what others miss. As more teams use Rhizome, we gain more data on what regulatory professionals actually need, which makes retrieval even better. This flywheel is how we become the retrieval engine that powers all human and agent work in life sciences. Chetan started his career as a research engineer, but quickly realized he enjoyed building more than research. He joined EvolutionaryScale as their sole founding product engineer, launching their developer-scientist platform and scaling to tens of thousands of users and billions of API calls. He was also #16 at Instabase helping banks with document processing, closing $7m as the technical closer. Agents can do magical things today, but most in life sciences only use them to edit emails. Agents are missing the context they need to 100x the number of drugs we can bring to market. Rhizome AI is focused on that critical problem.",
+          "published": "",
+          "story": "这是面向生命科学的智能体平台。如果你是一名药企的法规事务专员，每天要在海量文件里确认某个问题监管机构到底怎么看，翻文档常常要花掉大半天。Rhizome AI 的研究智能体让你直接提问，答案由最多一千份文件支撑，每句陈述都带引用，它说自己检索能力更强，是因为在生命科学专属数据集上做过调优。团队来自 YC 冬季 2026 批次，目前一人并在招聘，方向是让人工智能承担生命科学里大量重复的案头工作，随着更多团队使用，它还能积累监管专业人员真正需要什么的数据。",
+          "rank": 3
+        },
+        {
+          "id": 32716,
+          "name": "Neuromorphic",
+          "url": "https://www.neuromorphic.vision/",
+          "sourceUrl": "https://www.ycombinator.com/companies/neuromorphic",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Robotics",
+            "B2B",
+            "Biotech",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Building robots to automate wetlabs",
+          "originalDescription": "We are building robots that can work autonomously in existing wet labs. Unlike traditional lab automation, which requires dedicated equipment and fixed workflows, our robot moves between workstations, manipulates existing scientific equipment, transports lab materials, and executes experiments using the same lab infrastructure as a human technician. We make the robots easy to manage through natural interfaces like Slack, email, and phone. Our goal is to make deploying robots in wet labs as easy as onboarding a new employee, and to accelerate scientific research!",
+          "published": "",
+          "story": "这是做实验室自动化机器人的硬科技公司。如果你是一名湿实验室的技术员，每天要在不同工作站之间搬运材料、操作仪器、重复执行实验，很多时间耗在跑腿上。Neuromorphic 造的机器人能在现有实验室里自主移动，在工位之间穿梭，操作已有的科学设备，运送实验材料并执行实验，不需要专门设备或固定流程。它来自 YC 夏季 2026 批次，团队三人并在招聘，用户可以通过 Slack、邮件或电话这类自然界面管理机器人，目标是把部署机器人变得像让新员工入职一样简单，从而加快科研进度。",
+          "rank": 4
+        },
+        {
+          "id": 32121,
+          "name": "Moonshot",
+          "url": "https://moonshot.computer/",
+          "sourceUrl": "https://www.ycombinator.com/companies/moonshot-computer",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Consumer",
+            "Productivity",
+            "AI",
+            "AI Assistant"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "agents for the rest of us",
+          "originalDescription": "We want to bring AI agents to a billion people. To do this, we believe it needs to be 1. proactive and 2. personal. A billion people already carry the right device, but none of them have the right connector. Moonshot is personal intelligence that lives on your iPhone and listens to you 24/7. It continuously builds up a greater understanding of you through constantly listening and building context. It just pays deep attention, the way a good friend does. Through this, Moonshot monitors your conscious and subconscious life, figuring out what you need before you know, reminding you about open loops, identifying life and emotional trends before you recognize it, and covering a lot more of what we gloss over in daily life. For fifty years, software has waited to be asked. We think tools are just good enough to flip this, and the next great software will provide value before asking for something first. We're doing it through Moonshot. Our thesis is simple: you're only living half your life. The half that you actively remember. The other half just evaporates into your subconscious: what you said, felt, promised, and forgot. It's the more interesting half, and until now nothing could catch it, making it not actionable. Moonshot catches your subconscious half and understands you well enough to take actions on your behalf. Take life personally. The iOS app is designed around ambient listening and clear user control. Short microphone chunks are sent securely to Moonshot's private transcription service and deleted when transcription finishes. Text and selected context can be sent through Moonshot's server to a model when the app needs to understand a moment. Nothing leaves without your yes. The privacy policy explains every data path, stored copy, permission, and deletion control in detail. Moonshot is in early access. Join the waitlist to hear when access opens, read more about the team and product on the About page, or use the Contact page for a direct written response from the Moonshot team. Let's make it a Moonshot.",
+          "published": "",
+          "story": "这是做个人智能助理的消费产品。一个每天开会、回消息、脑子里装着很多待办的咨询顾问，常常在忙乱中忘掉答应别人的事，也说不清自己最近情绪为什么起伏。Moonshot 想做的是住在 iPhone 上、持续聆听并理解你的个人智能，它像朋友一样留意你的生活，提醒你那些没闭环的事，甚至在你意识到之前发现情绪和生活的趋势。它来自 YC 夏季 2026 批次，团队三人，方向是让智能体主动提供价值，而不是像过去五十年的软件那样一直等着被提问，这个从被动到主动的转变正是它值得看的地方。",
+          "rank": 5
+        },
+        {
+          "id": 31464,
+          "name": "Soria",
+          "url": "https://www.soriaanalytics.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/soria",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "AI Financial Research Terminal built for Healthcare (and beyond)",
+          "originalDescription": "Soria is an AI-native Financial Terminal for investors who specialize in a particular sector, starting with healthcare. Our agents convert hundreds of the most important public and private sources into an always-on financial model, reviewed by domain experts and delivered to hedge funds, banks, and asset managers through a terminal UI, MCP, API, warehouse sync, and research feed. Unlike our competitors, we own the data layer and expand bottom-up, one sector at a time - additionally our agents proactively do research on behalf of our clients without them lifting a finger or sharing any data.",
+          "published": "",
+          "story": "这家公司切的是面向医疗行业投资者的金融研究终端。假如你是一名专注医疗板块的对冲基金分析师，每天要跟踪大量公开和私有信息源，手动更新财务模型既慢又容易漏。Soria 的智能体把这些重要来源转成持续更新的财务模型，由领域专家复核，再通过终端界面、接口、仓库同步和研究流交付给对冲基金、银行和资产管理公司。它来自 YC 春季 2026 批次，团队三人并在招聘，和竞品不同的是它自己掌握数据层，按行业自下而上逐个扩张，而且智能体会主动替客户做研究，不需要客户共享数据。",
+          "rank": 6
+        },
+        {
+          "id": 32913,
+          "name": "Pacific",
+          "url": "https://pacific.space",
+          "sourceUrl": "https://www.ycombinator.com/companies/pacific",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Robotics",
+            "Space Exploration",
+            "Manufacturing",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 6,
+          "originalOneLiner": "Mass-producing and financing micro data center incredibly quickly.",
+          "originalDescription": "We mass-produce modular data centers that deploy on stalled infrastructure projects losing billions per week. Delayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific mass-produces modular data centers that deploy on those sites in days and turn their unused power into revenue. Data centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. We'll use the same mechanisms we're building today to deploy compute across the galaxy.",
+          "published": "",
+          "story": "这是做模块化数据中心制造与融资的公司。如果你负责一个停工已久的基础设施项目，工地上电力接口闲置，债务利息每周都在烧钱，你却迟迟等不到数据中心上线。Pacific 批量生产模块化数据中心，几天内就能部署到这些停滞的工地上，把闲置电力变成收入。它来自 YC 夏季 2026 批次，团队六人，方向涉及金融科技、机器人、太空探索和制造。它的冷却系统使用金刚石晶圆，使设备在地球上任何地方都能运行，包括沙漠，团队还表示会把今天搭建的机制用于未来在太空中部署算力。",
+          "rank": 7
+        },
+        {
+          "id": 31477,
+          "name": "BioStack Platforms",
+          "url": "https://www.getbiostack.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/biostack-platforms",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 10,
+          "originalOneLiner": "Real world training envs for healthcare AI models",
+          "originalDescription": "BioStack is building the data engine for healthcare and drug discovery AI. The bottleneck is not models. It is access to high-quality biological data. Clinical and experimental data is fragmented, unstructured, and locked inside hospitals, labs, and CROs, while generating new data is slow and expensive. BioStack fixes this with proprietary clinical and preclinical data pipelines that turn real biomedical workflows into ML-ready training environments. We structure longitudinal multimodal data across imaging, EHR, and experimental assays, then package it for post-training and reinforcement learning so models can learn how research and care actually happen. Instead of static datasets, BioStack gives AI labs workflow-aligned data and environments that improve reasoning, decision-making, and real-world performance in biology and medicine.",
+          "published": "",
+          "story": "这是给医疗人工智能模型提供真实世界训练环境的公司。如果你是一名医疗人工智能实验室的研究员，手里有不错的模型，却苦于拿不到高质量、结构化的临床和实验数据，因为数据散落在医院、实验室和合同研究组织里，重新生成又慢又贵。BioStack Platforms 用专有的临床和临床前数据管道，把真实的生物医学工作流变成可供机器学习使用的训练环境，把影像、电子健康记录和实验检测等纵向多模态数据整理好，用于后训练和强化学习。它来自 YC 春季 2026 批次，团队十人并在招聘，关注点是让模型学会研究和诊疗实际是怎么发生的。",
+          "rank": 8
+        },
+        {
+          "id": 30623,
+          "name": "Playgent",
+          "url": "https://useplaygent.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/playgent",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "SaaS",
+            "Infrastructure",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Sandboxes for AI agents",
+          "originalDescription": "When enterprise agents fail in production, the conditions that caused the failure are critical: user state, data, tool calls, and context. Without a way to recreate these conditions, teams can't fix what broke. Playgent provides infrastructure to create high-fidelity sandbox environments for AI agents. Our environments come packaged as a single MCP url where tool calls are mocked, authentication is abstracted away, and test data can be initialized via natural language or JSON specifications. Teams can use Playgent to reproduce production failures in safe, scoped environments that accurately reconstruct state. Finally, export runs as OTel traces from Playgent's environment to plug directly into your observability tools or RL pipelines.",
+          "published": "",
+          "story": "这是给智能体提供沙盒基础设施的公司。想象你是一名企业工程负责人，公司上线的智能体在生产环境里出了故障，可导致失败的用户状态、数据、工具调用和上下文早已消失，团队根本没法复现问题。Playgent 提供高保真的沙盒环境，打包成一个 MCP 地址，工具调用被模拟，认证被抽象掉，测试数据可以用自然语言或 JSON 规格初始化，团队就能在安全受控的环境里准确重建状态、复现生产故障。它来自 YC 夏季 2025 批次，团队两人，运行结果还能导出为 OTel 追踪，直接接入可观测性工具或强化学习流程。",
+          "rank": 9
+        },
+        {
+          "id": "hn-launch-49911995",
+          "name": "Magnitude",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "sourceUrl": "https://news.ycombinator.com/item?id=49911995",
+          "location": "Unknown",
+          "source": [
+            "Launch HN"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "YC S25) – Self-optimizing inference engine for agents",
+          "originalDescription": "YC S25) – Self-optimizing inference engine for agents",
+          "published": "2026-09-30T17:37:40Z",
+          "story": "这是做智能体推理引擎的公司。如果你是一名负责把智能体推上生产环境的工程负责人，最头疼的往往是推理成本和响应速度：调用量一上来，账单和延迟都跟着涨。Magnitude 的方向是自优化的推理引擎，让智能体在运行中不断调整以获得更好的表现。它通过 Launch HN 发布，公开信息里只提到属于 YC 夏季 2025 批次，没有更多团队规模或客户细节。值得看的地方在于，推理效率是智能体大规模落地时绕不开的一环，这个场景本身就决定了它会被很多工程团队关注。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-49933454",
+          "title": "Show HN: SOC2 Auditor Skill",
+          "url": "https://github.com/heychristoph/soc2-auditor",
+          "source": "Hacker News",
+          "published": "2026-10-02T13:45:05Z",
+          "story": "很多小团队第一次要拿企业客户时，才会突然被问到有没有 SOC2 报告，然后发现合规这件事既贵又绕，工程师只好自己想办法。这条 Show HN 值得看，是因为它把这种压力变成了一个可以动手试的工具，而不是又一篇讲合规多重要的文章。读的时候可以留意作者怎么切分审计流程，哪些环节被自动化，哪些仍然要人来做判断，以及他为什么选了这个入口而不是做一个大而全的平台。"
+        },
+        {
+          "id": "TechCrunch-aHR0cHM6Ly90",
+          "title": "Tesla sustains its EV sales momentum despite US troubles",
+          "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+          "source": "TechCrunch",
+          "published": "Fri, 02 Oct 2026 13:39:23 +0000",
+          "story": "如果你最近在关注电动车，大概会有一个印象：美国市场对特斯拉似乎不太友好，补贴在变，竞争也在变。可销量数字又常常和这种印象对不上，这正是普通读者最容易困惑的地方。这篇报道值得读，是因为它试着解释这种反差从哪里来，是海外市场在补位，还是产品线本身在起作用。读的时候可以看作者怎么拆开不同地区的数字，怎么判断哪些因素是暂时的，哪些会留下来。"
+        },
+        {
+          "id": "Cloudflare-aHR0cHM6Ly9i",
+          "title": "Introducing Web Search API via AI Gateway",
+          "url": "https://blog.cloudflare.com/introducing-web-search-api/",
+          "source": "Cloudflare",
+          "published": "Fri, 02 Oct 2026 13:28:10 GMT",
+          "story": "做 人工智能 应用的人迟早会遇到一个麻烦：模型需要联网查资料，但自己搭搜索、管密钥、控成本，每一步都不轻松。这类需求往往在原型跑通之后才冒出来，那时候团队才发现基础设施比模型本身还费事。Cloudflare 这篇发布值得看，因为它给出的是一条把搜索接进现有 人工智能 网关的路径。读的时候可以注意它怎么处理调用方式和计费，以及这种把搜索和模型入口放在一起的做法，对开发者意味着什么取舍。"
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "companies": [
@@ -3272,260 +3526,6 @@
           "source": "Crunchbase News",
           "published": "Thu, 10 Sep 2026 11:00:27 +0000",
           "story": "如果你关注过创业生态，大概会注意到一个现象：同样是谈创新，不同国家拿出来的数字和故事完全对不上，因为大家量的是不同的东西。韩国就是一个常被提起又常被误读的例子，它的创业和投资图景和硅谷并不一样。这篇文章值得读，是因为它没有停在口号上，而是去问一个更基础的问题：一个地方的创新经济到底该怎么衡量，哪些指标能说明问题，哪些只是好看。读的时候可以跟着作者的思路走，看他怎么选口径、怎么处理数据里的偏差，以及他为什么认为韩国的经验对别的市场也有参照意义。"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "companies": [
-        {
-          "id": 30859,
-          "name": "Locus",
-          "url": "https://paywithlocus.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/locus",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Finance",
-            "AI"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Payment infrastructure for AI agents",
-          "originalDescription": "We make your agents pay. As agents evolve from tools into dependable, autonomous actors, they’ll need the ability to execute open-ended workflows end-to-end. This inevitably means payments: accessing paywalled data, transacting for services or with other specialist agents. But autonomy requires guardrails. Businesses and developers will need a way to ensure their agents only spend how much and on what they’re supposed to. The machine economy is coming, and Locus (YC F25) is building the connector businesses will need to participate. We connect agents securely to funds, letting you define permissions and limits for every transaction. Each payment is traceable, auditable, and fully reconcilable with your existing financial stack.",
-          "published": "",
-          "story": "这家公司做的是人工智能代理的支付基础设施。想象你是一家 SaaS 公司的财务负责人，你的团队开始用智能体自动处理订阅续费、数据采购等事务，但你担心它们乱花钱。Locus 让智能体安全地连接资金，你可以为每笔交易设定权限和限额，所有支付都可追踪、可审计，并能与现有财务系统对账。它来自 YC 秋季批次，团队两人，瞄准的是即将到来的机器经济，值得关注。",
-          "rank": 1
-        },
-        {
-          "id": 33177,
-          "name": "HyperProbe",
-          "url": "https://hyperprobe.co",
-          "sourceUrl": "https://www.ycombinator.com/companies/hyperprobe",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "AIOps",
-            "Artificial Intelligence",
-            "Developer Tools",
-            "SaaS",
-            "DevOps"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 8,
-          "originalOneLiner": "AI engineer that debugs and fixes production incidents in realtime",
-          "originalDescription": "With tools like Cursor and Claude Code, writing software is no longer the bottleneck. Debugging is. Agents cannot fix production crashes using logs and traces that were sized for human eyeballs. The gap is missing data. HyperProbe allows agents to debug live software autonomously. Our SDK drops non-breaking probes straight into running services to read exact variable states from memory at the moment of failure, instead of reasoning backwards from flat logs. Zero redeploys. Under 1% CPU overhead. Automatic PII redaction. We turn 4-hour production war rooms into 10-minute automated resolutions. As agents write and operate more of the world's software, HyperProbe is the runtime observability layer that lets them understand what they built.",
-          "published": "",
-          "story": "这家公司做的是人工智能运维，帮助智能体实时调试和修复生产事故。想象你是一个后端工程师，凌晨两点被叫醒，因为线上服务崩溃了，你只能盯着海量日志猜原因。HyperProbe 的 SDK 能直接注入运行中的服务，在故障瞬间读取内存中的精确变量状态，无需重新部署，CPU 开销低于 1%，还能自动脱敏。它把四小时的故障排查缩短到十分钟。来自 YC 夏季批次，团队八人，值得关注。",
-          "rank": 2
-        },
-        {
-          "id": 32625,
-          "name": "Qlo",
-          "url": "https://www.getqlo.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/qlo",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Insurance",
-            "Enterprise Software"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Legora for commercial insurance carriers",
-          "originalDescription": "Qlo builds AI agents to run commercial insurance underwriting. We start by fully automating the operational work around risk decisions, become the system of record, and earn autonomy workflow by workflow toward the autonomous AI underwriter. We’re rebuilding underwriting infrastructure from the ground up so human underwriters and AI agents can share the same accounts, rules, documents, permissions, and workflow state. We believe every commercial insurance program will eventually be built and operated end to end by AI agents on Qlo.",
-          "published": "",
-          "story": "这家公司瞄准商业保险核保领域，用人工智能代理来运营核保流程。想象你是一家保险公司的核保经理，每天要处理大量风险评估前的文书工作，还要协调不同系统的数据。Qlo 从自动化风险决策周边的操作入手，逐步成为核保的系统记录，让人工核保员和人工智能代理共享账户、规则、文档和权限。它来自 YC 夏季批次，团队两人，值得关注。",
-          "rank": 3
-        },
-        {
-          "id": 30894,
-          "name": "Unsiloed AI",
-          "url": "https://www.unsiloed.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/unsiloed-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "B2B",
-            "Infrastructure",
-            "APIs"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "API for parsing multimodal unstructured data",
-          "originalDescription": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets. Our APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
-          "published": "",
-          "story": "这家公司做的是多模态非结构化数据的解析接口。想象你是一个数据工程师，正在搭建一个处理 PDF、表格和图片的文档流水线，但通用解析器总是出错，导致下游的检索增强生成效果很差。Unsiloed AI 用视觉模型把非结构化数据转成结构化、可查询的格式，接口已经为初创公司和纳斯达克上市企业解析了数十万份文档。它来自 YC 秋季批次，正在招聘，团队两人，值得关注。",
-          "rank": 4
-        },
-        {
-          "id": 31141,
-          "name": "OctaPulse",
-          "url": "https://www.tryoctapulse.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/octapulse",
-          "location": "Unknown",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "CV and robotics to automate quality inspection in fish farms",
-          "originalDescription": "OctaPulse uses AI vision to automate hatchery QA for fish farms, starting with broodstock phenotyping and juvenile deformity inspection. We cut inspection time from about 5 minutes to under 30 seconds per fish, with more than 90 percent accuracy, so farms advance only high quality fish and waste less feed and labor. Our goal is to bring automation across the entire fish production lifecycle for the $300B aquaculture industry. Aquaculture is the fastest growing food sector, and has already surpassed commercial fishing for production of seafood. Yet two of the most critical QA and QC steps in fish production are still done by hand: phenotyping and deformity inspection. These processes are slow, error prone, and despised by technicians but vital for the success of the farm, so much so that farms spend >$200K a year on trained technicians and geneticists to operate. We’ve built an AI vision platform for vertically integrated finfish farms that drops into existing workflows starting in the hatchery, uses off the shelf cameras, standardizes these QA steps, and creates a proprietary multi species dataset that becomes the brain for future autonomous aquafarms. Phenotyping is the start, but the platform is designed to be a drop in solution that can easily expand into feeding, health monitoring, and processing so we can solve production problems across the lifecycle. We signed a 6-figure paid pilot with the largest trout producer in the United States, are deploying into 2 more farms early 2026, and trained models above 90 percent accuracy while cutting inspection time from 5 minutes to under 30 seconds. Each deployment adds labeled images to our dataset and improves cross species generalization.",
-          "published": "",
-          "story": "这家公司用计算机视觉和机器人技术自动化鱼场的质量检验。想象你是一个水产养殖场的场长，每天要人工检查鱼苗的畸形和表型，每条约五分钟，既慢又容易出错。OctaPulse 把检验时间缩短到三十秒以内，准确率超过九成，帮助渔场只培育优质鱼，减少饲料和人工浪费。它来自 YC 冬季批次，团队两人，瞄准水产养殖这个三千亿美元的行业，值得关注。",
-          "rank": 5
-        },
-        {
-          "id": 30690,
-          "name": "Flai",
-          "url": "https://www.useflai.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/flai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 23,
-          "originalOneLiner": "We Bring Customers to Your Dealership",
-          "originalDescription": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue. We built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away. The result: No more missed opportunities, no more losing customers to competitors. Our founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges. We're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
-          "published": "",
-          "story": "这家公司为汽车经销商提供人工智能语音助手。想象你是一个汽车经销商的销售经理，晚上六点后客户来电经常无人接听，只能眼睁睁看着他们流向竞争对手。Flai 的助手全天候接听电话，能安排试驾、预约保养，还能主动外呼召回活动。它来自 YC 夏季批次，团队二十三人，正在招聘，值得关注。",
-          "rank": 6
-        },
-        {
-          "id": 30689,
-          "name": "b12 Labs",
-          "url": "https://b12-labs.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/b12-labs",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "AI-powered Drug Discovery",
-            "Robotics"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Making hard molecules for Pharma and Biotech",
-          "originalDescription": "b12 makes high-value molecules that are otherwise hard to make. We help pharma companies plan and make new drugs, accelerating early-stage drug discovery from years to months. Andres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (1000+ citations), and won the best paper award at the NeurIPS AI for Science conference. Zlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. Combined, we have an extensive network of hundreds of chemists, automation scientists, and AI 4 Science researchers. We run paid pilots with big pharma companies, demonstrating that our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the iteration cycle.",
-          "published": "",
-          "story": "这家公司结合人工智能和机器人技术，为制药和生物技术公司合成难以制造的分子。想象你是一个药物化学家，正在设计一种新药，但合成路径复杂，迭代周期长。b12 的平台能自主规划并执行实验，在机器人实验室里合成分子，已有大型药企的付费试点。它来自 YC 夏季批次，团队三人，正在招聘，值得关注。",
-          "rank": 7
-        },
-        {
-          "id": 32129,
-          "name": "Egoist Machines",
-          "url": "https://ego.ist/",
-          "sourceUrl": "https://www.ycombinator.com/companies/egoist-machines",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hardware",
-            "Personalization",
-            "Privacy",
-            "Consumer Products",
-            "AI Assistant"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Your personal context, securely portable across every AI app.",
-          "originalDescription": "Egoist Machines is building infrastructure for a world where your personal context belongs to you, rather than to the apps and AI companies you use. Today, every assistant and consumer app builds its own version of you. We think that architecture is backwards. Your context should live with you, persist across products, and be available to any model, app or agent you choose. AI Passport is the first layer of that infrastructure. It brings the context you generate across AI assistants and everyday apps into one portable profile you control. Tell ChatGPT something and Claude can already know it, for example. Switch to a new product and it can understand you from the first interaction, without the new company needing to own the underlying data. Apps integrate through Sign in with AI Passport, requesting only the context they need for a specific purpose and duration. Users can see what is being accessed and revoke that access later. Underneath, we have built our own memory infrastructure for fast, compact per-user retrieval and permissioned access. We are distributing AI Passport directly to consumers through first-party products, while integrating it into consumer applications with existing distribution. Every new product that uses Passport gives users another reason to maintain their context there, and every additional Passport holder makes the context layer more useful to developers. The next step is to build a true Egoist Machine: an intelligent system whose memory, incentives and actions are governed by the individual it represents. We call it Digital Domovoy, the hardware extension of AI Passport. Instead of your most personal context ultimately living on somebody else's servers, it lives and is processed locally on hardware you control. AI Passport becomes the permission layer between that private local context and the cloud models and internet services you choose to use. Our North Star is the Egoist Machine: an intelligent system whose memory, incentives and actions are governed by the individual it represents.",
-          "published": "",
-          "story": "这家公司做的是个人上下文数据的便携基础设施。想象你是一个重度使用人工智能助手的用户，你在 ChatGPT 里告诉过它你的偏好，但换到 Claude 时又得重来一遍。Egoist Machines 的 人工智能 Passport 把你的上下文集中到一个可移植的档案里，你可以通过“使用 人工智能 Passport 登录”授权应用获取所需信息。它来自 YC 夏季批次，团队两人，值得关注。",
-          "rank": 8
-        },
-        {
-          "id": 32623,
-          "name": "Omanta",
-          "url": "https://omanta.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/omanta",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Digital Health",
-            "Healthcare",
-            "Health & Wellness",
-            "Oncology",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "A research lab for one",
-          "originalDescription": "Omanta is a personalized research lab for patients who have exhausted standard options, want to prepare proactively for recurrence, or are living with an unresolved diagnosis. We direct the full operational infrastructure, personnel, expertise, and technology of a large research program toward understanding and addressing the challenges of individual patients across oncology, rare disease, and undiagnosed conditions. For clinicians, we act as a collaborative partner, providing a living roadmap for ongoing patient care built on a rigorous and evolving scientific evidence base. We fully operationalize patient-specific research programs, covering tissue logistics, diagnostic follow-up, data integration, multiomic analysis, therapeutic strategy development, and more. Omanta brings context and clarity to complex cases, helping clinicians see more of the scientific picture as they decide how best to care for their patients.",
-          "published": "",
-          "story": "这家公司为肿瘤、罕见病和未确诊患者提供个性化的研究实验室。想象你是一位肿瘤科医生，遇到一位标准治疗方案失败的患者，你希望为他找到新的治疗线索，但缺乏时间和资源去深入文献和实验。Omanta 为你提供完整的科研基础设施，包括组织物流、诊断追踪、多组学分析和治疗策略制定，并生成一份持续更新的护理路线图。它来自 YC 夏季批次，团队五人，值得关注。",
-          "rank": 9
-        },
-        {
-          "id": 30635,
-          "name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
-          "url": "https://gru.space",
-          "sourceUrl": "https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space",
-          "location": "Los Angeles, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Moon Hotel -> The Intergalactic Construction Company of Earth",
-          "originalDescription": "GRU Space is building permanent lunar infrastructure to make humanity interplanetary within our lifetime, starting with the first hotel on the Moon. In just 6 weeks, we built the world's first Moon factory: patent-pending hardware that turns lunar regolith into bricks and inflates modular pressurized habitats designed to withstand lunar temperature and pressure extremes. Our first mission lands on the Moon in 2027 to demonstrate in-situ brick manufacturing and habitat deployment. A second mission lays the hotel's foundation inside a lunar cave, and a third opens the first lunar hotel, targeted for 2032. We don’t stop at Moon hotels. GRU’s long-term plan: 1. Build the first hotel on the Moon. GRU solves off‑world surface habitation. 2. Become the Moon Base Company of America: build roads, mass drivers, warehouses, and physical infrastructure. 3. Repeat on Mars and build the first cities there. 4. Own property on the Moon and Mars as these economies grow. 5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond—reaching our final form: Galactic Resource Utilization. GRU Space is backed by investors in SpaceX and Anduril, is part of Nvidia's Inception program, and our launch generated 1B+ views across 60+ countries, earning invitations to the White House, Senate, and Pentagon.",
-          "published": "",
-          "story": "这家公司计划在月球上建造酒店，并最终成为星际建筑公司。想象你是一个航天工程师，负责设计月球基地的居住舱，但月球土壤和极端温度让传统建材无法使用。GRU Space 开发了能把月壤变成砖块的硬件，并制造出可充气的加压栖息地。它来自 YC 冬季批次，团队五人，正在招聘，值得关注。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "TechCrunch AI-aHR0cHM6Ly90",
-          "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-          "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-          "source": "TechCrunch AI",
-          "published": "Wed, 09 Sep 2026 12:05:34 +0000",
-          "story": "做音乐的人可能都记得，前几年人工智能生成歌声刚火起来时，大家一边惊叹一边心里打鼓：这些模型到底用了谁的歌来练？版权官司像乌云一样悬在行业头顶。现在Suno换了新模型，明确说用的是授权音乐，这算是给整个赛道探路。对普通听众来说，可能只是觉得生成效果变了，但背后是法律、商业和创作伦理的重新平衡。读这篇时，可以留意作者怎么把复杂的版权纠纷讲清楚，又怎么判断这次换血对公司和用户各自意味着什么。"
-        },
-        {
-          "id": "Crunchbase News-aHR0cHM6Ly9u",
-          "title": "The Sales Test This Norwest Partner Gives Founders Before He&#8217;ll Invest",
-          "url": "https://news.crunchbase.com/venture/startup-investment-qa-ai-hr-fintech-jacobsohn-norwest/",
-          "source": "Crunchbase News",
-          "published": "Wed, 09 Sep 2026 11:00:58 +0000",
-          "story": "创业者找投资人时，最怕的就是聊了半天，对方始终不松口。这位Norwest合伙人愿意分享他考察创始人的销售测试，等于把门缝打开了一点。销售能力在早期公司里常常被低估，很多技术出身的人觉得产品好就够，可现实是，你得先让人愿意掏钱。这篇文章的价值在于，它让你提前知道投资人在饭桌上、在会议室里，心里真正在盘算什么。读的时候，不妨对照自己的项目或想法，看看如果坐在对面，你能不能在几分钟内通过他的测试。"
-        },
-        {
-          "id": "hn-49623937",
-          "title": "Lotus Notes and the dangers of starting from scratch",
-          "url": "https://buttondown.com/blog/lotus-notes-email",
-          "source": "Hacker News",
-          "published": "2026-09-09T10:01:15Z",
-          "story": "老程序员大概都听过Lotus Notes的大名，它曾是办公协作的霸主，后来却被时代抛下。现在技术圈重新讨论它，不是怀旧，而是想弄明白：为什么一个功能那么全的系统会输得那么惨？很多团队做新工具时，恨不得推翻一切重来，觉得旧代码全是包袱，可历史常常证明，推倒重来反而死得更快。这篇被Hacker News热议的文章，可能就是在拆解这个悖论。读的时候，可以带着自己的项目经验，看看作者怎么分析技术债和产品演进之间的拉扯，也许能帮你避开同样的坑。"
         }
       ]
     }
