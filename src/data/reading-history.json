@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-02T13:49:45.624Z",
+  "updatedAt": "2026-10-03T12:29:56.014Z",
   "readings": [
+    {
+      "key": "latent.space/p/ainews-not-much-happened-today-cee",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+      "usedAt": "2026-10-03",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/okta-tripled-on-11-growth-5-interesting-learnings-from-one-of-the-biggest-re-ratings-in-b2b-this-year-14-crpo-growth-30-of-bookings-from-new-products-and-50x-forward-earnings",
+      "title": "Why Okta Tripled on &#8230; 11% Growth. 5 Interesting Learnings From One of the Biggest Re-Ratings in B2B This Year: 14% cRPO Growth, 30% of Bookings From New Products, and ~50x Forward Earnings",
+      "url": "https://www.saastr.com/okta-tripled-on-11-growth-5-interesting-learnings-from-one-of-the-biggest-re-ratings-in-b2b-this-year-14-crpo-growth-30-of-bookings-from-new-products-and-50x-forward-earnings/",
+      "usedAt": "2026-10-03",
+      "site": "startup-radar"
+    },
+    {
+      "key": "theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
+      "title": "Why should I have to pay more for buses if I don't use a smartphone?",
+      "url": "https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
+      "usedAt": "2026-10-03",
+      "site": "startup-radar"
+    },
     {
       "key": "blog.cloudflare.com/introducing-web-search-api",
       "title": "Introducing Web Search API via AI Gateway",
