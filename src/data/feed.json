@@ -1,7 +1,258 @@
 {
-  "generatedAt": "2026-10-08T14:33:23.977Z",
+  "generatedAt": "2026-10-09T14:20:39.046Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-10-09",
+      "companies": [
+        {
+          "id": 31182,
+          "name": "Visibl Semiconductors",
+          "url": "https://visiblsemi.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/visibl-semiconductors",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Enterprise",
+            "Enterprise Software",
+            "Semiconductors",
+            "AI"
+          ],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Custom silicon for power electronics",
+          "originalDescription": "Visibl Semiconductors makes custom silicon accessible to hardware companies, starting with power electronics. We are an AI-native custom-silicon design partner that cuts ASIC development cost and timeline on mature nodes, helping teams deliver better performance and lower BOM cost. We work with data-center and AI-infrastructure power, motor drives, industrial automation and robotics, industrial power supplies and conversion, battery systems and e-mobility powertrains, EV charging, solar, energy storage, grid power, HVAC, heat pumps, and appliances. V1 boards built from off-the-shelf parts are great for getting to market quickly, but scaling to v2+ volume requires optimizing cost, size, and manufacturability. Visibl folds those parts into custom silicon built around the product: a simpler BOM, reclaimed board space, fewer supply constraints, and automation-ready assembly. We manage the full path from architecture and design through verification, fabrication, packaging, and production-ready silicon, working alongside hardware teams so they do not need an in-house chip team.",
+          "published": "",
+          "story": "这是做定制芯片设计的公司，方向是功率电子。假如你是一家做数据中心电源的硬件工程负责人，第一版产品用现成零件拼出来卖得不错，可要放量时发现成本、体积和供货都卡住了。Visibl 把那些分立零件收进一颗围绕产品定制的芯片里，让物料清单更简单、板子更小、供货更稳。它值得关注是因为它来自 YC 冬季 2026 批次，团队只有三人，正在招聘，而且切的是人工智能基础设施供电、电机驱动、工业自动化这些真实需求。",
+          "rank": 1
+        },
+        {
+          "id": 35587,
+          "name": "Ploid",
+          "url": "https://ploid.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/ploid",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "Sales",
+            "API",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "The people data company for the agent era",
+          "originalDescription": "Ploid is the AI-native people data infrastructure for building products, workflows, and agents around people. We’ve built an index of 2B+ people across professional and social sources, with the infrastructure to search, resolve, enrich, and retrieve up-to-date information about anyone on demand. Through Ploid’s API, CLI, and MCP, developers and companies can search for people, enrich profiles, find emails and phone numbers, resolve identities across different data points, and access the broader web context associated with a person. Unlike traditional people databases that rely primarily on static records, Ploid is designed for AI-native workflows. We combine our people index with real-time retrieval and entity resolution so data can be refreshed and expanded at the moment it is requested. Ploid can power everything from sales and recruiting products to customer intelligence, identity resolution, trust and safety, and AI agents that need reliable information about people. Instead of building and maintaining dozens of data integrations yourself, Ploid gives you one infrastructure layer for people data. 2B+ people. One API. Built for AI.",
+          "published": "",
+          "story": "这家公司切的是人员数据基础设施，面向智能体时代。想象你是一名销售开发代表，每天要在网上翻找潜在客户的职位、邮箱和社交动态，还要判断两条记录是不是同一个人。Ploid 建了一个覆盖二十多亿人的索引，开发者可以通过接口、命令行工具和模型上下文协议去搜索、补全、解析身份并取回最新信息。它值得关注是因为它来自 YC 秋季 2026 批次，团队两人，主打的是实时检索和实体消解，而不是静态名录。",
+          "rank": 2
+        },
+        {
+          "id": 30663,
+          "name": "Tesora",
+          "url": "https://tesora.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/tesora",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "API",
+            "Insurance",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Frontier AI for Actuaries",
+          "originalDescription": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change. The part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
+          "published": "",
+          "story": "这是做精算智能体的公司，服务财产险、再保险和承保代理机构。如果你是一名精算师，每天要把数据从各处凑齐、跑完方法、再部署费率表，中间大量时间花在搬运和核对上。Tesora 的智能体替你做这些装配工作，你只负责审阅结果和做判断，而且它部署在你已有的技术栈和基础设施里，数据不拿去训练模型。它值得关注是因为它来自 YC 夏季 2025 批次，团队五人，正在招聘，并且通过了 SOC 2 二类认证。",
+          "rank": 3
+        },
+        {
+          "id": 30894,
+          "name": "Unsiloed AI",
+          "url": "https://www.unsiloed.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/unsiloed-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Artificial Intelligence",
+            "B2B",
+            "Infrastructure",
+            "APIs"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "API for parsing multimodal unstructured data",
+          "originalDescription": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets. Our APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
+          "published": "",
+          "story": "这家公司做的是解析多模态非结构化数据的接口。假如你是一家人工智能团队的工程负责人，正带着几个人做文档处理流程，结果半年过去还卡在表格、图片和图表混排的解析上，检索增强生成的效果一直起不来。Unsiloed AI 用视觉语言模型把这类文档转成结构化、可查询、适合大模型使用的数据，接口已经在为初创公司和纳斯达克上市企业解析数十万份文档。它值得关注是因为它来自 YC 秋季 2025 批次，团队两人，正在招聘，公开基准上表现优于多个同类方案。",
+          "rank": 4
+        },
+        {
+          "id": 30754,
+          "name": "Locata",
+          "url": "https://www.locatahealth.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/locata",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "AI Referral Automation for Primary Care Clinics",
+          "originalDescription": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care. Primary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers. Alejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users. Within two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
+          "published": "",
+          "story": "这是做基层医疗转诊自动化的公司。一个诊所后台工作人员每天要面对大量转诊：提交预授权、通知患者、追着专科那边要结果，人手严重不够。Locata 用智能体把这些步骤接过去，让工作人员腾出手来做患者照护。它值得关注是因为它来自 YC 夏季 2025 批次，团队四人，正在招聘，而且它盯的是一个很大的缺口：美国每年发出一亿多次专科转诊，真正完成的只有一半左右。",
+          "rank": 5
+        },
+        {
+          "id": 32521,
+          "name": "Molagri",
+          "url": "https://molagri.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/molagri",
+          "location": "Toronto, ON, Canada",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Synthetic Biology",
+            "Biotech",
+            "Sustainability",
+            "Climate",
+            "Agriculture"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Resistance free pesticides.",
+          "originalDescription": "Molagri develops safer, more effective pesticides for agriculture. We design biopesticides that hit a precise molecular target unique to pest insects, knocking out pests while sparing pollinators, beneficial insects, and the wider ecosystem. By modeling how pests are likely to evolve, we stay a step ahead of resistance, keeping our products effective against the pests of today and tomorrow. The higher efficacy and biobased production will also contribute to emissions reductions in both manufacturing and field use. Our founders are PhD lab mates from the University of Toronto who have worked together for six years and published in Nature Communications and Nature Microbiology.",
+          "published": "",
+          "story": "这家公司做的是抗性更低的农药，属于合成生物学和农业生物技术方向。如果你是一名种植户，最头疼的往往是害虫越打越不怕药，而广谱农药又伤到授粉昆虫和益虫。Molagri 设计的生物农药打的是害虫身上独有的分子靶点，只杀害虫，放过蜜蜂和天敌，同时通过建模害虫可能的进化路径来延缓抗性。它值得关注是因为它来自 YC 夏季 2026 批次，团队四人，正在招聘，创始人是多伦多大学的博士同学，合作六年，在《自然通讯》和《自然微生物学》上发表过论文。",
+          "rank": 6
+        },
+        {
+          "id": 37533,
+          "name": "HABU",
+          "url": "https://buildhabu.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/habu",
+          "location": "Phoenix, AZ, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Real Estate",
+            "Housing"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Like Crosby, but for real estate development",
+          "originalDescription": "HABU is an AI-native real estate development firm that helps real estate investors deploy capital to build housing faster, at lower cost, and with higher yield. We're building an internal AI-native operating system that completes 90%+ of development tasks at 95% faster processing speeds while delivering the same outcomes customers expect externally: high yield, low risk projects. We're selling the outcome, not the inputs to the outcome. Developers are service providers for white-collar investors: they find land, construct buildings, and operate and sell them for a profit. Our customers don't care how the projects are sourced or managed, only that they are completed on time and produce the forecasted returns. We use agentic workflows, geospatial analysis and mapping, and development-specific workflow automation to manage the end-to-end process. The result is 5x more projects per FTE compared to a non-AI developer, 20% faster project schedules, and 10-15% lower total project costs. We're *not* long term property owners, strictly the service provider (fee/merchant developer). $160B was deployed into multifamily in 2025 and $534B into commercial real estate overall. Developers naturally have high operating margins and we are building to be the most operationally and capital efficient developer in the country. Starting first with multifamily in Phoenix and then expanding nationally.",
+          "published": "",
+          "story": "这是做房地产开发的公司，用人工智能驱动整个开发流程。想象你是一位手里有资金、想投住宅项目的投资人，你其实不关心开发商怎么找地、怎么管工地，只关心项目能不能按时交付并拿到预期回报。HABU 把找地、地理空间分析、流程自动化这些环节放进一套内部操作系统，号称能完成九成以上的开发任务，处理速度快很多，人均能同时推进的项目数也更多。它值得关注是因为它来自 YC 秋季 2026 批次，团队两人，卖的是结果而不是工具本身。",
+          "rank": 7
+        },
+        {
+          "id": 31493,
+          "name": "Plena Health",
+          "url": "https://www.plena.health/",
+          "sourceUrl": "https://www.ycombinator.com/companies/plena-health",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 0,
+          "originalOneLiner": "Plena is the AI operating system for specialty medical practices",
+          "originalDescription": "Plena is the AI operating system for specialty medical practices. We automate the administrative workflows that keep clinics running — referrals, fax intake, scheduling, procedure compliance, and collections — end to end, across all the systems a practice already uses. Unlike point solutions that cover a slice of the problem, Plena becomes the operating layer across the entire practice, connecting the systems, teams, and workflows that keep it running. In 10 months we've grown 17x and crossed seven figures in committed ARR across six specialties and eight states, with 80% of growth through word of mouth.",
+          "published": "",
+          "story": "这家公司做的是专科诊所的人工智能操作系统。如果你是一家专科诊所的运营负责人，每天要处理转诊、传真收件、排班、流程合规和收款，系统之间还互不相通。Plena 把这些行政流程端到端接过去，横跨诊所已经在用的各种系统，而不是只解决其中一小块。它值得关注是因为它来自 YC 春季 2026 批次，正在招聘，十个月里增长了十七倍，承诺年经常性收入过了七位数，覆盖六个专科和八个州，其中八成增长来自口碑。",
+          "rank": 8
+        },
+        {
+          "id": 31193,
+          "name": "9 Mothers",
+          "url": "https://9mothers.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/9-mothers-corporation",
+          "location": "Austin, TX, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 19,
+          "originalOneLiner": "Counter Drone Systems. $1.6m sales. We delivered for the DoW.",
+          "originalDescription": "We have sold $1.6m of systems to the DoW. Multiple systems delivered to the DoW. Our first product - EDDA - is a counter drone system - small, low power, low cost fully autonomous-capable. It's designed to be used on vehicles, bases, or carried - to stop group 1 suicide drones. We have multiple contracts, sales, etc. We have 3 more products with demand in various stages of development. More details at https://9mothers.com",
+          "published": "",
+          "story": "这是做反无人机系统的公司，属于硬科技和防务方向。如果你是一名负责基地或车队防护的安保主管，最担心的是成群的小型自杀式无人机贴地飞来，而传统手段又贵又笨重。9 Mothers 的第一款产品 EDDA 体积小、功耗低、成本低，可以装在车上、架在基地，也可以随身携带，用来拦下这类小型无人机。它值得关注是因为它来自 YC 春季 2026 批次，团队十九人，正在招聘，已经向国防部门交付了多套系统，销售额达到一百六十万美元，另外还有三款产品在开发中。",
+          "rank": 9
+        },
+        {
+          "id": 30690,
+          "name": "Flai",
+          "url": "https://www.useflai.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/flai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 35,
+          "originalOneLiner": "We Bring Customers to Your Dealership",
+          "originalDescription": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue. We built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away. The result: No more missed opportunities, no more losing customers to competitors. Our founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges. We're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
+          "published": "",
+          "story": "这家公司做的是帮汽车经销商接住客户来电。假如你是一家经销商的销售主管，晚上下班后大量咨询电话打进来没人接，第二天这些人已经在别家订了车。Flai 用智能助手全天候接听电话，安排试驾、预约换油，还能主动打出去做召回活动。它值得关注是因为它来自 YC 夏季 2025 批次，团队三十五人，正在招聘，创始团队做过语音人工智能产品、在优步负责过大规模基础设施、在奈飞做过数据科学，而错过下班后来电每年让一家普通经销商损失约一百万美元收入。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "SaaStr-aHR0cHM6Ly93",
+          "title": "It Takes 12 Years to IPO. Then Another 2-3 for Your VCs to Get Liquid. And Founders Can Generally Only Sell About ~4% a Year.",
+          "url": "https://www.saastr.com/it-takes-12-years-to-ipo-then-another-2-3-for-your-vcs-to-get-liquid-and-founders-can-generally-only-sell-about-4-a-year/",
+          "source": "SaaStr",
+          "published": "Fri, 09 Oct 2026 14:10:45 +0000",
+          "story": "很多创始人第一次融资时，脑子里想的都是怎么把公司做大，很少有人一开始就去算自己哪天能把手里那点股份换成现金。等到公司真的走到上市那一步，才发现从起步到敲钟可能已经过去十几年，而上市之后，投资人还需要再等两三年才能把资金收回来。至于创始人自己，通常一年也只能卖掉很小一部分股份。这篇值得读，是因为它把这套时间账摊开来讲，让人看清创业回报的节奏到底有多慢。读的时候可以留意作者是怎么拆解每个阶段的等待成本，以及这种节奏会怎样影响创始人和投资人的耐心。"
+        },
+        {
+          "id": "hn-50020545",
+          "title": "Show HN: CircleIt – Circle something on a web page, your coding agent fixes it",
+          "url": "https://circleit.ai",
+          "source": "Hacker News",
+          "published": "2026-10-09T13:50:38Z",
+          "story": "做前端或者写代码的人大概都遇到过这种时刻：页面上某个按钮位置不对，或者某段文字显示得别扭，你想让帮忙写代码的助手去改，却很难用文字说清楚到底是哪一块。于是有人做了个小工具，你直接在网上把出问题的地方圈出来，写代码的助手就知道该动哪里了。这条在技术社区被讨论，值得看的地方在于它回应的是一个人人都碰过、却一直被将就的小麻烦。读的时候可以留意作者是怎么把圈选这个动作和代码修改连起来的，以及这种交互方式会不会改变人和助手配合的习惯。"
+        },
+        {
+          "id": "TechCrunch-aHR0cHM6Ly90",
+          "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+          "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+          "source": "TechCrunch",
+          "published": "Fri, 09 Oct 2026 13:40:36 +0000",
+          "story": "摄像头越来越多地出现在街道、商场和小区门口，很多人一开始并不在意，直到某天发现自己的生活被记录、被分析，才开始追问这些画面去了哪里、谁能看。围绕监控的争论就是这样慢慢升温的，而做这类业务的公司往往在舆论和监管之间左右为难。这篇讲的是其中一家公司因为隐私方面的反弹而裁员，值得读的地方在于它把商业压力和公众情绪放在一起看。读的时候可以留意作者如何呈现反弹从哪来、公司又做了哪些取舍，以及这种张力对同类公司意味着什么。"
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "companies": [
@@ -3268,254 +3519,6 @@
           "source": "Hacker News",
           "published": "2026-09-14T10:03:46Z",
           "story": "写 Java 的人大概都有过这种时刻：想找个数据结构库，结果拉进来一堆依赖，最后为了一个平衡树背上了整个生态。Hacker News 上这类 Show HN 帖子，往往就是某个工程师受够了现状，自己动手写了一个。这条讲的是 ChaosTree，一个零依赖的 Java 树库，涵盖 AVL、红黑树、B 树和 B+ 树。值得读，是因为它让人看到一个人如何把日常的不方便变成一个小项目。读的时候可以看作者怎么划定范围，为什么选这几种树，以及社区在评论里追问的是性能、接口还是维护意愿。"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-13",
-      "companies": [
-        {
-          "id": 30328,
-          "name": "Dalus",
-          "url": "https://dalus.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/dalus",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI-Powered Hardware System Design Software",
-          "originalDescription": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. With Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. With AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus. We started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at. We love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel) Read why we started Dalus: https://dalus.io/articles/why-dalus",
-          "published": "",
-          "story": "这是做复杂硬件系统设计软件的公司，服务航空航天、国防和机器人等任务关键行业。假如你是一名航天系统的工程负责人，今天正为一枚新火箭梳理几百页需求文档，改动一处参数就要翻遍旧文件，团队之间信息还对不上。Dalus 让人工智能读取这些工程文档，帮工程师追踪需求、做分析并实时更新系统模型，减少重复沟通和返工。它来自 YC 冬季 2025 批次，团队只有三人，目前正在招聘，适合关注工程软件和任务关键行业的人留意。",
-          "rank": 1
-        },
-        {
-          "id": 31030,
-          "name": "Haladir",
-          "url": "https://www.haladir.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/haladir",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Logistics",
-            "Supply Chain",
-            "Operations"
-          ],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Operational Superintelligence for Global Logistics",
-          "originalDescription": "Haladir builds advanced AI systems for logistics. We sit on top of your WMS, TMS and ERP, turning their data into decisions across supply chain planning and execution: solver-grade optimization that decides what should happen, and AI agents that run the workflows. Today's AI brought intelligence. The next frontier is judgement.",
-          "published": "",
-          "story": "这家公司切的是全球物流的运营决策层。想象你是一家跨国制造企业的供应链主管，仓库、运输和企业管理系统里数据齐全，可到底该把哪批货调去哪个仓、遇到港口延误怎么改计划，还是靠人拍脑袋。Haladir 把系统架在仓储、运输和企业管理系统之上，一边用求解器级别的优化决定该发生什么，一边用智能体跑执行流程。它来自 YC 冬季 2026 批次，团队四人，正在招聘，方向覆盖人工智能、物流和供应链运营。",
-          "rank": 2
-        },
-        {
-          "id": 30304,
-          "name": "Mastra",
-          "url": "https://mastra.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/mastra",
-          "location": "San Francisco, CA, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Open Source",
-            "AI"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": false,
-          "teamSize": 30,
-          "originalOneLiner": "The Javascript framework for building AI agents, from the Gatsby devs",
-          "originalDescription": "Mastra is the easiest way to build a production AI application, built by the team that brought you Gatsby. We provide a complete set of AI primitives: workflows for complex operations, agents for autonomous decisions, RAG for knowledge integration, and evals for quality & accuracy. Mastra is open-source, modular, and built in Typescript for product developers. You can deploy Mastra on any cloud, and it gives you a straightforward syntax to solve the hardest problems building with AI: human-in-the-loop workflows, agent memory and tool selection, and output quality.",
-          "published": "",
-          "story": "这是给开发者做人工智能应用框架的公司。如果你是一名产品工程师，想给自家应用加一个能自主行动的智能体，往往要先拼好几套工具，还要自己处理记忆、工具调用和输出质量。Mastra 提供工作流、智能体、知识检索和评估等一整套基础模块，用 TypeScript 写成，开源且模块化，可以部署在任何云上。它出自做过 Gatsby 的团队，来自 YC 冬季 2025 批次，团队约三十人，适合正在把人工智能功能做进产品的开发者关注。",
-          "rank": 3
-        },
-        {
-          "id": 31081,
-          "name": "One Robot",
-          "url": "https://www.onerobot.io/",
-          "sourceUrl": "https://www.ycombinator.com/companies/one-robot",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "World models for robot evals and training.",
-          "originalDescription": "One Robot builds simulation environments that are realistic to see and realistic to interact with, so robotics teams can train and evaluate robot policies without being bottlenecked by robot time. Today, improving a VLA often means more real-world hours: setting up the scene, running trials, resetting, and repeating. This loop is slow, expensive, and hard to scale. For example, material handling and manufacturing assembly tasks, models need far more training and evaluation data than teams can collect in the real world. We use task-specific data to build world model-based simulation environments for hard manipulation tasks (for example, textiles and box folding). These environments help teams run more training and evals, find failure modes faster, and accelerate iteration on action policies with less dependence on real-world data collection and robot availability.",
-          "published": "",
-          "story": "这家公司做的是机器人训练和评测用的世界模型仿真环境。假设你是一个机器人团队的工程负责人，想让机械臂学会叠衣服或折纸箱，可每试一次都要搭场景、跑实验、复位再重来，真机时间根本不够用。One Robot 用任务数据构建既看得真实又能交互的仿真环境，让团队在里面多跑训练和评测，更快找到失败模式，减少对真机和实采数据的依赖。它来自 YC 冬季 2026 批次，团队两人，正在招聘，做机器人学习的人可以留意。",
-          "rank": 4
-        },
-        {
-          "id": 31858,
-          "name": "Torus",
-          "url": "https://www.usetorus.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/torus",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Construction",
-            "Energy",
-            "Enterprise Software",
-            "AI",
-            "Industrial"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 6,
-          "originalOneLiner": "Legora for physical engineering firms",
-          "originalDescription": "Torus lets engineering firms and project owners build infrastructure 10x faster to reindustrialize America and the West. We're working with multiple Fortune 500 companies to build critical infrastructure including data centers and critical energy installations.",
-          "published": "",
-          "story": "这家公司服务的是实体工程公司的基础设施建设。假如你负责一家工程公司的项目交付，手上同时压着数据中心和能源装置的图纸、审批和多方协作，进度一拖就是几个月。Torus 想帮工程公司和项目业主把建设速度提高一个量级，用于再工业化。它来自 YC 夏季 2026 批次，团队六人，正在招聘，并且正在和多家财富五百强公司合作建设数据中心和关键能源设施，这是它值得关注的真实信号。",
-          "rank": 5
-        },
-        {
-          "id": 31359,
-          "name": "Twolabs",
-          "url": "https://www.twolabs.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/twolabs",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Robotics"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Humanoid robot platform for builders.",
-          "originalDescription": "We build modular humanoid robots and the software platform that allows anyone to train, deploy, and scale robots for real-world tasks. Today, teaching a robot a new skill requires robotics engineers, machine learning engineers, training infrastructure, and significant compute resources. We reduce that process to: Record → Upload → Train → Deploy. Our robots are modular and configurable, with interchangeable end effectors, configurable sensors, and multiple deployment configurations. We believe current humanoid embodiments are often overfit for specific use cases, so we're building a platform that adapts to different environments and applications. Long term, we want robotics to be as accessible as software development. Our goal is to become the default platform for training and deploying autonomous robots.",
-          "published": "",
-          "story": "这是做人形机器人平台的公司，硬件和软件一起做。想象你是一个想用机器人干实际任务的开发者，过去教机器人一项新技能，要凑齐机器人工程师、机器学习工程师、训练设施和大量算力。Twolabs 把流程压成录制、上传、训练、部署四步，机器人本体模块化，末端执行器可换，传感器可配置，部署方式也多样。它来自 YC 春季 2026 批次，团队两人。这不是手机应用，而是把训练和部署能力放进可配置的机器人身体和随身场景里。",
-          "rank": 6
-        },
-        {
-          "id": 31092,
-          "name": "Axis",
-          "url": "https://axisanalysis.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/axis-2",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "An AI Copilot for Trading Desks",
-          "originalDescription": "Axis is building an AI Native Trading System, allowing a trader to deploy models that monitor and analyze relevant markets and strategies. We've chosen commodities as our first market. Commodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an AI driven analytical layer for these markets.",
-          "published": "",
-          "story": "这家公司切的是交易台的智能分析工具。如果你是一名大宗商品交易员，每天早上要盯衍生品持仓、炼厂数据、库存、进出口和地缘事件，信息散在各处，判断全靠自己拼。Axis 在做一套人工智能原生的交易系统，让交易员部署模型去监控和分析相关市场与策略，先从大宗商品入手，因为这类实物商品占全球货物出口的三分之一。它来自 YC 冬季 2026 批次，团队两人，做的是把分散信息变成分析层这件事。",
-          "rank": 7
-        },
-        {
-          "id": 30992,
-          "name": "Amera",
-          "url": "https://amerahealthsolutions.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/amera",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Fall 2025",
-          "isHiring": false,
-          "teamSize": 12,
-          "originalOneLiner": "Automating claims processing workflows for health insurance payers.",
-          "originalDescription": "Amera automates claims processing for health insurance payers. We turn messy claim inputs (PDFs, bills, receipts, EDI and non-standard submissions) into structured data that plugs into existing systems. This cuts manual entry and exception handling, speeding up operations and reducing cost. We are already working with payers / plan administrators representing ~100k members, giving them access to more affordable care options.",
-          "published": "",
-          "story": "这是做医疗保险理赔流程自动化的公司。想象你是一名健康保险支付方的理赔运营负责人，每天收到成堆的理赔材料，有 PDF、账单、收据，也有电子数据交换格式和非标准提交，人工录入和异常处理吃掉大量时间。Amera 把这些杂乱输入转成结构化数据，接进现有系统，减少手工录入和例外处理，加快处理速度并降低成本。它来自 YC 秋季 2025 批次，团队十二人，已经在服务代表约十万名会员的支付方和计划管理者，这是值得关注的实际进展。",
-          "rank": 8
-        },
-        {
-          "id": 32751,
-          "name": "Vestris",
-          "url": "https://vestris.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/vestris",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Workflow Automation",
-            "Home Services"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "AI native platform for real estate closings",
-          "originalDescription": "Vestris automates title processing end-to-end, from contract to close, so title shops can close more deals with fewer processors. Title insurance has famously high margins, but slow, manual processing is a constant pain — especially in today's bleeding housing market.",
-          "published": "",
-          "story": "这家公司做的是房地产过户流程的自动化。假如你是一家产权公司的处理主管，手上每笔交易都要从合同一路跟到交割，文件多、环节碎，处理员不够用，房子又不好卖，压力全压在效率上。Vestris 想用人工智能原生平台把产权处理从头到尾自动化，让产权公司用更少的人完成更多交易。它来自 YC 夏季 2026 批次，团队两人。产权保险利润高但流程慢而手工，这个场景本身就说明了它为什么值得看。",
-          "rank": 9
-        },
-        {
-          "id": 32170,
-          "name": "Gutgutgoose",
-          "url": "https://gutgutgoose.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/gutgutgoose",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Consumer",
-            "Biotech",
-            "Personalization",
-            "Health & Wellness"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "We sequence your gut and build the probiotics it’s missing",
-          "originalDescription": "Most data companies pay for their data. Ours pays for itself. Customers send us a stool sample. We sequence it, build a metabolic model of that gut, and simulate whether each probiotic strain has an open niche it can colonize. We formulate the best candidates, then re-sequence 90 days later to see what actually took hold and what changed. Each cycle gives us the baseline gut, the intervention, and the outcome. At scale, the endgame is models that predict chronic disease years before symptoms.",
-          "published": "",
-          "story": "这是做肠道测序和个性化益生菌的消费健康公司。如果你长期肠胃不舒服，试过很多益生菌却不知道哪一种真能在自己肠道里存活，通常只能凭感觉买。Gutgutgoose 让用户寄一份粪便样本，做测序并建立代谢模型，模拟每种菌株有没有空位可以定植，再配出候选产品，九十天后重新测序看实际效果。它来自 YC 夏季 2026 批次，团队两人。每一轮都留下基线、干预和结果，长期目标是预测慢性病。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49682946",
-          "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
-          "url": "https://www.analystidx.com/",
-          "source": "Hacker News",
-          "published": "2026-09-13T11:50:35Z",
-          "story": "在股市里，总有人自称能提前看准涨跌，可普通人很难分辨谁是真有本事，谁只是运气好或者嗓门大。当工程师和创业者开始琢磨这个问题，他们想到的办法往往是把判断交给数据：谁喊过的单子真的赚了钱，谁只是事后解释得漂亮。这个项目就是顺着这个念头做出来的，把分析师的公开观点变成可以对照、可以排序的分数。它值得读，是因为它把一个模糊的信任问题变成了可检验的记账问题。读的时候可以留意作者怎么定义“赚钱”，怎么处理喊错之后删帖或者改口的情况，以及他为什么选择公开而不是只给自己用。"
-        },
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-          "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-          "source": "TechCrunch",
-          "published": "Sat, 12 Sep 2026 23:25:38 +0000",
-          "story": "一家公司做到一定规模，创始人、董事会和投资人之间关于方向和权力的分歧就会浮上来。多数时候这些事发生在会议室里，外人只看到最后的结果。这次 Automattic 的变动之所以被关注，是因为它把一次试图换掉 CEO 的过程摆到了台面上，而且结局是原来的 CEO 又回来了。对于关心创业公司治理的人来说，这是一个难得的样本：权力怎么被挑战，又怎么被重新确认。读的时候可以顺着时间线看董事会的动作和创始人的回应，注意哪些信息是公司主动说的，哪些是被外界逼出来的，以及这件事对普通员工和用户意味着什么。"
-        },
-        {
-          "id": "Lenny's Newsletter-aHR0cHM6Ly93",
-          "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
-          "source": "Lenny's Newsletter",
-          "published": "Sat, 12 Sep 2026 17:45:34 GMT",
-          "story": "做产品的人常常会遇到一些说大不大、说小不小的选择：团队该用 Jira 还是 Linear，要不要为平台团队写一份说得过去的立项理由，人工智能 到底能帮自己省下哪部分时间。这些问题没有标准答案，问同事也常常各说各的。这期社区问答把许多人的实际做法凑在一起，价值不在于给出唯一结论，而在于让你看到别人是怎么权衡的。读的时候不必从头到尾，可以挑自己最近正卡住的那一两个问题，看回答里的人在什么条件下做了那个选择，他们放弃了什么，又用什么标准判断自己没选错。"
         }
       ]
     }

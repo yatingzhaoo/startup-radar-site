@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-08T14:33:23.980Z",
+  "updatedAt": "2026-10-09T14:20:39.048Z",
   "readings": [
+    {
+      "key": "circleit.ai",
+      "title": "Show HN: CircleIt – Circle something on a web page, your coding agent fixes it",
+      "url": "https://circleit.ai",
+      "usedAt": "2026-10-09",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/it-takes-12-years-to-ipo-then-another-2-3-for-your-vcs-to-get-liquid-and-founders-can-generally-only-sell-about-4-a-year",
+      "title": "It Takes 12 Years to IPO. Then Another 2-3 for Your VCs to Get Liquid. And Founders Can Generally Only Sell About ~4% a Year.",
+      "url": "https://www.saastr.com/it-takes-12-years-to-ipo-then-another-2-3-for-your-vcs-to-get-liquid-and-founders-can-generally-only-sell-about-4-a-year/",
+      "usedAt": "2026-10-09",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows",
+      "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+      "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+      "usedAt": "2026-10-09",
+      "site": "startup-radar"
+    },
     {
       "key": "apps.apple.com/us/app/expirea/id6778392067",
       "title": "Is food waste a strong enough problem for a consumer startup?",
