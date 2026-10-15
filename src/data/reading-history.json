@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-09T14:20:39.048Z",
+  "updatedAt": "2026-10-15T12:38:21.510Z",
   "readings": [
+    {
+      "key": "news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups",
+      "title": "Cybersecurity Investors Put $6.8B To Work In The Third Quarter, Mostly In Larger Rounds",
+      "url": "https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups/",
+      "usedAt": "2026-10-15",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
+      "title": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "usedAt": "2026-10-15",
+      "site": "startup-radar"
+    },
+    {
+      "key": "thehistoryblog.com/archives/77146",
+      "title": "Nile Delta farmer finds Ramesses II statues",
+      "url": "https://www.thehistoryblog.com/archives/77146",
+      "usedAt": "2026-10-15",
+      "site": "startup-radar"
+    },
     {
       "key": "circleit.ai",
       "title": "Show HN: CircleIt – Circle something on a web page, your coding agent fixes it",
