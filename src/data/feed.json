@@ -1,7 +1,257 @@
 {
-  "generatedAt": "2026-10-17T11:34:40.630Z",
+  "generatedAt": "2026-10-19T14:38:46.563Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-10-19",
+      "companies": [
+        {
+          "id": 32206,
+          "name": "DeepReach Inc.",
+          "url": "https://www.ycombinator.com/companies/deepreach-inc",
+          "sourceUrl": "https://www.ycombinator.com/companies/deepreach-inc",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hardware",
+            "Machine Learning",
+            "Robotics",
+            "Computer Vision",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 6,
+          "originalOneLiner": "Network for Physical AI Data Business",
+          "originalDescription": "Physical AI — robots and world models — is bottlenecked on one thing: diverse, real-world data at massive scale showing how humans actually do work in the physical world. It was never written down, and you can't buy it, because no one has ever captured it. Only real local experts, the people who do this work every day, can produce data this authentic and valuable. DeepReach builds the network that reaches them. We design and manufacture wearable stereo capture devices, then place them with local data partners who run collection as their own business — in warehouses, workshops, farms, kitchens and repair shops. They own the local relationships; we supply the hardware, the software platform, the quality pipeline and the payments. Anyone can run a data business. That structure is what produces diversity. Instead of thousands of hours inside one environment, we deliver hours spread across thousands of environments — which is what actually makes robot policies generalize. 475 devices in the field and 100+ data partners are live across 7 countries, adding new partners every week. They've collected nearly 150,000 clips in the past three months, with volume roughly doubling month over month. Our data is in production with multiple frontier model and robotics companies, and we're scaling to 10,000+ devices across 50 countries.",
+          "published": "",
+          "story": "这是做物理世界人工智能数据网络的公司。想象你是一位仓库主管，你每天看着熟练工人分拣、搬运、处理异常，这些动作从没被完整记录下来，而训练机器人恰恰需要这种真实数据。DeepReach 设计并制造可穿戴立体采集设备，交给本地数据伙伴在仓库、车间、农场、厨房和修理店等地开展采集，伙伴自己经营本地关系，公司提供硬件、软件平台、质量流程和结算。它值得关注的地方在于，这套结构让数据来源分散到大量真实场景，而不是在单一环境里堆几千小时，公司目前六人，正在招聘，属于 YC 夏季 2026 批次。可穿戴设备把采集能力直接放进工人身上的传感器和随身场景里，这是手机应用做不到的。",
+          "rank": 1
+        },
+        {
+          "id": 30715,
+          "name": "Autumn",
+          "url": "https://autumn.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/autumn-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "The people-intelligence company.",
+          "originalDescription": "Autumn builds research agents that answer questions about people and companies at scale. These AI agents are powered by a live index of over 1 billion people, 100 million companies, and state-of-the-art web research tools. Autumn is already in production with enterprise teams at Brex, Rippling, PostHog across sourcing, enrichment, and identity-verification workflows. We are a small, highly-technical team. Our vision is to be the search engine that agents use when they need to understand people, their networks, and professional lives.",
+          "published": "",
+          "story": "这家公司切的是人与公司的情报检索。假如你是一位销售主管，今天要快速摸清一批目标公司的关键人物和背景，靠人工搜索既慢又容易漏。Autumn 构建研究智能体，用超过十亿人物、一亿家公司的实时索引和网络研究工具，回答关于人和公司的问题。它已进入生产环境，服务 Brex、Rippling、PostHog 等企业团队，用于寻源、信息补充和身份核验流程。团队只有四人，正在招聘，属于 YC 冬季 2026 批次，它想成为智能体理解人及其职业网络时使用的搜索引擎。",
+          "rank": 2
+        },
+        {
+          "id": 31171,
+          "name": "Overshoot",
+          "url": "https://overshoot.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/overshoot",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "AI Infra for real-time vision applications",
+          "originalDescription": "Overshoot makes it easy for developers to build and run real-time vision applications. AI can see and understand the physical world. This unlocks new applications in physical security, safety, gaming, robotics and general consumer products. Soon, video agents will watch your home and your pet when you’re away. However, existing platforms make it painful for developers to build these real-time applications. Slow inference. Limited model availability. Break at scale. Overshoot solves this. Today, 300+ developers connect live video feeds to the largest collection of Vision Language Models with 3 lines of code. And get responses in less than 200ms. 10x faster than any existing inference platform. Zero infra headache. Our moat is focus. Image and Video are fundamentally different modalities from text. By focusing on them, we are able to make strong technical leaps from codec, streaming protocols to inference engines. Younes and Zakaria are cousins. Zakaria graduated top of his class at LSE and MIT, and later built low-latency high-throughput pricing systems (surge) at Uber and inference engines at Meta. He previously built and sold a software product and won several prominent AI hackathons. Younes was a founding engineer at Cosmonio (later acquired by Intel). He built a training and serving Computer Vision platform from scratch. He witnessed firsthand customers abandoning traditional Computer Vision because it lacked the “general” intelligence LLMs have today. Together we’ve shipped large-scale systems and know where they break.",
+          "published": "",
+          "story": "这是为实时视觉应用提供人工智能基础设施的公司。如果你是一位工程负责人，正想把监控摄像头接入模型做实时识别，你会发现推理慢、可用模型少、规模一大就出问题。Overshoot 让开发者用三行代码把实时视频流接到规模最大的视觉语言模型集合，响应时间低于两百毫秒，比现有推理平台快十倍，无需自己操心基础设施。目前已有三百多名开发者在使用，团队五人，属于 YC 冬季 2026 批次。它的思路是专注图像和视频这两种与文本根本不同的模态，从编解码、流传输等底层做技术突破。",
+          "rank": 3
+        },
+        {
+          "id": 32188,
+          "name": "IMPACT Drones",
+          "url": "https://www.impact-drones.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/impact-drones",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hardware",
+            "Drones",
+            "Swarm Robotics",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Air Defense as a Service for Civilian Infrastructure.",
+          "originalDescription": "IMPACT builds autonomous interceptor drones that ship in sealed containers. The box sits at the site it protects, data centers, power grids, airports, bases, with no crew on the pad. When sensors cue a hostile drone, an interceptor pierces its own frangible lid, launches, and rams the target, guided by onboard vision that keeps working when GPS is jammed. Legacy effectors cost $1M+ per shot against $30k threats; ours cost less than the threat and scale with the swarm, the same class of interceptor already downing Shahed drones over Ukraine. Sites subscribe to protection instead of buying missiles, hardware, reloads and monitoring included: Air Defense as a Service. 180M+ USD in signed letters of intent.",
+          "published": "",
+          "story": "这是把空中防御做成订阅服务的公司。想象你负责一座数据中心或变电站的安保，某天传感器发现一架廉价无人机靠近，而传统拦截手段一发成本上百万美元。IMPACT 制造装在密封箱里的自主拦截无人机，箱子就放在受保护地点，无需现场人员，传感器提示后拦截机穿破箱盖起飞，靠机载视觉在 GPS 受干扰时仍能撞向目标。它的单次成本低于来袭威胁本身，客户按月订阅防护，硬件、补弹和监控都包含在内。公司两人，正在招聘，属于 YC 夏季 2026 批次，已签下超过一亿八千万美元的意向书。",
+          "rank": 4
+        },
+        {
+          "id": 30509,
+          "name": "Boost Robotics",
+          "url": "https://www.boostrobotics.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/boost-robotics",
+          "location": "Boston, MA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Hardware",
+            "Robotics",
+            "Infrastructure",
+            "AI"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Robots for the inspection and maintenance of data centers",
+          "originalDescription": "Boost Robotics is building autonomous mobile manipulation robots to remotely perform manual tasks in data centers. The surge in AI applications is pushing data centers to scale faster than they can manage, leading to suboptimal operations and staffing shortages amid rising power and compute demands. We save data centers millions in insurance premiums and SLA violations by increasing the frequency of inspection and maintenance while reducing the time it takes to triage and address failures.",
+          "published": "",
+          "story": "这家公司做的是数据中心巡检与维护机器人。如果你是一位数据中心运营负责人，你会看到人工智能应用推着机房越建越快，运维却跟不上，人手短缺，电力和算力需求还在涨，故障排查又慢。Boost Robotics 研发自主移动操作机器人，远程完成原本需要人工到场的任务，提高巡检和维护频率，缩短发现和处理故障的时间。按它的说法，这能为数据中心省下数百万美元的保险费用和服务水平违约损失。团队两人，属于 YC 春季 2025 批次，机器人形态意味着能力要真正进入机房现场，而不只是屏幕上的软件。",
+          "rank": 5
+        },
+        {
+          "id": 31163,
+          "name": "Opalite Health",
+          "url": "https://www.ycombinator.com/companies/opalite-health",
+          "sourceUrl": "https://www.ycombinator.com/companies/opalite-health",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Helping Healthcare Providers Speak Any Language",
+          "originalDescription": "Opalite makes it easy for healthcare providers to communicate with non-English speaking patients. We’re built to work inside existing clinical workflows, so providers can communicate in real time without waiting for an interpreter or delaying care. Opalite is available instantly, 24/7, and replaces traditional interpretation services with software that’s more reliable and saves millions of dollars per year. We've built a voice AI system that is the safest, most compliant, and most accurate medical interpreter in the world.",
+          "published": "",
+          "story": "这是帮医疗机构跨语言沟通的公司。假如你是一位诊所运营负责人，今天来了一位不说英语的患者，等口译员要拖时间，不等又怕沟通出错。Opalite 做的是医疗口译语音人工智能，嵌进现有临床流程，医生可以实时和患者交流，不必等口译员或推迟诊疗，全天候可用。它用软件替代传统口译服务，公司称更可靠，每年能省下数百万美元。团队三人，正在招聘，属于 YC 冬季 2026 批次，它强调自己是更安全、更合规也更准确的医疗口译系统，这类场景对准确和合规的要求本身就值得关注。",
+          "rank": 6
+        },
+        {
+          "id": 30445,
+          "name": "Mbodi AI",
+          "url": "https://www.mbodi.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/mbodi-ai",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Robotics",
+            "Automation",
+            "AI"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": true,
+          "teamSize": 6,
+          "originalOneLiner": "Industrial Robots that Learn and Operate Like Humans",
+          "originalDescription": "Teach robots new skills through natural language and run reliably in production in minutes. Mbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
+          "published": "",
+          "story": "这家公司让工业机器人像人一样学习和干活。想象你是一位工厂产线负责人，想让机械臂学会一个新动作，传统方式要写程序、反复调试，几天甚至几周过去。Mbodi 把生成式人工智能和智能体编排结合起来，用日常语言和快速示范就能转成精确可靠的机器人动作，几分钟内投入生产运行。团队六人，正在招聘，属于 YC 春季 2025 批次。值得看的是它把门槛从编程挪到了说话和演示，工业自动化的日常操作者因此可能自己教会机器人新技能，而不必每次都等工程团队排期。",
+          "rank": 7
+        },
+        {
+          "id": 31113,
+          "name": "CellType",
+          "url": "https://www.celltype.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/celltype",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "The agentic drug company. We simulate human biology.",
+          "originalDescription": "CellType is building an agentic drug company. AI agents that run the full drug discovery pipeline on top of biological foundation models that simulate human biology. Our core technology, developed with Google DeepMind, has already discovered and validated a new cancer treatment signal. We’re working with Top 10 pharma.",
+          "published": "",
+          "story": "这是做智能体药物研发的公司。如果你是一位药物研究员，面对海量生物数据和漫长的早期发现流程，最想要的是先筛出值得做的方向。CellType 用智能体跑完整药物发现流程，底层是模拟人体生物学的生物基础模型，它称与 Google DeepMind 共同开发的核心技术已发现并验证了一个新的癌症治疗信号，并正与排名前十的药企合作。团队五人，正在招聘，属于 YC 冬季 2026 批次。值得关注的是它把智能体放在药物发现的全流程上，而不只是某个单点工具，这类整合方式本身就看点十足。",
+          "rank": 8
+        },
+        {
+          "id": 36015,
+          "name": "Ignition Benefits",
+          "url": "https://www.ignitionbenefits.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/ignition-benefits",
+          "location": "Los Angeles, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Health Insurance",
+            "Insurance",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 12,
+          "originalOneLiner": "The AI-Native Benefits Brokerage",
+          "originalDescription": "Ignition is an AI-native employee benefits brokerage for companies with under 200 employees. Health insurance is one of the largest line items these companies carry, and employers absorb 15 to 40% rate increases year after year without ever seeing their own numbers. We have rebuilt the sales and back office to be AI-first. This market represents about $500B of market cap, and those businesses have not fundamentally changed in over 50 years. While scaling Plated, I wore every HR hat from doing payroll myself, to managing a PEO, to eventually hiring an employee benefits broker on our way to 1,500 employees. We wasted over $4M on benefits over 5 years, and I'm building Ignition to help companies under 200 employees avoid making my mistakes.",
+          "published": "",
+          "story": "这是做员工福利经纪的公司，服务两百人以下的企业。假如你是一家小公司的负责人，每年续保时保费涨一成半到四成，你只能接受，却从没看清自己公司的理赔数据长什么样。Ignition 把销售和后台重做成人工智能优先的经纪模式，帮小企业看清自己的保险数字，争取更合理的方案。这个市场按公司说法规模巨大，相关生意五十多年没有根本变化。创始人提到自己在经营 Plated 时亲自做过薪资、管过专业雇主组织、也请过福利经纪，五年里在福利上浪费了四百多万美元。公司来自 YC 秋季 2026 批次，团队十二人，正在招聘。",
+          "rank": 9
+        },
+        {
+          "id": 32979,
+          "name": "RonanRx Inc.",
+          "url": "https://ronanrx.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/ronanrx-inc",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Health Tech",
+            "Telehealth",
+            "Therapeutics"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "Full Stack Pharmaceutical Company for Personalized Peptides and GLP-1s",
+          "originalDescription": "RonanRX is a full-stack pharmaceutical company, starting with personalized peptides and GLP-1s. In our first 10 weeks, we went from having no pharmacy to being licensed in 33 states. Since launch, we’ve grown 50% week over week. We manufacture the medications ourselves, sell directly to patients, and eliminate the layers of middlemen that make prescription drugs more expensive. What makes this possible is AI. Traditional pharmaceutical companies are built to manufacture one drug for millions of people. RonanRX is purpose-built to personalize treatment for each patient: different biology, different response, different dose. Patients come directly to RonanRX or through doctors using our platform. Every patient completes our medical intake, meets with a licensed doctor through our telehealth platform, and receives a personalized prescription when appropriate. From there, we manufacture the medication ourselves and deliver it directly to the patient. Labs, wearables, medical history, treatment response, and other health data feed back into the platform so doctors can continuously refine treatment over time. Before AI, doing this for every patient at scale was impossible. We didn't invent the demand we are seeing. 80 Million people are on a GLP-1 and millions more are using Peptides. We're building a better way to manufacture, personalize, prescribe, and deliver them. Our founders have built and exited multiple companies, raised more than $100M, built a $50M U.S. medical manufacturing business, and spent years developing peptide therapeutics at companies including Eli Lilly and AbbVie. We’re just getting started with peptides and GLP-1s. Next comes hormone therapy and the rest of personalized medicine.",
+          "published": "",
+          "story": "这是做个性化肽类和 GLP-1 药物的全栈制药公司。如果你是一位想减重或需要个性化用药的患者，传统药厂是为几百万人生产同一种药，而你的生理、反应和剂量需求可能和别人不一样。RonanRx 自己生产药物，直接卖给患者，砍掉让处方药变贵的中间环节，患者可以直接找它，也可以通过使用其平台的医生转介，先完成医疗问诊，再通过远程医疗平台与持牌医生会面，合适时拿到个性化处方。它来自 YC 夏季 2026 批次，团队五人，值得关注的是它在头十周就从没有药房做到在三十三个州获得执照，上线后每周增长百分之五十，而人工智能让为每位患者定制治疗在成本上变得可行。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-50152999",
+          "title": "Gemini AI Suite – Zero-Cost Next.js 14, Gemini 3.8 Flash, and Stripe Starter",
+          "url": "https://skappax.github.io/gemini-ai-suite/",
+          "source": "Hacker News",
+          "published": "2026-10-19T14:33:32Z",
+          "story": "很多独立开发者和小团队想验证一个产品想法时，最先卡住的往往不是写代码，而是从零搭出一套能跑起来的东西：前端框架、模型接口、收款流程，每一样都要花时间。这条在技术社区被讨论的入口，正好落在这个场景里。它值得读，是因为它把几个常见部件放进同一个起点，让人看到一个人或小团队可以怎样更快走到能演示、能收钱的那一步。读的时候可以留意作者如何取舍：哪些部分直接复用现成方案，哪些地方留了扩展空间，以及这种打包方式在真实项目里会省掉什么、又会带来什么新的依赖。"
+        },
+        {
+          "id": "Cloudflare-aHR0cHM6Ly9i",
+          "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+          "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+          "source": "Cloudflare",
+          "published": "Mon, 19 Oct 2026 13:00:00 GMT",
+          "story": "很多团队在网关这类设备上做安全，习惯是等出事再补：哪个漏洞被利用，就打哪个补丁。可补丁总是慢一步，攻击者换条路，同样的入口还会再被打开。运维和安全的人大概都经历过这种循环：修完一处，心里并不踏实，因为不知道下一次会从哪来。这篇文章值得读，是因为它把注意力从单个漏洞挪到了这类网关本身该怎么防。读的时候不妨留意作者怎么拆问题：是先看攻击面有哪些，还是先看已有防护留了哪些缝。也可以看他如何判断取舍，哪些做法是短期止血，哪些是长期加固，以及他有没有指出流程里真正卡住的地方。"
+        },
+        {
+          "id": "TechCrunch-aHR0cHM6Ly90",
+          "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+          "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+          "source": "TechCrunch",
+          "published": "Mon, 19 Oct 2026 12:56:14 +0000",
+          "story": "做应用审核的人常会遇到一个尴尬：规则写得清清楚楚，可总有人把违规功能藏进看起来正常的应用里，先混过审核，上线后再露出真面目。用户投诉来了，平台才发现规则和实际执行之间有空档。这篇报道讲的正是苹果更新审核指南，要挡住那些伪装成普通应用、实为生成裸露图像的工具。它值得读，是因为这类猫鼠游戏几乎每个做内容平台或应用商店的人都会碰到。读的时候可以看作者怎么梳理规则的调整：禁令落在哪一层，是禁止功能本身，还是禁止伪装手法。也可以留意它如何呈现各方的判断，以及这类更新能不能真正堵住审核流程里的那个缺口。"
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "companies": [
@@ -3269,252 +3519,6 @@
           "source": "Latent Space",
           "published": "Sat, 19 Sep 2026 05:48:28 GMT",
           "story": "如果你最近在关注 人工智能 圈子，可能会注意到一个奇怪的现象：某个人的做法刚被讨论，两天之内就冒出好几个几乎一样的复制品。做工具、做内容、做产品的人都会遇到这种时刻，一个想法被验证后，模仿者来得比想象中快得多。这篇来自 Latent Space 的文章正是从这种复制速度切入，值得读是因为它把注意力放在了一个容易被忽略的问题上：当克隆变得如此便宜，原创者真正剩下的是什么。读的时候不妨看作者怎么数这些克隆、怎么判断它们之间的差别，以及他如何区分哪些是简单照搬，哪些在原有基础上做了自己的取舍。"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "companies": [
-        {
-          "id": 31440,
-          "name": "Mount",
-          "url": "https://mount.insure",
-          "sourceUrl": "https://www.ycombinator.com/companies/mount",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The AI Agent Insurance Carrier",
-          "originalDescription": "TLDR: Mount is building the AI insurance carrier, starting with liability coverage for deployed AI agents. As everyone moves AI Agents into production and gives them more responsibility, we help businesses insure and secure them. Whenever responsibility shifts from human operators to autonomous systems, so too does the liability that accompanies it. The systems also introduce new risks: agentic software failures, prompt injection attacks, autonomous workflow errors, data leaks, and more. Legacy insurance was not built for this. Existing policies are often silent, ambiguous, or exclude autonomous software, and traditional insurers lack the data and technical capability to assess deployed AI Systems. Our first product, the Mount AI Liability Policy, is built for mid-market and enterprise companies deploying autonomous AI agents in real business processes. We scan and red-team AI deployments, quantify operational risk, help fix vulnerabilities, and insure the residual risk with purpose-built AI liability coverage. Mount is best thought of as a highly automated version of today's commercial insurance carriers, which run on manual workflows, layers of intermediaries, and tens of thousands of employees. AI enables automation of underwriting, pricing, policy issuance, claims, fraud detection, customer support, and distribution. We believe that the best way to use this opportunity is to rebuild those processes from the ground up.",
-          "published": "",
-          "story": "这是做人工智能责任保险的公司。假如你是一家企业的运营负责人，最近刚把一批智能体放进真实业务流程里，让它们自动处理客户请求、调取数据、甚至代表公司对外沟通，这时候你可能会突然意识到一个问题：如果智能体出了错，比如被提示注入攻击、工作流跑偏、泄露了数据，责任算谁的？传统保单往往对自主软件含糊其辞，甚至直接排除在外，保险公司也缺乏评估这类系统的数据和能力。Mount 想做的就是为部署智能体的中大型企业提供专门的责任险，先扫描并红队测试企业的智能体部署，再据此承保。它来自 YC 春季 2026 批次，团队两人，切的是一个随着智能体普及而必然膨胀的新风险市场。",
-          "rank": 1
-        },
-        {
-          "id": 30647,
-          "name": "Cyberdesk",
-          "url": "https://www.cyberdesk.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/cyberdesk",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Developer Tools",
-            "Robotic Process Automation",
-            "Workflow Automation",
-            "Enterprise Software"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Self learning computer use agent for developers",
-          "originalDescription": "Cyberdesk is the first self learning computer use agent for developers to automate desktop workflows. For example, one of our customers is building an AI agent for hospital patient intake, and they’re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. We launched mid July, and our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs. We’ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers. Mahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. Alan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He is a second time founder, having previously built and scaled a consumer AI app to thousands of paying users. Computer-use agents will automate the $6T dollars spent on enterprise knowledge work and Cyberdesk will be the platform to power this. We’d love to talk with you! https://cal.com/mahmoud-al-madi-klrs5s/30min",
-          "published": "",
-          "story": "这是给开发者用的电脑操作智能体。想象你负责一家医院的病人登记流程，团队里有人每天的工作就是在老旧的桌面软件里反复点击、输入，帮病人预约挂号，软件界面一变就得重新摸索。Cyberdesk 做的事情，是让智能体记住这些操作步骤，之后快速重复执行，同时还能应对屏幕上突然弹出的窗口或崩溃。它已经在中七月上线，并在真实生产环境里运行，比如在电子健康记录软件里创建预约、在老旧的企业管理系统里处理文件。它来自 YC 夏季 2025 批次，团队两人，值得关注的地方在于它不只是演示，而是已经在处理那些没人愿意手动重复的脏活。",
-          "rank": 2
-        },
-        {
-          "id": 32624,
-          "name": "Fabraix",
-          "url": "https://fabraix.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/fabraix",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Reinforcement Learning",
-            "Cybersecurity"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The world's frontier hacker of AI agents.",
-          "originalDescription": "Fabraix builds state-of-the-art AI red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. Our product, Nyx, has already found vulnerabilities in agents at dozens of Fortune 500 companies. On AgentHarm, the leading benchmark for offensive AI security, Nyx achieved a 78% attack success rate, compared with 67% for GPT-5.6 Sol. AI agents can change more often than teams can test them. A new model, prompt, tool, permission, or data source can change what an agent does, even when the application code stays the same. And AI is also increasing how much software companies produce and how often it changes. We built Nyx to automate the work required to red-team AI agents. It is multi modal by design and interacts with the target indirectly through controlled replicas of SaaS products and websites that we maintain, placing malicious payloads in webpages, documents, files, messages, and tool outputs to test how an agent behaves under different conditions. Nyx often finds its first vulnerability within minutes or hours rather than days or weeks. Because the work is fully automated, companies can repeat the test with every change and at a much lower cost than what a 7-figure red-teaming (and point-in-time) engagement would require. We're also the team behind ACE (Adversarial Cost to Exploit), a benchmark that measures AI security in terms of how much it costs attackers to break an AI system; providing a game-theoretic framework to understand how motivated a rational attacker would be in exploiting the system.",
-          "published": "",
-          "story": "这家公司切的是人工智能安全里的红队方向。如果你负责一家公司的智能体安全，你会发现麻烦在于智能体变得比团队测试它的速度还快：换个模型、改个提示、加个工具或权限，行为就可能完全不同，哪怕应用代码没动。Fabraix 做的 Nyx 就是自动化的红队智能体，持续寻找面向客户的智能体里的漏洞。它已经在美国财富五百强公司的智能体里发现过漏洞，在 AgentHarm 这个进攻性人工智能安全基准上取得百分之七十八的攻击成功率，对比 GPT 5.6 Sol 的百分之六十七。它来自 YC 夏季 2026 批次，团队两人，关注点是它把红队工作从人工变成持续自动运行。",
-          "rank": 3
-        },
-        {
-          "id": 31248,
-          "name": "BeeSafe AI",
-          "url": "https://beesafe.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/beesafe-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Frontier AI Defenses for Social Engineering Attacks",
-          "originalDescription": "BeeSafe AI is building the frontier model layer for social engineering defense. Cyberattacks have moved from code to conversation: attackers now use AI to carry out long-term, trust-based manipulation across SMS, voice, email, and social platforms, often inside encrypted channels where defenders cannot see, detect, or stop them. BeeSafe changes that by deploying undercover AI agents that engage attackers directly, expose hidden infrastructure, and convert live adversarial conversations into actionable intelligence. Each engagement adds to BeeSafe's proprietary dataset of real attacker behavior and trains foundational models that continually learn about counter-persuasion, deception, and manipulation in the wild. BeeSafe is starting in financial crime, where banks already value our data against Authorized Push Payment (APP) fraud and money laundering, but the opportunity is far broader. The same data and models that uncover mule networks today can protect consumers, secure enterprises, and strengthen governments against the next generation of AI-powered social engineering attacks tomorrow.",
-          "published": "",
-          "story": "这是做社会工程攻击防御的公司。一个银行的反欺诈分析师每天可能面对这样的局面：客户被冒充亲友或客服的人通过短信、电话、邮件长期哄骗，最后自己授权转出钱款，而攻击往往发生在加密通道里，防守方看不见也拦不住。BeeSafe AI 部署的是卧底式智能体，直接和攻击者对话，暴露背后的基础设施，把真实的对抗对话变成可用的情报，每一次交手都沉淀进它自己的攻击者行为数据集，用来训练反说服、反欺骗的基础模型。它先从金融犯罪切入，银行已经在用它的数据对抗授权推送支付欺诈和洗钱。它来自 YC 冬季 2026 批次，团队三人，值得看的是它把防御从被动拦截变成主动接触。",
-          "rank": 4
-        },
-        {
-          "id": 31284,
-          "name": "Origami Robotics",
-          "url": "https://www.origami-robotics.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/origami-robotics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "Manipulate Anything Robot",
-          "originalDescription": "We are building a \"manipulate anything\" model with the robot hardware that embodies it. We designed a hand-based data-collection device and a high DOF, direct drive robotic hand that match each other exactly, enabling us to eliminate embodiment gap and collect real-world data and deploy it directly. We want to scale real world manipulation data by deploying our devices \"in the wild\" like manufacturing factories, logistic centers to collect Tesla like data, use these data to train our model and then provide automation solutions to these industries.",
-          "published": "",
-          "story": "这是做通用操作机器人的公司。设想一个物流中心的主管，每天要面对大量形状、重量、材质各不相同的包裹和零件，现有的机械臂往往只能处理固定几种，换个物件就得重新调试。Origami Robotics 想解决的是这个泛化难题：它同时做手部数据采集设备和自由度很高、直接驱动的机械手，两者尺寸完全对应，从而消除真实手和机器人手之间的差距，让采集到的真实世界数据能直接用于部署。它计划把这些设备放到工厂、物流中心等真实场景里持续收集数据，用来训练模型，再反过来为这些行业提供自动化方案。它来自 YC 冬季 2026 批次，团队五人，把数据、硬件和模型绑在一起是它值得关注的地方。",
-          "rank": 5
-        },
-        {
-          "id": 32123,
-          "name": "HERA",
-          "url": "https://www.manufacturingintelligence.org",
-          "sourceUrl": "https://www.ycombinator.com/companies/manufacturingintelligence",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "Design",
-            "Design Tools",
-            "Manufacturing",
-            "Industrial"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "We make sure every factory in the world builds without mistakes.",
-          "originalDescription": "At Hera, we build tools that help heavy engineering teams bring products to market up to 20× faster. Today, we work with manufacturers of data center ancillary equipment, renewable energy systems, robotics, heat exchangers, power plants and pressure vessels.",
-          "published": "",
-          "story": "这是做重型工程制造设计工具的公司。假如你是一家换热器或压力容器工厂的工程负责人，每天要处理复杂的图纸、零件清单和制造要求，一个尺寸或材料写错，到了车间就是返工、报废和延期。HERA 想帮这类重型工程团队把产品推向市场的速度提升最多二十倍，目前服务的客户包括数据中心配套设备、可再生能源系统、机器人、换热器、电厂和压力容器的制造商。它来自 YC 夏季 2026 批次，团队两人，并且正在招聘，切入的是制造业里容错率极低、又高度依赖人工核对的环节。",
-          "rank": 6
-        },
-        {
-          "id": 31582,
-          "name": "Edgerun",
-          "url": "https://edgerun.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/edgerun",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech",
-            "Hardware",
-            "Robotics",
-            "Defense"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "Military exoskeletons",
-          "originalDescription": "Edgerun builds military exoskeletons. The first product is a 10-pound hip system that fits over existing kit and doubles a soldier’s range. Since April 2026, Edgerun built over a dozen iterations of their product through continuous field tests with Ukrainian fighters and secured $150M+ in LOIs. Founder David Venegas previously co-founded Durin (autonomous mining robotics) and worked at Stoke Space (at 19) and Hadrian. He is a high-school dropout, state-championship runner, adventure athlete, and pilot. Edgerun is a Y Combinator company backed by General H.R. McMaster, Cyan Banister, Joshua Steinman and Jason Miller. edgerun.com",
-          "published": "",
-          "story": "这是做军用外骨骼的公司。想象一名士兵背着沉重的装备在野外行军，体力消耗极快，能走多远往往决定任务能不能完成。Edgerun 的第一款产品是一个约十磅重的髋部系统，可以套在现有装备外面，把士兵的行进距离翻倍。它不是手机应用，而是把助力能力放进穿戴设备本身，直接作用在人的髋部和步态上。自二零二六年四月以来，团队已经通过和乌克兰战士的持续实地测试做出十几轮迭代，并拿到超过一点五亿美元的意向书。它来自 YC 夏季 2026 批次，团队五人，硬件在真实战场环境里反复打磨是它值得关注的地方。",
-          "rank": 7
-        },
-        {
-          "id": 31447,
-          "name": "Allowance",
-          "url": "https://useallowance.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/allowance",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 1,
-          "originalOneLiner": "The spend control layer for AI agents",
-          "originalDescription": "Allowance lets AI agents make purchases on a user’s behalf without ever exposing your real card number. Users approve purchases directly from their iPhone with customizable controls like spending limits, merchant restrictions, and expiration windows. Once approved, Allowance generates scoped, one-time payment credentials designed specifically for that transaction. This enables AI agents to safely complete tasks like shopping, ordering food, booking reservations, or purchasing tickets while keeping humans in control of every payment.",
-          "published": "",
-          "story": "这是给智能体做支付控制的公司。如果你让智能体帮你买东西、订餐、订票，最让你犹豫的往往是它会不会乱花钱，或者把你的真实卡号暴露出去。Allowance 的做法是让智能体代替你下单，但永远不碰你的真实卡号：你在 iPhone 上直接批准这笔消费，还能设置额度上限、限定商户、设定有效期，批准之后它才生成一张只针对这笔交易、一次性的支付凭证。这样智能体可以安全地完成购物、订餐、订座、买票这些任务，而每一笔付款的决定权仍然在人手里。它来自 YC 春季 2026 批次，团队一人，切的是智能体真正开始花钱之后必然出现的控制需求。",
-          "rank": 8
-        },
-        {
-          "id": 31451,
-          "name": "Archer",
-          "url": "https://archermoney.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/archer",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Crypto / Web3",
-            "Neobank",
-            "AI"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "Global payouts for the workforce powering AI",
-          "originalDescription": "Archer is the financial infrastructure for the AI data economy. We’re building global payouts, stablecoin banking, and yield infrastructure for the companies supplying data to frontier AI labs. As demand for high-quality data grows, millions of contributors around the world are generating, labeling, validating, and improving the datasets that power modern AI systems. Yet the financial infrastructure behind these platforms remains slow, fragmented, and expensive. Archer enables data marketplaces, AI labor platforms, and reinforcement learning environment providers to onboard workers globally, pay contributors instantly, and earn yield on idle balances. Today, companies use Archer to manage contributor earnings, global payouts, and treasury operations across hundreds of countries and payment corridors. We believe the next generation of AI companies will need purpose-built financial infrastructure. Just as cloud providers became the backbone of software, Archer is building the financial layer for the global workforce powering artificial intelligence.",
-          "published": "",
-          "story": "这是做人工智能数据经济金融基础设施的公司。一个为前沿人工智能实验室提供数据的平台运营者，可能同时在几十个国家招募标注和验证人员，最头疼的是发钱：跨境转账慢、手续费高、渠道分散，闲置资金也躺在账上不生息。Archer 提供全球付款、稳定币银行和收益基础设施，让数据交易市场、人工智能用工平台和强化学习环境提供方能够全球招募贡献者、即时付款，并让闲置余额产生收益。今天已经有公司用它管理贡献者收入、全球付款和资金运营，覆盖数百个国家和支付通道。它来自 YC 春季 2026 批次，团队四人，关注点是它押注人工智能数据供应链会催生专门的金融层。",
-          "rank": 9
-        },
-        {
-          "id": 31430,
-          "name": "Voquill",
-          "url": "https://voquill.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/voquill",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "The agentic OS for medical labs",
-          "originalDescription": "Voquill is the modern AI-native operating system for medical labs. This software manages the entire workflow of the lab (accessioning, workflow, reporting, coding, compliance, and revenue) and contains modern agentic AI tools to help each step. For example, pathologists can write reports 20% faster through our voice AI coworker. Incumbent lab operating systems are old, don't scale with how modern labs work, and can’t integrate existing AI solutions. As a result, labs are either building their own or paying millions for band-aid solutions and consultants. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
-          "published": "",
-          "story": "这是做医学实验室操作系统的公司。假如你是一名病理学家，每天要写大量报告，还要在样本接收、流程流转、编码、合规和收入结算之间来回切换，用的却是几十年前设计、难以扩展、也接不上现成人工智能工具的老系统。Voquill 想做的是面向医学实验室的人工智能原生操作系统，把样本接收、工作流、报告、编码、合规和收入这一整条链路管起来，并在每一步嵌入智能体工具，比如让病理学家借助语音人工智能同事把写报告的速度提升两成。它来自 YC 春季 2026 批次，团队三人，切入的是实验室要么自建、要么花数百万买补丁方案和咨询的老问题。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49753250",
-          "title": "14 years as an engineer, written for people starting with a gap in their record",
-          "url": "https://yogesh.lonkar.org/posts/engineer/",
-          "source": "Hacker News",
-          "published": "2026-09-18T12:11:25Z",
-          "story": "很多人第一次认真想自己的职业时，手里并不是一份漂亮的连续履历。中间可能空了两三年，去照顾家人、生病、换城市，或者只是没找到方向。等技术面试一轮轮过去，那个空档就会变成别人反复追问的地方，也变成自己心里过不去的坎。这篇文章值得读，是因为作者做了十四年工程师，专门写给履历有断档的人，而不是写给一路顺风顺水的人。读的时候可以留意他怎么把那段空白讲清楚：哪些地方他选择诚实交代，哪些地方他选择用后来的作品说话，以及他在面试和谈薪时怎么判断什么该坚持、什么可以让步。"
-        },
-        {
-          "id": "MIT Technology Review-aHR0cHM6Ly93",
-          "title": "Could AI really kill us all? Your questions, answered.",
-          "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-          "source": "MIT Technology Review",
-          "published": "Fri, 18 Sep 2026 11:29:22 +0000",
-          "story": "每隔一段时间，关于人工智能会不会毁掉人类的说法就会重新热一次。有人拿它当科幻，有人拿它当营销，也有人真的在夜里睡不着。普通人面对这种话题，往往不知道该信谁：专家之间说法互相矛盾，新闻标题又只截最吓人的那一句。这篇文章来自 MIT Technology Review，形式是回答读者的问题，所以它更像一场把常见疑问摆到桌面上的对话。读的时候不必急着接受结论，可以看作者怎么区分不同层级的风险，怎么把遥远的担忧拉回到今天能观察到的技术现实，以及他在哪些问题上坦率承认还没有答案。"
-        },
-        {
-          "id": "Crunchbase News-aHR0cHM6Ly9u",
-          "title": "What 25,000 Startup Applications Reveal About The New Rules Of Seed-Stage Startups",
-          "url": "https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/",
-          "source": "Crunchbase News",
-          "published": "Fri, 18 Sep 2026 11:00:18 +0000",
-          "story": "做早期投资的人每年要看大量申请，创始人则常常在同一个问题上反复碰壁：现在拿种子轮，到底什么才算够好。过去几年的规则好像一直在变，融资节奏、产品形态、增长方式都在动，很多团队拿着上一轮的经验去谈，结果发现对方关心的问题已经不一样了。这篇文章的价值在于它没有只讲一两个故事，而是从两万五千份申请里去找规律，样本大到能看出趋势。读的时候可以注意作者怎么定义这些新规则，他提到的变化是发生在融资端还是产品端，以及哪一类团队因此更容易被看见、哪一类反而更难。"
         }
       ]
     }

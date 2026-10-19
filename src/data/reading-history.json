@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-17T11:34:40.633Z",
+  "updatedAt": "2026-10-19T14:38:46.565Z",
   "readings": [
+    {
+      "key": "blog.cloudflare.com/protect-your-netscaler-gateway",
+      "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+      "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+      "usedAt": "2026-10-19",
+      "site": "startup-radar"
+    },
+    {
+      "key": "skappax.github.io/gemini-ai-suite",
+      "title": "Gemini AI Suite – Zero-Cost Next.js 14, Gemini 3.8 Flash, and Stripe Starter",
+      "url": "https://skappax.github.io/gemini-ai-suite/",
+      "usedAt": "2026-10-19",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review",
+      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+      "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+      "usedAt": "2026-10-19",
+      "site": "startup-radar"
+    },
     {
       "key": "latent.space/p/ainews-high-taste-testers-ep-1",
       "title": "[AINews] High Taste Testers Ep. 1",
