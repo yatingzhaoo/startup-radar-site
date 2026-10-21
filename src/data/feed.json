@@ -1,7 +1,256 @@
 {
-  "generatedAt": "2026-10-20T12:41:44.887Z",
+  "generatedAt": "2026-10-21T12:54:31.737Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-10-21",
+      "companies": [
+        {
+          "id": 33838,
+          "name": "Simantic",
+          "url": "https://simantic.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/simantic",
+          "location": "Waterloo, ON, Canada",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Hardware",
+            "Semiconductors",
+            "Electronics",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Firmware simulation for AI agents",
+          "originalDescription": "Simantic is modernizing the embedded firmware industry with hardware simulation developed for the adoption of AI in hardware engineering. Simantic gives both humans and AI the visibility into hardware previously limited by the physical world.",
+          "published": "",
+          "story": "这是做嵌入式固件仿真工具的公司，服务对象是硬件工程团队。想象你是一家电子设备厂商的固件工程负责人，今天要验证一段新写的驱动代码，可手边的电路板只有两块，排队等实机测试要等好几天，改一行代码就得重新烧录一次。Simantic 把硬件放进仿真环境里跑，让人和智能体都能看清原本被物理世界挡住的硬件内部状态，工程师可以先在虚拟板子上反复试，再上真机。这家公司来自 YC 秋季 2026 批次，团队四人，正在招聘，方向落在开发工具、半导体和电子这几块，说明它想解决的是硬件研发里最耗时间的那一段，而不是再做一个通用软件工具。",
+          "rank": 1
+        },
+        {
+          "id": 31343,
+          "name": "Multiplier",
+          "url": "https://multiplier.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/multiplier",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Productivity",
+            "Investing",
+            "AI",
+            "Stocks"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Agent harnesses for asset managers",
+          "originalDescription": "Multiplier helps institutional investors research stocks and manage their portfolios. We're live with six hedge funds, and our users spend 4+ hours a day in the platform. Investors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application. Our first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"Multiplier has flipped those percentages.\"",
+          "published": "",
+          "story": "这家公司切的是资产管理机构的研究与投资工作流。假如你是一位管理着几十亿美元资产的股票基金经理，每天早上要在十几个数据终端、表格和聊天记录之间来回翻，找一份财报里的关键数字可能要花半小时，一天下来八成时间都在收集信息。Multiplier 把结构化数据、非结构化资料、人工智能的工作和人的判断收进一个受治理的定制平台，让研究员和基金经理在同一个地方完成调研和组合管理。它来自 YC 春季 2026 批次，团队三人，正在招聘，目前已有六家对冲基金在用，用户每天在平台上待四小时以上，这个使用深度本身就是值得关注的信号。",
+          "rank": 2
+        },
+        {
+          "id": 31345,
+          "name": "Replicas",
+          "url": "https://replicas.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/replicas",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Run any coding agent harness in the cloud",
+          "originalDescription": "Replicas is a cloud coding agent that allows you to delegate tasks to Claude Code or Codex from the app, Slack, Linear, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets. Replicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
+          "published": "",
+          "story": "这是给工程团队用的云端编程智能体平台。如果你是一位工程负责人，手上积压了几十张工单，团队里每个人都在等代码评审，而 Claude Code 或 Codex 只能开在某个人的笔记本上，任务一多就排不过来。Replicas 让每个任务跑在独立的沙箱虚拟机里，可以从应用、Slack 或 Linear 直接派活，团队因此能大规模并行处理工单，智能体还会自己收到构建失败的通知并修复，也会读代码评审意见再改。它来自 YC 春季 2026 批次，团队两人，正在招聘，卖点是把并行和反馈闭环做进开发流程，而不是单纯多开几个窗口。",
+          "rank": 3
+        },
+        {
+          "id": 31003,
+          "name": "Voltair",
+          "url": "https://voltairlabs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/voltair",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Autonomous Drones for Earth Observation",
+          "originalDescription": "Voltair is building the world's first globally distributed network of autonomous drones for Earth observation. Power utilities are the perfect first customer. Aging infrastructure and extreme weather drive the need for millimeter-scale inspection data on the power grid. Utilities spend tens of billions of dollars every year just looking at their own equipment. Autonomous drone fleets will enable utilities to inspect 7 million miles of infrastructure more frequently, quickly, and accurately. Our long-range, weatherized flying robots work with charging pads installed directly on utility poles. Each new pad unlocks 1000 square miles of coverage. With a charging network deployed on the power grid, we can serve existing multi-billion dollar data markets in road, rail and telecom inspection at 10x lower prices while enabling entirely new applications in hyperlocal weather monitoring, forestry, construction, search & rescue, and insurance. We envision a future in which drone \"instances\" are requested on-demand through our platform, enabling any application builder to serve these critical markets without ever operating their own hardware.",
+          "published": "",
+          "story": "这家公司做的是用于地球观测的自主无人机网络。设想你是一家电力公司的巡检主管，辖区里有成千上万座电塔和线路穿过山区，暴风雪过后要派人爬塔检查，既慢又危险，而公司每年花在“看自己设备”上的钱是数十亿美元级别。Voltair 让长航程、耐候的飞行机器人从装在电线杆上的充电垫起飞，每新增一个充电点就能覆盖上千平方英里，把巡检做得更频繁也更细。它来自 YC 冬季 2026 批次，团队五人，正在招聘，先切电力行业再向公路、铁路和通信巡检延伸，这个从充电网络长出来的覆盖逻辑是它值得看的地方。",
+          "rank": 4
+        },
+        {
+          "id": 32193,
+          "name": "Floracene",
+          "url": "https://www.floracene.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/floracene",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Health Tech",
+            "Medical Devices",
+            "Digital Health",
+            "Enterprise Software",
+            "Healthcare IT"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Vibecode + deploy HIPAA-compliant internal tools, no eng team needed",
+          "originalDescription": "Floracene lets any healthcare operator describe the internal tool they need and deploy it in one click - connected to production data, with read and write access scoped by the user. Think Lovable or Retool, except purpose-built for the needs of healthcare business that has no engineering team. The bottleneck in healthcare isn't building anymore. Anyone can vibecode an 80% solution in an afternoon, custom to their own workflow, with people already on staff. The tool then dies locally on the builder’s computer, because IT (correctly) won't let anyone deploy a tool touching PHI without first-class authentication and permissioning. Our first customer had multiple employees who had each built useful tools and dashboards locally, but couldn’t actually share these with coworkers or connect to their core practice data. Within weeks of implementing Floracene, they were able to consolidate their BI tooling into Floracene and shipped 4 net-new to production. A staggering ~$200B is spent on administrative software in healthcare every year in the US. Tens of thousands of those companies still run core operations on spreadsheets, and we're at the top of the first inning of AI adoption. Asaph and Jonah met on the hospitals team at Palantir two years ago, and have each spent the last four years in the plumbing of US healthcare: claims, eligibility, and payor contracting. Asaph was an early PM at Garner. Jonah was a founding engineer at Metriport (YC S22) after starting his own fax-automation startup for fertility clinics.",
+          "published": "",
+          "story": "这是帮医疗机构搭建合规内部工具的公司。想象你是一家诊所的运营负责人，前台同事用一下午拼出一个排班小工具，很好用，却只能留在她自己的电脑上，因为信息技术部门不敢让任何碰病人数据的程序上线。Floracene 让人用自然语言描述需要的工具，一键部署，接上生产数据，并按用户划分读写权限，等于把搭建工具和合规上线这两步接了起来。它来自 YC 夏季 2026 批次，团队两人，目前不招聘，第一个客户有多个员工各自做过本地工具却无法共享，这类场景说明医疗后台的瓶颈已经从“会不会做”变成了“能不能安全地用”。",
+          "rank": 5
+        },
+        {
+          "id": 31418,
+          "name": "Taiga",
+          "url": "https://taigabilling.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/taiga",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Autonomous medical billing",
+          "originalDescription": "Taiga automates medical billing for doctor's offices. A doctor uploads their visit data, our AI figures out the right billing codes, checks the claim for errors, and submits it to insurance, dealing with any denials. Faster billing, fewer rejected claims, less busywork. We're Nanda and Adam, friends since 3rd grade. Both of our parents are doctors with their own practices, and billing was always a source of stress and lost revenue for them. We want providers to treat patients while we handle the rest.",
+          "published": "",
+          "story": "这家公司做的是面向诊所的自动医疗账务。假如你是一位独立执业医生的前台主管，每天诊疗结束后要对着记录逐条判断该用哪个计费代码，填错就被保险公司退回，拒付和拖欠让收入一点点漏掉。Taiga 让医生上传就诊数据，由人工智能判断代码、检查理赔单有没有错误、提交给保险公司，并跟进被拒的理赔。它来自 YC 春季 2026 批次，团队两人，正在招聘，两位创始人的父母都经营自己的诊所，账务一直是压力和收入损失的来源，这个从家庭诊所长出来的切入点让它的场景显得具体。",
+          "rank": 6
+        },
+        {
+          "id": 31340,
+          "name": "Illume Labs",
+          "url": "https://www.illumelabs.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/illume-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Generative AI",
+            "Health Tech",
+            "Biotech",
+            "Health & Wellness",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "24/7 Personal Health & Longevity Companion",
+          "originalDescription": "Illume is a 24/7 AI personal health & longevity companion that connects your wearables, blood panels, and genomic data to text you personalized and actionable insights. We pull in your health data and fuse it into one secure model. You get daily text updates on what changed, what it means, and what to do next; conversational health Q&A like \"What should I do to improve my bloodwork?\"; cross-data trend detection that catches patterns individual platforms miss; and a full platform to dig deeper, explore your health data, and text your Illume agent anytime. We're 3 MIT grads & friends, with experience at Windsurf, MIT CSAIL, Eli Lilly, & the Broad Institute.",
+          "published": "",
+          "story": "这是做个人健康与长寿陪伴服务的公司，能力放在可穿戴设备和随身场景里，不只是手机上的一个应用。如果你是一个每天戴着手环、刚做完血液检查的运动用户，报告出来一堆指标，你不知道哪项变化值得在意，也不知道下一步该调整什么。Illume 把可穿戴数据、血液面板和基因数据汇进一个安全模型，每天用短信告诉你什么变了、意味着什么、接下来做什么，也能回答“我该怎么改善血检结果”这类问题，还会跨数据找单个平台看不到的趋势。它来自 YC 夏季 2026 批次，团队三人，都是麻省理工学院的毕业生，曾在 Windsurf、麻省理工学院计算机科学与人工智能实验室、礼来和布罗德研究所工作。",
+          "rank": 7
+        },
+        {
+          "id": 30708,
+          "name": "Perseus Defense",
+          "url": "https://perseusdefense.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/perseus-defense",
+          "location": "Austin, TX, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "America's Golden Dome for Drones",
+          "originalDescription": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our self-guided missile platform is man-portable and multi-domain capable. It senses, engages, and eliminates threats with drastically reduced cost per engagement over existing kinetic solutions. Solving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued their PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer The White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. Traction: Jason and Steve used more than 100 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. In 8 short weeks following a strict 2-week design-build-test cycle, the team has gone through 4 major guided missile iterations with over 30 live-fire flight tests. They were invited to Ft. Hood to present their platform to the 1st Cavalry Division, and also briefed the Pentagon and U.S. congressmen on current U.S. vulnerabilities to advanced drone technology. Perseus Defense is actively standing up cooperative research agreements with U.S. Army DEVCOM's Applied Research Laboratory, Aviation and Missile Center, Armaments Center, and High Performance Computing Modernization Program.",
+          "published": "",
+          "story": "这家公司做的是反无人机防御系统，客户是美国国防部和国土安全部。设想你是一个负责基地低空安全的防御项目官员，现有拦截手段基本是一对一，价格比要防的无人机贵出几个数量级，而且很多方案在美国本土使用风险太大。Perseus Defense 做的是可单兵携带、多域适用的自导导弹平台，能感知、交战并消除威胁，单次交战的成本比现有动能方案低得多。它来自 YC 夏季 2025 批次，团队三人，正在招聘，两位创始人在宾夕法尼亚州立大学分别攻读航空航天工程博士和硕士，做过为美国航空航天局设计太空直升机、让波音客机自主降落和控制无人机集群等工作。",
+          "rank": 8
+        },
+        {
+          "id": 31560,
+          "name": "Intelligence Factory",
+          "url": "https://intelligence-factory.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/intelligence-factory",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 10,
+          "originalOneLiner": "Human Intelligence for Robots",
+          "originalDescription": "Robotics is the new paradigm. With hardware converging, Intelligence is the biggest bottleneck. Our world was built for humans and we're giving robots the ability to reason and act like us. The way we learn any task - by seeing, doing, and feeling - is how we train robots. We're building general intelligence that works on any robot and fits seamlessly within our world.",
+          "published": "",
+          "story": "这家公司做的是给机器人提供通用智能的训练与部署。想象你是一家工厂的自动化负责人，新买来的机械臂换个工位就不会干活，重新编程要请集成商来现场待上几周，产线一改就得重来。Intelligence Factory 的思路是让机器人像人一样通过看、做和感受来学习任务，把训练出的通用能力装到不同机器人身上，让它们适应为人类建造的世界。它来自 YC 春季 2026 批次，团队十人，正在招聘，在硬件逐渐趋同的判断下，它押注智能是当前最大的瓶颈，这个十人规模也说明它已经在做工程化而不是只停留在演示。",
+          "rank": 9
+        },
+        {
+          "id": "hn-launch-50176908",
+          "name": "Alter",
+          "url": "https://alterauth.com/",
+          "sourceUrl": "https://news.ycombinator.com/item?id=50176908",
+          "location": "Unknown",
+          "source": [
+            "Launch HN"
+          ],
+          "tags": [
+            "AI"
+          ],
+          "batch": "",
+          "isHiring": false,
+          "teamSize": 0,
+          "originalOneLiner": "YC S25) – Access control for multi-user agents",
+          "originalDescription": "YC S25) – Access control for multi-user agents",
+          "published": "2026-10-21T06:42:12Z",
+          "story": "这家公司做的是多用户智能体的访问控制。假如你是一个团队里负责智能体落地的工程负责人，同事们共用一个智能体账号，谁都能让它读文件、调接口、改数据，出了问题却查不清是谁授权的哪一步。Alter 想解决的正是这个麻烦，把权限边界加到多人共用的智能体上，让不同的人在同一套智能体里只做被允许的事。它来自 YC 夏季 2025 批次，在 Launch HN 上发布，输入里没有团队人数、客户或收入信息，所以值得看的地方在于场景本身：智能体从个人玩具走向团队协作时，权限和审计会先变成绕不过去的一关。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "Hugging Face-aHR0cHM6Ly9o",
+          "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+          "source": "Hugging Face",
+          "published": "Wed, 21 Oct 2026 12:51:24 GMT",
+          "story": "做预测的人常会碰到一种尴尬：模型在训练集上表现不错，一到真实业务里就失灵，因为历史数据里的模式没那么干净。这篇来自 Hugging Face 的文章介绍 NVIDIA 的 Kumo Forecast，把预训练的时间序列表示和历史模式检索放在一起，还强调可解释性。值得读的地方在于，它没有只讲模型多强，而是把“怎么让预测结果能被人理解和信任”当成问题的一部分。读的时候可以留意作者如何拆解预测任务：哪些部分交给预训练表示，哪些部分靠检索历史相似模式，以及可解释性是在哪个环节被加进去的。"
+        },
+        {
+          "id": "hn-50180042",
+          "title": "Numbering Should Start at Zero (1982) [pdf]",
+          "url": "https://www.cs.utexas.edu/~EWD/ewd08xx/EWD831.PDF",
+          "source": "Hacker News",
+          "published": "2026-10-21T12:50:43Z",
+          "story": "程序员大概都遇到过从 0 还是从 1 开始编号的争论，有时候是在写循环，有时候是在讨论数组下标，有时候只是同事之间一句玩笑。这篇 1982 年的短文最近又出现在 Hacker News 上，说明这个老问题还在被反复提起。它值得读，不是因为给出了标准答案，而是因为它展示了一种把日常习惯上升为设计原则的思考方式。读的时候可以看作者怎么界定问题、怎么用例子推进论证，以及他如何判断哪种编号方式更不容易让人出错。"
+        },
+        {
+          "id": "MIT Technology Review-aHR0cHM6Ly93",
+          "title": "The Download: introducing the Impossible issue",
+          "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+          "source": "MIT Technology Review",
+          "published": "Wed, 21 Oct 2026 12:10:00 +0000",
+          "story": "翻开一本技术杂志的专题，读者往往先想知道：这期为什么选这个主题，它和当下有什么关系。MIT Technology Review 的 The Download 推出“Impossible issue”，从标题看是在围绕那些看似不可能的目标组织内容。这类导览值得读，是因为它像一张地图，帮人快速判断哪些方向正在被认真对待。读的时候可以留意编辑如何挑选和排列话题：哪些“不可能”被放在前面，它们之间有没有共同的线索，以及这种编排本身透露了怎样的判断。"
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "companies": [
@@ -3253,260 +3502,6 @@
           "source": "Hugging Face",
           "published": "Mon, 21 Sep 2026 13:44:34 GMT",
           "story": "训练一个大模型很贵，用起来也不便宜，于是很多人想把它剪小一点：去掉一些层、一些块，让它在保持效果的同时跑得更快。问题是，去掉哪一块才不伤筋动骨，这件事一直靠经验和试错。这篇文章把剪模型里的“块删除”换了一个角度，当成物理里常见的伊辛优化问题来解。它值得读，是因为它展示了一种把工程难题翻译成另一门学科语言的思路。读的时候可以重点看作者怎么把“删哪一块”写成数学形式，怎么判断哪些块可以动，以及这种类比到底省下了什么。"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-20",
-      "companies": [
-        {
-          "id": 35292,
-          "name": "Agent Relay",
-          "url": "https://agentrelay.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/agent-relay",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Swarm AI"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The infrastructure to run coding agents for your team",
-          "originalDescription": "Agent Relay helps software teams work better with coding agents, and helps those agents work better as a team. It gives Claude Code, Codex, OpenCode, and custom agents shared messaging, session history, and access to tools like GitHub, Linear, and Slack. Teams can see what every agent is doing, run checked and resumable workflows, and step in when human judgment is needed. Run it in our cloud, locally, or on your own hardware.",
-          "published": "",
-          "story": "这是给软件团队管编程智能体的开发工具公司。假如你是一个工程负责人，团队里好几个人同时在用 Claude Code 和 Codex 写代码，你根本不知道哪个智能体改了哪块、跑到哪一步了，想接手也接不上。Agent Relay 给这些智能体加上共享消息、会话历史和工具权限，让它们像队友一样协作，还能在需要人判断时停下来等你确认。它来自 YC 秋季批次，团队只有两人，目前不招人，但把智能体当团队成员来管这件事，正是很多工程团队马上要面对的问题。",
-          "rank": 1
-        },
-        {
-          "id": 31470,
-          "name": "Tasklet",
-          "url": "https://tasklet.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/tasklet-2",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 8,
-          "originalOneLiner": "Agents that own the work",
-          "originalDescription": "AI chatbots can answer questions, but they can't do your work — they aren't connected to your tools, can't take actions, and stop running when you close the tab. Meanwhile, knowledge workers are still spending most of their day switching between dozens of SaaS apps, manually stitching together workflows that should be automated. Tasklet is the AI agent that actually does the work. It connects to every tool you use — via thousands of built-in integrations, any HTTP API, or MCP servers — and takes real actions on your behalf: pulling reports, updating CRMs, triaging emails, processing data, and more. When it needs a UI, it generates one on the fly. When it needs to crunch numbers or do bulk operations, it writes and runs code in a cloud sandbox. When it needs to interact with a website that doesn't have an API, it uses a real browser. And because it runs in the cloud 24/7, you can set up triggers to have it take ongoing responsibility for workflows — not just do something once, but handle it going forward. The product is deliberately simple: a chat interface where you talk to an extremely capable agent. But underneath that simplicity is a cloud-native agent runtime, best-in-class context engineering, a universal connections layer, and multi-model support that keeps us on the frontier as AI improves. We think legacy SaaS is being unbundled by agents, and Tasklet is the operating system that ties it all together.",
-          "published": "",
-          "story": "这家公司做的是能真正替你干活的智能体。想象你是一个每天被各种后台系统淹没的运营人员，早上要拉报表、更新客户记录、分拣邮件，还要在十几个网页之间来回切换，关掉标签页任务就断了。Tasklet 连上你常用的工具，自己动手拉数据、改记录、处理邮件，需要界面就临时生成一个，需要算数就写代码跑，遇到没有接口的网站就用真实浏览器操作，而且它一直在云端跑着。它来自 YC 春季批次，团队八人，正在招人，说明这类替人跑腿的智能体已经走到要扩队伍的阶段。",
-          "rank": 2
-        },
-        {
-          "id": 30174,
-          "name": "Revise Robotics",
-          "url": "https://www.reviserobotics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/revise-robotics",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Robotic Process Automation",
-            "ClimateTech",
-            "Electronics"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Automating refurbishment of $1T in consumer electronics",
-          "originalDescription": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets. Our first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
-          "published": "",
-          "story": "这是用机器人翻新消费电子产品的公司。一个电子垃圾回收厂的仓库主管，每天面对成堆的旧笔记本，要一台台挑出还能用的，测试、擦硬盘、拍照、再挂到二手平台卖，人手根本忙不过来。Revise Robotics 做的机器人系统能接进这类工厂，每天自动评估和翻新几百台笔记本，不管什么品牌、什么系统都能处理。它来自 YC 冬季批次，团队三人，正在招人，而它盯上的是一万亿美元规模的电子产品翻新市场，把人工分拣变成自动化流水线，值得关注。",
-          "rank": 3
-        },
-        {
-          "id": 32620,
-          "name": "Vendo",
-          "url": "https://vendo.run/",
-          "sourceUrl": "https://www.ycombinator.com/companies/vendo",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "B2B",
-            "Customer Success",
-            "Open Source"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Let your users build their own features on top of your product",
-          "originalDescription": "Vendo is the customization layer that lets your users build their own features and micro-apps directly on top of your product. Rather than waiting on an ever-growing feature backlog, your users can personalize the product to exactly how they work, create their own automations, and integrate hundreds of external tools, all without your team writing a line of code. Everything runs on your existing API, renders natively in your own theme and components, and executes inside secure sandboxes within your existing security guardrails, so your source code is never touched. Companies can plug Vendo into an agent they already have, or deploy a production-ready agent complete with the ability to take actions in the product, generate UI, and draw on a built-in knowledge base. Vendo is open source and installs with a single command, and we work closely with teams to get it running for their product.",
-          "published": "",
-          "story": "这家公司切的是软件产品的定制化层。如果你是一个 SaaS 产品的客户成功负责人，客户天天提各种小需求，功能排期越堆越长，工程团队根本做不完。Vendo 让你的用户直接在你的产品上搭自己的小功能和微应用，不用你写一行代码，全部跑在你现有的接口上，用你自己的主题和组件渲染，还在你原有的安全边界里执行，源码不会被碰。它来自 YC 夏季批次，团队两人，目前不招人，而且是开源的，一条命令就能装，这种把定制权交给用户的做法，对产品团队来说是个值得留意的方向。",
-          "rank": 4
-        },
-        {
-          "id": 33178,
-          "name": "TovenAI",
-          "url": "https://toven.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/tovenai",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Fintech",
-            "Compliance",
-            "Regtech"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "AI agents for compliance at institutional trading firms",
-          "originalDescription": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage. With prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
-          "published": "",
-          "story": "这是给机构交易公司做合规自动化的公司。一个合规分析师每天要处理大量手工且数据密集的核查工作，规则多、系统杂，稍有疏漏就麻烦。TovenAI 用一组智能体接手这些活，目前已有六个智能体上线，客户从专业机构到大型全球机构都有，其中一家排名前十的机构券商在用它的智能体支持多个合规流程。它预接了三十多个系统，包括彭博、Cloud9 和 NICE Actimize，公司一周内就能用自己的数据上手评估。它来自 YC 夏季批次，团队两人，目前不招人，但合规这块苦活被智能体接手的趋势很清楚。",
-          "rank": 5
-        },
-        {
-          "id": 35224,
-          "name": "Micora",
-          "url": "https://micora.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/micora",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Energy Storage",
-            "Robotics",
-            "Solar Power"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Microgrids in a box built anywhere in days",
-          "originalDescription": "Micora builds a solar-farm-in-a-box that can be shipped anywhere and built without specialized labor. We have designed a new type of solar farm micorgrid that is palletized, lightweight, and deployable. Our system autonomously builds 100kWp of capacity per day and is easily scalable to MWs of capacity which is a size currently only serviced by slow moving and at capacity EPCs. As demand from data centers, advanced manufacturing, and electrification strains existing power infrastructure, the ability to deploy substantial generation quickly is becoming increasingly valuable and unavailable. We are the only company that services utility-scale power needs in weeks.",
-          "published": "",
-          "story": "这家公司做的是能装箱运走的微型电网。如果你是一个数据中心的设施负责人，电不够用，等传统工程队排期要很久，扩容计划只能往后拖。Micora 把太阳能农场做成托盘化、轻量的箱式系统，运到任何地方都不需要专门工种，系统每天能自动搭出十万瓦峰值容量，还能轻松扩到兆瓦级，而这一规模过去只有动作慢、产能满的工程承包商才接。它来自 YC 秋季批次，团队三人，目前不招人，在数据中心和制造业用电越来越紧的当下，几周内就能部署大容量发电这件事本身就很值得看。",
-          "rank": 6
-        },
-        {
-          "id": 31085,
-          "name": "Ruma Care",
-          "url": "https://rumacare.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/ruma-care",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "The operations stack for biologic infusion clinics",
-          "originalDescription": "Ruma Care automates all admin work for infusion clinics - starting with prior authorizations & copay assistance enrollment. Biologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. Current medical workflows aren't built for infusion clinics. Inventory, storage, transport, and billing is still managed through paper and excel spreadsheets. And because they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, when workflows fail, or patients are infused before paperwork is cleared, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting forms. We do this in three ways: 1. For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. 2. We pull out the correct forms, then automate the form-filling for prior authorizations. 3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. We turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved.",
-          "published": "",
-          "story": "这是给生物制剂输注诊所做后台运营的公司。一个诊所运营负责人每天最头疼的是保险预授权和共付援助登记，生物制剂一年一个病人要八万到十五万美元以上，保险拒赔率高达百分之三十七，一旦流程没走完就给病人输注，药费就得诊所自己扛。Ruma Care 把这些行政工作自动化，从预授权开始，帮诊所把库存、存储、运输和账单从纸和表格里解放出来。它来自 YC 冬季批次，团队五人，正在招人，这类高值药物的运营痛点很具体，值得关注。",
-          "rank": 7
-        },
-        {
-          "id": 33017,
-          "name": "ProvenMetal",
-          "url": "https://provenmetal.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/provenmetal",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hardware",
-            "Manufacturing",
-            "Electronics"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "AI-native electronics manufacturing for the American industrial base",
-          "originalDescription": "ProvenMetal manufactures the fastest circuit boards in the United States. Domestic circuit board manufacturing is slow and expensive, and while reshoring is happening, the supply chain isn't there yet. We automate the bottlenecks - part procurement, DFM review, and assembly - delivering circuit boards in days instead of weeks.",
-          "published": "",
-          "story": "这是做美国本土电子制造的公司。一个硬件工程负责人最怕的就是电路板打样，国内工厂又慢又贵，想回流美国，供应链却还没跟上，一等就是好几周。ProvenMetal 把零件采购、可制造性审查和组装这些瓶颈自动化，几天就能交付电路板，而不是几周。它来自 YC 夏季批次，团队四人，正在招人，在美国制造业回流的大背景下，把最快的电路板制造留在本土，这个方向值得留意。",
-          "rank": 8
-        },
-        {
-          "id": 33062,
-          "name": "Hubble",
-          "url": "https://hubble.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/hubble-ai",
-          "location": "Seattle, WA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "Healthcare"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "AI-native retrieval engine for medical records",
-          "originalDescription": "Hubble is the AI-native retrieval engine for medical records, delivered in one API. I scaled Grow Therapy to a $3B valuation; my cofounder built One Medical's first AI agents, now used by millions of patients. Four weeks in, we already have ten signed customers and 7-figure year-one revenue across platform and usage fees. Every new agentic use case across industries like legal, clinical trials, consumer health, insurance, needs a complete medical record, and today that still means faxes and phone calls. Hubble fixes that with voice and browser agents that reach the providers APIs can't, in a market worth $45B just in the verticals we've mapped so far.",
-          "published": "",
-          "story": "这家公司做的是医疗记录的智能检索。如果你是一个处理人身伤害案件的律师，或者一个临床研究协调员，你需要一份完整的病历，可现实是还在发传真、打电话，接口根本够不到那些小诊所。Hubble 用一个接口交付人工智能原生的病历检索，靠语音和浏览器智能体去触达接口到不了的地方。它来自 YC 夏季批次，团队两人，目前不招人，但四周内已有十家签约客户和七位数首年收入，覆盖法律、临床试验、消费健康和保险等场景，这个信号说明需求真实存在。",
-          "rank": 9
-        },
-        {
-          "id": 33016,
-          "name": "Gamgee",
-          "url": "https://gamgee.io/",
-          "sourceUrl": "https://www.ycombinator.com/companies/gamgee",
-          "location": "San Francisco, CA, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Biotech",
-            "Genomics",
-            "Oncology",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Curing cancer. Starting with dogs.",
-          "originalDescription": "​Gamgee began with Rosie, founder Paul Conyngham’s dog. After surgery, chemotherapy and immunotherapy failed, Rosie was given months to live. Paul used AI and genomic analysis to identify targets in her tumour, then worked with scientists at UNSW to produce what is believed to be the first fully computationally designed mRNA cancer vaccine delivered to a dog. Following treatment, several tumours shrank significantly and her quality of life improved Gamgee is building an end to end platform for personalised mRNA cancer vaccines for dogs. We sequence a dog’s tumour and healthy DNA, identify mutations unique to its cancer, and design a vaccine that teaches the immune system what to attack. We manage the entire process- from vet intake and tissue collection through genomic analysis, vaccine production, treatment and response monitoring ​We are now turning that one off effort into a repeatable clinical system. Gamgee is running clinical trials in Australia, working with vets, oncologists and specialised laboratories, and accepting cases globally. Our goal is to make personalised cancer treatment accessible to every dog that needs it- and use each case to improve the treatment for the next",
-          "published": "",
-          "story": "这是做个性化信使核糖核酸癌症疫苗的生物科技公司，先从狗开始。想象一个宠物主人，狗做完手术、化疗和免疫治疗都没用，医生只说还剩几个月。Gamgee 的起点就是创始人保罗的狗罗西，他用人工智能和基因组分析找到肿瘤靶点，与科学家合作做出据信是首个完全由计算设计的、给狗用的信使核糖核酸癌症疫苗，治疗后多个肿瘤明显缩小。公司现在把测序、找突变、设计疫苗、生产、治疗和监测做成完整平台，来自 YC 夏季批次，团队两人，目前不招人，从一只狗到可复制的流程，这条路值得关注。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49773756",
-          "title": "Show HN: Will Jev pull the lever in the trolley problem?",
-          "url": "https://gpu.studio/trolley",
-          "source": "Hacker News",
-          "published": "2026-09-20T08:31:26Z",
-          "story": "技术社区里常有人把老问题重新拿出来玩，比如电车难题：一辆失控电车冲向五个人，你手边有个拉杆，拉一下车会转向另一条轨道，但那边有一个人。这次有人把它做成了网页小项目，还让一个叫 Jev 的角色来决定拉不拉。这类东西为什么值得看？因为它表面是道德困境，背后其实是人在设计一个自动判断的规则，而写代码的人每天都在做类似的事：把模糊的取舍变成明确的逻辑。读的时候可以留意作者怎么把抽象问题拆成可操作的选项，以及他有没有在互动里藏进自己的判断。你也可以问，如果换成你来写这段规则，你会怎么设定条件。"
-        },
-        {
-          "id": "TechCrunch AI-aHR0cHM6Ly90",
-          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-          "source": "TechCrunch AI",
-          "published": "Sat, 19 Sep 2026 20:39:13 +0000",
-          "story": "一家公司开始用买断的方式让员工主动离开，通常说明它正在调整规模，或者对接下来要投入的方向有了新的打算。对普通团队来说，这种消息往往不是突然出现的，而是前面已经有过招聘放缓、预算收紧或者业务重心转移的迹象。这篇报道值得读，是因为它把一家具体公司在压力下的选择摆了出来，而不只是讲一个行业趋势。读的时候可以注意它提到的人数、条件和时间点，看公司是怎么把调整包装成自愿选择，也想想同样的情况下，管理者和员工各自会怎么算这笔账。"
-        },
-        {
-          "id": "Lenny's Newsletter-aHR0cHM6Ly93",
-          "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
-          "source": "Lenny's Newsletter",
-          "published": "Sat, 19 Sep 2026 19:42:24 GMT",
-          "story": "很多做产品的人都有过这样的时刻：脑子里有个想法，但手里还没有能给人看的东西，却已经急着想知道谁会愿意用。这期社区问答把这类早期困惑摆在一起，包括产品还没成形时怎么找到第一批用户、做完用户访谈后怎么自己复盘、以及职业头几年到底该把精力放在哪里。它值得读，是因为这些问题来自真实的人，答案也往往带着各自的处境，而不是一套通用公式。读的时候可以挑一个和你当下最接近的问题，看回答的人是怎么判断优先级、怎么处理信息不足的。"
         }
       ]
     }

@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-20T12:41:44.889Z",
+  "updatedAt": "2026-10-21T12:54:31.739Z",
   "readings": [
+    {
+      "key": "cs.utexas.edu/~ewd/ewd08xx/ewd831.pdf",
+      "title": "Numbering Should Start at Zero (1982) [pdf]",
+      "url": "https://www.cs.utexas.edu/~EWD/ewd08xx/EWD831.PDF",
+      "usedAt": "2026-10-21",
+      "site": "startup-radar"
+    },
+    {
+      "key": "huggingface.co/blog/nvidia/kumo-forecast",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "usedAt": "2026-10-21",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue",
+      "title": "The Download: introducing the Impossible issue",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "usedAt": "2026-10-21",
+      "site": "startup-radar"
+    },
     {
       "key": "polanyilabs.com",
       "title": "Show HN: Synthetic clickstream data for recommender cold-start",
