@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-21T12:54:31.739Z",
+  "updatedAt": "2026-10-22T12:56:40.037Z",
   "readings": [
+    {
+      "key": "aethermug.com/atlas",
+      "title": "Show HN: A fantasy map of my blog to replace the chronological feed",
+      "url": "https://aethermug.com/atlas",
+      "usedAt": "2026-10-22",
+      "site": "startup-radar"
+    },
+    {
+      "key": "news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived",
+      "title": "The AI IPO Wave Is The Dot-Com Bubble&#8217;s Evil Twin. Anthropic’s Delay Just Proved It.",
+      "url": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
+      "usedAt": "2026-10-22",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat",
+      "title": "The Download: computing’s next leap and permafrost’s climate threat",
+      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "usedAt": "2026-10-22",
+      "site": "startup-radar"
+    },
     {
       "key": "cs.utexas.edu/~ewd/ewd08xx/ewd831.pdf",
       "title": "Numbering Should Start at Zero (1982) [pdf]",
