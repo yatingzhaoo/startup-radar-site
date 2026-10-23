@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-22T12:56:40.037Z",
+  "updatedAt": "2026-10-23T12:36:08.304Z",
   "readings": [
+    {
+      "key": "basteon.app",
+      "title": "Show HN: Basteon, a finance app that keeps your data on your phone",
+      "url": "https://basteon.app/",
+      "usedAt": "2026-10-23",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/the-double-hockey-stick-why-1-of-your-users-now-drive-75-of-your-ai-costs-and-what-figma-clay-and-higgsfield-are-doing-about-it",
+      "title": "The Double Hockey Stick: Why 1% of Your Users Now Drive 75% of Your AI Costs, and What Figma, Clay, and Higgsfield Are Doing About It",
+      "url": "https://www.saastr.com/the-double-hockey-stick-why-1-of-your-users-now-drive-75-of-your-ai-costs-and-what-figma-clay-and-higgsfield-are-doing-about-it/",
+      "usedAt": "2026-10-23",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots",
+      "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "usedAt": "2026-10-23",
+      "site": "startup-radar"
+    },
     {
       "key": "aethermug.com/atlas",
       "title": "Show HN: A fantasy map of my blog to replace the chronological feed",
