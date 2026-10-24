@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-23T12:36:08.304Z",
+  "updatedAt": "2026-10-24T11:58:45.497Z",
   "readings": [
+    {
+      "key": "latent.space/p/ainews-kimi-31",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "url": "https://latent.space/p/ainews-kimi-31/",
+      "usedAt": "2026-10-24",
+      "site": "startup-radar"
+    },
+    {
+      "key": "research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "usedAt": "2026-10-24",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers",
+      "title": "Startups don&#8217;t need to go viral to win customers",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "usedAt": "2026-10-24",
+      "site": "startup-radar"
+    },
     {
       "key": "basteon.app",
       "title": "Show HN: Basteon, a finance app that keeps your data on your phone",
