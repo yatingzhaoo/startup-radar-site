@@ -1,7 +1,250 @@
 {
-  "generatedAt": "2026-10-24T11:58:45.494Z",
+  "generatedAt": "2026-10-25T12:33:11.075Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-10-25",
+      "companies": [
+        {
+          "id": 31470,
+          "name": "Tasklet",
+          "url": "https://tasklet.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/tasklet-2",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 8,
+          "originalOneLiner": "Agents that own the work",
+          "originalDescription": "AI chatbots can answer questions, but they can't do your work — they aren't connected to your tools, can't take actions, and stop running when you close the tab. Meanwhile, knowledge workers are still spending most of their day switching between dozens of SaaS apps, manually stitching together workflows that should be automated. Tasklet is the AI agent that actually does the work. It connects to every tool you use — via thousands of built-in integrations, any HTTP API, or MCP servers — and takes real actions on your behalf: pulling reports, updating CRMs, triaging emails, processing data, and more. When it needs a UI, it generates one on the fly. When it needs to crunch numbers or do bulk operations, it writes and runs code in a cloud sandbox. When it needs to interact with a website that doesn't have an API, it uses a real browser. And because it runs in the cloud 24/7, you can set up triggers to have it take ongoing responsibility for workflows — not just do something once, but handle it going forward. The product is deliberately simple: a chat interface where you talk to an extremely capable agent. But underneath that simplicity is a cloud-native agent runtime, best-in-class context engineering, a universal connections layer, and multi-model support that keeps us on the frontier as AI improves. We think legacy SaaS is being unbundled by agents, and Tasklet is the operating system that ties it all together.",
+          "published": "",
+          "story": "这是做人工智能智能体的公司，让智能体真正接手日常工作。假如你是销售主管，每天要在客户关系管理系统、邮箱和表格之间来回切换，手动整理线索和更新记录，一天下来真正谈客户的时间所剩无几。Tasklet 能连接你用的各种工具，通过内置集成、接口或协议服务器，代替你执行拉取报告、更新客户关系管理系统、分类邮件、处理数据等操作，需要界面时还能即时生成，需要算数或批量操作时会在云端沙箱里写代码运行，遇到没有接口的网站则用真实浏览器操作，而且它二十四小时在云端运行，你可以设置定时任务让它持续工作。这支 YC 春季 2026 的团队目前有八人并在招聘，场景本身值得看，因为知识工作者大量时间耗在工具切换和重复劳动上。",
+          "rank": 1
+        },
+        {
+          "id": 31518,
+          "name": "Runtime",
+          "url": "https://www.runtm.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/runtime",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 7,
+          "originalOneLiner": "The AI agent harness for payment teams",
+          "originalDescription": "Runtime helps fast-growing fintechs build and run AI agents for mission-critical payment and risk operations. Teams turn their procedures into specialized agents that work across their systems, with scoped access, human approvals, and a full audit trail.",
+          "published": "",
+          "story": "这家公司切的是支付团队的人工智能智能体运行环境。如果你是一家快速增长的金融科技公司的风控分析师，每天要按流程核对交易、处理异常并留下审批记录，步骤多、系统杂，稍有疏漏就可能带来风险。Runtime 让团队把内部操作流程变成专门的智能体，让它们在各个系统之间执行任务，同时提供限定范围的访问权限、人工审批环节和完整的审计记录。这样重复的支付与风控操作可以交给智能体按规矩跑，人只负责关键判断。它来自 YC 春季 2026 批次，团队七人且正在招聘，值得关注是因为支付和风控这类任务对权限与审计要求很高，能把智能体安全地放进这类流程本身就是一个具体问题。",
+          "rank": 2
+        },
+        {
+          "id": 32168,
+          "name": "Synapse Semiconductor",
+          "url": "https://synapsesemi.org",
+          "sourceUrl": "https://www.ycombinator.com/companies/synapse-semiconductor",
+          "location": "Durham, NC, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Edge Computing Semiconductors",
+            "Hard Tech",
+            "Robotics",
+            "Defense",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "New semiconductors that merge compute and vision",
+          "originalDescription": "We want to push machines to where humans cant go. Presidential early career award winning Duke Semiconductor ECE Faculty Tania Roy and Sanjeev Chauhan are building a frontier semiconductor research lab. Their focus is on solving physical AI challenges from the semiconductor device level and building products around the moat of impossible to copy innovation. Their first work is on a new vision sensor that can run neural network filters right in the camera pixels and only collect data that machines care about. As physical AI develops, machines needs to understand the world around them if they aim to interact with them.",
+          "published": "",
+          "story": "这是做边缘计算半导体的硬科技公司，把计算和视觉能力合并到传感器层面。想象你负责一台在危险或人难以到达的环境里作业的机器，它需要实时看懂周围，但把图像传回云端既慢又费带宽，很多数据其实机器并不需要。Synapse Semiconductor 正在研发一种新的视觉传感器，能在相机像素里直接运行神经网络滤波，只采集机器真正关心的数据。这不是一个手机应用，而是把能力放进芯片和传感器里，让设备在本地就完成判断。它来自 YC 夏季 2026 批次，团队只有两人且正在招聘，方向涉及机器人、国防等场景，值得看是因为物理智能要发展，机器必须先在自己的硬件上理解世界。",
+          "rank": 3
+        },
+        {
+          "id": 31088,
+          "name": "RunAnywhere",
+          "url": "https://www.runanywhere.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/runanywhere",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Open Source",
+            "Infrastructure",
+            "AI"
+          ],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Fastest inference anywhere: open models on-prem, hosted or on-device",
+          "originalDescription": "RunAnywhere runs open-weight models at full speed wherever a company needs them. Wally is our inference stack for open models: serverless inference, BYOC, or on-prem, so code and data never leave their network. One command puts a Wally-served model inside Claude Code, DeepSeek Harness, OpenCode, Hermes, OpenClaw, etc. When a model fits on the device, the same tooling runs it locally through our open-source SDKs for iOS, Android, macOS, Windows, Linux, and web, built on kernels written by our agentic harness for Apple and Qualcomm silicon (10K+ GitHub stars).",
+          "published": "",
+          "story": "这是做开发者工具和推理基础设施的公司，让开源模型在公司需要的地方全速运行。假如你是工程负责人，公司出于合规要求不能让代码和数据离开自己的网络，但又想用上开源模型的能力。RunAnywhere 提供 Wally 推理栈，支持无服务器推理、自带云环境或本地部署，一条命令就能把模型接进 Claude Code、Codex 等编码工具；当模型能装进设备时，同一套工具还能通过开源开发包在 iOS、安卓、macOS、Windows、Linux 和网页上本地运行，这些开发包建立在为苹果和高通芯片编写的内核之上，相关项目在 GitHub 上已获得一万多颗星。它来自 YC 冬季 2026 批次，团队五人且正在招聘，值得关注是因为数据不出网络和端侧运行是很多公司真实存在的约束。",
+          "rank": 4
+        },
+        {
+          "id": 31415,
+          "name": "Synphony",
+          "url": "https://www.synphony.co/",
+          "sourceUrl": "https://www.ycombinator.com/companies/synphony",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 10,
+          "originalOneLiner": "robots & software for farms",
+          "originalDescription": "Strawberry farming is a $3B industry in California alone with 60% labor cost using 40-year old software. Synphony provides strawberry picking robots and software services including: bed-level analytics, data pipeline integration, and agentic solutions. Synphony's \"side hustle\" is selling data, evals, and viral demos to robot foundation labs while building capacity for general robot deployments. We've started with strawberry farming for great margins and outdoor data moat, but also received requests for robots in semi-conductors and autonomous space labs. Synphony's team has won over 15 hackathons together (taking home 4 Jensen-signed GPUs!). Sean did ML research at NVIDIA and led AI products used by IRS and Citibank. Lucas' research spanned robotics, IoT devices, and neuromorphic computing. Alex architected an app with 400k users.",
+          "published": "",
+          "story": "这家公司做的是农场用的机器人和软件，先从草莓种植切入。如果你负责一片草莓农场的运营，采收季最头疼的就是人手：找工人难、成本高，而地里每天的情况又只能靠人走一圈去看。Synphony 提供草莓采摘机器人，以及床级数据分析、数据管道集成和智能体方案，让农场主能看到每块地的情况并减少对人工的依赖。它来自 YC 春季 2026 批次，团队十人，输入提到加州草莓产业规模约三十亿美元、人工占成本约六成，团队还一起赢过十五场以上黑客松。值得看的是它把机器人放进真实的户外农田，同时用数据服务支撑后续更通用的机器人部署。",
+          "rank": 5
+        },
+        {
+          "id": 31326,
+          "name": "Klarify",
+          "url": "https://www.klarify.ca/",
+          "sourceUrl": "https://www.ycombinator.com/companies/klarify",
+          "location": "Toronto, ON, Canada",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "AI Agent for Therapists",
+          "originalDescription": "Klarify handles every job a therapist does other than the therapy itself, from clinical notes and treatment plans to insurance claims and finding new clients. Therapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. Practice management software has existed for decades. It records what therapists do. It can't actually do any of it. Klara is the AI at the heart of Klarify. She handles notes, treatment plans, clinical letters, insurance claims, between-session resources, supervision prep, and finding new clients. Nearly 12,300 therapists use Klarify today. Our mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do. Be present with their client.",
+          "published": "",
+          "story": "这是做心理治疗师后台运营的人工智能公司。一个治疗师每天除了坐在来访者对面，还要写临床记录、制定治疗计划、填保险理赔、写信件、做督导准备，常常忙到深夜。Klarify 里的智能体 Klara 接手这些事，包括记录、治疗计划、临床信件、保险理赔、两次会谈之间的资源、督导准备以及寻找新客户。它来自 YC 春季 2026 批次，团队三人且正在招聘，输入提到目前已有近一万两千三百名治疗师在使用。值得关注的是，治疗师人数有限而文书负担沉重，把行政工作交出去能让他们把精力放回只有人才能做的事，也就是真正陪伴来访者。",
+          "rank": 6
+        },
+        {
+          "id": 31564,
+          "name": "Huscarl",
+          "url": "https://www.huscarl.io/",
+          "sourceUrl": "https://www.ycombinator.com/companies/huscarl",
+          "location": "San Francisco, CA, USA; Remote",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "AI-native actuary enabling self-insurance for corporations",
+          "originalDescription": "Huscarl is building an autonomous AI actuary to enable self-insurance for corporations. Large companies use insurance subsidiaries (\"captives\") to self-insure their risks. Some of these captives are larger than regional insurers. We provide them the actuarial and modeling layer to operate and grow. We're building a future where self-insurance is the default, and commercial insurance the exception. This is the best way to solve the inefficiencies of the $1T corporate insurance market.",
+          "published": "",
+          "story": "这家公司做的是企业自保所需的精算能力，用自主人工智能精算师替代部分传统流程。如果你在一家大公司负责风险与保险，可能会用自保子公司来承担自身风险，但这类子公司要运转和扩张，离不开精算与建模，而懂这行的人并不好找。Huscarl 提供的就是这一层精算和建模工具，让自保子公司能自己运营和成长。它来自 YC 春季 2026 批次，团队两人且正在招聘，方向指向规模约一万亿美元的企业保险市场。值得看的是它押注自保成为默认、商业保险成为例外的未来，这个判断本身就决定了产品要解决的是精算能力供给不足的问题。",
+          "rank": 7
+        },
+        {
+          "id": 32225,
+          "name": "Stoa",
+          "url": "https://www.stoaexchange.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/stoa",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Hardware",
+            "Marketplace",
+            "Infrastructure",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "The market behind AI hardware.",
+          "originalDescription": "Stoa provides pricing and trading infrastructure for AI hardware, live with an RFQ marketplace where companies buy and sell GPUs through vetted dealers real-time.",
+          "published": "",
+          "story": "这是做人工智能硬件交易基础设施的公司，给算力买卖提供定价和交易的市场。想象你是一家公司的采购负责人，需要买到一批图形处理器，但市场价格不透明，卖家资质参差不齐，谈价和验货都很费劲。Stoa 已经上线一个询价市场，让公司通过经过审核的经销商实时买卖图形处理器，并提供定价与交易所需的基础设施。它来自 YC 夏季 2026 批次，团队三人且正在招聘，标签涉及金融科技、硬件和市场。值得关注的是，算力已经成为紧俏资源，而交易环节仍然缺少透明、可信的市场机制，这正是它要补上的位置。",
+          "rank": 8
+        },
+        {
+          "id": 32750,
+          "name": "Ultrasonium",
+          "url": "https://ultrasonium.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/ultrasonium",
+          "location": "Boston, MA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Hardware",
+            "Robotics",
+            "Manufacturing"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "Metal manufacturing, faster, cheaper, and more versatile.",
+          "originalDescription": "The technologies that define this century, including data centers, rockets, satellites, and robots, are built from complex metal parts. As these systems advance, the parts get harder to make. Past a certain complexity, casting and machining stop working, and the advanced methods that remain are slow, expensive, and hazardous. Ultrasonium has invented a new manufacturing method to make these critical parts 15x faster and 75% cheaper than the methods they replace, in the U.S. and at scale. Solid metal feedstock goes in and a finished part safely comes out, controlled by a physical AI layer and novel control processes. The systems that matter most, in aerospace, energy, and compute, are demanding metal geometries that can't be machined or cast and are too expensive and slow to make with incumbent methods, at a moment when domestic manufacturing capacity is a national priority. Our founding team has built and innovated some of the most complex engineering systems known to man: quantum computers, superconductors, nuclear reactors, and novel aerospace alloy processing methods.",
+          "published": "",
+          "story": "这是做金属制造硬件的公司，目标是让复杂金属零件造得更快、更便宜、更灵活。假如你是一家航空航天或能源公司的制造工程师，手上有一个形状复杂的零件，铸造和机加工都做不出来，剩下能用的先进方法又慢又贵还有风险。Ultrasonium 发明了一种新的制造方法，输入固态金属原料，输出成品零件，整个过程由物理智能层和新控制工艺管理，据其介绍比被替代的方法快十五倍、便宜百分之七十五，并且能在美国规模化生产。它来自 YC 夏季 2026 批次，团队五人，方向涉及数据中心、火箭、卫星和机器人所需的关键零件。值得看的是，这类零件需求正在上升，而国内制造能力本身也是被重视的问题。",
+          "rank": 9
+        },
+        {
+          "id": 31085,
+          "name": "Janeen",
+          "url": "https://janeen.care",
+          "sourceUrl": "https://www.ycombinator.com/companies/janeen",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Prior auths and benefits investigation for infusion clinics",
+          "originalDescription": "Janeen is built for infusion clinics. We handle prior authorizations and benefit investigations from start to finish (actually though!). Biologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. Current medical workflows aren't built for infusion clinics. Inventory, storage, transport, and billing is still managed through paper and excel spreadsheets. And because they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, when workflows fail, or patients are infused before paperwork is cleared, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting forms. We work with clinics across the country and have removed 95% of all manual labor in the process.",
+          "published": "",
+          "story": "这是给输注诊所做事先授权和福利调查的公司。如果你在一家输注诊所负责运营，某天一位患者要用的生物制剂一年费用可能高达八万到十五万美元，保险却按每年约三成七的比例拒赔，材料没批下来就输注，诊所就收不回药费，Janeen 想接手的正是这条最容易出错的流程。它从头到尾处理事先授权和福利调查，把库存、储存、运输和账单这些还靠纸张和表格管理的环节接过来。这类高价药物需要先垫资采购，流程一旦断掉损失很大。公司来自 YC 冬季 2026 批次，团队 5 人，正在招聘，切入的是医疗后台里最费人力的部分。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "SaaStr-aHR0cHM6Ly93",
+          "title": "Half Your CRM Data Is Wrong: AI Prospecting in a World of 49% Exec Turnover",
+          "url": "https://www.saastr.com/half-your-crm-is-wrong-ai-prospecting-in-a-world-of-49-exec-turnover/",
+          "source": "SaaStr",
+          "published": "Sun, 25 Oct 2026 11:00:12 +0000",
+          "story": "做销售或市场的人大概都遇到过这种情况：CRM里存着一堆联系人，但真正能联系上的没几个。高管换得勤，今天记下的信息，下个月可能就作废了。这篇文章讨论的就是在这种人员流动频繁的环境里，用人工智能找客户到底靠不靠谱。它值得读，是因为它没有停在工具层面，而是先问了一个更基本的问题：数据本身有多少是错的。读的时候可以留意作者怎么把“数据不准”这件事拆开，看他是从哪些环节发现信息失真的，以及他判断人工智能能补上哪一块、补不上哪一块。"
+        },
+        {
+          "id": "hn-50230059",
+          "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
+          "url": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
+          "source": "Hacker News",
+          "published": "2026-10-25T10:27:08Z",
+          "story": "如果你在技术社区里看到一条关于自动驾驶的收购新闻，可能会好奇：为什么一家车企要买一个做3D模拟的初创公司？这背后其实是自动驾驶测试的老问题：路上跑出来的视频很多，但要把它们变成能反复使用的模拟场景，并不容易。这篇文章讲的就是Rivian怎么处理每天几十万段视频，把它们转成3D模拟环境。读的时候可以注意作者怎么描述这个转换过程里的难点，以及他如何判断这笔收购对Rivian意味着什么。对关心自动驾驶或模拟技术的人来说，这是一个看实际落地问题的窗口。"
+        },
+        {
+          "id": "WIRED Business-aHR0cHM6Ly93",
+          "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+          "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+          "source": "WIRED Business",
+          "published": "Sun, 25 Oct 2026 10:00:00 +0000",
+          "story": "数据中心越建越多，附近居民开始有意见，这在美国已经不是什么新鲜事。但反对的声音起来之后，接下来该怎么办，很多人并没有想清楚。这篇文章把视线转向国外，看看其他地方的类似运动是怎么发展、怎么跟公司或政府打交道的。它值得读，是因为它没有停留在“该不该建”的争论上，而是去问已经发生过的事能提供什么经验。读的时候可以留意作者怎么梳理不同地方的案例，看他是如何比较各地做法的差异，以及他判断哪些经验可能被美国这边借鉴。"
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "companies": [
@@ -3275,253 +3518,6 @@
           "source": "TechCrunch Startups",
           "published": "Mon, 28 Sep 2026 15:00:00 +0000",
           "story": "核聚变这个词听了太多年，多数人已经习惯它离生活很远。但每隔一阵，就会有公司站出来说，这次不一样，要把电真正送进电网。普通人第一次认真想这件事，往往是在电费上涨或者听到某个能源新闻的时候。这篇文章值得读，是因为它请来了两家做聚变的公司的负责人，让他们直接谈把聚变接入电网这件事。读的时候可以看他们怎么解释从实验到供电之间还差什么，哪些环节是他们认为最难啃的，以及面对同一个目标，两家的路子有什么不同。这些差别，比“聚变快来了”这种说法更有信息量。"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "companies": [
-        {
-          "id": 31214,
-          "name": "Pocket",
-          "url": "https://www.ycombinator.com/companies/pocket",
-          "sourceUrl": "https://www.ycombinator.com/companies/pocket",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "Take Notes in the Real World",
-          "originalDescription": "Pocket is a Y Combinator W26 company building a premium hardware plus software product in the AI voice recorder space. We are obsessed with quality and speed. We are scaling very fast in the US and now European markets and building a device experience that can become the category leader.",
-          "published": "",
-          "story": "这是做人工智能语音记录硬件的公司。如果你是一位每天开完会就头疼的咨询顾问，客户电话、现场走访、内部讨论混在一起，回到工位还要凭记忆整理纪要，漏掉一句关键承诺就可能影响后续方案。Pocket 把录音、转写和整理能力放进随身设备里，而不是只做一个手机应用，让你在真实场景中按一下就能留下内容，事后由软件把零散语音变成可用的笔记。它来自 YC 冬季 2026 批次，团队十五人，正在招聘，并且同时在美国和欧洲市场快速扩张。值得关注的地方在于，它切入的是硬件加软件的完整体验，而不是单纯的功能叠加。",
-          "rank": 1
-        },
-        {
-          "id": 30729,
-          "name": "Floot",
-          "url": "https://floot.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/floot",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "SaaS",
-            "No-code",
-            "Web Development"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "The app platform inside Claude and ChatGPT.",
-          "originalDescription": "Floot is the layer where vibecoded software runs. SaaS is dead. Hundreds of millions of people already spend their day in Claude or ChatGPT - and increasingly, when they need an app, they won't buy one. They'll describe it, and it will exist. We're building the infrastructure that makes that real. When Claude creates an app, it needs somewhere for that app to live: a backend, a database, hosting, a domain, the ability to scale, various services, maybe even to be able to work as a mobile app. Floot is that place - a full stack purpose-built for AI to operate, from a specialized framework that defines how AI writes and runs code, down to scalable hosting on AWS. This means you can now build and ship real apps directly inside Claude and ChatGPT. Connect Floot, and the model you already pay for writes and debugs the code, shows a live preview, and publishes to your own domain. No need to wire up git, vercel, supabase and a dozen other providers. And no AI credits - every message runs on the subscription you already have, because we charge for the platform, not for a token markup. We built Floot this way because we've watched the model layer commoditize - every serious builder writes good code now, including us. The lasting value isn't another agent between you and the model. It's the layer underneath, from wherever people already are. We're building Floot to be the home for all operation software, for the decades where most new software on earth is written by AI. ✨ Try it: floot.com",
-          "published": "",
-          "story": "这家公司切的是人工智能应用运行的基础设施。假如你是一位产品负责人，白天用 Claude 或 ChatGPT 讨论需求，晚上想让模型直接生成一个能上线的小应用，却卡在后端、数据库、域名和部署这些环节上。Floot 做的事就是给这些由人工智能写出来的软件一个真正的落脚点，从定义代码如何编写和运行的框架，到可扩展的托管服务，让模型自己写代码、调试、预览并发布到你自己的域名。它来自 YC 夏季 2025 批次，团队四人，正在招聘。值得关注的是它押注的方向：当人们不再购买应用，而是描述出应用，运行这些应用的地方就会变得关键。",
-          "rank": 2
-        },
-        {
-          "id": 31301,
-          "name": "OpenVector",
-          "url": "https://openvector.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/openvector",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Robotics",
-            "Computer Vision",
-            "Infrastructure",
-            "Industrial"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "AI that turns any camera to an autonomous worker with real-time vision",
-          "originalDescription": "OpenVector transforms any existing camera into an automated 24/7 workforce without requiring new hardware. We've built the world's fastest vision-language model inference engine that allows users to simply describe a task in plain English and automatically build a custom AI vision model to monitor their feed. When it detects an important physical event—like a stalled production cycle, a safety violation, or a waiting customer—it operates a computer just like a human to take immediate action. It integrates with legacy systems, makes calls, sends emails, updates a POS/CRM, or triggers webhooks in real time. OpenVector enables any camera to do real work.",
-          "published": "",
-          "story": "这是做工业视觉人工智能基础设施的公司。想象你是一家工厂的质检员或产线主管，车间里已经装了不少摄像头，但画面只能靠人盯着看，一旦出现生产停滞、安全违规或者客户久等，往往要等到问题发生之后才知道。OpenVector 把现有摄像头变成能自动工作的眼睛，你只需要用平常的话描述任务，它就能生成对应的视觉模型来监控画面，发现异常后还能像人一样操作电脑去处理，比如对接老系统、打电话、发邮件、更新销售或客户系统。它来自 YC 夏季 2026 批次，团队四人。值得关注的是，它不要求更换硬件，而是让已经存在的摄像头开始干活。",
-          "rank": 3
-        },
-        {
-          "id": 31416,
-          "name": "Callab AI",
-          "url": "https://callab.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/callab-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 7,
-          "originalOneLiner": "AI voice agents for on-prem telephony stack.",
-          "originalDescription": "58% of the $400B call center industry runs on on-prem phone systems, and until now bringing AI voice automation to them meant ripping out their entire infrastructure first. That's the largest unserved segment in the market. Callab AI connects directly to legacy PBX systems like Avaya, Cisco UCM, and Mitel, and automates up to 70% of call volume with zero migration needed. We plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like Dunkin Donuts.",
-          "published": "",
-          "story": "这是做企业电话系统人工智能语音客服的公司。想象你是一家连锁品牌的客服运营负责人，门店电话仍然跑在本地部署的老式交换机上，想用智能语音接听，却被告知要先把整套设备换掉，预算和停机时间都让人退缩。Callab AI 直接接入 Avaya、Cisco UCM、Mitel 这类传统电话系统，不需要迁移就能自动处理大部分来电。它来自 YC 春季 2026 批次，团队七人，正在招聘，客户横跨三个大洲，其中包括 Dunkin Donuts 这样的品牌。值得关注的是，它盯上的是电话客服行业里长期没被服务的那一大块本地部署市场。",
-          "rank": 4
-        },
-        {
-          "id": 30860,
-          "name": "Alt-X",
-          "url": "https://alt-x.co",
-          "sourceUrl": "https://www.ycombinator.com/companies/alt-x",
-          "location": "Los Angeles, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Building the best venue for private markets exposure.",
-          "originalDescription": "Alt-X is building the AI-native liquidity layer for private markets. Private markets have created trillions of dollars in value, yet remain fragmented, illiquid, and inaccessible. While public markets benefit from exchanges, market makers, brokerages, and data infrastructure, private markets still rely on brokers, spreadsheets, and manual workflows to connect buyers and sellers. Alt-X uses AI to automate the core functions required to make private assets liquid. We streamline diligence, valuation, investor matching, and transaction execution, reducing the friction that makes private-market transactions slow, expensive, and opaque today. Our initial focus is venture-backed secondaries. We source opportunities from founders, employees, and early investors while building a network of accredited investors seeking exposure to the world's most valuable private companies. Over time, we believe every private asset—from startup equity to private credit and alternative investments—will require modern liquidity infrastructure. Building trusted infrastructure for private markets is difficult. Transactions involve complex diligence, fragmented information, transfer restrictions, and significant compliance requirements. Alt-X is focused on creating systems that can support real transactions at scale, not just marketplace listings. Ryan Samadi (Stanford CS/AI, former Citadel commodities trader) and Michael Wachsman (Cornell CS, infrastructure engineer) are building Alt-X because they believe ownership of innovation should be more liquid, transparent, and accessible. Today, Alt-X has sourced over $1.5 million in transaction opportunities and assembled a network of 40 accredited investors representing hundreds of millions of dollars in investable assets. Our mission is to democratize ownership of innovation by building the financial infrastructure that private markets have never had.",
-          "published": "",
-          "story": "这家公司切的是私募市场的流动性基础设施。如果你是一位关注未上市公司的风控分析师或投资经理，想买入或卖出创业公司老股，会发现整个流程还停留在经纪人和表格之间，尽调、估值、匹配买家卖家、执行交易都慢且不透明。Alt-X 用人工智能自动化这些核心环节，先聚焦有风投支持的二手份额，从创始人、员工和早期投资人那里寻找机会，同时搭建合格投资人的网络。它来自 YC 冬季 2026 批次，团队两人。值得关注的是，公开市场有交易所、做市商和数据设施，私募市场长期缺少对应的基础层，这正是它想补上的位置。",
-          "rank": 5
-        },
-        {
-          "id": 31260,
-          "name": "Copperlane",
-          "url": "https://www.copperlane.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/copperlane",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Agentic Mortgage Origination",
-          "originalDescription": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
-          "published": "",
-          "story": "这是做房贷发起流程自动化的公司。假如你是一家贷款机构的信贷运营人员，每天面对堆积如山的申请材料，要核对申请人资料、验证文件真伪、完成初步核保，稍有疏漏就可能拖慢放款甚至带来合规风险。Copperlane 用智能体去理解申请人的整体情况，验证文件，并接手初始核保任务，让贷款流程更快、更少出错。它来自 YC 冬季 2026 批次，团队三人，正在招聘。值得关注的是，房贷是高度依赖人工审核的行业，把智能体放进这条流程，直接对应的是时间成本和错误成本。",
-          "rank": 6
-        },
-        {
-          "id": 31552,
-          "name": "Arctic Health",
-          "url": "https://arctic.health",
-          "sourceUrl": "https://www.ycombinator.com/companies/arctic-health",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "AI-native credentialing and contracting for healthcare",
-          "originalDescription": "Arctic Health is building AI-native credentialing and contracting for healthcare organizations. We automate the full workflow, from establishing payer contracts to enrolling each provider. We collect and validate organization and provider data according to each state and payer’s requirements, and submit on the organization's behalf. We then monitor status and compliance on an ongoing basis. Tools on the market today either perform small pieces of the workflow or price out small and mid-sized organizations. We handle the process end-to-end regardless of organization type or size. Our browser automations enable AI agents to submit and monitor across hundreds of payer portals, and our system is trained by experienced industry experts who handle every edge case. Healthcare organizations get one simple platform. We handle the rest.",
-          "published": "",
-          "story": "这家公司做的是医疗行业的资质认证与合同管理。如果你在一家中型医疗机构负责运营，新医生入职前要面对各州和各保险支付方不同的要求，收集资料、逐项核对、在数百个门户网站上提交并持续跟踪状态，任何一步卡住都会影响医生能否正常接诊和收费。Arctic Health 把整套流程自动化，从建立支付方合同到为每位医生完成登记，用浏览器自动化让智能体代为提交和监控，并由有经验的行业专家处理各种边缘情况。它来自 YC 春季 2026 批次，团队四人。值得关注的是，现有工具往往只覆盖流程的一小段，或者价格把小机构挡在门外。",
-          "rank": 7
-        },
-        {
-          "id": 30218,
-          "name": "Toothy AI",
-          "url": "https://www.toothy.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/toothy-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Health Tech",
-            "Healthcare",
-            "Dental",
-            "Conversational AI"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "AI for insurance verification & billing at dental clinics",
-          "originalDescription": "We’re Toothy.ai. We’re building AI agents for dental practices that handle everything related to patient insurance. The average dental clinic spends over 160 hours a month on insurance tasks like verifying patient policies, billing, and claims processing. Our AI agents automate this entire workflow—including making insurance calls with voice AI—saving clinics time, reducing costs, and ensuring faster reimbursements.",
-          "published": "",
-          "story": "这是给牙科诊所做保险核验和账单处理的公司。假如你是一家牙科诊所的运营负责人，每个月有大量时间花在核对患者保单、处理账单和理赔上，电话打给保险公司常常要等很久，报销到账慢，前台和后台都被拖住。Toothy AI 用智能体接手这些与保险相关的工作，包括用语音人工智能拨打保险电话，把整个流程自动化，帮诊所省时间、降成本，也让报销更快。它来自 YC 冬季 2025 批次，团队十五人，正在招聘。值得关注的是，它切入的是牙科诊所每月超过一百六十小时的重复劳动，这是非常具体的痛点。",
-          "rank": 8
-        },
-        {
-          "id": 37601,
-          "name": "Lark",
-          "url": "https://trylark.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/lark-2",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "B2B",
-            "Supply Chain"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Lark - Specialized agents for wholesale distributors",
-          "originalDescription": "Lark builds specialized AI agents that automate manual workflows for wholesale distributors. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation.",
-          "published": "",
-          "story": "这家公司做的是批发分销商的运营智能体。如果你是一家批发分销企业的负责人，订单、库存、报价和客户跟进散落在企业管理系统和表格里，老员工凭经验做决定，新人上手慢，业务一忙就容易出错。Lark 的智能体与现有的企业管理系统配合，从分销商的历史数据和团队过往决策中学习，逐步接手人工流程，最终目标是把整个运营跑起来。它来自 YC 秋季 2026 批次，团队两人。值得关注的是，批发分销是一个庞大却很少被新技术认真对待的行业，而它的做法是顺着已有系统进入，而不是要求企业推倒重来。",
-          "rank": 9
-        },
-        {
-          "id": 31526,
-          "name": "Uno Wallet",
-          "url": "https://myunowallet.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/uno-wallet",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Fintech",
-            "Payments",
-            "Consumer",
-            "Infrastructure"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "The AI mobile wallet that replaces Apple Pay",
-          "originalDescription": "We are changing the way that people pay... Founded by: Saket Joshi: www.linkedin.com/in/saket-dattatray-joshi/ Mordi Shadpour: www.linkedin.com/in/mordi-shadpour/",
-          "published": "",
-          "story": "这是做人工智能移动钱包的消费金融产品。假如你是一位习惯用手机付款的普通用户，每次结账都要先解锁、打开应用、找到卡片，步骤多到让人不耐烦。Uno Wallet 想取代现有的手机支付方式，把支付这件事交给更主动的人工智能来处理。它来自 YC 春季 2026 批次，团队两人，正在招聘，方向是消费者支付，值得看的是支付入口历来由少数巨头把持，任何想重新定义结账体验的尝试都会面对极高的习惯门槛，而它选择从钱包这个最贴近日常的环节切入。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-49843746",
-          "title": "Show HN: Wave – Layered gradient wave backgrounds using Three.js and shaders",
-          "url": "https://wave.subworkflow.ai/",
-          "source": "Hacker News",
-          "published": "2026-09-25T12:34:56Z",
-          "story": "做前端或独立产品的人，大概都有过这种时刻：页面功能都对了，可看起来就是差点意思，想加个背景动画又怕拖慢加载、写出一堆难维护的代码。于是有人会去翻 Hacker News 上的 Show HN，看别人怎么用最少的代价做出好看的视觉效果。这篇的作者用 Three.js 和着色器做了一层层的渐变波浪背景，正好落在这种需求上。读的时候不妨留意他是怎么把一个大效果拆成可控的小块，参数怎么调、性能怎么权衡，以及为什么选这条路而不是用现成的图片或视频。对平时写界面的人来说，这类取舍比最终效果本身更值得看。"
-        },
-        {
-          "id": "WIRED Business-aHR0cHM6Ly93",
-          "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
-          "url": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/",
-          "source": "WIRED Business",
-          "published": "Fri, 25 Sep 2026 11:32:17 +0000",
-          "story": "当一家公司在海外被监管机构开出罚单，通常只是它自己的事，交钱或上诉，按流程走。但这一次，罚单还没落地，另一国政府先站出来替它说话，事情的性质就变了。你可能会想，这不就是外交层面的讨价还价吗。值得读的地方在于，它把一笔看似技术性的罚款，放回到更大的角力里：谁在替谁出头，出面的人想要什么回报。读的时候可以留意作者怎么梳理时间线，谁先动、谁后应，以及把商业纠纷说成政治议题时，各方各自得到了什么。看作者如何区分公开表态和实际动作，也看它有没有交代这笔钱对当事公司到底意味着什么。"
-        },
-        {
-          "id": "MIT Technology Review-aHR0cHM6Ly93",
-          "title": "Young organs may not be a fountain of youth for recipients",
-          "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-          "source": "MIT Technology Review",
-          "published": "Fri, 25 Sep 2026 09:00:00 +0000",
-          "story": "器官移植这件事，过去几十年里一直有个朴素的期待：换上更年轻的器官，人也许就能多撑些年。这个念头不荒唐，它来自移植本身确实能救命。但救命和返老还童是两回事，中间隔着一堆没人说清的问题。这篇文章值得读，是因为它没有停在希望或失望上，而是去问证据到底说了什么。读的时候可以注意作者怎么处理那些听起来很诱人的说法：哪些来自动物实验，哪些来自零星的临床观察，哪些只是推测。也看它如何解释为什么年轻器官可能带来别的问题，以及研究者判断一件事能不能成立时，会先看什么。"
         }
       ]
     }

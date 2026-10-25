@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-24T11:58:45.497Z",
+  "updatedAt": "2026-10-25T12:33:11.078Z",
   "readings": [
+    {
+      "key": "electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation",
+      "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
+      "url": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
+      "usedAt": "2026-10-25",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/half-your-crm-is-wrong-ai-prospecting-in-a-world-of-49-exec-turnover",
+      "title": "Half Your CRM Data Is Wrong: AI Prospecting in a World of 49% Exec Turnover",
+      "url": "https://www.saastr.com/half-your-crm-is-wrong-ai-prospecting-in-a-world-of-49-exec-turnover/",
+      "usedAt": "2026-10-25",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else",
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "usedAt": "2026-10-25",
+      "site": "startup-radar"
+    },
     {
       "key": "latent.space/p/ainews-kimi-31",
       "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
