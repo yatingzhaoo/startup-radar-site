@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-25T12:33:11.078Z",
+  "updatedAt": "2026-10-26T14:13:03.676Z",
   "readings": [
+    {
+      "key": "firmendaten.researchly.at/netzwerk",
+      "title": "Show HN: Building the European Company Graph one website at a time",
+      "url": "https://firmendaten.researchly.at/netzwerk",
+      "usedAt": "2026-10-26",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/a-record-8625-startups-raised-their-first-venture-round-this-year-smaller-vcs-now-have-to-find-founders-before-they-found-anything",
+      "title": "A Record 8,625 Startups Raised Their First Venture Round This Year. Smaller VCs Now Have to Find Founders Before They Found Anything.",
+      "url": "https://www.saastr.com/a-record-8625-startups-raised-their-first-venture-round-this-year-smaller-vcs-now-have-to-find-founders-before-they-found-anything/",
+      "usedAt": "2026-10-26",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform",
+      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+      "usedAt": "2026-10-26",
+      "site": "startup-radar"
+    },
     {
       "key": "electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation",
       "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
