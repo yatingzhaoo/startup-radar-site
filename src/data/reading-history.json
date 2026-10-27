@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-26T14:13:03.676Z",
+  "updatedAt": "2026-10-27T13:10:34.237Z",
   "readings": [
+    {
+      "key": "blog.cloudflare.com/php-ctf",
+      "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+      "url": "https://blog.cloudflare.com/php-ctf/",
+      "usedAt": "2026-10-27",
+      "site": "startup-radar"
+    },
+    {
+      "key": "diagonals.vercel.app",
+      "title": "Show HN: Diagonals (Diago) – a chess variation where the pieces stay diagonally",
+      "url": "https://diagonals.vercel.app/",
+      "usedAt": "2026-10-27",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax",
+      "title": "Billionaire Palmer Luckey isn&#8217;t leaving California over the wealth tax",
+      "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+      "usedAt": "2026-10-27",
+      "site": "startup-radar"
+    },
     {
       "key": "firmendaten.researchly.at/netzwerk",
       "title": "Show HN: Building the European Company Graph one website at a time",
