@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-28T13:59:22.276Z",
+  "updatedAt": "2026-10-30T14:05:16.190Z",
   "readings": [
+    {
+      "key": "microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "usedAt": "2026-10-30",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach",
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "usedAt": "2026-10-30",
+      "site": "startup-radar"
+    },
+    {
+      "key": "technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "usedAt": "2026-10-30",
+      "site": "startup-radar"
+    },
     {
       "key": "martinfowler.com/fragments/2026-10-28.html",
       "title": "Fragments: October 28",
