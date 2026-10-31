@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-30T14:05:16.190Z",
+  "updatedAt": "2026-10-31T13:37:04.840Z",
   "readings": [
+    {
+      "key": "indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "usedAt": "2026-10-31",
+      "site": "startup-radar"
+    },
+    {
+      "key": "smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026",
+      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+      "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+      "usedAt": "2026-10-31",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "usedAt": "2026-10-31",
+      "site": "startup-radar"
+    },
     {
       "key": "microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
       "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",

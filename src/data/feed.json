@@ -1,7 +1,271 @@
 {
-  "generatedAt": "2026-10-30T14:05:16.188Z",
+  "generatedAt": "2026-10-31T13:37:04.837Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-10-31",
+      "companies": [
+        {
+          "id": 35454,
+          "name": "Shepherd Robotics",
+          "url": "https://shepherdrobotics.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/shepherd-robotics",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hardware",
+            "Robotics",
+            "Manufacturing",
+            "Automation",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "Robots for high skilled labor powering AI infrastructure",
+          "originalDescription": "Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks. We train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We also provide integration into customers’ existing workflows, starting with data center construction and operations, electrical manufacturing and testing, and electronics manufacturing, where traditional automation struggles with variability, dexterity, and changing environments.",
+          "published": "",
+          "story": "这是做通用机器人的公司，方向是把机器人放进人工智能基础设施和先进制造这些需要熟练体力活的场景。假如你是一家数据中心的施工负责人，今天现场要赶一批电气安装和测试，可熟练工人排不开，环境又一直在变，传统自动化设备根本应付不了这种灵活度要求。Shepherd Robotics 的做法是让机器人依靠机器人基础模型，用模块化硬件去适应不同环境和任务，训练数据来自真实世界与仿真，还提供接入客户现有工作流程的整合服务，先从数据中心建设与运营、电气制造与测试、电子制造切入。这家公司来自 YC 夏季 2026 批次，团队只有 4 个人，它值得看的地方在于直接盯住了传统自动化最难处理的多变、精细和换环境问题。",
+          "rank": 1
+        },
+        {
+          "id": 30903,
+          "name": "Kestrel AI",
+          "url": "https://usekestrel.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/kestrel-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AIOps",
+            "Developer Tools",
+            "DevOps",
+            "Infrastructure"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI Agents for Platform Engineering",
+          "originalDescription": "Kestrel is the AI automation layer for platform engineering teams. Platform teams use Kestrel to automate incident response, cloud provisioning, CI/CD, security, and developer requests across their stack. Kestrel turns natural-language prompts into deterministic, production-ready workflows with 40+ integrations, 200+ pre-built actions, and support for custom HTTP and webhook actions. Developer-first, with a CLI, Python SDK, and MCP server to manage workflows from where platform teams already work.",
+          "published": "",
+          "story": "这家公司切的是平台工程团队的人工智能自动化层。想象你是一个平台工程负责人，凌晨被告警叫醒，一边要处理线上事故，一边还有开发同事在排队等云资源开通和权限申请，日常的持续集成、安全配置也压在你身上。Kestrel AI 让平台团队用自然语言描述需求，转成确定性的、可直接上生产的工作流，内置 40 多个集成和 200 多个预置动作，也支持自定义网络请求和回调动作，并提供命令行工具、Python 开发包和 MCP 服务器，让团队在原本的工作环境里管理流程。它来自 YC 秋季 2025 批次，团队 2 人，值得关注的是它把事故响应、云资源开通、持续集成与安全这些零散工作收进一个自动化入口。",
+          "rank": 2
+        },
+        {
+          "id": 30695,
+          "name": "Channel3",
+          "url": "https://trychannel3.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/channel3",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "E-commerce",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Database of every product on the internet",
+          "originalDescription": "Channel3 is building a database of every product on the internet. Google and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities. We don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy. As AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive. Alex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
+          "published": "",
+          "story": "这是做电商商品数据库的公司，目标是收录互联网上的每一件商品。如果你是一个正在开发购物助手的开发者，用户发来一张街拍照片问哪里有同款，你手里没有可靠的商品数据，只能一个个商家去爬，图片和标题还对不上。Channel3 用图像分类和推理模型去理解商品，即使不同商家的商品页面和图片有差异，也能把同一件商品匹配起来，识别出不同款式，并为每次搜索给出合适的匹配结果。它的思路是谷歌和 OpenAI 各自维护着庞大的商品图谱却只留给自己用，而它把这份能力开放给每一个开发者，让时装搭配助手或带购物能力的智能体都能建起来。这家公司来自 YC 夏季 2025 批次，团队 5 人，正在招聘。",
+          "rank": 3
+        },
+        {
+          "id": 32627,
+          "name": "Tenor",
+          "url": "https://heytenor.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/tenor",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "B2B",
+            "Automation",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Infrastructure for building and scaling AI-native businesses.",
+          "originalDescription": "Tenor is a full-stack infrastructure for building and running AI-native businesses. We’re not just an agent framework, we manage the entire loop from how AI executes work to how every action, decision, and business outcome is captured and learned from. Owning the full stack lets companies deploy governed AI workflows, understand what actually drives results, and continuously improve how their business operates without building the infrastructure themselves.",
+          "published": "",
+          "story": "这家公司做的是让人工智能原生业务得以搭建和扩张的全栈基础设施。假如你是一家公司的运营负责人，已经让智能体接手了不少实际工作，可每个动作、每次决策和最终业务结果散落在不同系统里，没人说得清到底是什么在推动结果，想改进也无从下手。Tenor 不只提供一个智能体框架，而是把从人工智能执行工作到记录并学习每个动作、决策和业务结果这一整条链路都管起来，企业因此可以部署受治理的人工智能工作流，看清真正驱动结果的因素，并持续优化业务运转，不必自己从头搭这套基础设施。它来自 YC 夏季 2026 批次，团队 3 人，正在招聘，值得看的是它把治理和结果学习一起放进了基础设施里。",
+          "rank": 4
+        },
+        {
+          "id": 32129,
+          "name": "Egoist Machines",
+          "url": "https://ego.ist/",
+          "sourceUrl": "https://www.ycombinator.com/companies/egoist-machines",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hardware",
+            "Personalization",
+            "Privacy",
+            "Consumer Products",
+            "AI Assistant"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Your personal context, securely portable across every AI app.",
+          "originalDescription": "Egoist Machines is building infrastructure for a world where your personal context belongs to you, rather than to the apps and AI companies you use. Today, every assistant and consumer app builds its own version of you. We think that architecture is backwards. Your context should live with you, persist across products, and be available to any model, app or agent you choose. AI Passport is the first layer of that infrastructure. It brings the context you generate across AI assistants and everyday apps into one portable profile you control. Tell ChatGPT something and Claude can already know it, for example. Switch to a new product and it can understand you from the first interaction, without the new company needing to own the underlying data. Apps integrate through Sign in with AI Passport, requesting only the context they need for a specific purpose and duration. Users can see what is being accessed and revoke that access later. Underneath, we have built our own memory infrastructure for fast, compact per-user retrieval and permissioned access. We are distributing AI Passport directly to consumers through first-party products, while integrating it into consumer applications with existing distribution. Every new product that uses Passport gives users another reason to maintain their context there, and every additional Passport holder makes the context layer more useful to developers. The next step is to build a true Egoist Machine: an intelligent system whose memory, incentives and actions are governed by the individual it represents. We call it Digital Domovoy, the hardware extension of AI Passport. Instead of your most personal context ultimately living on somebody else's servers, it lives and is processed locally on hardware you control. AI Passport becomes the permission layer between that private local context and the cloud models and internet services you choose to use. Our North Star is the Egoist Machine: an intelligent system whose memory, incentives and actions are governed by the individual it represents.",
+          "published": "",
+          "story": "这是做个人上下文基础设施的公司，想让你的个人信息归你自己所有，而不是散落在各个应用和人工智能公司手里。如果你是一个常用多个人工智能助手的普通用户，你在一个助手那里说过自己的偏好和经历，换到另一个产品又得从头解释一遍，每个应用都在悄悄构建一个版本的你。Egoist Machines 推出的 人工智能 Passport 把这些助手和日常应用里产生的上下文汇成一个可携带、由你掌控的个人档案，比如你在 ChatGPT 里说过的事，Claude 也能知道，换到新产品第一次交互它就能理解你，而新公司不需要拥有底层数据。应用通过 人工智能 Passport 登录接入，只申请特定用途和时长所需的上下文。它来自 YC 夏季 2026 批次，团队 2 人，值得看的是它把隐私和可携带性做成了产品本身。",
+          "rank": 5
+        },
+        {
+          "id": 32625,
+          "name": "Qlo",
+          "url": "https://www.getqlo.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/qlo",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Insurance",
+            "Enterprise Software",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Legora for commercial insurance carriers",
+          "originalDescription": "Qlo builds AI agents to run commercial insurance underwriting. We start by fully automating the operational work around risk decisions, become the system of record, and earn autonomy workflow by workflow toward the autonomous AI underwriter. We’re rebuilding underwriting infrastructure from the ground up so human underwriters and AI agents can share the same accounts, rules, documents, permissions, and workflow state. We believe every commercial insurance program will eventually be built and operated end to end by AI agents on Qlo.",
+          "published": "",
+          "story": "这家公司切的是商业保险承保环节，用智能体来跑承保运营。想象你是一名商业保险公司的核保人员，桌上堆着不同格式的投保材料，风险判断前后还有大量录入、核对和流转工作，系统和规则又各管一摊，人跟机器很难在同一份账户上协作。Qlo 先从风险决策周边的运营工作做起，把这些环节自动化，再成为记录系统，然后一个工作流一个工作流地获得自主权，朝自主人工智能核保员推进。它从底层重建承保基础设施，让人工核保员和智能体共享同一套账户、规则、文档、权限和工作流状态。这家公司来自 YC 夏季 2026 批次，团队 2 人，值得关注的是它选择从运营切入而不是直接喊全自动。",
+          "rank": 6
+        },
+        {
+          "id": 30689,
+          "name": "b12 Labs",
+          "url": "https://b12-labs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/b12-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AI-powered Drug Discovery",
+            "Robotics"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Making hard molecules for Pharma and Biotech",
+          "originalDescription": "b12 makes high-value molecules that are otherwise hard to make. We help pharma companies plan and make new drugs, accelerating early-stage drug discovery from years to months. Andres built the first AI agent that can autonomously think and make molecules in a robotic lab, published in Nature Machine Intelligence (1000+ citations), and won the best paper award at the NeurIPS AI for Science conference. Zlatko is a 3x National Chemistry Olympiad champion, competed at IChO level, and medicinal chemist who has worked at Roche and leading lab robotics companies. Combined, we have an extensive network of hundreds of chemists, automation scientists, and AI 4 Science researchers. We run paid pilots with big pharma companies, demonstrating that our platform planned a set of experiments that achieved full conversion in a single attempt, eliminating the iteration cycle.",
+          "published": "",
+          "story": "这是做难合成分子、服务药企和生物科技公司的公司，把人工智能和机器人实验室结合起来。如果你是一家药企早期研发的负责人，手里有一批结构复杂、传统路线很难做出来的候选分子，每试一轮都要等很久，迭代周期一拖就是几年。b12 Labs 帮药企规划和合成这些高价值分子，把早期药物发现从数年压缩到数月。团队方面，Andres 做过第一个能在机器人实验室里自主思考和合成分子的智能体，成果发表在 Nature Machine Intelligence，引用超过一千次，还拿过 NeurIPS 人工智能 for Science 会议的最佳论文奖，Zlatko 则是三次国家化学奥林匹克冠军，在罗氏和领先实验室机器人公司做过药物化学。他们正在与大药企做付费试点，平台规划的一组实验一次就达到完全转化，省掉了反复迭代。它来自 YC 夏季 2025 批次，团队 3 人，正在招聘。",
+          "rank": 7
+        },
+        {
+          "id": 30860,
+          "name": "Alt-X",
+          "url": "https://alt-x.co",
+          "sourceUrl": "https://www.ycombinator.com/companies/alt-x",
+          "location": "Los Angeles, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Building the best venue for private markets exposure.",
+          "originalDescription": "Alt-X is building the AI-native liquidity layer for private markets. Private markets have created trillions of dollars in value, yet remain fragmented, illiquid, and inaccessible. While public markets benefit from exchanges, market makers, brokerages, and data infrastructure, private markets still rely on brokers, spreadsheets, and manual workflows to connect buyers and sellers. Alt-X uses AI to automate the core functions required to make private assets liquid. We streamline diligence, valuation, investor matching, and transaction execution, reducing the friction that makes private-market transactions slow, expensive, and opaque today. Our initial focus is venture-backed secondaries. We source opportunities from founders, employees, and early investors while building a network of accredited investors seeking exposure to the world's most valuable private companies. Over time, we believe every private asset—from startup equity to private credit and alternative investments—will require modern liquidity infrastructure. Building trusted infrastructure for private markets is difficult. Transactions involve complex diligence, fragmented information, transfer restrictions, and significant compliance requirements. Alt-X is focused on creating systems that can support real transactions at scale, not just marketplace listings. Ryan Samadi (Stanford CS/AI, former Citadel commodities trader) and Michael Wachsman (Cornell CS, infrastructure engineer) are building Alt-X because they believe ownership of innovation should be more liquid, transparent, and accessible. Today, Alt-X has sourced over $1.5 million in transaction opportunities and assembled a network of 40 accredited investors representing hundreds of millions of dollars in investable assets. Our mission is to democratize ownership of innovation by building the financial infrastructure that private markets have never had.",
+          "published": "",
+          "story": "这家公司做的是私募市场的流动性层，用人工智能把原本靠人撮合的交易流程自动化。假如你是一名持有创业公司股权的早期投资人，想在有生之年把一部分份额变现，可买家在哪里、怎么估值、尽职调查怎么做，全靠经纪人和表格来回拉扯，一笔交易又慢又贵还不透明。Alt-X 用人工智能去处理尽职调查、估值、投资人与标的匹配和交易执行这些核心环节，降低摩擦，最初聚焦创业公司支持的二级份额，从创始人、员工和早期投资人那里获取机会，同时搭建一个寻求接触全球高价值私有公司的合格投资人网络。它来自 YC 冬季 2026 批次，团队 2 人，值得看的是它把公开市场早就有的交易所和数据基础设施思路搬到了私募市场。",
+          "rank": 8
+        },
+        {
+          "id": 32913,
+          "name": "Pacific",
+          "url": "https://pacific.space",
+          "sourceUrl": "https://www.ycombinator.com/companies/pacific",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Robotics",
+            "Space Exploration",
+            "Manufacturing",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 6,
+          "originalOneLiner": "Mass-producing and financing micro data center incredibly quickly.",
+          "originalDescription": "We mass-produce modular data centers that deploy on stalled infrastructure projects losing billions per week. Delayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific mass-produces modular data centers that deploy on those sites in days and turn their unused power into revenue. Data centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. We'll use the same mechanisms we're building today to deploy compute across the galaxy.",
+          "published": "",
+          "story": "这家公司做的是模块化数据中心的量产和融资，把闲置电力变成算力收入。如果你是一个基建项目的负责人，工地因为各种原因停摆，接入的电容量就那样空着，每周都在为债务付利息，损失以十亿美元计。Pacific 量产模块化数据中心，几天内就能部署到这些停滞的站点上，把原本用不上的电力变成收入，冷却系统里用了金刚石晶圆，所以舱体在地球上任何地方都能运行，沙漠里也行。他们的判断是数据中心常常要等好几年才能拿到电力，而全球各地延迟的工地正握着闲置的接入容量。这家公司来自 YC 夏季 2026 批次，团队 6 人，值得关注的是它把算力供给和停滞基建这两个看似无关的痛点接在了一起。",
+          "rank": 9
+        },
+        {
+          "id": 34696,
+          "name": "ChemPilot.ai",
+          "url": "https://chempilot.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/chempilotai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Robotics",
+            "Workflow Automation",
+            "Aerospace",
+            "Advanced Materials",
+            "Defense"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Discover novel defense related materials/molecules.",
+          "originalDescription": "ChemPilot accelerates the discovery and development of next generation defense materials using AI and data from our automated wet lab. Developing a new material today takes 10+ years of trial and error. We compress that to months by screening for what can actually be made, then closing the loop: every lab result feeds back into the models so the next round is faster and smarter. Sam, Ofir and Maor spent two years researching these materials at the Technion lab of our CSO, Prof. Alon Grinberg Dana (former MIT postdoc), working directly with defense primes and government R&D agencies. Together we bring chemical engineering, computational chemistry and AI, plus the production systems to put them to work. ChemPilot spun out of that research. The West’s defense and dual-use industrial base runs on materials with fragile, sole-source and often adversarial supply chains. Demand for new capability is surging, and materials still take decades to develop. We’re building a new kind of chemical prime: one that can discover, develop and ultimately manufacture the materials the West needs, securely, fast and at cost.",
+          "published": "",
+          "story": "这是做国防相关新材料和新分子发现的公司，用人工智能加上自动化湿实验室的数据来加速研发。如果你是一家国防承包商或政府研发机构的材料研究员，要为一款新装备找一种能用的材料，按今天的做法得花十年以上反复试错，而供应链上很多关键材料只有单一来源，甚至来自对手。ChemPilot 先筛选哪些材料真的做得出来，再让每一轮实验结果回流到模型里，下一轮更快更准，把十年压缩到几个月。三位创始人在首席科学顾问、前麻省理工博士后 Alon Grinberg Dana 教授的技术ion实验室里研究了两年这类材料，直接与国防主承包商和政府研发机构合作，公司从这项研究中分拆出来。它来自 YC 秋季 2026 批次，团队 3 人，值得看的是它瞄准的是西方国防工业基础里供应链脆弱的材料环节。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-50315990",
+          "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "source": "Hacker News",
+          "published": "2026-10-31T13:25:10Z",
+          "story": "很多做 人工智能 产品的团队，平时最担心的往往不是模型效果，而是自己手里那些员工信息、内部聊天记录到底安不安全。一旦有人公开说攻破了某家知名公司，讨论就会迅速热起来。这篇值得读的地方，在于它把安全事件放进了创业公司的语境里：一家年轻公司做了什么、对方的防线在哪里松动。读的时候可以留意作者怎么描述攻击的入口和时间线，哪些细节是确证的，哪些只是转述，这样更容易判断这类消息该信几分。"
+        },
+        {
+          "id": "WIRED Business-aHR0cHM6Ly93",
+          "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+          "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+          "source": "WIRED Business",
+          "published": "Sat, 31 Oct 2026 10:30:00 +0000",
+          "story": "当一个平台公司推出一项新能力，外界常常先替它想象出一连串被颠覆的行业，可现实里这些变化往往迟迟不发生。做产品或者看市场的人，都会在某个时刻遇到这种落差：发布会讲得很热闹，真正用起来的人却不多。这篇值得读，是因为它没有停在预测上，而是去追问为什么还没发生。读的时候不妨看作者如何区分能力本身和落地条件，比如谁有动力先用、什么环节挡住了它，这比记住结论更有用。"
+        },
+        {
+          "id": "Smashing Magazine-aHR0cHM6Ly9z",
+          "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+          "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "source": "Smashing Magazine",
+          "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+          "story": "每到换季，设计师和普通用户都会碰到一件小事：屏幕上的壁纸看久了想换一张，可挑来挑去总觉得差点意思。这类月度壁纸合集看起来轻，却常常是很多人打开设计站点的理由。它值得读的地方，不在于信息量，而在于可以当作一个观察口味的样本：同一批创作者在同一个月份里怎么处理颜色和情绪。读的时候可以留意每张图的构图和配色选择，想想它们分别适合什么场景，也许能给自己手头的界面找点灵感。"
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "companies": [
@@ -3278,257 +3542,6 @@
           "source": "Crunchbase News",
           "published": "Thu, 15 Oct 2026 11:00:48 +0000",
           "story": "做安全方向的人这几年常有一种感觉：需求一直在，但钱进来的方式变了。第三季度有六十八亿美元投进网络安全，而且大多集中在金额更大的轮次里，这个结构本身就值得琢磨。对创业者来说，这意味着早期小步融资可能更难，对投资人来说，则意味着他们更愿意把钱压在已经看得出轮廓的公司上。读的时候可以留意作者怎么区分这些大额轮次，钱流向了哪一类公司，是防守型的基础设施，还是和 人工智能 相关的新方向。看清钱往哪里走，往往比看总金额更能说明这个行业正在往哪边偏。"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "companies": [
-        {
-          "id": 31182,
-          "name": "Visibl Semiconductors",
-          "url": "https://visiblsemi.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/visibl-semiconductors",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech",
-            "Enterprise",
-            "Enterprise Software",
-            "Semiconductors",
-            "AI"
-          ],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Custom silicon for power electronics",
-          "originalDescription": "Visibl Semiconductors makes custom silicon accessible to hardware companies, starting with power electronics. We are an AI-native custom-silicon design partner that cuts ASIC development cost and timeline on mature nodes, helping teams deliver better performance and lower BOM cost. We work with data-center and AI-infrastructure power, motor drives, industrial automation and robotics, industrial power supplies and conversion, battery systems and e-mobility powertrains, EV charging, solar, energy storage, grid power, HVAC, heat pumps, and appliances. V1 boards built from off-the-shelf parts are great for getting to market quickly, but scaling to v2+ volume requires optimizing cost, size, and manufacturability. Visibl folds those parts into custom silicon built around the product: a simpler BOM, reclaimed board space, fewer supply constraints, and automation-ready assembly. We manage the full path from architecture and design through verification, fabrication, packaging, and production-ready silicon, working alongside hardware teams so they do not need an in-house chip team.",
-          "published": "",
-          "story": "这是做定制芯片设计的公司，方向是功率电子。假如你是一家做数据中心电源的硬件工程负责人，第一版产品用现成零件拼出来卖得不错，可要放量时发现成本、体积和供货都卡住了。Visibl 把那些分立零件收进一颗围绕产品定制的芯片里，让物料清单更简单、板子更小、供货更稳。它值得关注是因为它来自 YC 冬季 2026 批次，团队只有三人，正在招聘，而且切的是人工智能基础设施供电、电机驱动、工业自动化这些真实需求。",
-          "rank": 1
-        },
-        {
-          "id": 35587,
-          "name": "Ploid",
-          "url": "https://ploid.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/ploid",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "Sales",
-            "API",
-            "AI"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The people data company for the agent era",
-          "originalDescription": "Ploid is the AI-native people data infrastructure for building products, workflows, and agents around people. We’ve built an index of 2B+ people across professional and social sources, with the infrastructure to search, resolve, enrich, and retrieve up-to-date information about anyone on demand. Through Ploid’s API, CLI, and MCP, developers and companies can search for people, enrich profiles, find emails and phone numbers, resolve identities across different data points, and access the broader web context associated with a person. Unlike traditional people databases that rely primarily on static records, Ploid is designed for AI-native workflows. We combine our people index with real-time retrieval and entity resolution so data can be refreshed and expanded at the moment it is requested. Ploid can power everything from sales and recruiting products to customer intelligence, identity resolution, trust and safety, and AI agents that need reliable information about people. Instead of building and maintaining dozens of data integrations yourself, Ploid gives you one infrastructure layer for people data. 2B+ people. One API. Built for AI.",
-          "published": "",
-          "story": "这家公司切的是人员数据基础设施，面向智能体时代。想象你是一名销售开发代表，每天要在网上翻找潜在客户的职位、邮箱和社交动态，还要判断两条记录是不是同一个人。Ploid 建了一个覆盖二十多亿人的索引，开发者可以通过接口、命令行工具和模型上下文协议去搜索、补全、解析身份并取回最新信息。它值得关注是因为它来自 YC 秋季 2026 批次，团队两人，主打的是实时检索和实体消解，而不是静态名录。",
-          "rank": 2
-        },
-        {
-          "id": 30663,
-          "name": "Tesora",
-          "url": "https://tesora.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/tesora",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "API",
-            "Insurance",
-            "AI"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Frontier AI for Actuaries",
-          "originalDescription": "Tesora builds frontier AI agents for actuaries at P&C carriers, reinsurers, and MGAs. The agents handle the assembly, pulling the data, running the method, and deploying the rater, while you review the work and make every call. We deploy inside the stack you already run, on your infra and under your IT team's control, with no shared servers and nothing to rip out. Your data never trains our models, or anyone else's. We treat this as a partnership so we stay hands-on until the work is live and holding up in production. That standard runs through our security posture too: SOC 2 Type II certified, with a full audit trail behind every change. The part of the job that matters is actuarial judgment, and we automate everything around it so you get back to the work only you can do. Built by AI technologists and actuaries who want to see this exist and backed by Y Combinator & other top investors.",
-          "published": "",
-          "story": "这是做精算智能体的公司，服务财产险、再保险和承保代理机构。如果你是一名精算师，每天要把数据从各处凑齐、跑完方法、再部署费率表，中间大量时间花在搬运和核对上。Tesora 的智能体替你做这些装配工作，你只负责审阅结果和做判断，而且它部署在你已有的技术栈和基础设施里，数据不拿去训练模型。它值得关注是因为它来自 YC 夏季 2025 批次，团队五人，正在招聘，并且通过了 SOC 2 二类认证。",
-          "rank": 3
-        },
-        {
-          "id": 30894,
-          "name": "Unsiloed AI",
-          "url": "https://www.unsiloed.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/unsiloed-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Artificial Intelligence",
-            "B2B",
-            "Infrastructure",
-            "APIs"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "API for parsing multimodal unstructured data",
-          "originalDescription": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets. Our APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
-          "published": "",
-          "story": "这家公司做的是解析多模态非结构化数据的接口。假如你是一家人工智能团队的工程负责人，正带着几个人做文档处理流程，结果半年过去还卡在表格、图片和图表混排的解析上，检索增强生成的效果一直起不来。Unsiloed AI 用视觉语言模型把这类文档转成结构化、可查询、适合大模型使用的数据，接口已经在为初创公司和纳斯达克上市企业解析数十万份文档。它值得关注是因为它来自 YC 秋季 2025 批次，团队两人，正在招聘，公开基准上表现优于多个同类方案。",
-          "rank": 4
-        },
-        {
-          "id": 30754,
-          "name": "Locata",
-          "url": "https://www.locatahealth.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/locata",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "AI Referral Automation for Primary Care Clinics",
-          "originalDescription": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care. Primary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers. Alejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users. Within two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
-          "published": "",
-          "story": "这是做基层医疗转诊自动化的公司。一个诊所后台工作人员每天要面对大量转诊：提交预授权、通知患者、追着专科那边要结果，人手严重不够。Locata 用智能体把这些步骤接过去，让工作人员腾出手来做患者照护。它值得关注是因为它来自 YC 夏季 2025 批次，团队四人，正在招聘，而且它盯的是一个很大的缺口：美国每年发出一亿多次专科转诊，真正完成的只有一半左右。",
-          "rank": 5
-        },
-        {
-          "id": 32521,
-          "name": "Molagri",
-          "url": "https://molagri.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/molagri",
-          "location": "Toronto, ON, Canada",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Synthetic Biology",
-            "Biotech",
-            "Sustainability",
-            "Climate",
-            "Agriculture"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Resistance free pesticides.",
-          "originalDescription": "Molagri develops safer, more effective pesticides for agriculture. We design biopesticides that hit a precise molecular target unique to pest insects, knocking out pests while sparing pollinators, beneficial insects, and the wider ecosystem. By modeling how pests are likely to evolve, we stay a step ahead of resistance, keeping our products effective against the pests of today and tomorrow. The higher efficacy and biobased production will also contribute to emissions reductions in both manufacturing and field use. Our founders are PhD lab mates from the University of Toronto who have worked together for six years and published in Nature Communications and Nature Microbiology.",
-          "published": "",
-          "story": "这家公司做的是抗性更低的农药，属于合成生物学和农业生物技术方向。如果你是一名种植户，最头疼的往往是害虫越打越不怕药，而广谱农药又伤到授粉昆虫和益虫。Molagri 设计的生物农药打的是害虫身上独有的分子靶点，只杀害虫，放过蜜蜂和天敌，同时通过建模害虫可能的进化路径来延缓抗性。它值得关注是因为它来自 YC 夏季 2026 批次，团队四人，正在招聘，创始人是多伦多大学的博士同学，合作六年，在《自然通讯》和《自然微生物学》上发表过论文。",
-          "rank": 6
-        },
-        {
-          "id": 37533,
-          "name": "HABU",
-          "url": "https://buildhabu.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/habu",
-          "location": "Phoenix, AZ, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech",
-            "Real Estate",
-            "Housing"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Like Crosby, but for real estate development",
-          "originalDescription": "HABU is an AI-native real estate development firm that helps real estate investors deploy capital to build housing faster, at lower cost, and with higher yield. We're building an internal AI-native operating system that completes 90%+ of development tasks at 95% faster processing speeds while delivering the same outcomes customers expect externally: high yield, low risk projects. We're selling the outcome, not the inputs to the outcome. Developers are service providers for white-collar investors: they find land, construct buildings, and operate and sell them for a profit. Our customers don't care how the projects are sourced or managed, only that they are completed on time and produce the forecasted returns. We use agentic workflows, geospatial analysis and mapping, and development-specific workflow automation to manage the end-to-end process. The result is 5x more projects per FTE compared to a non-AI developer, 20% faster project schedules, and 10-15% lower total project costs. We're *not* long term property owners, strictly the service provider (fee/merchant developer). $160B was deployed into multifamily in 2025 and $534B into commercial real estate overall. Developers naturally have high operating margins and we are building to be the most operationally and capital efficient developer in the country. Starting first with multifamily in Phoenix and then expanding nationally.",
-          "published": "",
-          "story": "这是做房地产开发的公司，用人工智能驱动整个开发流程。想象你是一位手里有资金、想投住宅项目的投资人，你其实不关心开发商怎么找地、怎么管工地，只关心项目能不能按时交付并拿到预期回报。HABU 把找地、地理空间分析、流程自动化这些环节放进一套内部操作系统，号称能完成九成以上的开发任务，处理速度快很多，人均能同时推进的项目数也更多。它值得关注是因为它来自 YC 秋季 2026 批次，团队两人，卖的是结果而不是工具本身。",
-          "rank": 7
-        },
-        {
-          "id": 31493,
-          "name": "Plena Health",
-          "url": "https://www.plena.health/",
-          "sourceUrl": "https://www.ycombinator.com/companies/plena-health",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 0,
-          "originalOneLiner": "Plena is the AI operating system for specialty medical practices",
-          "originalDescription": "Plena is the AI operating system for specialty medical practices. We automate the administrative workflows that keep clinics running — referrals, fax intake, scheduling, procedure compliance, and collections — end to end, across all the systems a practice already uses. Unlike point solutions that cover a slice of the problem, Plena becomes the operating layer across the entire practice, connecting the systems, teams, and workflows that keep it running. In 10 months we've grown 17x and crossed seven figures in committed ARR across six specialties and eight states, with 80% of growth through word of mouth.",
-          "published": "",
-          "story": "这家公司做的是专科诊所的人工智能操作系统。如果你是一家专科诊所的运营负责人，每天要处理转诊、传真收件、排班、流程合规和收款，系统之间还互不相通。Plena 把这些行政流程端到端接过去，横跨诊所已经在用的各种系统，而不是只解决其中一小块。它值得关注是因为它来自 YC 春季 2026 批次，正在招聘，十个月里增长了十七倍，承诺年经常性收入过了七位数，覆盖六个专科和八个州，其中八成增长来自口碑。",
-          "rank": 8
-        },
-        {
-          "id": 31193,
-          "name": "9 Mothers",
-          "url": "https://9mothers.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/9-mothers-corporation",
-          "location": "Austin, TX, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 19,
-          "originalOneLiner": "Counter Drone Systems. $1.6m sales. We delivered for the DoW.",
-          "originalDescription": "We have sold $1.6m of systems to the DoW. Multiple systems delivered to the DoW. Our first product - EDDA - is a counter drone system - small, low power, low cost fully autonomous-capable. It's designed to be used on vehicles, bases, or carried - to stop group 1 suicide drones. We have multiple contracts, sales, etc. We have 3 more products with demand in various stages of development. More details at https://9mothers.com",
-          "published": "",
-          "story": "这是做反无人机系统的公司，属于硬科技和防务方向。如果你是一名负责基地或车队防护的安保主管，最担心的是成群的小型自杀式无人机贴地飞来，而传统手段又贵又笨重。9 Mothers 的第一款产品 EDDA 体积小、功耗低、成本低，可以装在车上、架在基地，也可以随身携带，用来拦下这类小型无人机。它值得关注是因为它来自 YC 春季 2026 批次，团队十九人，正在招聘，已经向国防部门交付了多套系统，销售额达到一百六十万美元，另外还有三款产品在开发中。",
-          "rank": 9
-        },
-        {
-          "id": 30690,
-          "name": "Flai",
-          "url": "https://www.useflai.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/flai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 35,
-          "originalOneLiner": "We Bring Customers to Your Dealership",
-          "originalDescription": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue. We built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away. The result: No more missed opportunities, no more losing customers to competitors. Our founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges. We're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
-          "published": "",
-          "story": "这家公司做的是帮汽车经销商接住客户来电。假如你是一家经销商的销售主管，晚上下班后大量咨询电话打进来没人接，第二天这些人已经在别家订了车。Flai 用智能助手全天候接听电话，安排试驾、预约换油，还能主动打出去做召回活动。它值得关注是因为它来自 YC 夏季 2025 批次，团队三十五人，正在招聘，创始团队做过语音人工智能产品、在优步负责过大规模基础设施、在奈飞做过数据科学，而错过下班后来电每年让一家普通经销商损失约一百万美元收入。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "SaaStr-aHR0cHM6Ly93",
-          "title": "It Takes 12 Years to IPO. Then Another 2-3 for Your VCs to Get Liquid. And Founders Can Generally Only Sell About ~4% a Year.",
-          "url": "https://www.saastr.com/it-takes-12-years-to-ipo-then-another-2-3-for-your-vcs-to-get-liquid-and-founders-can-generally-only-sell-about-4-a-year/",
-          "source": "SaaStr",
-          "published": "Fri, 09 Oct 2026 14:10:45 +0000",
-          "story": "很多创始人第一次融资时，脑子里想的都是怎么把公司做大，很少有人一开始就去算自己哪天能把手里那点股份换成现金。等到公司真的走到上市那一步，才发现从起步到敲钟可能已经过去十几年，而上市之后，投资人还需要再等两三年才能把资金收回来。至于创始人自己，通常一年也只能卖掉很小一部分股份。这篇值得读，是因为它把这套时间账摊开来讲，让人看清创业回报的节奏到底有多慢。读的时候可以留意作者是怎么拆解每个阶段的等待成本，以及这种节奏会怎样影响创始人和投资人的耐心。"
-        },
-        {
-          "id": "hn-50020545",
-          "title": "Show HN: CircleIt – Circle something on a web page, your coding agent fixes it",
-          "url": "https://circleit.ai",
-          "source": "Hacker News",
-          "published": "2026-10-09T13:50:38Z",
-          "story": "做前端或者写代码的人大概都遇到过这种时刻：页面上某个按钮位置不对，或者某段文字显示得别扭，你想让帮忙写代码的助手去改，却很难用文字说清楚到底是哪一块。于是有人做了个小工具，你直接在网上把出问题的地方圈出来，写代码的助手就知道该动哪里了。这条在技术社区被讨论，值得看的地方在于它回应的是一个人人都碰过、却一直被将就的小麻烦。读的时候可以留意作者是怎么把圈选这个动作和代码修改连起来的，以及这种交互方式会不会改变人和助手配合的习惯。"
-        },
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "Surveillance company Flock cuts staff as privacy backlash grows",
-          "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-          "source": "TechCrunch",
-          "published": "Fri, 09 Oct 2026 13:40:36 +0000",
-          "story": "摄像头越来越多地出现在街道、商场和小区门口，很多人一开始并不在意，直到某天发现自己的生活被记录、被分析，才开始追问这些画面去了哪里、谁能看。围绕监控的争论就是这样慢慢升温的，而做这类业务的公司往往在舆论和监管之间左右为难。这篇讲的是其中一家公司因为隐私方面的反弹而裁员，值得读的地方在于它把商业压力和公众情绪放在一起看。读的时候可以留意作者如何呈现反弹从哪来、公司又做了哪些取舍，以及这种张力对同类公司意味着什么。"
         }
       ]
     }
