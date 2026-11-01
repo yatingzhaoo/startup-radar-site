@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-31T13:37:04.840Z",
+  "updatedAt": "2026-11-01T14:15:00.856Z",
   "readings": [
+    {
+      "key": "chromewebstore.google.com/detail/issitedown/ifilnamlilffdbhbfmkkkajlgckimjlo",
+      "title": "Show HN: IsSiteDown – Chrome extension to check current site availability",
+      "url": "https://chromewebstore.google.com/detail/issitedown/ifilnamlilffdbhbfmkkkajlgckimjlo",
+      "usedAt": "2026-11-01",
+      "site": "startup-radar"
+    },
+    {
+      "key": "lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "usedAt": "2026-11-01",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like",
+      "title": "Here’s what &#8216;renoa&#8217; — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "usedAt": "2026-11-01",
+      "site": "startup-radar"
+    },
     {
       "key": "indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
       "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
