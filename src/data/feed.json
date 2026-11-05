@@ -1,7 +1,268 @@
 {
-  "generatedAt": "2026-11-01T14:15:00.854Z",
+  "generatedAt": "2026-11-05T16:25:56.494Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-11-05",
+      "companies": [
+        {
+          "id": 32583,
+          "name": "Graphify Labs",
+          "url": "https://www.graphify.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/graphify-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Open Source"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 1,
+          "originalOneLiner": "On-device Knowledge Graph engine for Enterprise Software",
+          "originalDescription": "Graphify is a Knowledge Graph control plane for enterprise software. The open-source tool has 116K+ GitHub stars and 6.5M+ downloads, and is used in production by engineers at Shopify, Datadog, JP Morgan, American Express, Harvey, Automation Anywhere, and Vanguard. On top of that graph, our enterprise layer reviews every pull request and formally verifies each code change: it proves the new behavior matches the old, or hands back the exact input that breaks it. That makes it built for the changes teams fear most, like refactors, framework upgrades, and large-scale migrations, where you need proof that nothing broke, not a guess. The graph updates itself as the code changes and keeps context instead of forgetting it, so your whole team and their coding agents work from one shared, always-current view of the codebase instead of a thousand private threads. It runs entirely inside your perimeter, fully air-gapped on-premise or self-hosted in your own cloud, so no code or data ever leaves your environment.",
+          "published": "",
+          "story": "这是做企业软件开发工具的公司，方向是代码知识图谱。假如你是一个工程负责人，团队正准备把核心系统升级到新框架，几百个文件要改，谁也不敢保证没有改坏。Graphify 先为整个代码库建一张知识图谱，再在每次代码合并请求上做形式化验证，要么证明新行为与旧行为一致，要么直接给出让程序出错的输入。它的开源工具已经积累了大量使用，企业版则把能力放进企业自己的环境里运行。对最怕重构和迁移的团队来说，这提供的是证据而不是猜测，值得关注的是它背后已有大量开发者在实际生产中使用。",
+          "rank": 1
+        },
+        {
+          "id": 35587,
+          "name": "Ploid",
+          "url": "https://ploid.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/ploid",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Sales",
+            "API",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "The people data company for the agent era",
+          "originalDescription": "Ploid is the AI-native people data infrastructure for developers and companies building products, workflows, and agents around people. We've built an index of 2B+ people across professional and social sources, giving developers one API to search for people, enrich profiles, find emails and phone numbers, resolve identities, and retrieve up-to-date information from across the web. Unlike traditional people databases built around static records, Ploid combines its massive people index with real-time retrieval and identity resolution, delivering fresh, reliable information whenever it's needed. From sales and recruiting to customer intelligence, trust and safety, and AI agents, Ploid replaces fragmented data providers with a single infrastructure layer. 2B+ people. One API. Built for AI.",
+          "published": "",
+          "story": "这家公司切的是面向智能体时代的人员数据基础设施。想象你正在带一支销售团队，需要快速找到某家公司的采购负责人并拿到可靠联系方式，过去要在好几个数据供应商之间来回切换。Ploid 把专业和社交来源里的人整合成一个索引，开发者通过一个接口就能搜索人员、补全档案、查找邮箱电话、核对身份，并实时获取网上最新信息。它的特点是索引规模大，同时结合实时检索，让信息保持新鲜。从销售、招聘到信任与安全团队都能用同一层数据，值得关注的是它把零散的数据供应商收拢成单一基础设施，且明确面向人工智能应用。",
+          "rank": 2
+        },
+        {
+          "id": 31141,
+          "name": "OctaPulse",
+          "url": "https://www.tryoctapulse.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/octapulse",
+          "location": "Frisco, TX, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "OctaPulse builds computer vision and robotics for fish farms and…",
+          "originalDescription": "OctaPulse is building the robotics layer for seafood production. Aquaculture is the fastest-growing food sector and already produces more seafood than commercial fishing, yet the people who breed and process fish still make thousands of decisions a day with almost no data about the fish in front of them, and much of the most important work is still done by hand, one fish at a time. We put cameras where fish are already handled, turn every image into measurements, and give farms and plants the tools to act on them. Today that is two products: Phenotyping, which measures every fish for shape, size and condition and links it to its family for breeding decisions, and Digital Twin, which places cameras on processing lines and farm sites onto the floor plan with live views, automatic counts and a built-in AI assistant. The same per-fish measurements are the foundation for Plant Robotics: robot cells that handle whole fish on the processing line, working alongside the people there. Fish are wet, slippery, soft and never the same twice, which is exactly why this work is still manual and why it needs measurement-driven robots built for food plants rather than rigid grippers and tabletop demos. We are now selecting processing plants for the first pilots on real lines. We signed a 6-figure paid pilot with the largest trout producer in the United States, and every deployment adds labeled images to a proprietary multi-species dataset that improves our models across species and becomes the brain for autonomous seafood production.",
+          "published": "",
+          "story": "这是把计算机视觉和机器人带进水产养殖与加工的公司。一个养殖场的育种负责人每天要判断哪条鱼长得更好、该和哪条鱼配对，可过去几乎只能凭经验一条条看。OctaPulse 把摄像头放在鱼本来就要经过的地方，把每张图像变成可用的测量数据，记录每条鱼的体型、大小和状态，并与其家系关联，帮助做出育种决定。它还有数字孪生产品，把加工线和养殖场画在平面图上，给出实时画面、自动计数和内置助手。这不是手机应用，而是把感知能力放进真实的鱼处理场景，值得关注的是它正在招聘，说明团队在扩张落地。",
+          "rank": 3
+        },
+        {
+          "id": 35258,
+          "name": "Mirrors",
+          "url": "https://www.mirrors.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/mirrors",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "AIOps",
+            "Developer Tools",
+            "B2B",
+            "Infrastructure",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Fix recurring AI agent mistakes with real-time guidance",
+          "originalDescription": "Production AI agents keep making the same mistakes. The usual fix is another line in the system prompt. Over time, the agent carries instructions for dozens of situations, even when it's doing something simple, and every correction becomes another thing to maintain. Mirrors helps developers maintain production agents by turning recurring mistakes into targeted corrections. Mirrors surfaces recurring mistakes across your production runs. You write a correction, choose the situations where it applies, and preview which past conversations it would have reached. Once activated, Mirrors adds it to your agent only in those situations. You can then compare outcomes with and without the correction to see whether it helped. Unlike skills, the agent doesn't decide what to load. The scope you set does. Corrections live in one place, scoped to the right accounts and workflows. Mirrors connects through an SDK and works with any agent framework, and your application keeps control of its model calls and tools. We're building Mirrors for engineering teams running customer-facing agents.",
+          "published": "",
+          "story": "这是帮开发者维护生产环境智能体的工具。如果你负责一个已经上线的智能体，最头疼的往往是它反复犯同样的错，而常见的做法是往系统提示里不断加规则，时间一长，简单任务也背着一堆指令。Mirrors 会找出生产运行中反复出现的错误，你写一条纠正，选定它适用的场景，还能预览这条纠正会影响哪些过去的对话。启用后它只在那些场景里加入纠正，并可以对比有无纠正的结果。它和技能机制不同，加载什么由你设定的范围决定，不由智能体自己判断。值得看的是它把纠错集中管理，而不是让提示词无限膨胀。",
+          "rank": 4
+        },
+        {
+          "id": 30754,
+          "name": "Locata",
+          "url": "https://www.locatahealth.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/locata",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "AI Referral Automation for Primary Care Clinics",
+          "originalDescription": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care. Primary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers. Alejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users. Within two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
+          "published": "",
+          "story": "这是做基层医疗转诊自动化的公司。一个诊所的后台运营负责人每天要面对大量转诊：提交事先授权、通知患者、反复跟进，人手不够，事情却一件不能少。Locata 用智能体把这些步骤自动跑起来，让后台人员腾出时间照顾患者。这个问题不小，美国每年发出上亿次专科转诊，真正完成的只有一半左右，患者卡在流程里可能耽误治疗。它来自 YC 夏季 2025 批次，团队目前四人并在招聘，说明产品已经在真实诊所场景里推进，需要更多人一起做。",
+          "rank": 5
+        },
+        {
+          "id": 31083,
+          "name": "Kita",
+          "url": "https://www.kita.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/kita",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Computer Vision",
+            "Lending",
+            "Emerging Markets"
+          ],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Underwrite borrowers around the world in minutes",
+          "originalDescription": "In emerging markets, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Kita is the AI platform for global lending operations. We help lenders in emerging markets automate application completion, document verification, and underwriting from messy financial documents — using AI to extract fraud-checked data and localized risk signals that power faster, better credit decisions. Under the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system. We’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
+          "published": "",
+          "story": "这家公司做的是新兴市场的信贷审核平台。一个风控分析师每天收到的不是规整的银行数据，而是一堆电子钱包记录、银行对账单和水电账单，只能人工一张张看，速度慢、成本高，放贷规模也上不去。Kita 用人工智能从这些杂乱的财务文件里提取经过反欺诈核验的数据，并给出本地化的风险信号，帮贷款机构自动完成申请补全、文件核验和授信判断。它还会把文件层面的信号与还款结果关联起来，让模型随时间不断改进。值得关注的是它切中了开放金融尚不成熟的市场，那里多数人没有传统银行账户，文件就是信用历史。",
+          "rank": 6
+        },
+        {
+          "id": 34959,
+          "name": "Applied Kinetics",
+          "url": "https://appliedkinetics.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/applied-kinetics",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "B2B",
+            "Manufacturing",
+            "Energy",
+            "AI",
+            "Industrial"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI-native manufacturing for data center and energy projects",
+          "originalDescription": "Applied Kinetics is an AI-native, end-to-end manufacturer for data center and energy developers. We supply the transformers, switchgear, generators, cooling systems, and other critical equipment needed to bring new power and compute capacity online. Every unit is built to project specifications, and we manage the process from technical requirements through production and delivery. We shorten lead times and accelerate projects forward, removing the physical bottlenecks holding back the next generation of technological progress.",
+          "published": "",
+          "story": "这是做数据中心和能源项目制造供应的公司，走的是人工智能原生、端到端的路线。假如你是一个能源开发商的工程负责人，项目已经拿到地、拿到电，却卡在变压器、开关柜、发电机和冷却系统上，交货周期长得让整个进度往后拖。Applied Kinetics 按项目规格生产这些关键设备，从技术需求一路管到生产和交付，目标是缩短交期、把项目往前推。它解决的是算力和电力扩容路上实打实的物理瓶颈，值得看的是它选择自己承担制造环节，而不是只做软件层面的协调。",
+          "rank": 7
+        },
+        {
+          "id": 32650,
+          "name": "Risklytics",
+          "url": "https://www.risklytics.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/risklytics",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hardware",
+            "Machine Learning",
+            "B2B",
+            "Insurance",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI-Native Insurance for Frontier Tech",
+          "originalDescription": "Risklytics is the insurance company for frontier tech such as physical AI, robotics, and data centers. Companies answer 6 questions and we bind a tailored policy that other insurance companies won’t.",
+          "published": "",
+          "story": "这是给前沿科技公司做保险的保险公司，覆盖物理人工智能、机器人和数据中心这类新风险。想象你是一家机器人公司的运营负责人，拿着业务去询价，传统保险公司看不懂你在做什么，要么拒保，要么给不出合适的条款。Risklytics 的做法是让企业回答六个问题，然后直接出具一份量身定制的保单，承保那些别家不愿接的风险。它来自 YC 秋季 2026 批次，团队两人，切入点是保险行业长期存在的空白：新技术跑得比承保经验快。值得看的是它把承保流程压得很短，同时敢碰别人回避的风险类型。",
+          "rank": 8
+        },
+        {
+          "id": 32521,
+          "name": "Molagri",
+          "url": "https://molagri.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/molagri",
+          "location": "Toronto, ON, Canada",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Synthetic Biology",
+            "Biotech",
+            "Sustainability",
+            "Climate",
+            "Agriculture"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Resistance free pesticides.",
+          "originalDescription": "Molagri develops safer, more effective pesticides for agriculture. We design biopesticides that hit a precise molecular target unique to pest insects, knocking out pests while sparing pollinators, beneficial insects, and the wider ecosystem. By modeling how pests are likely to evolve, we stay a step ahead of resistance, keeping our products effective against the pests of today and tomorrow. The higher efficacy and biobased production will also contribute to emissions reductions in both manufacturing and field use. Our founders are PhD lab mates from the University of Toronto who have worked together for six years and published in Nature Communications and Nature Microbiology.",
+          "published": "",
+          "story": "这是做农业生物农药的公司，目标是抗性更低的害虫防治方案。一个种植园的技术负责人每年都会发现，同一款药喷下去效果越来越差，害虫慢慢有了抗药性，而广谱农药还会误伤授粉昆虫。Molagri 设计的生物农药作用于害虫独有的分子靶点，只打害虫，尽量不伤蜜蜂和益虫，同时通过建模预测害虫可能如何演化，力求在抗性出现前就做好准备。它的生产基于生物方式，也有助于减少制造和田间使用中的排放。值得关注的是创始人是多伦多大学的博士同窗，合作六年，并在相关期刊发表过研究。",
+          "rank": 9
+        },
+        {
+          "id": 31086,
+          "name": "Prescience, Inc.",
+          "url": "https://www.getprescience.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/prescience-inc",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "B2B",
+            "Health Insurance",
+            "Insurance"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Superintelligent health insurance that keeps employees healthy",
+          "originalDescription": "Prescience is the preeminent health benefits platform for the world's most ambitious companies. We save employers 20-50% on health insurance while offering best-in-industry health benefits: www.getprescience.com About us: Prescience is building a new healthcare system for America. We train AI systems to: create, operate, insure, and deliver healthcare for employer health plans. Prescience Time Machine – an AlphaGo-like system – steers patients towards “Move 37 health trajectories” that deliver dramatic cost savings for employers. Rishab Jain and Aditya Jain, M.D. are serial entrepreneurs and brothers from Harvard & Harvard Medical School with backgrounds in machine learning and medicine. We believe abundant intelligence will bring an opportunity to fundamentally rebuild the $4.5T healthcare industry around proactive (prescient) health and wellness.",
+          "published": "",
+          "story": "这家公司做的是面向企业的健康保险平台。如果你是一家快速扩张公司的运营负责人，每年续保时看到保费上涨，员工却觉得保障一般，这种两难很常见。Prescience 声称能帮雇主在医疗保险上节省两到五成，同时提供业内水准的福利。它的思路是用人工智能系统去创建、运营、承保并交付雇主健康计划，其中一套被称为时间机器的系统会把患者引向更省钱的健康路径。创始人是哈佛与哈佛医学院背景的兄弟，此前有过创业经历。它来自 YC 夏季 2026 批次，团队五人并在招聘，值得看的是它试图从保险这一端重建雇主医疗的运转方式。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-50381031",
+          "title": "Datadog Degradation, but No Incident?",
+          "url": "https://updog.ai/status/datadog",
+          "source": "Hacker News",
+          "published": "2026-11-05T16:21:09Z",
+          "story": "很多团队都遇到过这种时刻：监控面板上的曲线开始变得难看，延迟升高、错误变多，可翻遍告警记录，却没有任何一条被正式标记为事故。值班的人一边盯着屏幕，一边犹豫要不要叫醒别人。这篇讨论值得读，是因为它把这种说不清的中间状态摆到了台面上：服务确实在变差，但流程里没有任何一个环节承认它。读的时候可以留意作者怎么界定“降级”和“事故”的边界，以及在这种边界模糊时，团队是靠什么信号决定要不要升级处理。"
+        },
+        {
+          "id": "TechCrunch Startups-aHR0cHM6Ly90",
+          "title": "Axiom Math wants to keep AI slop out of mathematics",
+          "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+          "source": "TechCrunch Startups",
+          "published": "Thu, 05 Nov 2026 16:16:45 +0000",
+          "story": "数学研究一向被认为需要严密推导，一步错，后面全错。可当越来越多论文和证明借助 人工智能 生成，审稿人和同行就面临一个新麻烦：文字看起来完整，论证却可能经不起推敲。这篇报道讲的正是有人想处理这个问题。它值得一读，因为你能从中看到一类新公司如何在旧有标准和新工具之间找位置。阅读时可以注意作者如何描述问题被发现的场景，以及这家公司主张用什么方式区分可靠内容和看似可靠的填充物。"
+        },
+        {
+          "id": "Stack Overflow Blog-aHR0cHM6Ly9z",
+          "title": "Don’t Build the Reusable Component Yet",
+          "url": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/",
+          "source": "Stack Overflow Blog",
+          "published": "Thu, 05 Nov 2026 16:02:13 GMT",
+          "story": "写前端或做产品的人大概都有过这种冲动：同一个按钮、同一张卡片出现了第二次，就想立刻抽成一个可复用的组件。这个念头很自然，因为重复看起来就是浪费。但这篇来自 Stack Overflow Blog 的文章标题提醒人先停一下。它值得读的地方在于，它讨论的是判断时机，而不是反对复用本身。读的时候可以看作者如何区分“现在就该抽”和“再等一等”的情形，以及过早抽象会在后续需求变化时给维护者带来什么具体麻烦。"
+        }
+      ]
+    },
     {
       "date": "2026-11-01",
       "companies": [
@@ -3276,258 +3537,6 @@
           "source": "TechCrunch",
           "published": "Mon, 19 Oct 2026 12:56:14 +0000",
           "story": "做应用审核的人常会遇到一个尴尬：规则写得清清楚楚，可总有人把违规功能藏进看起来正常的应用里，先混过审核，上线后再露出真面目。用户投诉来了，平台才发现规则和实际执行之间有空档。这篇报道讲的正是苹果更新审核指南，要挡住那些伪装成普通应用、实为生成裸露图像的工具。它值得读，是因为这类猫鼠游戏几乎每个做内容平台或应用商店的人都会碰到。读的时候可以看作者怎么梳理规则的调整：禁令落在哪一层，是禁止功能本身，还是禁止伪装手法。也可以留意它如何呈现各方的判断，以及这类更新能不能真正堵住审核流程里的那个缺口。"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-17",
-      "companies": [
-        {
-          "id": 31575,
-          "name": "Fire Wallet",
-          "url": "https://fire.co",
-          "sourceUrl": "https://www.ycombinator.com/companies/fire-wallet",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "FinOps",
-            "Fintech",
-            "Security",
-            "Cryptocurrency"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Fire Wallet is a privacy-first crypto wallet designed to just work,…",
-          "originalDescription": "🔥FIRE WALLET 🔥 https://www.youtube.com/watch?v=JeXDDegwhgA TL;DR: Fire Wallet is a fast, end-to-end encrypted, non-custodial stablecoin wallet with built-in payment processing and fiat on/off ramps, built by the team that created MobileCoin, the cryptocurrency inside Signal. Hey Bookface! We're Josh, Michael, and Manny and we're building Fire Wallet! 🔥Why we built this Most wallets and payment processors don’t work FOR you. They're slow, route your payments in the way that earns them the most, and they leak your financial life to anyone asking. Worse: every single one hold the keys to your money. We believe your financial tools should act in your interest and, frankly, that your money should be yours. 🔥What Fire does Multi-chain, non-custodial, end-to-end encrypted wallet. Your keys, your money, your assets: you are in full control of your funds at all times. Least Cost Routing. Every swap and payment takes the cheapest path, not the one that pays a middleman the most. Self-sovereign payment processing. Send an invoice straight from the wallet. Get paid from your web checkout. No middleman. Easy fiat on/off ramps. Move stablecoins to USD and back without the pain. Built for agentic commerce. Manage per-agent sub-wallets for agentic workflows. Encrypted by default. Protecting you from bad actors and surveillance capitalism. 🔥Early traction Signed our first major LOI with @Trustboop (founded by Justice Laub of Drone Racing League and Rob Rhinehart of Soylent). Onboarding our first enterprise customer in ecommerce packaging and marketing, doing about $1.5M/month in volume. They've connected us to 10 more companies in the same vertical at similar volume, roughly a $100M/yr GMV opportunity. 🔥Why us Josh and Manuel led the creation of MobileCoin, the cryptocurrency in Signal Messenger: $100M+ raised, $1.16B peak valuation, $4B+ peak coin market cap, acquired in 2026. Michael runs product and design. He's an internationally exhibited artist with two published art books, and he builds sick products. Manuel runs operations and orchestrates systems that actually work at scale. 🔥Asks Intros to businesses moving $1M+/month in payments, especially cross-border, ecommerce, and DTC, who want lower fees and more control over their funds. Strategic partners in fintech and payments interested in integrating our infrastructure. Tell us what's broken. Reply here or email founders@fire.co. We're looking for our first 100 customers. If that's you or someone you know, we'd love to talk.",
-          "published": "",
-          "story": "这家公司做的是加密货币钱包和支付处理。假如你是一个常年在海外收款的自由职业者，客户今天说要用稳定币付款，你打开常用的钱包，却发现它悄悄把交易路由到对自己最有利的通道，手续费多了一截，而且你的资金其实一直握在平台手里。Fire Wallet 想解决的就是这类麻烦，它做多链、非托管、端到端加密的钱包，私钥和资金始终由用户自己掌握，还会按最低成本为支付选择路径。团队来自打造过 Signal 内置加密货币 MobileCoin 的班底，目前是 YC 秋季批次的三个人小团队，方向是让钱包真正站在用户这一边。",
-          "rank": 1
-        },
-        {
-          "id": 35395,
-          "name": "Workers IO",
-          "url": "https://www.ycombinator.com/companies/workers-io",
-          "sourceUrl": "https://www.ycombinator.com/companies/workers-io",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "B2B",
-            "Infrastructure",
-            "AI"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Simulation environments for verifying mission-critical software",
-          "originalDescription": "Workers IO is building deterministic simulation environments to verify mission-critical software. We run your entire system through millions of production scenarios and prove that its properties hold in every one. The problem: Coding agents write code faster than teams can review it. At the same time, software and the infrastructure under it grow more complex every year. Tests only checks a few cases someone wrote, in isolation, in an environment that does not match production. Making the most expensive failures reach production first. Our solution: We run your system unmodified in our simulation environments, against network partitions, disk failures, crashes, and clock drift. We build those fault models for you and verify every promise across millions of scenarios. Because these simulations are deterministic, every failure is perfectly reproducible. No one writes scenarios by hand, so verification becomes a compute problem.",
-          "published": "",
-          "story": "这是做软件验证基础设施的公司。想象你是一个工程负责人，团队里的智能体写代码的速度已经超过人工审查的速度，而单元测试只覆盖了别人手写的少数场景，跑在一个和生产环境并不一致的地方，于是最贵的故障总是先跑到线上。Workers IO 把整个系统原样放进确定性模拟环境里，让它经历网络分区、磁盘故障、进程崩溃和时钟漂移，在上百万个场景中验证各项承诺，因为模拟是确定性的，每次失败都能精确复现。它属于 YC 秋季批次，团队只有两人并且正在招聘，值得关注的是它正面回应了智能体写代码带来的验证缺口。",
-          "rank": 2
-        },
-        {
-          "id": 37896,
-          "name": "Aucert",
-          "url": "https://www.aucert.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/aucert",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "B2B",
-            "AI"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "A team of expert AI agents that test mobile apps on their own.",
-          "originalDescription": "Top apps need weeks and multiple teams to test every release. Aucert does it in hours, and plugs into agentic coding workflows so issues get fixed in the same loop. Agents: Functional QA · Accessibility · Google Play Policy · App Store Policy Next: Performance · Security. DM if you need either.",
-          "published": "",
-          "story": "这家公司切的是移动应用测试。如果你是一个应用团队的发布负责人，每次发版前都要协调好几个团队、耗上几周去测功能、测无障碍、核对应用商店政策，结果还是难免漏掉问题。Aucert 用一组分工明确的人工智能智能体替你把测试跑完，几个小时就能出结果，还能接进智能体编程流程，让问题在同一个循环里被修掉。它目前覆盖功能测试、无障碍、谷歌应用商店政策和苹果应用商店政策，后续计划做性能与安全。它来自 YC 秋季批次，团队两人，场景本身就说清了为什么值得看：发版测试一直是又慢又碎的工作。",
-          "rank": 3
-        },
-        {
-          "id": 31201,
-          "name": "Robby",
-          "url": "https://tryrobby.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/robby",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI agents that grow revenue for home services businesses",
-          "originalDescription": "Robby is an AI growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our AI combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour. Our team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves. Vineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
-          "published": "",
-          "story": "这是给家政与上门服务行业做增长的智能体公司。假如你是一家空调维修公司的总经理，每天最头疼的是线索不够、技师上门一趟只修一个问题就离开，客户信息散落在各处。Robby 把客户数据和第三方数据结合起来，每天生成几十条新线索，再给技师准备话术，提高成交率，让管理者在一个指挥中心里看清收入机会。团队说已有多个付费客户，每周各自能挖出六位数的额外收入机会，上线第一天一小时内就促成了四万美元新业务。它属于 YC 冬季批次，三人团队正在招聘，成员还跟着技师跑现场、准备考取技师认证。",
-          "rank": 4
-        },
-        {
-          "id": 31188,
-          "name": "Maywood",
-          "url": "https://www.ycombinator.com/companies/maywood",
-          "sourceUrl": "https://www.ycombinator.com/companies/maywood",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "The first finance-compliant proactive AI that runs 24/7",
-          "originalDescription": "Maywood is the first finance-compliant proactive AI that runs 24/7, working across your network, pipeline, and active processes, running constantly in the background and surfacing things you'd otherwise miss. It tracks relationships and sector context to flag when a target is gearing up for a process (and drafts the outreach in your voice), watches network activity across LinkedIn, news, and conference follow-ups, and surfaces where active processes stand, including what's at risk since you last looked. It also auto-updates CRMs and trackers and creates meeting briefs that includes relationship history, recent activity, deal context, external research, talking points that can pull from internal and external data sources. Dealmakers interact with it over email, Teams, or the platform itself.",
-          "published": "",
-          "story": "这家公司做的是面向金融交易人士的主动式人工智能助手。想象你是一个每天要盯很多项目的交易撮合者，早上打开邮箱，发现某个目标公司可能正在筹备交易，而你上次查看之后已经错过了几条动态。Maywood 在后台持续运行，跟踪人脉关系和行业背景，提醒你目标何时准备启动流程，并按你的语气起草外联邮件，还会汇总正在推进的项目里哪些地方出现了风险，自动更新客户关系管理系统和跟踪表，生成带关系历史和外部研究的会议简报。用户可以透过邮件、Teams 或平台本身与它交互。它属于 YC 冬季批次，五人团队正在招聘，主打的是符合金融合规要求的持续运行。",
-          "rank": 5
-        },
-        {
-          "id": 33281,
-          "name": "Earendil Robotics",
-          "url": "https://earendil.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/earendil-robotics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Drones",
-            "Swarm Robotics",
-            "AR"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 7,
-          "originalOneLiner": "Drone swarm defence at a small-unit level",
-          "originalDescription": "Earendil Robotics builds cUAS solutions for the modern warfighter, enabling effective air defence at the small-unit level. We deliver spotting, engaging, and destroying capabilities through advanced sensors, autonomous interceptors, and integrated systems. Our product lineup covers every stage of the kill chain, complemented by the Drone Warfare Academy that trains soldiers to eliminate enemy drone threats in contested environments. Backed by worldwide frontline combat experience, we equip units with combat-proven tools to counter evolving aerial threats.",
-          "published": "",
-          "story": "这家公司做的是小型部队层面的反无人机防御。假如你是一个前线小队的指挥员，头顶突然出现敌方无人机，你手上却没有一套能看得见、拦得住、打得掉的手段。Earendil Robotics 用先进传感器、自主拦截器和集成系统覆盖从发现到摧毁的各个环节，还办了一所无人机战争学院，训练士兵在复杂环境中应对敌方无人机威胁。它属于 YC 夏季批次，团队七人。它不只是软件，而是把感知和拦截能力放进真实装备与战场场景里，团队称其背后有前线实战经验，这也是这个方向值得关注的原因。",
-          "rank": 6
-        },
-        {
-          "id": 31023,
-          "name": "Standard Physics",
-          "url": "https://standardphysics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/standard-physics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Fast Physics Simulations for Rapid Design and Real Time Control",
-          "originalDescription": "Standard Physics (formerly Inviscid AI) builds AI that does real physics. Most AI tools approximate physical behavior and get it wrong in ways engineers can’t see. Ours run actual numerical solvers, so the results are accurate enough to make real engineering decisions on. We have three products built on one engine. Reynolds runs computational fluid dynamics for you. An engineer describes the flow in plain language, and Reynolds writes the OpenFOAM case, builds the mesh, runs the solver, and returns the figures, the numbers, and a case they can rerun. It’s open source. Archimedes searches the design itself. Swarms of agents try thousands of layouts in parallel, simulate each one through Reynolds, keep what the physics rewards, and redraw the search space when the best answer was never in the original plan. We sell it as outcome-based engineering: customers pay for a better design, not for compute. Inviscid AI (now a product!) points the same engine at a running building. It holds a data center within its thermal limits in real time, computed continuously from live telemetry. Our platform optimizes airflow patterns and ventilation strategies to eliminate dead zones, improve air distribution, and reduce the load on mechanical systems. On the energy side, we minimize HVAC power consumption, reduce cooling costs, and lower overall operational expenses while maintaining optimal thermal comfort and indoor air quality. We work with hardware startups and engineering teams on data center cooling, drones, energy systems, piping, and electronics. Reynolds earns engineers’ trust in daily use, and Archimedes and Inviscid AI turn that trust into large contracts.",
-          "published": "",
-          "story": "这是做工程物理仿真的公司。如果你是一名负责流体设计的工程师，过去想跑一次计算流体力学，得自己写算例、划网格、调求解器，花掉好几天。Standard Physics 的做法是让人工智能驱动真正的数值求解器，而不是近似物理行为，工程师用日常语言描述流动，Reynolds 就写好算例、建好网格、跑完求解并返回图表、数字和可复现的算例，这个产品是开源的。另一个产品 Archimedes 则让成群的智能体并行尝试上千种布局，用物理结果筛选，再重新划定搜索空间，并按结果收费。它属于 YC 冬季批次，两人团队，卖点是结果准确到能支撑真实工程决策。",
-          "rank": 7
-        },
-        {
-          "id": 35522,
-          "name": "Hemlock",
-          "url": "https://hemlock.inc",
-          "sourceUrl": "https://www.ycombinator.com/companies/hemlock",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech",
-            "Hardware"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 1,
-          "originalOneLiner": "Force-sensing wristband for training robotic AI",
-          "originalDescription": "Every serious robotics lab is bottlenecked on the same thing: demonstration data. The field has converged on egocentric video and hand pose as the substrate, and both are now cheap to collect at scale. What neither of them contains is force. A video of someone picking up an egg and a video of someone picking up a rock are nearly identical in pixel space and nearly identical in joint angles. They differ almost entirely in a quantity nobody is recording. Policies trained without it learn geometry and inherit no sense of touch. Hemlock closes that gap at the source. Our device, the Bracelet, is a wrist-worn surface EMG band that reads the electrical activity of the forearm muscles that actually drive the hand, which means it recovers contraction force directly rather than inferring it from motion. This distinction is the whole thesis: force cannot be reconstructed downstream of kinematics, because a hand squeezing hard isometrically and a hand resting can occupy the identical pose. Muscle signal is the only non-invasive channel that separates them.",
-          "published": "",
-          "story": "这家公司做的是训练机器人人工智能用的力感知硬件。想象你是一个机器人实验室的研究员，手上有大量第一视角视频和手部姿态数据，可一段捏起鸡蛋的视频和一段抓起石头的视频在像素和关节角度上几乎一样，缺的正是力。Hemlock 的 Bracelet 是一只戴在手腕上的表面肌电手环，直接读取驱动手部的前臂肌肉电活动，从而还原出收缩力，而不是从动作反推。它不只是手机应用，而是把传感能力放进随身佩戴的设备里，从源头补上缺失的那一维数据。它属于 YC 秋季批次，目前是一人团队，值得看的是它瞄准了机器人学习里公认的数据瓶颈。",
-          "rank": 8
-        },
-        {
-          "id": 37203,
-          "name": "Volaren Inc.",
-          "url": "https://www.volaren.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/volaren-inc",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Fintech",
-            "Marketplace",
-            "Finance",
-            "Creator Economy",
-            "AI"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Turning Ideas into Trades. Volaren puts the hedge fund in the hands…",
-          "originalDescription": "Turning ideas into trades. Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI. Turn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",
-          "published": "",
-          "story": "这家公司做的是把投资想法变成交易的工具。假如你是一个有自己的市场判断、却请不起分析师团队的独立投资者，你看到某个行业趋势，却不知道该怎么落成具体仓位、怎么回测、怎么跟踪。Volaren 用基本面与量化模型处理数据，并可以按个人偏好用人工智能定制，把你的观点转成交易、组合和可回测的框架与策略，之后还会持续告诉你每个仓位真正由什么驱动、对下一步意味着什么。它属于 YC 秋季批次，四人团队正在招聘。它值得关注的地方在于，把过去只属于机构的分析能力交到个人手里，正是它想做的事。",
-          "rank": 9
-        },
-        {
-          "id": 30735,
-          "name": "Evergrove",
-          "url": "https://www.evergrovelabs.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/evergrove",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Healthcare",
-            "Insurance",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Instant healthcare for all, starting with work comp",
-          "originalDescription": "We've built voice agents for the largest work comp managed care orgs and specialist PT networks in the country, making >500K calls annually and accelerating the speed at which they coordinate care. On average, our customers see a 40% increase in workflow completion, 10x decrease in cycle times, and >60% reduction in cost. We think voice agents are the starting point for solving slow and fragmented care coordination in this market. Companies that manage an injured worker's care rely on short-staffed contact centres and archaic methods of info exchange: phone, fax, and email. Every delay along the path of care leads to slower rehab of the injured worker, lower throughput for providers, and higher expense for the insurer/employer.",
-          "published": "",
-          "story": "这家公司做的是工伤理赔场景下的医疗协调。如果你是一家管理受伤工人护理的机构里的运营负责人，你会知道协调有多慢：人手不足的呼叫中心靠电话、传真和邮件来回传信息，每耽误一步，工人康复就更慢，服务方吞吐更低，保险公司和雇主支出更高。Evergrove 用语音智能体替这些机构打电话协调护理，团队称已服务全美最大的几家工伤管理护理机构和专科康复网络，每年完成超过五十万通电话，客户平均工作流完成率提升四成，周期缩短十倍，成本下降六成以上。它属于 YC 夏季批次，两人团队，把语音智能体当作解决这个碎片化市场的起点。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "hn-50129894",
-          "title": "Verse from the waste land:Rotterdam's poetic bin lorries granted cultural status",
-          "url": "https://www.theguardian.com/world/2026/oct/15/rotterdam-poems-bin-lorries-granted-cultural-status",
-          "source": "Hacker News",
-          "published": "2026-10-17T10:51:52Z",
-          "story": "城市里每天都有垃圾车经过，大多数人不会多看一眼。但如果有人把诗句印在车身上，让收垃圾这件事变得有点不一样，会发生什么？鹿特丹就做了这样的尝试，还给这些车申请了文化地位。读这篇文章，可以看看一个看似不起眼的公共设施如何被重新赋予意义，以及人们为什么愿意为这种改变买单。注意作者如何描述这些车从实用工具变成城市符号的过程，以及文化认定背后有哪些实际考量。"
-        },
-        {
-          "id": "Latent Space-aHR0cHM6Ly93",
-          "title": "[AINews] High Taste Testers Ep. 1",
-          "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-          "source": "Latent Space",
-          "published": "Sat, 17 Oct 2026 07:47:38 GMT",
-          "story": "做产品的人常常要判断一个东西好不好，但 taste 这件事很难量化。尤其当 人工智能 生成的内容越来越多，谁来当那个有品味的人就成了新问题。Latent Space 这期节目聊的就是高品味测试者，听起来像在讨论审美，其实背后是 人工智能 产品如何评估质量、如何建立标准。读的时候可以留意他们怎么定义品味，以及这种判断如何影响模型训练和产品设计。"
-        },
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-          "source": "TechCrunch",
-          "published": "Sat, 17 Oct 2026 02:36:18 +0000",
-          "story": "长寿和健身最近成了创业热点，各种高价会员和科技感十足的概念层出不穷。但 Mark Wahlberg 想做的却是 affordable gym，把价格拉下来。这背后是一个常见的商业问题：当市场都在往高端走，平价路线还有没有机会？读这篇可以看作者如何拆解这个创业想法，它面对的是哪群人，以及为什么在长寿概念火热的当下，便宜反而成了一种差异化。"
         }
       ]
     }
