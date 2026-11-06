@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-05T16:25:56.496Z",
+  "updatedAt": "2026-11-06T15:53:36.640Z",
   "readings": [
+    {
+      "key": "botel.dev",
+      "title": "Show HN: Botel – always reachable agents you pay for only while they're working",
+      "url": "https://botel.dev",
+      "usedAt": "2026-11-06",
+      "site": "startup-radar"
+    },
+    {
+      "key": "huggingface.co/blog/allenai/toyblocks",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "usedAt": "2026-11-06",
+      "site": "startup-radar"
+    },
+    {
+      "key": "latent.space/p/controlling-biology-fabian-theis-helmholtz-munich",
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "usedAt": "2026-11-06",
+      "site": "startup-radar"
+    },
     {
       "key": "stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet",
       "title": "Don’t Build the Reusable Component Yet",
