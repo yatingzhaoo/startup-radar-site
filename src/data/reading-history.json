@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-07T14:52:50.719Z",
+  "updatedAt": "2026-11-08T15:08:27.244Z",
   "readings": [
+    {
+      "key": "incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+      "title": "How to make a CNC plasma cutter with high-frequency start",
+      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+      "usedAt": "2026-11-08",
+      "site": "startup-radar"
+    },
+    {
+      "key": "lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "title": "What it actually takes to build frontier models | Tulsee Doshi (Head of Product for Gemini)",
+      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "usedAt": "2026-11-08",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me",
+      "title": "Ninja&#8217;s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "usedAt": "2026-11-08",
+      "site": "startup-radar"
+    },
     {
       "key": "saastr.com/gartner-sees-software-growing-14-6-to-1-68-trillion-in-2027-models-at-117-ai-app-platforms-at-39-and-price-increases-doing-a-lot-of-the-work",
       "title": "Gartner Sees Software Growing 14.6% to $1.68 Trillion in 2027: Models at 117%, AI App Platforms at 39%, and Price Increases Doing a Lot of the Work",
