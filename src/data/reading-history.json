@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-08T15:08:27.244Z",
+  "updatedAt": "2026-11-10T16:23:59.820Z",
   "readings": [
+    {
+      "key": "blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "usedAt": "2026-11-10",
+      "site": "startup-radar"
+    },
+    {
+      "key": "deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "usedAt": "2026-11-10",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature",
+      "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+      "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+      "usedAt": "2026-11-10",
+      "site": "startup-radar"
+    },
     {
       "key": "incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
       "title": "How to make a CNC plasma cutter with high-frequency start",
