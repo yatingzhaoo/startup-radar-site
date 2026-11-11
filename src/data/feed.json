@@ -1,7 +1,261 @@
 {
-  "generatedAt": "2026-11-10T16:23:59.818Z",
+  "generatedAt": "2026-11-11T16:07:06.942Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-11-11",
+      "companies": [
+        {
+          "id": 31345,
+          "name": "Replicas",
+          "url": "https://replicas.dev",
+          "sourceUrl": "https://www.ycombinator.com/companies/replicas",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Run any coding agent harness in the cloud",
+          "originalDescription": "Replicas is a cloud coding agent that allows you to delegate tasks to Claude Code or Codex from the app, Slack, Linear, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets. Replicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
+          "published": "",
+          "story": "这家公司做的是云端编程智能体的运行环境。假如你是一名工程负责人，早上打开任务列表，发现积压了几十个待修的问题和功能单，却没有人手逐个处理。Replicas 让你把任务直接派给 Claude Code 或 Codex，每个任务都在独立的虚拟机沙箱里运行，团队可以大规模并行推进。智能体会自动收到失败通知并修复持续集成的问题，还会读取代码评审意见，从而交出质量更高的合并请求。工程团队可以配置环境，让智能体在本地跑通整个代码库、验证结果并给出预览链接。它来自 YC 春季 2026 批次，团队只有两人且正在招聘，适合关注编程自动化落地方式的人留意。",
+          "rank": 1
+        },
+        {
+          "id": 31343,
+          "name": "Multiplier",
+          "url": "https://multiplier.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/multiplier",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Productivity",
+            "Investing",
+            "AI",
+            "Stocks"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Agent harnesses for asset managers",
+          "originalDescription": "Multiplier helps institutional investors research stocks and manage their portfolios. We're live with six hedge funds, and our users spend 4+ hours a day in the platform. Investors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application. Our first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"Multiplier has flipped those percentages.\"",
+          "published": "",
+          "story": "这家公司切的是资产管理机构的研究与组合管理工具。想象你是一位独立股票基金的分析师，每天要在结构化数据、零散文档和公司内部经验之间来回翻找，真正用于判断的时间被大量挤占。Multiplier 把结构化数据、非结构化数据、人工智能工作、人工工作和机构内部积累的知识放进一个安全可控、按需定制的应用里。它目前已在六家对冲基金投入使用，用户每天在平台上停留四小时以上。公司先聚焦管理规模在 2.5 亿到 50 亿美元之间的独立股票基金，这类机构知道人工智能重要，却没有时间和人才去搭建。它来自 YC 春季 2026 批次，团队三人且正在招聘。",
+          "rank": 2
+        },
+        {
+          "id": 31201,
+          "name": "Robby",
+          "url": "https://tryrobby.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/robby",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "AI agents that grow revenue for home services businesses",
+          "originalDescription": "Robby is an AI growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our AI combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour. Our team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves. Vineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
+          "published": "",
+          "story": "这家公司做的是面向家庭服务企业的人工智能增收工具。如果你是一家家政或维修公司的总经理，每天最头疼的是线索不够、技术员上门后成交率上不去，而每次上门收集的信息又白白流失。Robby 把客户数据和第三方数据结合起来，每天生成数十条新线索，再给技术员准备话术以提高成交率，让管理者在一个指挥中心里掌握并推动收入。它已有数家付费客户，每家每周能发现六位数的额外收入机会，上线首日曾在一小时内促成四万美元新业务。团队花了几个月跟随技术员上门、旁听办公室每个岗位，还在备考相关认证。它来自 YC 冬季 2026 批次，团队三人且正在招聘。",
+          "rank": 3
+        },
+        {
+          "id": 31375,
+          "name": "Hub Labs",
+          "url": "https://hublabs.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/hub-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Robotics",
+            "Big Data",
+            "Infrastructure",
+            "AI",
+            "Industrial"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 50,
+          "originalOneLiner": "Deployment and data infrastructure for Embodied AI.",
+          "originalDescription": "Hub deploys hardware and embodied machines to collect data for robotics labs, to produce labor output for real world businesses.",
+          "published": "",
+          "story": "这家公司做的是具身智能的部署与数据基础设施。想象你是一家机器人实验室的研究员，模型训练最缺的不是算力，而是真实世界里多样、持续、带场景的机器操作数据。Hub Labs 把硬件和具身机器部署到真实场所，一边为机器人实验室采集数据，一边为现实中的企业产出实际劳动。这种把设备放到现场的做法，意味着它不只是软件层面的数据平台，而是把采集能力装进机器、放进真实工作场景。它来自 YC 春季 2026 批次，团队已有五十人且正在招聘，规模在早期公司里不算小，值得关注它如何把数据采集和真实业务需求绑在一起。",
+          "rank": 4
+        },
+        {
+          "id": 30174,
+          "name": "Revise Robotics",
+          "url": "https://www.reviserobotics.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/revise-robotics",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Robotic Process Automation",
+            "ClimateTech",
+            "Electronics"
+          ],
+          "batch": "Winter 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Automating refurbishment of $1T in consumer electronics",
+          "originalDescription": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets. Our first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
+          "published": "",
+          "story": "这家公司做的是消费电子翻新的机器人自动化。假如你是一家电子废弃物回收厂的负责人，每天面对成堆的旧设备，工人要一件件翻找有价值的机器，再测试、清空硬盘、拍照、上架，流程又慢又依赖人手。Revise Robotics 的第一款产品是一套带人工智能的机器人系统，接入回收厂后每天可无人干预地评估和翻新数百台笔记本电脑，不论品牌、厂商或操作系统，都能完成测试、擦除硬盘、拍照并发布到二手市场转售。它切的是规模巨大的电子废弃物与二手电子市场，来自 YC 冬季 2025 批次，团队三人且正在招聘，适合关注循环经济与机器人落地结合的人。",
+          "rank": 5
+        },
+        {
+          "id": 32553,
+          "name": "Nori",
+          "url": "https://www.ycombinator.com/companies/noril1",
+          "sourceUrl": "https://www.ycombinator.com/companies/noril1",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Hard Tech",
+            "Hardware",
+            "Robotics"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "The most capable American-made humanoid robot for $1,688",
+          "originalDescription": "We manufacture Nori: A sub-$2000 bimanual mobile manipulator that can clean rooms, restock shelves, and fold clothes. Nori can handle basic tasks out of the box, and its software lets anyone teach Nori to automate work specific to their home or business. Nori aims to solve the robotics data bottleneck. By deploying affordable robots to customers around the world, we can gather the diverse data required to train the next generation of generalist robotic policies. Every user of Nori makes Nori smarter. Since launching 6 weeks ago we have already deployed our first robot and have over $440k+ in sales. We can bring general-purpose robotics to homes and businesses that could never afford it before. There are 132.7 million households and 8.4 million employer business locations in the U.S. At $1,688 per robot, selling just one Nori to 0.5% of them represents a $1.2B market opportunity in the U.S. alone.",
+          "published": "",
+          "story": "这家公司做的是美国制造的人形机器人硬件。如果你经营一家小型仓库或民宿，想找人帮忙整理货架、打扫房间、叠衣服，却请不起动辄数万美元的机器人，Nori 就是冲着这个场景来的。它是一台售价 1688 美元的双臂移动操作机器人，开箱即可完成基础任务，软件还允许任何人教它自动化自己家里或生意里的特定工作。它不是手机应用，而是把感知和操作能力放进设备本身，因此能在真实空间里动手做事。公司希望靠大量部署收集多样数据，训练下一代通用机器人策略，每个用户都在让 Nori 变聪明。上线六周已交付首台机器人，销售额超过 44 万美元，来自 YC 夏季 2026 批次，团队五人且正在招聘。",
+          "rank": 6
+        },
+        {
+          "id": 31340,
+          "name": "Illume Labs",
+          "url": "https://www.illumelabs.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/illume-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Generative AI",
+            "Health Tech",
+            "Biotech",
+            "Health & Wellness",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "24/7 Personal Health & Longevity Companion",
+          "originalDescription": "Illume is a 24/7 AI personal health & longevity companion that connects your wearables, blood panels, and genomic data to text you personalized and actionable insights. We pull in your health data and fuse it into one secure model. You get daily text updates on what changed, what it means, and what to do next; conversational health Q&A like \"What should I do to improve my bloodwork?\"; cross-data trend detection that catches patterns individual platforms miss; and a full platform to dig deeper, explore your health data, and text your Illume agent anytime. We're 3 MIT grads & friends, with experience at Windsurf, MIT CSAIL, Eli Lilly, & the Broad Institute.",
+          "published": "",
+          "story": "这家公司做的是个人健康与长寿管理服务。如果你是一位很在意健康数据的人，手上戴着可穿戴设备，刚做完血液检测和基因检测，却面对一堆分散的报告不知道从哪看起。Illume Labs 把这些数据接入并融合成一个安全模型，每天用短信告诉你哪些指标变了、意味着什么、下一步该做什么，还能像聊天一样问它如何改善血液指标，并发现单个平台容易漏掉的跨数据趋势。它不只是手机应用，而是把可穿戴设备、化验和基因信息串成随身可用的健康助手。团队是三位麻省理工学院的毕业生和朋友，曾在相关公司和研究机构工作，来自 YC 夏季 2026 批次，团队三人。",
+          "rank": 7
+        },
+        {
+          "id": 30992,
+          "name": "Amera",
+          "url": "https://amerahealthsolutions.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/amera",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Fall 2025",
+          "isHiring": false,
+          "teamSize": 12,
+          "originalOneLiner": "Automating claims processing workflows for health insurance payers.",
+          "originalDescription": "Amera automates claims processing for health insurance payers. We turn messy claim inputs (PDFs, bills, receipts, EDI and non-standard submissions) into structured data that plugs into existing systems. This cuts manual entry and exception handling, speeding up operations and reducing cost. We are already working with payers / plan administrators representing ~100k members, giving them access to more affordable care options.",
+          "published": "",
+          "story": "这家公司做的是健康保险支付方的理赔流程自动化。想象你是一名保险理赔员，桌上堆着格式各异的理赔材料，有 PDF、账单、收据，还有电子数据交换和不合规的提交件，只能一份份手工录入和核对。Amera 把这些杂乱的输入转成结构化数据，直接接入现有系统，减少人工录入和异常处理，让运营更快、成本更低。它目前与代表约十万名会员的支付方和计划管理机构合作，帮助人们获得更可负担的医疗选择。它来自 YC 秋季 2025 批次，团队十二人，暂未招聘，适合关注医疗保险后台效率的人了解。",
+          "rank": 8
+        },
+        {
+          "id": 35421,
+          "name": "Ordo Labs",
+          "url": "https://ordolabs.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/ordo-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Biotech",
+            "Compliance",
+            "Automation",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 4,
+          "originalOneLiner": "The AI-native OS for regulated labs",
+          "originalDescription": "Ordo Labs is bringing AI into regulated labs. In paid pilots with labs in the US and Europe, Ordo cut post-analysis work by 90%+. CROs and CDMOs are a $314.8B industry, but they can't rely on generic AI tools, because every result must be traceable, every system validated, and every change QA-approved. Ordo is the AI-native OS for regulated labs: each lab gets its own deployment built to be validated, every output links back to its source data, and scientists and QA sign off on every result. Every workflow on Ordo inherits these controls. Live today: data analysis, quality review and reporting. We're advised by laboratory executives and have interviewed 100+ scientists. Our goal is to make regulated labs AI-native, so science can move at the speed of AI. Run a CRO or CDMO? Email us at founders@ordolabs.ai.",
+          "published": "",
+          "story": "这家公司做的是受监管实验室的人工智能操作系统。如果你是一家合同研究机构的质量负责人，每个实验结果都必须可追溯，每个系统都要经过验证，任何改动都要质量部门批准，通用人工智能工具根本不敢用。Ordo Labs 为每家实验室单独部署可验证的系统，每个输出都能链接回源数据，科学家和质量人员对每个结果签字确认，所有工作流都继承这些控制。它目前在美国和欧洲的实验室做付费试点，后期分析工作量减少九成以上，已上线数据分析、质量评审和报告功能。团队访谈过一百多位科学家，并有实验室高管担任顾问，来自 YC 秋季 2026 批次，团队四人。",
+          "rank": 9
+        },
+        {
+          "id": 31239,
+          "name": "Fort",
+          "url": "https://fort.cx",
+          "sourceUrl": "https://www.ycombinator.com/companies/fort",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Strength Tracking Wearable",
+          "originalDescription": "Fort is a wearable that tracks strength training for people who care about longevity. Other wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
+          "published": "",
+          "story": "这家公司做的是力量训练追踪可穿戴设备。假如你是一位重视长期健康的运动用户，每次训练都要手动记录每一组、每一次和每个动作，练完还得不到有用的反馈，疲劳程度也常被低估。Fort 用心率与动作数据自动追踪你的力量训练，不需要你逐条录入，然后给出可执行、贴合目标的建议。它不是单纯的手机应用，而是把感知能力放进戴在身上的设备里，让力量训练的记录发生在动作本身。它来自 YC 冬季 2026 批次，团队四人且正在招聘，适合关注可穿戴设备如何从有氧走向力量训练的人留意。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "AWS Machine Learning-aHR0cHM6Ly9h",
+          "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+          "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
+          "source": "AWS Machine Learning",
+          "published": "Wed, 11 Nov 2026 16:05:33 +0000",
+          "story": "做硬件或实体产品的团队，常常在产品快要上市时才发现问题：需求改了一版，图纸没跟上，供应商拿到的还是旧版本，测试记录散在几个人的表格里。产品从想法走到量产，中间要经过太多人和环节，信息一断就容易返工。这篇讲的是把 人工智能 放进产品全生命周期管理这件事，值得读，是因为它讨论的不是某个单点工具，而是整条链路上信息怎么流动。读的时候可以留意作者如何描述一个产品从设计到交付要跨过哪些环节，以及 人工智能 被放在哪些位置才真正省下时间，而不是只多了一层演示。"
+        },
+        {
+          "id": "hn-50454861",
+          "title": "Flock starts to give campaign cash to local politicians",
+          "url": "https://chicago.suntimes.com/the-watchdogs/2026/11/06/flock-license-plate-readers-illinois-campaign-contributions-sheriff-mayor",
+          "source": "Hacker News",
+          "published": "2026-11-11T15:53:43Z",
+          "story": "一个城市在路口和社区装上自动识别车牌的摄像头，最初的理由通常是安全和效率。但时间一长，围绕这些设备的公司开始参与地方政治捐款，事情就变得微妙了：谁在监管这些数据，谁又在影响监管的人。这条在技术社区被讨论，值得读，是因为它把注意力从技术本身移到了技术落地之后的权力关系上。读的时候不妨顺着时间线看，一家设备供应商如何一步步靠近决策者，以及当地居民和议员在什么节点上开始提出疑问，这样更容易看清争议真正卡在哪里。"
+        },
+        {
+          "id": "WIRED Business-aHR0cHM6Ly93",
+          "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+          "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+          "source": "WIRED Business",
+          "published": "Wed, 11 Nov 2026 15:30:00 +0000",
+          "story": "芯片公司的高管飞到各地谈生意，面对的是复杂的出口限制和各方诉求，这种场合里，热情接待和真实意图往往混在一起。普通人可能觉得这离自己很远，但一家公司如何判断风险、如何取舍市场，最后会影响到整个行业的走向。这篇值得读，是因为它没有停在谁对谁错的层面，而是把一次具体的商业互动摊开来看。读的时候可以注意作者如何还原决策者的视角：他看到了什么信号，忽略了什么信号，以及事后回看时哪些判断本可以更谨慎。"
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "companies": [
@@ -3312,263 +3566,6 @@
           "source": "Google Research",
           "published": "Fri, 23 Oct 2026 18:51:33 +0000",
           "story": "在医疗资源紧张的地方，筛查结核病常常卡在最前面一步：片子要有人看，而能看的人不够。这类问题不太像实验室里的难题，更像一个流程问题，卡住的地方往往不在模型本身。这篇值得读，是因为它讲的是把基础模型放到筛查一线时会发生什么，而不是只谈指标。读的时候可以留意作者怎么描述落地的条件：数据在什么环境下产生，结果交给谁看，误判会带来什么后果，以及他们如何在准确率和实际可用之间做判断。"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "companies": [
-        {
-          "id": 38953,
-          "name": "Spacesheep",
-          "url": "https://spacesheep.dev/",
-          "sourceUrl": "https://www.ycombinator.com/companies/spacesheep",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Generative AI",
-            "Consumer",
-            "Productivity",
-            "Collaboration"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Documents of the future: the collaboration surface for people and…",
-          "originalDescription": "Agents now write faster than anyone can read. Spacesheep is where their work lands: any agent turns a session's output into a space that your team takes in at a glance. It works with the agents you already use, and has its own agent built in. Teams work on it together: comment on the exact spot, @mention a teammate, or ask @spacesheep and an agent makes the change live on every screen. Every change is a version, and every space is searchable by meaning, for people and agents alike. Spaces can show live data streamed from servers and sensors, and connect to the tools your team already uses. Teams use it for research, design docs, dashboards, slides and internal apps.",
-          "published": "",
-          "story": "这是做团队协作与文档工具的公司。想象你正带着一个小团队，某个智能体刚跑完一轮调研，输出了一大段内容，可没人有时间从头读到尾。Spacesheep 让智能体的成果直接落进一个共享空间，团队一眼就能扫完，还能在具体位置评论、@同事，或者让内置的 @spacesheep 智能体当场改动并同步到每个人的屏幕上。每次改动都留下版本，每个空间都能按语义搜索，人和智能体都找得到。它还能展示服务器和传感器传来的实时数据，并接入团队已有的工具，常见用途包括调研、设计文档、仪表盘、幻灯片和内部应用。这家公司来自 YC 秋季 2026 批次，团队两人，场景本身就说明智能体写东西的速度已经超过了人阅读的速度。",
-          "rank": 1
-        },
-        {
-          "id": 30913,
-          "name": "Captain",
-          "url": "https://captain.dev",
-          "sourceUrl": "https://www.ycombinator.com/companies/captain",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "API",
-            "Data Engineering",
-            "Search",
-            "Infrastructure"
-          ],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Self-tuning search for products and files",
-          "originalDescription": "Captain makes product catalogs and complex, multimodal files searchable for customers and AI agents. It syncs files from sources like S3, SharePoint, and Google Drive and tunes search to your data and workloads. Instead of stitching together parsers, embeddings, vector databases, rerankers, and retrieval infrastructure, developers use Captain to power product search and file retrieval through managed APIs. On evaluated file-search benchmarks, Captain’s tuning improved retrieval accuracy from roughly 78% with standard RAG to over 97%. Built for complex catalogs and demanding file-search workloads, including regulated and high-stakes applications.",
-          "published": "",
-          "story": "这家公司切的是搜索基础设施。假如你负责一个产品目录庞杂的电商团队，客户搜一个型号却搜不到，或者你手上堆着大量多模态文件，想让智能体也能准确检索，麻烦就来了。Captain 把产品目录和复杂文件变成可搜索的内容，从对象存储、企业文件系统等来源同步文件，再针对你的数据和工作负载自动调优搜索。开发者不用自己拼装解析器、向量数据库和重排组件，通过托管接口就能支撑产品搜索和文件检索。在评估过的文件搜索基准上，它的调优把检索准确率从标准检索增强方案的约百分之七十八提升到超过百分之九十七。这家公司来自 YC 冬季 2026 批次，团队两人，值得看的是它把复杂检索这件苦活收进了一个接口。",
-          "rank": 2
-        },
-        {
-          "id": 32262,
-          "name": "Alkera AI",
-          "url": "https://alkera.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/alkera-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Data Science",
-            "Data Engineering",
-            "Enterprise Software",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Reliable and safe data engineering and data science agents",
-          "originalDescription": "Alkera is a data engineering/analysis/science agent that works in your IDE or CLI. If you’re tired of agents that produce false, or even dangerous, reports about your data, then Alkera is for you. Our agent is equipped with your data’s history and lineage, your team’s knowledge, and tailored plugins for data apps such as Snowflake and dbt. Simply install and connect your services to begin doing trusted agentic data work. We also offer VPC & on-prem deployment options for when data can't leave your boundary.",
-          "published": "",
-          "story": "这是做数据工程与数据分析智能体的公司。如果你是一名数据工程师，最怕的就是智能体生成一份看着像样、实际却错误甚至危险的报告，然后被拿去开会。Alkera 的智能体跑在你的开发环境或命令行里，带着数据的变更历史和血缘、团队积累的知识，以及针对 Snowflake、dbt 这类数据应用的定制插件。装好并连上服务，就能开始做可信的智能体数据工作。它还提供私有云和本地部署选项，适合数据不能离开边界的情况。这家公司来自 YC 夏季 2026 批次，团队三人，值得关注的地方在于它正面处理了智能体做数据时最容易出错的信任问题。",
-          "rank": 3
-        },
-        {
-          "id": 31420,
-          "name": "Kimpton",
-          "url": "https://kimpton.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/kimpton",
-          "location": "New York City, NY, USA; Remote",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "Investments",
-            "Trading",
-            "AI"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "Live Evaluation Arenas for Financial Work",
-          "originalDescription": "In investment management, every decision gets graded. The market prints the answer on a date known in advance, and nobody gets to argue with it. Kimpton is financial AI that answers to reality. Kimpton OS is the AI-native operating system for investment teams: it does the research and hands PMs structured trades. EarningsBench is a public benchmark where models forecast quarterly earnings before companies report and the reported numbers do the scoring. Koliseum is the set of point-in-time financial environments we build from that work, for labs to train and evaluate models on. The whole industry is fighting underperformance. Active managers trail their benchmarks, and capital keeps bleeding into passive. AI was supposed to fix that, but it hasn't. Funds either stitch together a dozen point tools or babysit general agents all day, and neither gets them to the trade. Kimpton OS goes straight to it. It ingests a fund's mandate, strategy, and positions, connects to the institutional data the fund already runs on, and returns a structured trade proposal built for that fund. It's built to disagree, because consensus is poison for investment decisions. Instead of telling a PM what they want to hear, it surfaces the breaches and risks they'd otherwise miss. That same work is how we grade AI. Static benchmarks leak into training data. Simulations reward what their authors imagined. A forecast sealed before the outcome exists and scored when the company reports can't be rehearsed or backdated. We started in markets because they're the one place reality answers on schedule. We're two ex-Goldman engineers and an ex-SpaceX engineer. We left to start our own quantitative systematic hedge fund, raised $10M from a family office at 21 and 22, and scaled it to $35M over four years. We learned to trust live results over historical fit. We built Kimpton inside that fund, then productized the stack. We're live with our first institutional client, a $3.3B manager. Our first market is fundamental equity funds from $1B to $10B, and the labs that need to know whether their models can do this work.",
-          "published": "",
-          "story": "这家公司做的是投资管理里的人工智能。一个投资组合经理每天要面对的问题是，研究做了一堆，却迟迟落不到一笔具体的交易上。Kimpton 的操作系统替团队做研究，并把结构化的交易建议交到经理手里。它还有一块公开的评测场，让模型在公司发布财报前预测季度盈利，再由实际公布的数字来打分，谁也不能争辩。另一部分则是从这些工作中构建的时点化金融环境，供实验室训练和评测模型。整个行业都在为跑不赢基准发愁，主动管理资金持续流向被动产品，而把十几个零散工具拼起来或者整天盯着通用智能体，都到不了交易那一步。这家公司来自 YC 春季 2026 批次，团队五人，场景本身值得看。",
-          "rank": 4
-        },
-        {
-          "id": 32261,
-          "name": "Rasyn",
-          "url": "https://www.rasyn.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/rasyn",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Deep Learning",
-            "Biotech",
-            "Manufacturing",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Making chemicals 100,000x faster",
-          "originalDescription": "We build foundational AI models for chemistry. Almost nothing you buy is a single chemical. Products like datacenter coolant, GPU thermal paste, paint, and glue are formulations, which are mixtures of around ten ingredients each, and demand for them has grown quickly because of AI and EVs. Designing a new formulation is essentially a search problem, because there are more possible mixtures than anyone could ever test, and none of them can be predicted in advance. As a result, bringing a single formulation to market today takes three to five years of trial and error in a lab. Our models predict how a mixture will behave far faster than the standard methods used today, which lets us design new formulations in weeks rather than years, at a fraction of the cost. To prove this, we used them to invent three chemicals that never existed before, including a PFAS-free coolant for datacenters, and we have since synthesized and patented all three. We are already working with some of the largest manufacturers to design formulations for them, and we are building our own lab to generate the data that will train our next models.",
-          "published": "",
-          "story": "这是做化学基础模型的公司。假如你在一家材料厂负责配方，客户催着要一款新的数据中心冷却液，可一种产品往往是十种左右成分的混合物，可能的组合比任何人能试的都多，今天从零到上市要三到五年的实验室试错。Rasyn 的模型能比现有标准方法快得多地预测混合物会怎样表现，把新配方的设计周期从数年压到数周，成本也大幅下降。为了证明这一点，团队用模型发明了三种此前不存在的化学品，其中一种是不含全氟化合物的数据中心冷却液。这家公司来自 YC 夏季 2026 批次，团队三人，值得看的是它把配方设计从盲目试错变成了可搜索的问题。",
-          "rank": 5
-        },
-        {
-          "id": 31447,
-          "name": "Allowance",
-          "url": "https://useallowance.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/allowance",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 1,
-          "originalOneLiner": "The spend control layer for AI agents",
-          "originalDescription": "Allowance lets AI agents make purchases on a user’s behalf without ever exposing your real card number. Users approve purchases directly from their iPhone with customizable controls like spending limits, merchant restrictions, and expiration windows. Once approved, Allowance generates scoped, one-time payment credentials designed specifically for that transaction. This enables AI agents to safely complete tasks like shopping, ordering food, booking reservations, or purchasing tickets while keeping humans in control of every payment.",
-          "published": "",
-          "story": "这家公司切的是智能体支付的控制层。想象你让智能体替你去买票、订餐或者下单，它需要付钱，可你不想把真实卡号交出去。Allowance 让用户在 iPhone 上直接批准每一笔购买，并可以设置消费上限、限定商户、设定有效期。批准之后，它生成只对这笔交易有效的一次性支付凭证，智能体就能安全地完成任务，而人始终握着每一笔付款的控制权。这家公司来自 YC 春季 2026 批次，团队只有一人，场景本身值得看，因为智能体越能干，支付这一环的授权与边界就越绕不开。",
-          "rank": 6
-        },
-        {
-          "id": 31451,
-          "name": "Masterpiece",
-          "url": "https://masterpiecelabs.xyz/",
-          "sourceUrl": "https://www.ycombinator.com/companies/masterpiece",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Crypto / Web3",
-            "Lending",
-            "AI"
-          ],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Working capital for data companies training frontier AI",
-          "originalDescription": "We believe AI will be one of humanity’s next great masterpieces. Building it will require financial infrastructure as ambitious as the companies creating it. We're founders backed by Y Combinator building the financial rails underpinning the AI data economy. Masterpiece provides short term working capital to data vendors that sell training data, evaluation work, and reinforcement learning environments to frontier AI labs. A major financing gap exists in this market. Data vendors often need to pay contributors and fund operations before a lab has completed QA, accepted the work, and paid the invoice. This creates a 30 to 90 day cash gap between when vendors incur costs and when they receive payment. Legacy invoice lenders have little visibility into how to underwrite these assets. Masterpiece closes that gap by advancing capital against high quality lab contracts and invoices. Vendors can use the capital to scale delivery, pay contributors, and fund growth, then repay masterpiece when the lab payment arrives.",
-          "published": "",
-          "story": "这家公司做的是人工智能数据经济的金融基础设施。如果你是一家数据供应商的负责人，你雇人标注、做评测、搭建强化学习环境，把成果卖给前沿实验室，可实验室要走完质检、验收、开票，中间有三十到九十天的现金缺口，工资和运营却等不了。Masterpiece 针对高质量实验室合同和发票提供短期周转资金，把这段缺口补上。传统发票贷款机构很难看懂这类资产，也就很难承做。这家公司来自 YC 春季 2026 批次，团队三人，值得关注的是它盯住了一个随人工智能训练需求增长而出现的具体融资空白。",
-          "rank": 7
-        },
-        {
-          "id": 31430,
-          "name": "Voquill",
-          "url": "https://voquill.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/voquill",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "The agentic OS for medical labs",
-          "originalDescription": "Voquill is the modern AI-native operating system for medical labs. This software manages the entire workflow of the lab (accessioning, workflow, reporting, coding, compliance, and revenue) and contains modern agentic AI tools to help each step. For example, pathologists can write reports 20% faster through our voice AI coworker. Incumbent lab operating systems are old, don't scale with how modern labs work, and can’t integrate existing AI solutions. As a result, labs are either building their own or paying millions for band-aid solutions and consultants. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
-          "published": "",
-          "story": "这是做医疗实验室操作系统的公司。一个病理学家每天要写大量报告，逐字敲下来既慢又累。Voquill 用语音人工智能同事帮他把报告写得快两成，同时把实验室从样本接收、流程管理、报告、编码到合规和收入的整条工作流都管起来，每一步都有智能体工具辅助。现有的实验室系统老旧，跟不上现代实验室的运作方式，也接不进现成的人工智能方案，于是实验室要么自己造，要么花大钱请顾问打补丁。这家公司来自 YC 春季 2026 批次，团队三人，值得看的是它想替换的是实验室花在旧系统上的巨额开支。",
-          "rank": 8
-        },
-        {
-          "id": 36348,
-          "name": "antimattr",
-          "url": "https://www.antimattr.one/project-mnemosyne?utm_source=bookface&utm_medium=social&utm_campaign=bookface_antimattr_profile",
-          "sourceUrl": "https://www.ycombinator.com/companies/antimattr",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hardware",
-            "Consumer",
-            "AI"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "voice-first hardware interface for human-agent interaction",
-          "originalDescription": "antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.",
-          "published": "",
-          "story": "这家公司做的是语音优先的随身硬件。如果你每天会议不断，想法总在走路或嘈杂的店里冒出来，掏出手机记录反而打断思路。antimattr 把能力放进一枚戒指和一副耳机里，戒指可以录下并总结对话、随手捕捉想法、控制你的智能体，耳机则用自有的语音隔离技术把背景噪音挡掉，让你在吵闹的酒吧里也能打清楚电话或准确口述。它不是手机应用，而是把麦克风、降噪和智能体控制放进了你随身佩戴的设备。这家公司来自 YC 秋季 2026 批次，团队两人，场景本身值得看。",
-          "rank": 9
-        },
-        {
-          "id": 31063,
-          "name": "Clara",
-          "url": "https://www.ycombinator.com/companies/clara-2",
-          "sourceUrl": "https://www.ycombinator.com/companies/clara-2",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 9,
-          "originalOneLiner": "AI primary care doctor",
-          "originalDescription": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue. Our mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed. Unlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
-          "published": "",
-          "story": "这是做人工智能初级诊疗与长寿医疗的公司。假如你最近总觉得疲惫，想弄清症状、续开处方、安排化验并看懂结果，却不想每次都排长队。Clara 可以像医生一样和你对话，它能读取你的医疗数据，并从中找出容易被忽略的趋势和规律，而不只是聊天。它的建议在一位人类医疗提供者审核批准之前都只是初步意见，人始终在流程里。这家公司来自 YC 春季 2026 批次，团队九人且正在招聘，值得关注的是团队此前创办并发展了 Circle Medical，做到一亿美元收入。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "MIT Technology Review-aHR0cHM6Ly93",
-          "title": "The Download: testing six tech promises and biotech&#8217;s blind spots",
-          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-          "source": "MIT Technology Review",
-          "published": "Fri, 23 Oct 2026 12:10:00 +0000",
-          "story": "每隔一段时间，科技媒体就会集中盘点一批被反复许诺的新技术，读者往往一边好奇一边犯嘀咕：这些说法到底兑现了多少。尤其当话题落到医疗和生物科技，普通人更关心的是，那些听起来很美的承诺离自己的体检、用药和隐私到底有多远。这篇值得读，是因为它把检验的目光投向承诺本身，而不是再复述一遍愿景。读的时候可以留意作者怎么挑选要检验的对象，怎么判断一项技术算不算兑现，以及在证据不足时如何保留分寸。看它如何把宏大的说法拆成可以追问的小问题，会比记住结论更有用。"
-        },
-        {
-          "id": "hn-50207536",
-          "title": "Show HN: Basteon, a finance app that keeps your data on your phone",
-          "url": "https://basteon.app/",
-          "source": "Hacker News",
-          "published": "2026-10-23T11:54:48Z",
-          "story": "很多人用记账软件时都有过一瞬间的犹豫：把工资、账单和消费习惯交给一个云端账户，真的放心吗。正是这种日常的不安，让一个把数据留在手机本地的理财应用出现在技术社区里，并引来工程师和早期用户的讨论。这条值得看，不只是因为它是一个新工具，更因为从社区的追问里能看出大家真正在意什么：隐私是不是卖点，离线之后还能不能用，出了问题谁来负责。读的时候不妨看评论里人们反复追问的点，那些问题往往比产品介绍更能说明这类应用要跨过哪些坎。"
-        },
-        {
-          "id": "SaaStr-aHR0cHM6Ly93",
-          "title": "The Double Hockey Stick: Why 1% of Your Users Now Drive 75% of Your AI Costs, and What Figma, Clay, and Higgsfield Are Doing About It",
-          "url": "https://www.saastr.com/the-double-hockey-stick-why-1-of-your-users-now-drive-75-of-your-ai-costs-and-what-figma-clay-and-higgsfield-are-doing-about-it/",
-          "source": "SaaStr",
-          "published": "Fri, 23 Oct 2026 11:00:41 +0000",
-          "story": "做 人工智能 产品的团队常会遇到一个意外：用户数没怎么涨，账单却一路往上走。原因往往是有少数人用得特别重，把成本集中扛了起来。这篇讨论的正是这种成本分布，以及 Figma、Clay 等公司怎么应对。它值得读，是因为它把视线从模型能力拉回到经营现实：当一小部分用户吃掉大部分开销，定价、限额和产品设计都要重新想。读的时候可以看作者如何用数据说明这种集中，再看几家公司各自选择了限制、分层还是别的办法，留意它们判断取舍时依据的是什么。"
         }
       ]
     }

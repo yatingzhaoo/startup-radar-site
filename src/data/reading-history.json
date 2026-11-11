@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-10T16:23:59.820Z",
+  "updatedAt": "2026-11-11T16:07:06.944Z",
   "readings": [
+    {
+      "key": "aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick",
+      "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
+      "usedAt": "2026-11-11",
+      "site": "startup-radar"
+    },
+    {
+      "key": "chicago.suntimes.com/the-watchdogs/2026/11/06/flock-license-plate-readers-illinois-campaign-contributions-sheriff-mayor",
+      "title": "Flock starts to give campaign cash to local politicians",
+      "url": "https://chicago.suntimes.com/the-watchdogs/2026/11/06/flock-license-plate-readers-illinois-campaign-contributions-sheriff-mayor",
+      "usedAt": "2026-11-11",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway",
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "usedAt": "2026-11-11",
+      "site": "startup-radar"
+    },
     {
       "key": "blogs.nvidia.com/blog/open-source-openshell-infrastructure",
       "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
