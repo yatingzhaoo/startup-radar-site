@@ -1,7 +1,258 @@
 {
-  "generatedAt": "2026-11-11T16:07:06.942Z",
+  "generatedAt": "2026-11-12T16:46:18.728Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-11-12",
+      "companies": [
+        {
+          "id": 31003,
+          "name": "Voltair",
+          "url": "https://voltairlabs.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/voltair",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Autonomous Drones for Earth Observation",
+          "originalDescription": "Voltair is building the world's first globally distributed network of autonomous drones for Earth observation. Power utilities are the perfect first customer. Aging infrastructure and extreme weather drive the need for millimeter-scale inspection data on the power grid. Utilities spend tens of billions of dollars every year just looking at their own equipment. Autonomous drone fleets will enable utilities to inspect 7 million miles of infrastructure more frequently, quickly, and accurately. Our long-range, weatherized flying robots work with charging pads installed directly on utility poles. Each new pad unlocks 1000 square miles of coverage. With a charging network deployed on the power grid, we can serve existing multi-billion dollar data markets in road, rail and telecom inspection at 10x lower prices while enabling entirely new applications in hyperlocal weather monitoring, forestry, construction, search & rescue, and insurance. We envision a future in which drone \"instances\" are requested on-demand through our platform, enabling any application builder to serve these critical markets without ever operating their own hardware.",
+          "published": "",
+          "story": "这是做自主无人机与地球观测基础设施的公司。如果你负责一家电力公司的电网巡检，每天要面对上百万英里线路和极端天气后的排查压力，靠人工和少量飞行器根本看不过来。Voltair 把长航程、耐候的无人机和直接装在电线杆上的充电垫配成一张网，每个新充电垫能解锁上千平方英里的覆盖范围，让巡检更频繁、更快也更准。它来自 YC 冬季 2026 批次，团队五人，正在招聘，值得关注的是它先切电力行业这个愿意花大钱看自己设备的客户，再往道路、铁路和电信巡检延伸。",
+          "rank": 1
+        },
+        {
+          "id": 30859,
+          "name": "Locus",
+          "url": "https://paywithlocus.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/locus",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Finance",
+            "AI"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Payment infrastructure for AI agents",
+          "originalDescription": "We make your agents pay. As agents evolve from tools into dependable, autonomous actors, they’ll need the ability to execute open-ended workflows end-to-end. This inevitably means payments: accessing paywalled data, transacting for services or with other specialist agents. But autonomy requires guardrails. Businesses and developers will need a way to ensure their agents only spend how much and on what they’re supposed to. The machine economy is coming, and Locus (YC F25) is building the connector businesses will need to participate. We connect agents securely to funds, letting you define permissions and limits for every transaction. Each payment is traceable, auditable, and fully reconcilable with your existing financial stack.",
+          "published": "",
+          "story": "这家公司切的是智能体的支付基础设施。想象你是一名负责把智能体接入业务流程的开发者，智能体要访问付费数据、购买服务或者和别的专业智能体交易，你却没法放心让它自己花钱。Locus 把智能体安全地连接到资金，让你为每笔交易设定权限和额度，每笔支付都可追踪、可审计，并能和现有财务系统对账。它来自 YC 秋季 2025 批次，团队两人，方向是让人工智能代理在开放流程里真正跑完端到端任务，而支付正是绕不开的一环，这个场景本身值得看。",
+          "rank": 2
+        },
+        {
+          "id": 38953,
+          "name": "Spacesheep",
+          "url": "https://spacesheep.dev/",
+          "sourceUrl": "https://www.ycombinator.com/companies/spacesheep",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Generative AI",
+            "Consumer",
+            "Productivity",
+            "Collaboration"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Documents of the future: the collaboration surface for people and…",
+          "originalDescription": "Agents now write faster than anyone can read. Spacesheep is where their work lands: any agent turns a session's output into a space that your team takes in at a glance. It works with the agents you already use, and has its own agent built in. Teams work on it together: comment on the exact spot, @mention a teammate, or ask @spacesheep and an agent makes the change live on every screen. Every change is a version, and every space is searchable by meaning, for people and agents alike. Spaces can show live data streamed from servers and sensors, and connect to the tools your team already uses. Teams use it for research, design docs, dashboards, slides and internal apps.",
+          "published": "",
+          "story": "这是做团队协作文档与智能体输出落地的公司。如果你是一名研究员，智能体几分钟就写完一份材料，可团队没人读得完，讨论还散落在聊天记录里。Spacesheep 把任何智能体一次会话的输出变成一个空间，团队一眼就能看明白，还能在具体位置评论、@ 同事，或者让内置智能体当场改到所有人的屏幕上。每次改动都是一个版本，每个空间都能按语义搜索，人和智能体都适用。它来自 YC 秋季 2026 批次，团队两人，值得看的是它把智能体产出变成团队共同工作的界面，而不只是又一个聊天窗口。",
+          "rank": 3
+        },
+        {
+          "id": 31222,
+          "name": "Paradev (formerly Superset)",
+          "url": "https://paradev.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/paradev",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Consumer",
+            "B2B",
+            "Enterprise Software",
+            "AI"
+          ],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Building self-improving software",
+          "originalDescription": "Paradev (formerly Superset) is an open-source IDE that helps engineers run 100s of coding agents in parallel. Our desktop app is loved by tens of thousands of engineers, and we're scaling out our effort to build a collaborative, cross-platform tool to allow users to code anywhere.",
+          "published": "",
+          "story": "这是做开发者工具的公司，方向是让软件自己越用越好。假如你是一名工程负责人，手头同时跑着几十个编码智能体，光切换和协调就够呛。Paradev 原名 Superset，是一个开源集成开发环境，帮工程师并行运行上百个编码智能体，桌面应用已经有不少工程师在用，团队正在把它扩展成跨平台、可协作的工具，让人在任何地方写代码。它来自 YC 春季 2026 批次，团队四人，正在招聘，值得关注的是它已经在真实工程师群体里获得使用，并继续往协作场景推进。",
+          "rank": 4
+        },
+        {
+          "id": 32187,
+          "name": "Insurf",
+          "url": "https://www.insurf.io",
+          "sourceUrl": "https://www.ycombinator.com/companies/insurf",
+          "location": "Providence, RI, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Health Tech",
+            "Healthcare",
+            "Insurance",
+            "Automation",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "The AI-Native Decision Layer for Health Insurance",
+          "originalDescription": "Insurf is the AI-native data and decision layer for health insurance. Our model Surely identifies the lowest-cost coverage for anyone, saving individuals, families, and companies thousands per employee. Our product Inveto collects the data from hospitals and clinics that informs Surely.",
+          "published": "",
+          "story": "这家公司切的是健康保险的决策层。如果你负责一家公司的员工福利，每年续保时面对一堆方案和不断上涨的保费，很难判断哪个组合对员工和公司都最省钱。Insurf 用人工智能做数据和决策层，旗下 Surely 能为个人、家庭和公司找出成本最低的保障，另一款产品 Inveto 负责从医院和诊所收集数据来支撑判断。它来自 YC 夏季 2026 批次，团队三人，值得看的是它把保险选择从比价表格变成有数据支撑的决策，直接落在每个员工的钱包上。",
+          "rank": 5
+        },
+        {
+          "id": 30512,
+          "name": "MorphoAI",
+          "url": "https://morpho.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/morphoai",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Machine Learning",
+            "Robotics",
+            "Manufacturing",
+            "AI"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": true,
+          "teamSize": 12,
+          "originalOneLiner": "Software tool for designing robots and machines",
+          "originalDescription": "MorphoAI builds hardware foundation models for mechanical engineering. Our GPU-accelerated design models that let engineers generate and explore hundreds of complete mechanical assembly designs in minutes, accelerating the invention of new hardware. Our models learns from a company’s prior CAD designs and generate editable assemblies from engineering requirements, incorporating standard and custom components and manufacturing constraints. This enables companies to design and ship the next generation of their hardware faster and better than competition. The models can generate assemblies with up to 500 parts in minutes, including a full bill of materials. Engineers can explore 100s of design options at the beginning of a project and refine and validate the outputs within their existing CAD. MorphoAI’s technology builds on research conducted by its team at MIT and Harvard, with support from ARIA, the UK’s Advanced Research and Invention Agency with a GBP 2.5M grant. Its customer list includes companies like ABB and other large OEMs in robotics and automation, electric, power and grid, consumer electronics, and industrial equipment. Ayna and Andy, the co-founders, met during their time at Harvard and started this in 2024. Our founding team is built of a prof. of ECE and robotics at Carnegie Mellon, Forbes u30 serial hardware entrepreneur, and an ex. Amazon Robotics scientist. Between them, they have written 65+ papers on algorithms for hardware design during their PhDs at Harvard and MIT. The team at large holds PhDs from Imperial, TU Wein, UCL and has worked across computational geometry, computer vision, ML, optimization, simulation, and the CAD space.",
+          "published": "",
+          "story": "这是做机械工程设计与机器人硬件的软件公司。想象你是一名机械工程师，项目刚开始就要在几周内拿出几套完整装配方案，还得兼顾标准件、定制件和制造约束。MorphoAI 用加速的设计模型，从公司过往的计算机辅助设计里学习，按工程需求在几分钟内生成可编辑的装配体，最多五百个零件，还带完整物料清单，工程师能在现有设计软件里继续细化和验证。它来自 YC 春季 2025 批次，团队十二人，正在招聘，技术基于团队在麻省理工和哈佛的研究，值得关注的是它把生成式能力放进了硬件发明的早期阶段。",
+          "rank": 6
+        },
+        {
+          "id": 35127,
+          "name": "Rhem Labs",
+          "url": "https://rhem.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/rhem-labs",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Robotics",
+            "Health & Wellness",
+            "Consumer Products"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "",
+          "originalDescription": "Rhem Labs builds smart home care devices that help older adults and people with complex care needs live independently.",
+          "published": "",
+          "story": "这是做智能家居护理设备的公司，面向老年人和有复杂照护需求的人。如果你是一位要照顾年迈父母的子女，白天上班时总担心家里老人有没有按时起身、吃药或者遇到意外。Rhem Labs 把能力放进家里的设备和传感器里，而不是只做一个手机应用，让照护发生在真实生活场景中，帮助老人更独立地生活。它来自 YC 秋季 2026 批次，团队两人，正在招聘，值得看的是它切入的是居家照护这个既具体又长期存在的麻烦，硬件形态决定了它能感知手机看不到的事情。",
+          "rank": 7
+        },
+        {
+          "id": 31081,
+          "name": "One Robot",
+          "url": "https://www.onerobot.io/",
+          "sourceUrl": "https://www.ycombinator.com/companies/one-robot",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "World models for robot evals and training.",
+          "originalDescription": "One Robot builds simulation environments that are realistic to see and realistic to interact with, so robotics teams can train and evaluate robot policies without being bottlenecked by robot time. Today, improving a VLA often means more real-world hours: setting up the scene, running trials, resetting, and repeating. This loop is slow, expensive, and hard to scale. For example, material handling and manufacturing assembly tasks, models need far more training and evaluation data than teams can collect in the real world. We use task-specific data to build world model-based simulation environments for hard manipulation tasks (for example, textiles and box folding). These environments help teams run more training and evals, find failure modes faster, and accelerate iteration on action policies with less dependence on real-world data collection and robot availability.",
+          "published": "",
+          "story": "这是做机器人训练与评测仿真环境的公司。如果你在机器人团队负责训练操作策略，最头疼的是真实机器人时间不够用，摆场景、跑试验、复位再重复，一圈下来又慢又贵。One Robot 用任务数据构建基于世界模型的仿真环境，看得真实、交互也真实，专门针对布料处理、折箱子这类难操作任务，让团队多跑训练和评测，更快找到失败模式。它来自 YC 冬季 2026 批次，团队两人，正在招聘，值得看的是它把机器人迭代的瓶颈从真机时间挪到仿真里，减少对现实数据采集的依赖。",
+          "rank": 8
+        },
+        {
+          "id": 31063,
+          "name": "Clara",
+          "url": "https://www.ycombinator.com/companies/clara-2",
+          "sourceUrl": "https://www.ycombinator.com/companies/clara-2",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 9,
+          "originalOneLiner": "AI primary care doctor",
+          "originalDescription": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue. Our mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed. Unlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
+          "published": "",
+          "story": "这是做人工智能初级诊疗与长寿实践的公司。假如你最近总觉得疲惫，想弄明白症状、续个药或者看懂体检报告，却约不到医生或者要等很久。Clara 能像医生一样和你对话，看到你的医疗数据并据此行动，帮你理清症状、续药、安排并解读化验，朝着健康目标推进，所有建议在人类医疗提供者审核批准前都只是初步意见。它来自 YC 春季 2026 批次，团队九人，正在招聘，背后是曾创办并增长 Circle Medical 的团队，值得关注的是它让人工智能不只是回答问题，而是能接触数据并采取行动。",
+          "rank": 9
+        },
+        {
+          "id": 31092,
+          "name": "Axis",
+          "url": "https://axisanalysis.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/axis-2",
+          "location": "New York City, NY, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "An AI Copilot for Trading Desks",
+          "originalDescription": "Axis is building an AI Native Trading System, allowing a trader to deploy models that monitor and analyze relevant markets and strategies. We've chosen commodities as our first market. Commodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an AI driven analytical layer for these markets.",
+          "published": "",
+          "story": "这家公司切的是交易台的智能助手。想象你是一名大宗商品交易员，每天要盯衍生品持仓、炼厂数据、库存、进出口和地缘事件，信息散在各处，判断靠人拼。Axis 在做人工智能原生的交易系统，让交易员部署模型去监控和分析相关市场与策略，先选大宗商品作为第一个市场。它来自 YC 冬季 2026 批次，团队两人，值得看的是大宗商品占全球货物出口的三分之一，这个分析层面对的是真实且复杂的决策场景。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-50470158",
+          "title": "FreeBSD Developer AI Survey Results",
+          "url": "https://www.freebsd.org/status/report-2026-07-2026-09/",
+          "source": "Hacker News",
+          "published": "2026-11-12T16:40:26Z",
+          "story": "一个开源项目里，维护者往往是最先被新工具冲击的人：他们既要判断要不要接受外部贡献，又要担心自己熟悉的节奏被改变。当 人工智能 编程助手进入日常开发，这种犹豫会变得具体，比如某段代码到底是谁写的，出了问题该找谁。这篇调查把 FreeBSD 开发者对 人工智能 的真实态度摆了出来，值得读，因为社区里的分歧通常比产品发布会更早暴露问题。读的时候可以留意作者怎么设计问题、怎么区分不同岗位的回答，以及哪些担忧反复出现却没人给出解法。"
+        },
+        {
+          "id": "Stack Overflow Blog-aHR0cHM6Ly9z",
+          "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
+          "url": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/",
+          "source": "Stack Overflow Blog",
+          "published": "Thu, 12 Nov 2026 16:16:25 GMT",
+          "story": "很多团队在招人时都会遇到同一个问题：简历看起来都差不多，面试聊得也不错，可真正入职后才发现彼此期待并不一致。尤其是技术岗位，招聘方要在有限时间里判断一个人能不能合作、愿不愿意学、遇到问题会怎么处理，这些都不容易写进职位描述。这篇问答值得读，是因为它从一个长期做技术招聘的人的角度，讲他实际怎么判断候选人，而不是只给一份通用清单。读的时候可以留意他如何拆解招聘流程里真正卡住的地方：是需求没想清楚，还是面试问题问偏了，以及他如何看待经验与潜力之间的取舍。"
+        },
+        {
+          "id": "TechCrunch-aHR0cHM6Ly90",
+          "title": "Whoop just launched a social network",
+          "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+          "source": "TechCrunch",
+          "published": "Thu, 12 Nov 2026 16:00:00 +0000",
+          "story": "做硬件或健康产品的团队，常常会在某个阶段冒出一个念头：用户每天都在用我们的设备，为什么不让他们彼此看见、互相比较。这个念头听起来顺理成章，但真要做成社交功能，问题就来了：用户愿意分享哪些数据，分享之后关系怎么建立，原来的产品节奏会不会被打乱。这篇报道值得读，是因为它记录了一家做可穿戴设备的公司真的迈出了这一步，而不是停留在设想。读的时候可以看作者如何呈现这个决定的背景，以及产品从个人工具走向人与人连接时，哪些取舍被摆上了台面。"
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "companies": [
@@ -3312,260 +3563,6 @@
           "source": "WIRED Business",
           "published": "Sun, 25 Oct 2026 10:00:00 +0000",
           "story": "数据中心越建越多，附近居民开始有意见，这在美国已经不是什么新鲜事。但反对的声音起来之后，接下来该怎么办，很多人并没有想清楚。这篇文章把视线转向国外，看看其他地方的类似运动是怎么发展、怎么跟公司或政府打交道的。它值得读，是因为它没有停留在“该不该建”的争论上，而是去问已经发生过的事能提供什么经验。读的时候可以留意作者怎么梳理不同地方的案例，看他是如何比较各地做法的差异，以及他判断哪些经验可能被美国这边借鉴。"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "companies": [
-        {
-          "id": 31513,
-          "name": "CharacterQuilt",
-          "url": "https://characterquilt.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/characterquilt",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Computer use agents to deploy enterprise marketing campaigns",
-          "originalDescription": "CharacterQuilt builds computer use agents to deploy enterprise marketing campaigns. Marketers today don’t actually do much marketing at all. Today, over 80% of time spent on launching a marketing campaign is actually ops work: tweaking automation flows in Pardot, configuring audiences in LinkedIn, or wiring HTML emails in Marketo. What’s crazy about enterprise marketing is companies pay agencies millions of dollars just to deploy campaigns in their systems — and they still have to wait weeks for each one. CharacterQuilt is AI infrastructure for marketing teams: a brain that learns your brand, and agents that operate your existing tools. Marketing campaigns that used to take 3 agencies, 10 tools, and 6 weeks are now being built, designed, and deployed from CQ in an hour. Customers submit a brief like they would send to a human teammate or marketing agency, and they get back fully designed and deployed campaigns. Teams like 1upHealth, ABC Fitness, and Emplifi use us to: 1-) Build segments/audiences faster 2-) Create on-brand creative (AI is terrible at staying on-brand) 3-) Deploy campaigns automatically into HubSpot, WordPress, LinkedIn etc. We replicate your brand guidelines, deeply understand past campaigns, and work inside your systems. If you run demand gen or lifecycle at a B2B/B2C company and want to ship campaigns faster, send us a brief and we’ll build it in 15 minutes.",
-          "published": "",
-          "story": "这是做企业营销活动部署基础设施的公司。假如你是一家公司的营销负责人，今天要上线一场跨渠道活动，麻烦不在创意，而在那些繁琐的配置：在自动化平台里调流程、在社交平台里配受众、在邮件系统里搭模板，六周过去活动还没上线。CharacterQuilt 让营销团队像给同事或代理机构发需求一样提交简报，由能操作现有工具的智能体完成设计、搭建和部署，把原本要三家代理、十种工具、数周才能完成的事压缩到一小时。它来自 YC 春季 2026 批次，团队四人，正在招聘，值得关注的是它直接切入企业营销里被长期外包出去的运营环节。",
-          "rank": 1
-        },
-        {
-          "id": 31453,
-          "name": "Minicor",
-          "url": "https://minicor.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/minicor",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 9,
-          "originalOneLiner": "Scalable windows desktop automations",
-          "originalDescription": "Minicor connects AI startups to legacy desktop apps that have no API. Reliably, quickly and at scale. Describe a workflow and get an API endpoint. Each call triggers a self-healing desktop automation on a Windows VM. On-prem, cloud, or Citrix. Build through your coding agent via our MCP. Complete with the observability tools to manage your customer relationship: full video replay of every automation, granular logging, and slack enabled alerts.",
-          "published": "",
-          "story": "这家公司切的是让智能体操作老旧桌面软件的基础设施。想象你在一家做人工智能应用的创业公司负责工程，客户的核心业务跑在一套没有接口的老系统上，你想自动化却无从下手。Minicor 让你描述一个工作流程，就得到一个接口端点，每次调用会在 Windows 虚拟机上触发能自我修复的桌面自动化，支持本地、云端或虚拟桌面环境，还能通过编码智能体搭建，并提供每次自动化的完整视频回放、细粒度日志和即时告警。它来自 YC 春季 2026 批次，团队九人，正在招聘，信号是它把无接口系统的自动化做成了可规模化的产品。",
-          "rank": 2
-        },
-        {
-          "id": 35126,
-          "name": "Armorer Labs",
-          "url": "https://armorerlabs.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/armorer-labs",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "DevSecOps",
-            "Cybersecurity",
-            "AI"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Continuous security verification for AI agents in regulated industries",
-          "originalDescription": "Armorer helps companies in regulated industries ship their own AI agents faster and keep them secure in production. Most security tools flag an issue and file a ticket. Armorer assesses your agent and simulates attacks to find the real issues. Then it creates a verified fix that stops the attack without breaking the business, ready for your approval in about 4 hours. In production, Armorer checks every agent action in milliseconds, with no GPU needed. It detects malicious behavior such as prompt injection, goal hijacking and data leaks, then allows, holds or denies the action. Armorer's detection models beat every other detector we tested on six public benchmarks. Armorer is 22% more accurate than JEV while being 88x faster, so users won't feel the delay. We spent years building and evaluating AI security systems together at AWS, including its first customer-facing AI security agent, which scaled to 100k+ customers. Armorer is backed by Paul Vixie, an internet pioneer inducted into the Internet Hall of Fame in 2014.",
-          "published": "",
-          "story": "这是给受监管行业的人工智能智能体做持续安全验证的公司。如果你负责一家金融机构的智能体上线，最头疼的是安全工具只告诉你哪里有问题，然后开一张工单，修复和验证仍要自己扛。Armorer 会评估智能体并模拟攻击，找出真正的问题，再生成经过验证的修复方案，大约四小时就能交给你审批，生产环境中它以毫秒级检查每个动作，识别提示注入、目标劫持和数据泄露，然后放行、挂起或拒绝。它来自 YC 秋季 2026 批次，团队两人，其检测模型在六个公开基准上优于其他检测器，比对照方案准确率高 22% 且快 88 倍。",
-          "rank": 3
-        },
-        {
-          "id": 30288,
-          "name": "Harper",
-          "url": "https://www.harperinsure.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/harper",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Fintech",
-            "Insurance",
-            "AI"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 25,
-          "originalOneLiner": "AI-native commercial insurance brokerage",
-          "originalDescription": "At Harper, we are building a fully autonomous commercial insurance brokerage powered by AI. Our initial focus is on mid-sized businesses with complex insurance needs, but our vision is to eventually serve every business in the country. By leveraging AI to automate key workflows in the insurance process, we efficiently secure optimal coverage for each client's unique requirements at competitive prices and with rapid turnaround. Our AI system learns from the expertise of our brokers, accumulating not just knowledge but also the specific workflows, data, and capabilities that pave the way to full autonomy.",
-          "published": "",
-          "story": "这是做人工智能驱动的商业保险经纪的公司。假如你是一家中型企业的财务或运营负责人，公司保险需求复杂，续保时要在多家保险公司之间来回沟通，等报价往往要几周。Harper 用人工智能自动化保险流程里的关键工作，从经纪人的专业判断中学习工作流程、数据和能力，为客户争取更合适的保障、更有竞争力的价格和更快的周转。它来自 YC 冬季 2025 批次，团队二十五人，正在招聘，值得关注的是它把目标放在最终服务全国每一家企业，而不只是处理简单保单。",
-          "rank": 4
-        },
-        {
-          "id": 31582,
-          "name": "Edgerun",
-          "url": "https://edgerun.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/edgerun",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech",
-            "Hardware",
-            "Robotics",
-            "Defense"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Military exoskeletons",
-          "originalDescription": "Edgerun builds military exoskeletons. The first product is a 10-pound hip system that fits over existing kit and doubles a soldier’s range. Since April 2026, Edgerun built over a dozen iterations of their product through continuous field tests with Ukrainian fighters and secured $150M+ in LOIs. Founder David Venegas previously co-founded Durin (autonomous mining robotics) and worked at Stoke Space (at 19) and Hadrian. He is a high-school dropout, state-championship runner, adventure athlete, and pilot. Edgerun is a Y Combinator company backed by General H.R. McMaster, Cyan Banister, Joshua Steinman and Jason Miller. edgerun.com",
-          "published": "",
-          "story": "这是做军用外骨骼的硬件公司。想象你是一名步兵，背着装备长途机动，体力消耗直接决定能走多远。Edgerun 的第一款产品是约十磅的髋部系统，可以套在现有装备外，让士兵的行进距离翻倍。自 2026 年 4 月以来，团队通过和乌克兰战斗人员的持续实地测试迭代了十几版产品，并拿到了超过 1.5 亿美元的意向订单。它来自 YC 夏季 2026 批次，团队五人，正在招聘。外骨骼不是手机应用，它把助力能力放进贴身设备里，这也是它值得看的地方。",
-          "rank": 5
-        },
-        {
-          "id": 32518,
-          "name": "Agency Tool Company",
-          "url": "https://agencytool.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/agency-tool-company",
-          "location": "Denver, CO, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "Robotics",
-            "Automation",
-            "Infrastructure",
-            "Self-Driving Vehicles"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Reliable infrastructure to build, deploy and manage real-world robots.",
-          "originalDescription": "Agency Tool Company ships software to robots in the field 20x faster than a Docker pull with ATC Deploy, sending only the bytes that changed and resuming when the network drops. Deployment tooling is the connection between the lab & the field that continually bottlenecks robotics scaling and lacks a strong robotics-native solution. Deploy is live today with 3 launch partners across ag, construction, and logistics robotics. Our second product, ATC Build, offers embedded-compute as a CI service so devs can run tests and validate their software on the actual target hardware. Build supports the Nvidia Jetson lineup, Raspberry Pi, and a number of other embedded platform targets. Jack Morrison and Davis Foster founded and sold Scythe Robotics after deploying hundreds of autonomous mowers across the country; Agency Tool Company is building the robotics deployment platform across hardware and software they wish they had. Learn more at https://agencytool.com",
-          "published": "",
-          "story": "这家公司做的是让机器人软件可靠部署到现场的基础设施。如果你是一家农业或建筑机器人公司的工程负责人，实验室里跑得好好的程序，到了网络不稳定的工地就更新失败，现场排查一次要花很久。Agency Tool Company 的部署产品只传输发生变化的字节，网络断开后还能续传，比拉取容器镜像快二十倍，目前已有三家农业、建筑和物流机器人合作伙伴在用；另一款产品把嵌入式算力做成持续集成服务，让开发者在真实目标硬件上跑测试，支持多种嵌入平台。它来自 YC 夏季 2026 批次，团队三人，两位创始人此前创办并出售过一家机器人公司。",
-          "rank": 6
-        },
-        {
-          "id": 31509,
-          "name": "Rodeo Robotics",
-          "url": "https://www.rodeorobotics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/rodeo-robotics",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hard Tech",
-            "Robotics",
-            "AI",
-            "Automotive"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Robots for vehicle maintenance.",
-          "originalDescription": "Rodeo builds a robotic technician that automates maintenance so fleets can get vehicles back on the road sooner. Initial deployments focus on oil changes at centralized depots, where routine maintenance competes for scarce technician time. Cofounders Michael Hazard and Colby Duke met at Applied Intuition, where they worked with OEMs like Toyota and General Motors to bring software and autonomy to vehicles. They saw firsthand how much manual work it takes to keep vehicle fleets running, and learned how to make autonomy reliable through structured testing, real-world data, and human intervention. They’re now applying their experience to the roughly $600B annual US vehicle maintenance market. The average US vehicle is older than ever, driving up maintenance demand at a time when shops already struggle to hire and retain technicians. That gap leaves fleets facing costly downtime and preventable breakdowns. Despite this need, vehicle maintenance has resisted traditional automation. Service information is fragmented and unreliable, and vehicle hardware varies significantly between makes and models. Rodeo builds on advances in robotic foundation models to learn maintenance skills that transfer across vehicles. Rodeo pairs robots with human technicians who ensure each job is completed correctly, handling work the robots can’t yet perform autonomously. These deployments generate training data for Rodeo’s models through both teleoperation and hand tools augmented to record how technicians work. This lets Rodeo earn revenue while collecting the data needed to automate more of each job and improve margins.",
-          "published": "",
-          "story": "这是做车辆维护机器人的公司。假如你是一个车队的运营主管，车辆到了保养周期，却因为维修技师紧缺只能排队，车停在场站里就是实打实的损失。Rodeo 的机器人技师先在集中场站处理换机油这类例行保养，把稀缺的技师时间留给更复杂的维修，让车辆更快回到路上。两位创始人在自动驾驶公司相识，曾与整车厂合作把软件和自动驾驶能力装上车，也见过维持车队运转需要多少人工。它来自 YC 秋季 2026 批次，团队两人，切入的是美国每年约六千亿美元的车辆维护市场，场景本身就说明了需求。",
-          "rank": 7
-        },
-        {
-          "id": 33062,
-          "name": "Hubble",
-          "url": "https://hubble.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/hubble-ai",
-          "location": "Seattle, WA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "B2B",
-            "Healthcare"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "AI-native retrieval engine for medical records",
-          "originalDescription": "Hubble’s mission is to unify the patient medical record and remove the barriers to accessing it. Today, a person’s health history is scattered across disconnected systems, leaving patients and the people helping them to piece it together. We’re building a future where one authorization unlocks a more complete record, regardless of where someone received care. Our founders previously built healthcare and AI products at Grow Therapy and Amazon One Medical, and we’re backed by Y Combinator, Madrona, and Basis Set. We’re building our team in Seattle, with the opportunity to work directly with the founders and shape how people access and use their health information.",
-          "published": "",
-          "story": "这是做医疗记录检索的公司。如果你是一位刚换医院就诊的患者，过去的检查、用药和诊断散落在不同系统里，你得自己一处一处去要。Hubble 想用一个授权解锁更完整的病历，不管此前的诊疗发生在哪里。两位创始人此前在心理健康平台和连锁诊所做过医疗与人工智能产品，公司获得 YC、Madrona 和 Basis Set 的支持，团队两人，正在招聘，并在西雅图组建团队，成员可以直接和创始人一起塑造人们获取健康信息的方式。它值得看的地方在于把碎片化病历这件事当成基础设施来做。",
-          "rank": 8
-        },
-        {
-          "id": 33178,
-          "name": "TovenAI",
-          "url": "https://toven.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/tovenai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Fintech",
-            "Compliance",
-            "Regtech",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "AI agents for compliance at institutional trading firms",
-          "originalDescription": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage. With prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
-          "published": "",
-          "story": "这是给机构交易公司做合规自动化的公司。想象你是一名券商合规分析师，每天要在多个系统之间核对交易数据、整理记录，大量时间花在重复的人工操作上。TovenAI 提供一组智能体来处理这类数据密集的合规工作，目前已有六个智能体上线，客户从专业机构到大型全球机构都有，其中一个前十大的机构券商在多个合规流程中使用它们。平台预置了三十多个系统的连接器，企业不到一周就能接入并用自己的数据评估结果。它来自 YC 夏季 2026 批次，团队两人，信号是产品已在真实机构里跑起来。",
-          "rank": 9
-        },
-        {
-          "id": 31296,
-          "name": "Unifold",
-          "url": "https://unifold.io",
-          "sourceUrl": "https://www.ycombinator.com/companies/unifold",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 3,
-          "originalOneLiner": "Multi-chain deposit and payment infrastructure",
-          "originalDescription": "Launch crypto deposits in minutes. Unifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works. If you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.",
-          "published": "",
-          "story": "这家公司切的是加密支付里的充值基础设施。如果你是一名开发者，正在做一个面向消费者的链上产品，想让用户从任意链、任意代币充值，光是处理确认、到账和异常就够写很久。Unifold 提供面向开发者的接口和开发包，不到十行代码就能接入链上充值，完整的充值流程由它处理，团队可以更快上线，用户也能得到顺畅的体验。它来自 YC 冬季 2026 批次，团队三人，位于纽约，值得看的是它把多链充值这件麻烦事收敛成很少的接入工作。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "Latent Space-aHR0cHM6Ly9s",
-          "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-          "url": "https://latent.space/p/ainews-kimi-31/",
-          "source": "Latent Space",
-          "published": "Sat, 24 Oct 2026 07:18:29 GMT",
-          "story": "做模型的人最近常有一种感觉：每隔几周就听说某个开源模型又追近了一点，可到底追近了多少、还差在哪，很难说清。这篇值得读，是因为它把这种模糊的追赶感落到了具体的一次发布上，让人能看到开放权重和闭源领先者之间的距离被描述成多短的一段时间。读的时候可以留意作者是怎么给这种比较定标尺的：他拿什么当参照，又怎么处理速度和能力之间的取舍，比如同一个模型在更快的接口下，哪些东西被保留、哪些被让渡。"
-        },
-        {
-          "id": "TechCrunch Startups-aHR0cHM6Ly90",
-          "title": "Startups don&#8217;t need to go viral to win customers",
-          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-          "source": "TechCrunch Startups",
-          "published": "Fri, 23 Oct 2026 23:07:45 +0000",
-          "story": "很多创始人一开始都会盯着增长曲线，希望某天突然被大量用户看见，好像只有那种爆发才算赢。但真正跑过一阵子的人会发现，客户往往是一个一个来的，靠的是某个具体渠道里反复出现的需求。这篇值得读，是因为它把注意力从热闹的传播拉回到获客本身，提醒人去想清楚第一批用户到底从哪里来。读的时候不妨看作者如何拆开“增长”这件事：他区分了哪些是短期曝光、哪些是能留下来的客户，以及小团队在资源有限时该先在哪条路上用力。"
-        },
-        {
-          "id": "Google Research-aHR0cHM6Ly9y",
-          "title": "Bringing foundational models to the front lines of TB screening",
-          "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-          "source": "Google Research",
-          "published": "Fri, 23 Oct 2026 18:51:33 +0000",
-          "story": "在医疗资源紧张的地方，筛查结核病常常卡在最前面一步：片子要有人看，而能看的人不够。这类问题不太像实验室里的难题，更像一个流程问题，卡住的地方往往不在模型本身。这篇值得读，是因为它讲的是把基础模型放到筛查一线时会发生什么，而不是只谈指标。读的时候可以留意作者怎么描述落地的条件：数据在什么环境下产生，结果交给谁看，误判会带来什么后果，以及他们如何在准确率和实际可用之间做判断。"
         }
       ]
     }
