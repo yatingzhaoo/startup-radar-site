@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-12T16:46:18.730Z",
+  "updatedAt": "2026-11-13T16:16:29.734Z",
   "readings": [
+    {
+      "key": "github.com/qoralai/bwat",
+      "title": "Show HN: Bwat turns what's said in Zoom meetings into todos for your agents",
+      "url": "https://github.com/qoralai/bwat",
+      "usedAt": "2026-11-13",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/5-interesting-learnings-from-palantir-at-9-3-billion-run-rate-96-growth-165-nrr-and-u-s-commercial-passing-government-for-the-first-time",
+      "title": "5 Interesting Learnings from Palantir at $9.3 Billion Run-Rate: 96% Growth, 165% NRR, and U.S. Commercial Passing Government for the First Time",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-palantir-at-9-3-billion-run-rate-96-growth-165-nrr-and-u-s-commercial-passing-government-for-the-first-time/",
+      "usedAt": "2026-11-13",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale",
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "usedAt": "2026-11-13",
+      "site": "startup-radar"
+    },
     {
       "key": "freebsd.org/status/report-2026-07-2026-09",
       "title": "FreeBSD Developer AI Survey Results",
