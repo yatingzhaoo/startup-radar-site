@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-13T16:16:29.734Z",
+  "updatedAt": "2026-11-14T15:00:57.754Z",
   "readings": [
+    {
+      "key": "gitlab.com/snipedbywifi/terminactory",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "usedAt": "2026-11-14",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/saastr-ai-app-of-the-week-scifin-the-nutanix-and-cohesity-founder-raised-44-million-to-close-the-context-gap-in-your-pipeline",
+      "title": "SaaStr AI App of the Week: SciFin. The Nutanix and Cohesity Founder Raised $44 Million to Build AI for Sales Teams.",
+      "url": "https://www.saastr.com/saastr-ai-app-of-the-week-scifin-the-nutanix-and-cohesity-founder-raised-44-million-to-close-the-context-gap-in-your-pipeline/",
+      "usedAt": "2026-11-14",
+      "site": "startup-radar"
+    },
+    {
+      "key": "wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "usedAt": "2026-11-14",
+      "site": "startup-radar"
+    },
     {
       "key": "github.com/qoralai/bwat",
       "title": "Show HN: Bwat turns what's said in Zoom meetings into todos for your agents",

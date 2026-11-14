@@ -1,7 +1,261 @@
 {
-  "generatedAt": "2026-11-13T16:16:29.731Z",
+  "generatedAt": "2026-11-14T15:00:57.752Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-11-14",
+      "companies": [
+        {
+          "id": 32168,
+          "name": "Synapse Semiconductor",
+          "url": "https://synapsesemi.org",
+          "sourceUrl": "https://www.ycombinator.com/companies/synapse-semiconductor",
+          "location": "Durham, NC, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Edge Computing Semiconductors",
+            "Hard Tech",
+            "Robotics",
+            "Defense",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "New semiconductors that merge compute and vision",
+          "originalDescription": "We want to push machines to where humans cant go. Presidential early career award winning Duke Semiconductor ECE Faculty Tania Roy and Sanjeev Chauhan are building a frontier semiconductor research lab. Their focus is on solving physical AI challenges from the semiconductor device level and building products around the moat of impossible to copy innovation. Their first work is on a new vision sensor that can run neural network filters right in the camera pixels and only collect data that machines care about. As physical AI develops, machines needs to understand the world around them if they aim to interact with them.",
+          "published": "",
+          "story": "这家公司做的是边缘计算芯片，把计算和视觉能力合到同一块半导体里。假如你负责一台要在废墟或管道里自主行动的机器人，它今天遇到的麻烦是摄像头拍到的画面太多，传回后方既慢又费电，真正有用的信息却淹没在噪声里。Synapse Semiconductor 的做法是在摄像头的像素层面就运行神经网络滤波，只留下机器真正关心的数据，而不是先把一切拍下来再说。它来自 YC 夏季 2026 批次，团队目前只有两人，正在招聘，方向覆盖机器人、国防等物理人工智能场景。值得看的地方在于它从器件层面切入，而不是在现成硬件上叠软件，这类创新一旦成立就很难被复制。",
+          "rank": 1
+        },
+        {
+          "id": 32169,
+          "name": "Speko",
+          "url": "https://speko.ai/?utm_source=ycombinator&utm_medium=profile",
+          "sourceUrl": "https://www.ycombinator.com/companies/speko",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "AI",
+            "Conversational AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "OpenRouter for Voice AI: one API, every call on the best speech model",
+          "originalDescription": "Speko is a router for voice models: one API key, and your voice agent runs on the speech-to-text, LLM, and text-to-speech models we measured as best for your language and use case. The measurements are public at benchmarks.speko.ai: we test new models the day they ship and re-route when the numbers change, so you rewrite nothing. We ran this bake-off by hand for four years at previous company, shipping production voice for Fortune 500s.",
+          "published": "",
+          "story": "这家公司切的是语音智能体的模型路由层。想象你正在开发一个多语言的语音客服智能体，今天遇到的麻烦是语音转文字、大模型、文字转语音三段各要用不同供应商，每出一款新模型你就得重新评估、改代码、再上线。Speko 提供一个接口和一把密钥，按语言和使用场景自动把请求路由到它测出来表现最好的语音模型，测试结果公开在基准网站上，新模型发布当天就会测，数字变了就重新路由，开发者不用改任何东西。它来自 YC 夏季 2026 批次，团队四人，正在招聘，团队称此前在一家公司手工做过四年这类模型对比，并为财富五百强交付过生产级语音。",
+          "rank": 2
+        },
+        {
+          "id": 31513,
+          "name": "CharacterQuilt",
+          "url": "https://characterquilt.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/characterquilt",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Computer use agents to deploy enterprise marketing campaigns",
+          "originalDescription": "CharacterQuilt builds computer use agents to deploy enterprise marketing campaigns. Marketers today don’t actually do much marketing at all. Today, over 80% of time spent on launching a marketing campaign is actually ops work: tweaking automation flows in Pardot, configuring audiences in LinkedIn, or wiring HTML emails in Marketo. What’s crazy about enterprise marketing is companies pay agencies millions of dollars just to deploy campaigns in their systems — and they still have to wait weeks for each one. CharacterQuilt is AI infrastructure for marketing teams: a brain that learns your brand, and agents that operate your existing tools. Marketing campaigns that used to take 3 agencies, 10 tools, and 6 weeks are now being built, designed, and deployed from CQ in an hour. Customers submit a brief like they would send to a human teammate or marketing agency, and they get back fully designed and deployed campaigns. Teams like 1upHealth, ABC Fitness, and Emplifi use us to: 1-) Build segments/audiences faster 2-) Create on-brand creative (AI is terrible at staying on-brand) 3-) Deploy campaigns automatically into HubSpot, WordPress, LinkedIn etc. We replicate your brand guidelines, deeply understand past campaigns, and work inside your systems. If you run demand gen or lifecycle at a B2B/B2C company and want to ship campaigns faster, send us a brief and we’ll build it in 15 minutes.",
+          "published": "",
+          "story": "这是做企业营销活动部署的智能体公司。如果你是一名企业营销经理，今天要上线一场活动，麻烦在于真正花时间的不是创意，而是在 Pardot 里调自动化流程、在领英里配受众、在 Marketo 里拼邮件模板，八成时间都耗在这些运营杂活上，等 agency 交付还要好几周。CharacterQuilt 让营销人员像给同事或代理公司发简报一样提交需求，由学习过品牌调性的智能体直接操作企业已有的工具，把设计、搭建和部署一起完成。它来自 YC 春季 2026 批次，团队四人，正在招聘。值得关注的是它瞄准的是企业营销里长期外包给 agency 的那部分部署工作，而不是再做一个内容生成工具。",
+          "rank": 3
+        },
+        {
+          "id": 34431,
+          "name": "Hue",
+          "url": "https://hue.run/",
+          "sourceUrl": "https://www.ycombinator.com/companies/hue",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Developer Tools",
+            "Infrastructure",
+            "AI"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "Test agents in realistic worlds built from production usage",
+          "originalDescription": "Hue turns production usage of agents into repeatable tests that preserve the tools, data, and state behind the real run. As AI agents take on real work, their behavior depends increasingly on the nuances of the world around them. With Hue, teams can test and improve their agents under conditions that mimic real usage.",
+          "published": "",
+          "story": "这家公司做的是智能体的测试基础设施。假设你是一个工程负责人，手上的智能体已经在生产环境跑真实任务，今天遇到的麻烦是它在演示里表现很好，一换到真实工具、真实数据和真实状态组合下就出问题，而你很难把那次出错的运行原样复现出来。Hue 把生产环境里的实际使用记录转成可重复的测试，保留当时调用的工具、数据和状态，让团队在接近真实的条件下反复测试和改进智能体。它来自 YC 秋季 2026 批次，团队两人，目前不招聘。这个场景本身值得看，因为智能体越往真实工作里走，行为就越依赖周围环境的细节，能不能稳定复现就成了能不能上生产的关键。",
+          "rank": 4
+        },
+        {
+          "id": 35256,
+          "name": "horizontal.",
+          "url": "https://horizontal-tech.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/horizontal",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Manufacturing",
+            "Automation",
+            "Industrial"
+          ],
+          "batch": "Fall 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI agents that run factory operations end-to-end.",
+          "originalDescription": "Every factory will be run by AI agents. Horizontal is building them. Today, the work that keeps production moving is scattered across people, teams, and disconnected software. When plans change, materials run short, or quality issues appear, factory teams piece together the context and coordinate the response by hand. Horizontal's AI agents take on that operational work inside the systems factories already use. They replan production around a disruption, investigate quality issues and coordinate order releases across teams and tools. Manufacturers start with one process and add agents over time, building toward a system that coordinates the factory end to end. Factories are demanding environments for AI: every plant has its own systems and procedures, and every action must work in the context of real production. Our team combines mechanical engineering and shop-floor experience with a track record of building and deploying agentic AI in global industrial companies. Horizontal connects the people, software and machines that run production.",
+          "published": "",
+          "story": "这家公司做的是工厂运营的智能体。假如你是一个工厂的运营负责人，今天计划突然被打乱，某种物料短缺，同时一条线出现质量异常，你的麻烦是要在几个人、几个班组和几套互不相通的软件之间手工拼出全貌，再一个个打电话协调。horizontal. 的智能体接手这类运营工作，在工厂已有的系统里重新排产、追查质量问题、跨团队协调订单放行，客户可以先从一个流程用起，再逐步增加智能体。它来自 YC 秋季 2026 批次，团队两人，目前不招聘。值得看的是它面对的是每个工厂各有一套系统和流程的复杂现场，团队把机械工程和车间经验与工程能力放在一起，这类场景恰恰是通用工具很难直接套用的。",
+          "rank": 5
+        },
+        {
+          "id": 31284,
+          "name": "Origami Robotics",
+          "url": "https://www.origami-robotics.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/origami-robotics",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "Manipulate Anything Robot",
+          "originalDescription": "We are building a \"manipulate anything\" model with the robot hardware that embodies it. We designed a hand-based data-collection device and a high DOF, direct drive robotic hand that match each other exactly, enabling us to eliminate embodiment gap and collect real-world data and deploy it directly. We want to scale real world manipulation data by deploying our devices \"in the wild\" like manufacturing factories, logistic centers to collect Tesla like data, use these data to train our model and then provide automation solutions to these industries.",
+          "published": "",
+          "story": "这家公司做人形操作机器人和配套的抓取模型。想象你在一家物流中心负责分拣，今天遇到的麻烦是货品种类太杂，形状、软硬、重量都不一样，靠预设动作的机械臂一遇到没见过的物件就停摆。Origami Robotics 的思路是让数据采集装置和机器人手在结构上完全对齐，消除采集与部署之间的差异，再把设备放到工厂、物流中心这类真实场景里持续采集操作数据，用来训练一个能操作各种物体的模型，最后向这些行业提供自动化方案。它来自 YC 冬季 2026 批次，团队五人，目前不招聘。值得看的是它把硬件和数据采集绑在一起设计，而不是先做手再想办法补数据。",
+          "rank": 6
+        },
+        {
+          "id": 30541,
+          "name": "Code Four",
+          "url": "https://codefour.us/",
+          "sourceUrl": "https://www.ycombinator.com/companies/code-four",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "GovTech",
+            "Computer Vision",
+            "AI"
+          ],
+          "batch": "Spring 2025",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "Modernizing the police workflow.",
+          "originalDescription": "Code Four slashes the administrative burden on law enforcement through AI-driven automation. Officers spend up to a third of their shifts manually transcribing body camera footage, creating inaccuracies, reducing transparency, and cutting into frontline duties. We're here to eliminate these inefficiencies by integrating with body cameras, record management systems, and digital evidence management systems—acting as a software layer for data processing. We free the most overworked and underappreciated people in the world: police officers.",
+          "published": "",
+          "story": "这家公司做的是警务流程的软件层。如果你是一名一线警员，今天值完班还有一堆文书要处理，麻烦在于随身摄像头拍下的内容要手工转写成报告，往往占掉当班时间的三分之一，既容易出错，也挤压了真正上街的时间。Code Four 通过接入随身摄像头、记录管理系统和数字证据管理系统，用人工智能自动完成这类行政处理，把数据加工这一层接过来。它来自 YC 春季 2025 批次，团队三人，正在招聘。值得关注的是它选的是一个长期被行政负担压住、又对准确性和透明度要求很高的公共部门场景，而不是泛泛的文档工具。",
+          "rank": 7
+        },
+        {
+          "id": 31085,
+          "name": "Janeen",
+          "url": "https://janeen.care",
+          "sourceUrl": "https://www.ycombinator.com/companies/janeen",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Winter 2026",
+          "isHiring": true,
+          "teamSize": 5,
+          "originalOneLiner": "Prior auths and benefits investigation for infusion clinics",
+          "originalDescription": "Janeen is built for infusion clinics. We handle prior authorizations and benefit investigations from start to finish (actually though!). Biologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. Current medical workflows aren't built for infusion clinics. Inventory, storage, transport, and billing is still managed through paper and excel spreadsheets. And because they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, when workflows fail, or patients are infused before paperwork is cleared, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting forms. We work with clinics across the country and have removed 95% of all manual labor in the process.",
+          "published": "",
+          "story": "这家公司切的是输液诊所的 prior authorization 和福利调查。假设你在一家输液诊所负责运营，今天要给一位患者用生物制剂，麻烦在于这类药一年费用可达八万到十五万美元，诊所往往要先垫资采购，而保险公司每年的拒付率约为百分之三十七，一旦流程没走完就先输液，药费就收不回来。Janeen 把授权申请和福利调查从头到尾接过去做，针对输液诊所的库存、储存、运输和账单流程设计，而不是套用普通门诊的工作流。它来自 YC 冬季 2026 批次，团队五人，正在招聘。值得看的是它盯住的是高价药垫资和拒付之间的现金流风险，这是诊所每天都要面对的现实问题。",
+          "rank": 8
+        },
+        {
+          "id": 32261,
+          "name": "Rasyn",
+          "url": "https://www.rasyn.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/rasyn",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Deep Learning",
+            "Biotech",
+            "Manufacturing",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "Making chemicals 100,000x faster",
+          "originalDescription": "We build foundational AI models for chemistry. Almost nothing you buy is a single chemical. Products like datacenter coolant, GPU thermal paste, paint, and glue are formulations, which are mixtures of around ten ingredients each, and demand for them has grown quickly because of AI and EVs. Designing a new formulation is essentially a search problem, because there are more possible mixtures than anyone could ever test, and none of them can be predicted in advance. As a result, bringing a single formulation to market today takes three to five years of trial and error in a lab. Our models predict how a mixture will behave far faster than the standard methods used today, which lets us design new formulations in weeks rather than years, at a fraction of the cost. To prove this, we used them to invent three chemicals that never existed before, including a PFAS-free coolant for datacenters, and we have since synthesized and patented all three. We are already working with some of the largest manufacturers to design formulations for them, and we are building our own lab to generate the data that will train our next models.",
+          "published": "",
+          "story": "这家公司做的是化学配方的基础人工智能模型。如果你在一家材料公司的研发部门工作，今天要为一款数据中心冷却液或导热膏找新配方，麻烦在于这类产品是十种左右成分的混合物，可能的组合比任何人能测试的都多，也无法提前预测，靠实验室试错把一款配方推向市场通常要三到五年。Rasyn 的模型能比现有标准方法快得多地预测混合物行为，把配方设计从数年缩短到数周，成本也大幅下降。它来自 YC 夏季 2026 批次，团队三人，目前不招聘。值得看的是团队称已用模型设计出三种此前不存在的化学品，其中包括一款不含 PFAS 的数据中心冷却液，这是可验证的产品信号而不是空泛的愿景。",
+          "rank": 9
+        },
+        {
+          "id": 32225,
+          "name": "Stoa",
+          "url": "https://www.stoaexchange.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/stoa",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Hardware",
+            "Marketplace",
+            "Infrastructure",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 3,
+          "originalOneLiner": "The market behind AI hardware.",
+          "originalDescription": "Stoa provides pricing and trading infrastructure for AI hardware, live with an RFQ marketplace where companies buy and sell GPUs through vetted dealers real-time.",
+          "published": "",
+          "story": "这家公司做的是人工智能硬件的定价和交易基础设施。假如你是一家正在扩算力的公司里负责采购的人，今天要临时补一批图形处理器，麻烦在于市场报价零散、交期和成色参差，你很难在短时间内判断什么价格算合理。Stoa 提供报价和交易的基础设施，已经上线一个询价市场，让公司在经过审核的经销商之间实时买卖图形处理器。它来自 YC 夏季 2026 批次，团队三人，正在招聘。值得看的是它没有停在信息撮合上，而是把定价和交易流程本身做成基础设施，这在算力供需波动剧烈的阶段是一个真实存在的痛点。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "hn-50497132",
+          "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+          "url": "https://gitlab.com/snipedbywifi/terminactory",
+          "source": "Hacker News",
+          "published": "2026-11-14T14:05:54Z",
+          "story": "很多工程师都有过这样的时刻：想亲手做个小项目练手，又不想被图形界面和框架拖着走，于是把目光投回终端。终端游戏这类东西一直有人玩，因为它把界面压到最少，剩下的全是逻辑和手感。这篇值得读的地方在于，它把一个小游戏从想法做成了能跑起来的东西，而且选了 Rust 和 ratatui 这套组合，能看出作者对性能和简洁有自己的偏好。读的时候可以留意作者怎么划分游戏循环和界面刷新，怎么在终端这种限制很多的画布上安排信息，以及哪些设计是为了好玩、哪些是为了代码好维护。对想动手做第一个小项目的人，这种取舍过程比成品本身更有参考价值。"
+        },
+        {
+          "id": "SaaStr-aHR0cHM6Ly93",
+          "title": "SaaStr AI App of the Week: SciFin. The Nutanix and Cohesity Founder Raised $44 Million to Build AI for Sales Teams.",
+          "url": "https://www.saastr.com/saastr-ai-app-of-the-week-scifin-the-nutanix-and-cohesity-founder-raised-44-million-to-close-the-context-gap-in-your-pipeline/",
+          "source": "SaaStr",
+          "published": "Sat, 14 Nov 2026 12:00:15 +0000",
+          "story": "做销售的人大概都有过这种时刻：手里攒着一堆线索和客户往来记录，可真正要判断下一步该跟谁、该说什么，却总觉得信息散在各处，拼不出完整画面。这类“上下文缺口”在团队扩张后尤其明显，新人接手客户时最容易被卡住。这篇值得读，是因为它讲的不是又一个功能堆叠的工具，而是一个连续创业者带着大笔融资去做销售场景里的 人工智能。读的时候可以留意作者如何描述问题边界：他把缺口归到哪个环节，又认为什么样的公司会先为此买单。"
+        },
+        {
+          "id": "WIRED Business-aHR0cHM6Ly93",
+          "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+          "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+          "source": "WIRED Business",
+          "published": "Sat, 14 Nov 2026 11:00:00 +0000",
+          "story": "坐飞机时我们很少想到驾驶舱里坐着谁，也很少想到地面上还有多少人在盯着雷达屏幕。可当航空公司开始讨论减少飞行员、空管人手又长期紧张，普通人自然会问一句：安全这件事靠什么兜底。这篇报道值得看，是因为它没有停在技术能不能做到的层面，而是把注意力放到了人和制度上。读的时候不妨看作者怎么组织不同立场的声音，怎么在乐观和担忧之间保持分寸，以及他反复追问的到底是哪几个具体风险。"
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "companies": [
@@ -3325,257 +3579,6 @@
           "source": "Hacker News",
           "published": "2026-10-27T12:11:35Z",
           "story": "做小产品的人常有一种冲动：把一个大家熟悉的东西改一条规则，看看会变成什么样。国际象棋被改了无数次，这次有人让棋子只能沿对角线走，还把它做成了能直接玩的网页，放到 Hacker News 上。它值得读，不是因为规则多深奥，而是因为它是一个完整的示范：一个想法怎么在几天内变成别人能上手试的东西。读的时候可以留意作者怎么介绍规则、怎么处理例外情况，以及社区里的人在争论什么，是玩法本身，还是这种动手做的劲头。"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-26",
-      "companies": [
-        {
-          "id": 33177,
-          "name": "HyperProbe",
-          "url": "https://hyperprobe.co",
-          "sourceUrl": "https://www.ycombinator.com/companies/hyperprobe",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "AIOps",
-            "Developer Tools",
-            "SaaS",
-            "DevOps",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": false,
-          "teamSize": 8,
-          "originalOneLiner": "AI engineer that debugs and fixes production incidents in realtime",
-          "originalDescription": "With tools like Cursor and Claude Code, writing software is no longer the bottleneck. Debugging is. Agents cannot fix production crashes using logs and traces that were sized for human eyeballs. The gap is missing data. HyperProbe allows agents to debug live software autonomously. Our SDK drops non-breaking probes straight into running services to read exact variable states from memory at the moment of failure, instead of reasoning backwards from flat logs. Zero redeploys. Under 1% CPU overhead. Automatic PII redaction. We turn 4-hour production war rooms into 10-minute automated resolutions. As agents write and operate more of the world's software, HyperProbe is the runtime observability layer that lets them understand what they built.",
-          "published": "",
-          "story": "这是做软件运行时可观测性的公司。想象你是一名负责线上服务的工程负责人，半夜被告警叫醒，日志和追踪数据都是给人看的，智能体拿着这些扁平信息很难还原崩溃那一刻内存里到底发生了什么。HyperProbe 的做法是把探针直接注入正在运行的服务，在故障瞬间读取精确的变量状态，不需要重新部署，处理器开销控制在百分之一以内，还会自动脱敏个人信息。它属于 YC 夏季 2026 批次，团队八人，正在招聘。当越来越多智能体参与写代码和运维，让它们真正看懂自己造出的系统就成了刚需，这正是这家公司值得关注的地方。",
-          "rank": 1
-        },
-        {
-          "id": 31434,
-          "name": "Adialante",
-          "url": "https://www.ycombinator.com/companies/adialante",
-          "sourceUrl": "https://www.ycombinator.com/companies/adialante",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Cancer screening without barriers",
-          "originalDescription": "We know how to improve cancer outcomes by 8x-10x: you catch it early. MRI is the most robust and powerful cancer-detection tool in the world, yet systems cost millions to purchase, take months to install, and require high levels of technical skill to operate. We've redesigned MRI from the ground up with new physics, algorithms, and hardware, all to bring cancer screening to the entire world. Our mobile MRI is an imaging clinic on wheels. No equipment to buy, no infrastructure needed. For a flat per-scan fee, any medical site can offer MRI cancer screening. Starting with prostate cancer. Then everything else.",
-          "published": "",
-          "story": "这家公司切的是癌症筛查的医学影像设备。假如你是一家社区医疗机构的运营负责人，想给病人加一项核磁筛查，却被告知设备要花数百万美元、安装要等几个月，还得配高水平技术员。Adialante 从物理、算法和硬件重新设计核磁，做成装在轮子上的移动影像诊所，机构不用买设备也不用建基础设施，按次付费就能提供筛查，先从前列腺癌做起。它属于 YC 春季 2026 批次，团队四人，正在招聘。早发现能大幅改善癌症结局，而把门槛降下来正是让这件事覆盖更多人的关键。",
-          "rank": 2
-        },
-        {
-          "id": 36016,
-          "name": "Pomerado",
-          "url": "https://www.pomerado.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/pomerado",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Developer Tools",
-            "B2B",
-            "Workflow Automation",
-            "API",
-            "AI"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "Turn any website into an MCP for your agents, in minutes",
-          "originalDescription": "Pomerado turns any website into an API / MCP in minutes. Connect your agents to legacy portals, consumer websites, and internal tools. Why Pomerado: • 7x faster than browser agents on customer workflows • 100x cheaper than browser agents • Self healing, deterministic APIs • Universal website coverage • Hosting, authentication, and permissions handled Customers can use us to: • automate back office workflows on legacy systems (ERP, EHR, CRM) • speed up customer integrations for forward deployments • connect enterprise assistants to internal tools • supercharge personal assistants with fast and reliable browser use We’re ex-McKinsey and Scale AI. We drove enterprise agent deployments at F500s and orgs like the Mayo Clinic. We saw how legacy systems block agent development and AI transformations; Pomerado turns those systems into AI-native components automatically.",
-          "published": "",
-          "story": "这是做网站接口化与智能体接入工具的公司。如果你负责一家企业的后台自动化，每天要在老旧的企业管理系统、病历系统或客户系统里重复点选录入，浏览器智能体又慢又贵还容易出错。Pomerado 能在几分钟内把任意网站变成接口或智能体可调用的服务，号称比浏览器智能体快七倍、便宜一百倍，并且自带修复能力、托管、认证和权限管理。它属于 YC 秋季 2026 批次，团队两人。老旧系统一直是智能体落地的拦路石，把这类系统自动变成原生组件，场景本身就值得看。",
-          "rank": 3
-        },
-        {
-          "id": 30879,
-          "name": "Hypercubic",
-          "url": "https://www.hypercubic.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/hypercubic",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "Agentic AI for Mainframe Operations and Modernization",
-          "originalDescription": "Hypercubic is an AI-native platform for mainframe operations and modernization. We help enterprises understand and modernize their mission-critical legacy systems. About 70% of the Fortune 500 companies still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more. These systems, originally built in the 1960s–90s, still power trillions in global infrastructure today but have become increasingly opaque as original developers retire or leave the workforce. We are pioneering a new class of intelligence capable of understanding, reasoning about, and rebuilding the world’s foundational infrastructure. Learn more at hypercubic.ai",
-          "published": "",
-          "story": "这家公司做的是大型机运维与现代化。想象你是一家银行或保险公司的技术负责人，核心业务还跑在几十年前搭的大型机上，当年写代码的人陆续退休，系统越来越像一个没人看得懂的黑箱。Hypercubic 用原生人工智能平台帮企业理解、推理并重建这些关键遗留系统。它属于 YC 秋季 2025 批次，团队三人，正在招聘。据其介绍，财富五百强中约七成仍依赖大型机支撑核心业务，这类基础设施承载着巨大体量，却面临知识断层的现实压力，这就是它值得关注的原因。",
-          "rank": 4
-        },
-        {
-          "id": 31214,
-          "name": "Pocket",
-          "url": "https://heypocket.com/now",
-          "sourceUrl": "https://www.ycombinator.com/companies/pocket",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 35,
-          "originalOneLiner": "Take Notes in the Real World",
-          "originalDescription": "Pocket is a Y Combinator W26 company building a premium hardware plus software product in the AI voice recorder space. We are obsessed with quality and speed. We are scaling very fast in the US and now European markets and building a device experience that can become the category leader.",
-          "published": "",
-          "story": "这家公司做的是人工智能录音笔这类随身硬件。如果你是一个会议很多的咨询顾问，一天连开四五场会，边听边记常常顾此失彼，掏出手机录音又容易分心。Pocket 把录音与转写能力放进一台专门的设备里，让它不只是手机上的一个应用，而是随身场景中的独立工具，强调品质与速度。它属于 YC 冬季 2026 批次，团队三十五人，正在招聘，并称正在美国与欧洲市场快速扩张。硬件加软件的完整体验能否成为这一品类的主力，是它值得关注的地方。",
-          "rank": 5
-        },
-        {
-          "id": 36512,
-          "name": "Lux Foods",
-          "url": "https://www.luxfoods.xyz",
-          "sourceUrl": "https://www.ycombinator.com/companies/lux-foods",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Cellular Agriculture",
-            "Robotics",
-            "Agriculture",
-            "AI",
-            "Biotechnology"
-          ],
-          "batch": "Fall 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "Crops engineered for premium fruit, grown without sunlight.",
-          "originalDescription": "Lux Foods engineers ultra-compact plants that produce mostly fruit, then grows them on sugar with 90% less light. We design the biology and hardware together to make robotic farming easier. Starting with cherry tomatoes, we’re building year-round production of flavorful, nutritious, pesticide-free fruit near the people who eat it. Our tomatoes have been grown on the International Space Station, and now we're taking this technology to Earth.",
-          "published": "",
-          "story": "这是做细胞农业与机器人种植的公司。假如你是一个连锁餐饮的采购负责人，冬天想稳定拿到风味好的番茄，却受制于产地、季节和农药问题。Lux Foods 通过改造植物，让植株变得超紧凑、主要长果实，再用糖作为能量来源，把光照需求降低约九成，并把生物学与硬件一起设计，让机器人种植更容易。它从樱桃番茄起步，目标是靠近消费者做全年生产。团队四人，属于 YC 秋季 2026 批次。其番茄曾在国际空间站上种植，如今把这套技术带回地球，这个背景让它的方向值得留意。",
-          "rank": 6
-        },
-        {
-          "id": 30662,
-          "name": "DeepAware AI (Robotics Center of Silicon Valley)",
-          "url": "https://roboticscenter.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/deepaware-ai-robotics-center-of-silicon-valley",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Machine Learning",
-            "Robotics",
-            "Supply Chain",
-            "Data Engineering",
-            "AI"
-          ],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "Robots, parts & RL envs & evals - delivered in 48 hrs / pickup in SF.",
-          "originalDescription": "DeepAware (Robotics Center of Silicon Valley, https://roboticscenter.ai/) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup. Beyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
-          "published": "",
-          "story": "这家公司做的是机器人硬件与配套数据服务。想象你是一个研究团队的工程负责人，实验要用某种机械臂和零件，采购流程却要等上几周，强化学习环境和遥操作数据也得从头搭。DeepAware 自称是美国拿到机器人与零件最快的方式，七十二小时送达或湾区自取，还帮团队采集遥操作数据、搭建强化学习环境并把机器人部署到生产中。它属于 YC 夏季 2025 批次，团队四人，正在招聘，客户包括人工智能实验室、工业运营方、研究团队和活动制作方。硬件加数据加部署的组合，是它值得看的地方。",
-          "rank": 7
-        },
-        {
-          "id": 31485,
-          "name": "ANORIA",
-          "url": "https://www.anoria.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/anoria",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 5,
-          "originalOneLiner": "The first wearable that reads your emotions to enhance your EQ.",
-          "originalDescription": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
-          "published": "",
-          "story": "这家公司做的是读取情绪的可穿戴设备。如果你是一个需要频繁与人协作的团队负责人，常常事后才意识到自己没读懂对方的情绪，错过了沟通的时机。ANORIA 把传感器放进随身佩戴的设备里，让它不只是手机上的一个应用，而是持续感知你的情绪状态，告诉你原因，并给出可以做的事，把情绪能力变成可以训练的东西。它属于 YC 春季 2026 批次，团队五人。睡眠、恢复、步数都已被追踪，情绪这条反馈回路却一直缺位，这个空白本身就是它值得关注的理由。",
-          "rank": 8
-        },
-        {
-          "id": 31858,
-          "name": "Torus",
-          "url": "https://www.usetorus.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/torus",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Construction",
-            "Energy",
-            "Enterprise Software",
-            "AI",
-            "Industrial"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 6,
-          "originalOneLiner": "Legora for physical engineering firms",
-          "originalDescription": "Torus lets engineering firms and project owners build infrastructure 10x faster to reindustrialize America and the West. We're working with multiple Fortune 500 companies to build critical infrastructure including data centers and critical energy installations.",
-          "published": "",
-          "story": "这是做工程与基础设施行业企业软件的公司。假如你是一家工程公司的项目负责人，手上同时推进数据中心和能源设施，图纸、审批、变更和各方沟通把进度拖得很慢。Torus 面向工程公司与项目业主，帮他们更快建成实体基础设施，定位类似面向实体工程公司的智能助手。它属于 YC 夏季 2026 批次，团队六人，正在招聘，并称正与多家财富五百强公司合作建设数据中心和关键能源设施。再工业化需要把工程流程提速，这类客户信号让它的方向值得关注。",
-          "rank": 9
-        },
-        {
-          "id": 31484,
-          "name": "AbInitio Bio",
-          "url": "https://www.abinitio-bio.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/abinitio-bio",
-          "location": "Boston, MA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": false,
-          "teamSize": 2,
-          "originalOneLiner": "The Intelligence layer for Drug Manufacturing",
-          "originalDescription": "Abinitio Bio builds foundation models for biomanufacturing, validated against wet lab data. Our first model, Echo, predicts manufacturing outcomes more accurately than standard models, and any pharma or CDMO can adapt it to their own workflow instantly. By making process decisions that take 6-18 months today in hours, we help teams avoid the cost of delay on a single program.",
-          "published": "",
-          "story": "这家公司做的是生物制药生产环节的智能模型。想象你是一家药企的工艺负责人，一个生产参数调整往往要等六到十八个月才能拿到湿实验室结果，单个项目的延期成本很高。AbInitio Bio 构建面向生物制造的基础模型，并用湿实验室数据验证，首个模型 Echo 在预测生产结果上比标准模型更准，药企或代工企业可以快速把它适配到自己的流程。它属于 YC 春季 2026 批次，团队两人。把以月计的生产决策压缩到以小时计，正是它值得关注的地方。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "SaaStr-aHR0cHM6Ly93",
-          "title": "A Record 8,625 Startups Raised Their First Venture Round This Year. Smaller VCs Now Have to Find Founders Before They Found Anything.",
-          "url": "https://www.saastr.com/a-record-8625-startups-raised-their-first-venture-round-this-year-smaller-vcs-now-have-to-find-founders-before-they-found-anything/",
-          "source": "SaaStr",
-          "published": "Mon, 26 Oct 2026 14:10:24 +0000",
-          "story": "如果你在一家小基金或者刚入行的投资机构做事，大概会有这种体会：好项目好像总在别人手里，等消息传到自己这边，融资已经结束了。今年有创纪录数量的创业公司拿到了第一轮融资，这听起来是热闹的好消息，可对规模不大的投资人来说，意味着竞争更早、更隐蔽。这篇值得读的地方在于，它把镜头对准了这种位置变化：当越来越多公司能拿到钱，找项目的方式也得跟着变。读的时候可以留意作者怎么描述这个转折，以及他判断小机构该在哪个时间点介入，是等公司成型，还是更早去认识人。"
-        },
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-          "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-          "source": "TechCrunch",
-          "published": "Mon, 26 Oct 2026 14:08:04 +0000",
-          "story": "做数学题和拼图，很多人小时候都玩过，但把它做成一个能持续吸引人、还能赚钱的产品，是另一回事。当一类游戏被证明有人愿意每天打开，资本就会开始问：它能不能长大，能不能扩到更多科目和更多国家。Matiks 拿到一千万美元去扩展它的数学与解谜平台，正好落在这样一个节点上。读这篇时，不妨带着一个具体问题：作者有没有说清楚这笔钱要花在哪，是拉新、做内容，还是进新市场。也可以看它怎么解释用户为什么留下来，而不只是说这个品类很热。"
-        },
-        {
-          "id": "hn-50243831",
-          "title": "Show HN: Building the European Company Graph one website at a time",
-          "url": "https://firmendaten.researchly.at/netzwerk",
-          "source": "Hacker News",
-          "published": "2026-10-26T13:58:24Z",
-          "story": "平时查一家欧洲公司，你可能要在好几个网站之间来回翻，信息散落，格式也不一样。有人干脆自己动手，一个网站一个网站地抓，慢慢拼出一张欧洲公司关系图，然后把它放到 Hacker News 上给人看。这类项目往往不是大公司立项做出来的，而是某个人被具体麻烦逼出来的。它值得读，是因为你能看到一个数据产品最原始的样子：先解决自己的问题，再看别人要不要。读的时候重点看作者怎么定义范围，先收哪些公司、怎么判断一条信息算不算可靠，以及他打算让别人怎么用这张图。"
         }
       ]
     }
