@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-14T15:00:57.754Z",
+  "updatedAt": "2026-11-15T15:37:56.863Z",
   "readings": [
+    {
+      "key": "kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc",
+      "title": "US Has Lost Measles Elimination Status, Global Health Authorities Say",
+      "url": "https://kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc/",
+      "usedAt": "2026-11-15",
+      "site": "startup-radar"
+    },
+    {
+      "key": "lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+      "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+      "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+      "usedAt": "2026-11-15",
+      "site": "startup-radar"
+    },
+    {
+      "key": "saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026",
+      "title": "HubSpot Is Refounding as the &#8220;Customer Harness Company.&#8221; Here&#8217;s What That Means for Us, Right Now, in November 2026",
+      "url": "https://www.saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026/",
+      "usedAt": "2026-11-15",
+      "site": "startup-radar"
+    },
     {
       "key": "gitlab.com/snipedbywifi/terminactory",
       "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",

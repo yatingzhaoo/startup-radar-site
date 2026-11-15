@@ -1,7 +1,250 @@
 {
-  "generatedAt": "2026-11-14T15:00:57.752Z",
+  "generatedAt": "2026-11-15T15:37:56.861Z",
   "source": "github-static",
   "days": [
+    {
+      "date": "2026-11-15",
+      "companies": [
+        {
+          "id": 31470,
+          "name": "Tasklet",
+          "url": "https://tasklet.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/tasklet-2",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 8,
+          "originalOneLiner": "Agents that own the work",
+          "originalDescription": "AI chatbots can answer questions, but they can't do your work — they aren't connected to your tools, can't take actions, and stop running when you close the tab. Meanwhile, knowledge workers are still spending most of their day switching between dozens of SaaS apps, manually stitching together workflows that should be automated. Tasklet is the AI agent that actually does the work. It connects to every tool you use — via thousands of built-in integrations, any HTTP API, or MCP servers — and takes real actions on your behalf: pulling reports, updating CRMs, triaging emails, processing data, and more. When it needs a UI, it generates one on the fly. When it needs to crunch numbers or do bulk operations, it writes and runs code in a cloud sandbox. When it needs to interact with a website that doesn't have an API, it uses a real browser. And because it runs in the cloud 24/7, you can set up triggers to have it take ongoing responsibility for workflows — not just do something once, but handle it going forward. The product is deliberately simple: a chat interface where you talk to an extremely capable agent. But underneath that simplicity is a cloud-native agent runtime, best-in-class context engineering, a universal connections layer, and multi-model support that keeps us on the frontier as AI improves. We think legacy SaaS is being unbundled by agents, and Tasklet is the operating system that ties it all together.",
+          "published": "",
+          "story": "这是做通用办公智能体的公司。假如你是一位负责运营的分析师，每天要在十几个软件之间来回切换，早上从系统里拉报表，中午更新客户记录，下午还要清理收件箱，真正动脑的时间被切得很碎。Tasklet 的智能体可以连上你常用的工具，替你执行这些动作，需要界面时临时生成一个，需要算数或批量处理时在云端写代码运行，遇到没有接口的网站就用真实浏览器去操作，而且它常驻云端，关掉页面也照常干活。这家公司来自 YC 春季 2026 批次，团队八人，正在招聘，适合关注智能体如何从问答走向真正动手的人。",
+          "rank": 1
+        },
+        {
+          "id": 31415,
+          "name": "Synphony",
+          "url": "https://www.synphony.co/",
+          "sourceUrl": "https://www.ycombinator.com/companies/synphony",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 10,
+          "originalOneLiner": "robots & software for farms",
+          "originalDescription": "Strawberry farming is a $3B industry in California alone with 60% labor cost using 40-year old software. Synphony provides strawberry picking robots and software services including: bed-level analytics, data pipeline integration, and agentic solutions. Synphony's \"side hustle\" is selling data, evals, and viral demos to robot foundation labs while building capacity for general robot deployments. We've started with strawberry farming for great margins and outdoor data moat, but also received requests for robots in semi-conductors and autonomous space labs. Synphony's team has won over 15 hackathons together (taking home 4 Jensen-signed GPUs!). Sean did ML research at NVIDIA and led AI products used by IRS and Citibank. Lucas' research spanned robotics, IoT devices, and neuromorphic computing. Alex architected an app with 400k users.",
+          "published": "",
+          "story": "这家公司切的是农业机器人加农场软件。想象你是一位草莓种植园的负责人，采收季一到就为人工发愁，加州草莓产业里人工成本占到六成，而手里的管理软件还是四十年前的老样子。Synphony 提供采摘机器人，也提供苗床级数据分析、数据管道对接和智能体方案，让种植者能看清每一床的情况并减少对人手的依赖。团队拿过十五场以上黑客松，成员做过英伟达的机器学习研究，也主导过被税务和银行机构使用的产品。它从草莓切入，同时接到半导体和太空实验室的机器人需求，来自 YC 春季 2026 批次，团队十人。",
+          "rank": 2
+        },
+        {
+          "id": 30894,
+          "name": "Unsiloed AI",
+          "url": "https://www.unsiloed.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/unsiloed-ai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "B2B",
+            "Infrastructure",
+            "AI",
+            "APIs"
+          ],
+          "batch": "Fall 2025",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "API for parsing multimodal unstructured data",
+          "originalDescription": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets. Our APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
+          "published": "",
+          "story": "这是做多模态文档解析接口的基础设施公司。如果你是一支人工智能团队的工程负责人，手上堆着成千上万份带表格、图片和图表的扫描件，通用解析器和文字识别一遇到这种混排就崩，切分做不好，后面的检索和自动化全被拖垮，项目做了半年还上不了线。Unsiloed AI 用自研的视觉模型把这些非结构化内容转成结构化、可查询、可直接喂给模型的资产，对外提供接口。它已经在为创业公司和纳斯达克上市企业解析数十万份文档，公开基准上表现优于多个同类方案。公司来自 YC 秋季 2025 批次，团队两人，正在招聘。",
+          "rank": 3
+        },
+        {
+          "id": 32259,
+          "name": "screenpipe",
+          "url": "https://screenpipe.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/screenpipe",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "SaaS",
+            "B2B",
+            "Enterprise",
+            "Enterprise Software",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": true,
+          "teamSize": 2,
+          "originalOneLiner": "Turn your company's computer work into AI agents.",
+          "originalDescription": "Screenpipe records and learns how people in your company work and turns it into a searchable memory, documents, and AI agents. Model agnostic and data is stored on your device and/or where your team choose, source available.",
+          "published": "",
+          "story": "这是把公司内部的电脑操作变成智能体的企业软件公司。一个工程负责人每天会看到同事在重复同样的操作，查日志、填表单、翻旧文档，这些经验散在各人手里，人一走就没了。screenpipe 记录并学习公司里人们怎么用电脑干活，把这些过程变成可搜索的记忆、文档和智能体，而且不绑定某一家模型，数据存在设备上或团队自己选的地方，代码开放可查。它来自 YC 夏季 2026 批次，团队两人，正在招聘，值得看的地方在于它把日常操作本身当成可积累的资产，而不是再做一个孤立的工具。",
+          "rank": 4
+        },
+        {
+          "id": 31434,
+          "name": "Adialante",
+          "url": "https://www.ycombinator.com/companies/adialante",
+          "sourceUrl": "https://www.ycombinator.com/companies/adialante",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Cancer screening without barriers",
+          "originalDescription": "We know how to improve cancer outcomes by 8x-10x: you catch it early. MRI is the most robust and powerful cancer-detection tool in the world, yet systems cost millions to purchase, take months to install, and require high levels of technical skill to operate. We've redesigned MRI from the ground up with new physics, algorithms, and hardware, all to bring cancer screening to the entire world. Our mobile MRI is an imaging clinic on wheels. No equipment to buy, no infrastructure needed. For a flat per-scan fee, any medical site can offer MRI cancer screening. Starting with prostate cancer. Then everything else.",
+          "published": "",
+          "story": "这是做移动癌症筛查影像的公司。假如你是一家基层医疗机构的负责人，想给病人做核磁筛查，却买不起动辄数百万的设备，安装要等几个月，还得配高水平技师。Adialante 从物理、算法和硬件重新设计了核磁，做成一辆车上的影像诊所，机构不用买设备、不用建机房，按次付费就能开展筛查，先从前列腺癌做起。它的判断是癌症早发现能把结果改善八到十倍，而核磁是最有力的检测工具之一。公司来自 YC 春季 2026 批次，团队四人，正在招聘，看点在于把昂贵的大型影像能力搬到病人身边。",
+          "rank": 5
+        },
+        {
+          "id": 31493,
+          "name": "Plena Health",
+          "url": "https://www.plena.health/",
+          "sourceUrl": "https://www.ycombinator.com/companies/plena-health",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": true,
+          "teamSize": 0,
+          "originalOneLiner": "Plena is the AI operating system for specialty medical practices",
+          "originalDescription": "Plena is the AI operating system for specialty medical practices. We automate the administrative workflows that keep clinics running — referrals, fax intake, scheduling, procedure compliance, and collections — end to end, across all the systems a practice already uses. Unlike point solutions that cover a slice of the problem, Plena becomes the operating layer across the entire practice, connecting the systems, teams, and workflows that keep it running. In 10 months we've grown 17x and crossed seven figures in committed ARR across six specialties and eight states, with 80% of growth through word of mouth.",
+          "published": "",
+          "story": "这是做专科诊所后台运营系统的公司。如果你负责一家专科诊所的日常运营，每天会被转诊单、传真、排班、术前合规和收款追着跑，这些事分散在好几个系统里，前台和后台来回补漏。Plena Health 把这些流程端到端自动化，横跨诊所已经在用的系统，做成覆盖整个诊所的运营层，而不是只解决其中一小块。十个月里它增长十七倍，签约年收入超过七位数，覆盖六个专科、八个州，八成增长来自口碑。公司来自 YC 春季 2026 批次，正在招聘，值得关注的是它在真实诊所里跑出的增长节奏。",
+          "rank": 6
+        },
+        {
+          "id": 30662,
+          "name": "DeepAware AI (Robotics Center of Silicon Valley)",
+          "url": "https://roboticscenter.ai/",
+          "sourceUrl": "https://www.ycombinator.com/companies/deepaware-ai-robotics-center-of-silicon-valley",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Machine Learning",
+            "Robotics",
+            "Supply Chain",
+            "Data Engineering",
+            "AI"
+          ],
+          "batch": "Summer 2025",
+          "isHiring": true,
+          "teamSize": 4,
+          "originalOneLiner": "Robots, parts & RL envs & evals - delivered in 48 hrs / pickup in SF.",
+          "originalDescription": "DeepAware (Robotics Center of Silicon Valley, https://roboticscenter.ai/) is the fastest way for enterprises and researchers to get robots and robotics parts in the US — 72-hour delivery or Bay Area pickup. Beyond hardware, we help teams collect teleoperation data, build reinforcement learning environments, and deploy robots into production. Customers include AI labs, industrial operations, research teams, and event producers.",
+          "published": "",
+          "story": "这是做机器人硬件与配套工程服务的公司。想象你是一位实验室研究员，论文要赶在截稿前跑完实验，可机械臂和零件下单后要等上几周，强化学习环境还得自己搭。DeepAware 把机器人和机器人零件在美国的交付压缩到七十二小时，湾区可以自取，还帮团队采集遥操作数据、搭建强化学习环境、把机器人部署到生产里。客户包括人工智能实验室、工业运营方、研究团队和活动制作方。它来自 YC 夏季 2025 批次，团队四人，正在招聘，看点在于它把机器人落地中最耗时间的采购和调试环节接了过去。",
+          "rank": 7
+        },
+        {
+          "id": 31430,
+          "name": "Voquill",
+          "url": "https://voquill.com/",
+          "sourceUrl": "https://www.ycombinator.com/companies/voquill",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 3,
+          "originalOneLiner": "The agentic OS for medical labs",
+          "originalDescription": "Voquill is the modern AI-native operating system for medical labs. This software manages the entire workflow of the lab (accessioning, workflow, reporting, coding, compliance, and revenue) and contains modern agentic AI tools to help each step. For example, pathologists can write reports 20% faster through our voice AI coworker. Incumbent lab operating systems are old, don't scale with how modern labs work, and can’t integrate existing AI solutions. As a result, labs are either building their own or paying millions for band-aid solutions and consultants. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
+          "published": "",
+          "story": "这是做医学实验室操作系统的公司。设想一位病理学家，一天要看几十份样本，报告要一个字一个字敲，编码和合规检查还得另外核对，旧的实验室系统又老又难扩展，现成的人工智能工具也接不进去。Voquill 把收样、流程、报告、编码、合规和收入管理放进一套系统，并配上智能体工具，比如语音助手能让病理学家写报告快两成。实验室要么自建，要么花大钱请顾问打补丁，这家公司想直接替换掉这些老旧系统。它来自 YC 春季 2026 批次，团队三人，值得看的是它切进了长期被旧软件占住的实验室核心流程。",
+          "rank": 8
+        },
+        {
+          "id": 33178,
+          "name": "TovenAI",
+          "url": "https://toven.ai",
+          "sourceUrl": "https://www.ycombinator.com/companies/tovenai",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [
+            "Fintech",
+            "Compliance",
+            "Regtech",
+            "AI"
+          ],
+          "batch": "Summer 2026",
+          "isHiring": false,
+          "teamSize": 2,
+          "originalOneLiner": "AI agents for compliance at institutional trading firms",
+          "originalDescription": "TovenAI builds a platform of AI agents that handle manual, data-intensive work for compliance teams at institutional trading firms, with six agents currently live. Our customers range from specialist firms to large global institutions, with our agents supporting multiple compliance workflows at a top-10 institutional brokerage. With prebuilt connectors to more than 30 systems—including Bloomberg, Cloud9, and NICE Actimize—firms can onboard to our platform and evaluate results using their own data in less than a week.",
+          "published": "",
+          "story": "这家公司做的是机构交易公司的合规智能体。如果你是一名合规分析师，每天要在多个系统之间核对交易记录、筛查异常、整理留档材料，大量时间花在复制粘贴和比对数据上。TovenAI 用一组智能体接手这些手工且数据密集的工作，目前已有六个智能体上线，客户从专业机构到大型全球机构都有，其中一个前十大的机构券商在多个合规流程中使用它们。平台预置了三十多个系统的连接器，机构不到一周就能接入并用自己的数据评估效果。公司来自 YC 夏季 2026 批次，团队两人，看点在于合规这种容错极低的场景也开始被智能体接手。",
+          "rank": 9
+        },
+        {
+          "id": 31485,
+          "name": "ANORIA",
+          "url": "https://www.anoria.com",
+          "sourceUrl": "https://www.ycombinator.com/companies/anoria",
+          "location": "San Francisco, CA, USA",
+          "source": [
+            "Y Combinator"
+          ],
+          "tags": [],
+          "batch": "Spring 2026",
+          "isHiring": false,
+          "teamSize": 5,
+          "originalOneLiner": "The first wearable that reads your emotions to enhance your EQ.",
+          "originalDescription": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
+          "published": "",
+          "story": "这是做情绪可穿戴设备的公司。想象一位每天会议排满的咨询顾问，白天要说服客户、安抚团队，晚上却说不清自己为什么累，睡眠、步数、恢复分数都记了一堆，没有一项告诉他此刻的情绪从哪来。ANORIA 做的是一个能感知情绪的设备，它不只记录，还解释原因并给出可以做的事，让情绪识别变成可以训练的能力。它不是手机应用，而是把传感器和能力放进随身佩戴的设备里，在真实场景中持续读取状态。公司来自 YC 春季 2026 批次，团队五人，值得看的是它把长期被忽略的情绪反馈补成了一个闭环。",
+          "rank": 10
+        }
+      ],
+      "readings": [
+        {
+          "id": "SaaStr-aHR0cHM6Ly93",
+          "title": "HubSpot Is Refounding as the &#8220;Customer Harness Company.&#8221; Here&#8217;s What That Means for Us, Right Now, in November 2026",
+          "url": "https://www.saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026/",
+          "source": "SaaStr",
+          "published": "Sun, 15 Nov 2026 15:00:08 +0000",
+          "story": "很多做 SaaS 的团队都会遇到一个时刻：客户数据散在好几个工具里，销售、客服、市场各看各的，谁也说不清一个客户到底经历了什么。HubSpot 这次重新给自己定位，就是在这个背景下发生的。值得读，是因为它展示了一家成熟公司怎么回头改自己的叙事，而不只是换个口号。读的时候可以留意作者如何拆解这次重新定位：它到底是在回应客户行为的变化，还是在回应竞争压力，以及一个公司对外讲的故事和内部真正在做的产品之间，差距是怎么被处理掉的。"
+        },
+        {
+          "id": "hn-50507359",
+          "title": "US Has Lost Measles Elimination Status, Global Health Authorities Say",
+          "url": "https://kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc/",
+          "source": "Hacker News",
+          "published": "2026-11-15T14:53:53Z",
+          "story": "一条公共卫生新闻出现在技术社区的热门列表里，乍看有点意外。但工程师和创业者关心的往往不只是技术本身，而是数据、监测和预警这类能力在真实世界里怎么起作用。麻疹消除状态被取消这件事，背后是持续传播和监测体系的问题。读它的时候，不妨先看技术社区的人为什么把它顶上来：他们讨论的是信息如何被追踪、被上报、被信任，以及一个看起来遥远的公共卫生指标，和做数据产品的人之间有什么共通之处。"
+        },
+        {
+          "id": "Lenny's Newsletter-aHR0cHM6Ly93",
+          "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+          "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+          "source": "Lenny's Newsletter",
+          "published": "Sun, 15 Nov 2026 13:31:28 GMT",
+          "story": "做产品的人大概都经历过这样的时刻：东西做出来了，团队觉得不错，可用户就是不用，或者用了也留不住。消费级产品尤其如此，热闹的发布之后，真正的难题才刚开始。这篇讲的是 Meta 今年最成功的消费产品是怎么推起来的，值得读的地方在于它把注意力放在“发布”这件事本身：一个产品从内部做完到被大量普通人接受，中间要跨过哪些坎。读的时候可以留意作者如何拆解发布前的准备与判断，哪些取舍被证明是对的，以及在用户反馈到来时，团队怎么分辨哪些声音该听、哪些该放。这些细节对正在准备上线新产品的人会有直接参照。"
+        }
+      ]
+    },
     {
       "date": "2026-11-14",
       "companies": [
@@ -3334,251 +3577,6 @@
           "source": "Martin Fowler",
           "published": "2026-10-28T08:55:00-04:00",
           "story": "技术圈里常有一种零散记录：作者把最近看到的小事、想法和讨论攒在一起，过一阵集中写出来。对读者来说，这类文字往往比正式长文更接近一个人真实的关注点。Martin Fowler 的这篇就属于这种形式，日期本身说明它是某个时间点上的观察集合。值得读的地方在于，它不像专题文章那样先给结论，而是把技术、行业和公司建设里的变化并排放在一起，让人自己看出关联。读的时候不妨留意作者挑选了什么、略过了什么，以及他怎样把看似不相干的片段放到同一篇里，这种取舍本身就能帮我们理解他眼中的技术趋势。"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "companies": [
-        {
-          "id": 30726,
-          "name": "Socratix AI",
-          "url": "https://getsocratix.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/socratix-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Summer 2025",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "AI coworkers for fraud and compliance teams.",
-          "originalDescription": "Socratix builds AI coworkers for fraud and compliance teams so that humans don't have to spend their days drowning in alerts and spreadsheets. Today, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. Socratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount. We've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and compliance. We're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution.",
-          "published": "",
-          "story": "这是做金融反欺诈与合规运营的公司。假如你是某家金融科技公司的风控分析师，一个普通工作日的早上打开系统，发现待处理的警报又堆了几百条，你只能在多个工具之间来回切换，把零散信息手动拼起来，再在压力下逐条做判断。Socratix 想做的正是替你分担这部分工作，它提供能实时调查警报的智能体，接入现有工作流程，像人类分析师那样综合各类信号，给出快速且可解释的结论，帮助团队减少欺诈损失、压低误报，并在不增加人手的情况下扩大处理量。这家公司来自 YC 夏季 2025 批次，团队五人，正在招聘，场景本身也说明了问题：警报数量增长的速度往往快过团队扩编的速度。",
-          "rank": 1
-        },
-        {
-          "id": 31416,
-          "name": "Callab AI",
-          "url": "https://callab.ai",
-          "sourceUrl": "https://www.ycombinator.com/companies/callab-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Spring 2026",
-          "isHiring": true,
-          "teamSize": 7,
-          "originalOneLiner": "Human-centered AI for contact centers.",
-          "originalDescription": "Callab AI is a human-centered customer engagement platform for enterprise contact centers. It lets teams deploy AI agents that handle inbound and outbound conversations across voice, chat, and messaging, while human agents and supervisors stay in control of every interaction. The platform has two sides. The AI side lets teams build, deploy, and evaluate voice and text agents using a shared knowledge base, embedded evaluations, post-call analysis, data extraction, batch calling, and call transfer. The human side provides a dialer and a live supervision dashboard, from which a person can watch any AI conversation in real time, step in, and hand it back without the customer repeating a word. Every agent retains memory across channels, so a customer who called yesterday and writes today is recognized and picked up where they left off. The system learns from each human intervention and improves in the direction the team chooses. Callab AI runs on its own carrier-grade telephony stack and connects natively to Cisco, Mitel, Avaya, SIP trunks, and on-premises PBX systems. Enterprises can adopt it without migrating to the cloud first. The platform maintains SOC 2 controls and serves customers in financial services, healthcare, hospitality, and retail. Key features: - AI voice and text agents: Agents handle inbound and outbound conversations across phone, chat, and messaging from a single configuration. - Live human supervision: Supervisors watch any AI conversation in real time and take over without the customer repeating a word. - Persistent memory: Every customer's full context is retained across channels and over time. - AI builder: Teams design, test, and deploy agents without engineering support. - Embedded evaluations: Every conversation is scored continuously, so performance is measured rather than assumed. - Self-improving agents: Agents learn from human interventions and get better with every conversation. - Post-call analysis and data extraction: Every conversation becomes structured, searchable records. - Batch calling and call transfer: Outbound campaigns run at scale, and conversations move to a human with full context attached. - Native telephony integration: The platform connects directly to Cisco, Mitel, Avaya, SIP trunks, and on-premises PBX without cloud migration. - SOC 2 controls: Security and compliance support deployments in regulated industries. Callab AI delivers every agent production-ready. Our team studies the customer's workflows, internal processes, and existing systems, then builds, tests, and implements the agent on that foundation, so it performs to the organization's own standard from the first live conversation.",
-          "published": "",
-          "story": "这家公司切的是企业联络中心的客户沟通系统。想象你是一家大型企业客服中心的现场主管，屏幕上同时开着几十路对话，其中一部分由智能体接待，你最担心的是机器答错时没人及时发现，客户还要把说过的话再讲一遍。Callab AI 让团队在语音、聊天和消息渠道部署智能体，同时保留人工坐席与主管的控制权，主管可以实时旁听任何一段智能体对话，随时介入，再把对话交还给机器，客户不用重复。系统还会记住跨渠道的对话历史，并从每次人工介入中学习。它来自 YC 春季 2026 批次，团队七人，正在招聘，说明这类人机协作的客服模式正在被认真打磨。",
-          "rank": 2
-        },
-        {
-          "id": 30728,
-          "name": "OS3",
-          "url": "https://os3robotics.com/",
-          "sourceUrl": "https://www.ycombinator.com/companies/os3",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hardware",
-            "Robotics",
-            "B2B",
-            "AI"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "Affordable, intelligent humanoid robots built to deploy at scale",
-          "originalDescription": "OS3 is building the platform that makes intelligent robots accessible to every business. Today, robotics is constrained by two fundamental bottlenecks: hardware is too expensive to deploy at scale, and robots are difficult to train because high-quality robotics data is scarce and costly to collect. We built OS3 to solve both. Our two-person team designed and a US-made mobile humanoid robot for a fraction of the cost of commercial alternatives. On the intelligence side, instead of relying on expensive robot-generated training data, we trained our own video-action model on 150,000 hours of real-world video spanning more than 2,000 tasks. Every deployed robot feeds new experience into our reinforcement learning pipeline, self improving robot fleet over time. This creates a robot that can be deployed across industries to automate repetitive, physical work without requiring a new robot or training pipeline for every task. Our robots are already deployed in hotels, with customers now expanding the platform into biotech, hospitals, and data centers, including a wet lab at Stanford. Our mission is to do for robotics what Apple did for personal computing: take technology that was once expensive, specialized, and inaccessible and make it powerful and usable at massive scale. We’re building toward a world with billions of intelligent robots, and OS3 is the platform that makes that possible.",
-          "published": "",
-          "story": "这是做人形机器人平台的公司，能力装在实体设备里，不只是手机上的一个应用。如果你是一家工厂或仓库的运营负责人，重复的搬运和分拣工作常年招不满人，而商用机器人报价高得让人下不了手，训练机器人又缺少数据。OS3 想同时解决这两头：两人团队设计了一台美国制造的移动人形机器人，成本远低于商用替代品；在智能方面，他们没有依赖昂贵的机器人采集数据，而是用十五万小时真实视频训练自己的视频动作模型，覆盖两千多个任务，每台部署出去的机器人都会把新经验汇入强化学习流程，让机队逐步自我改进。它来自 YC 夏季 2026 批次，团队两人，正在招聘。",
-          "rank": 3
-        },
-        {
-          "id": 31252,
-          "name": "Moda",
-          "url": "https://moda.dev",
-          "sourceUrl": "https://www.ycombinator.com/companies/moda",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 6,
-          "originalOneLiner": "Your agents should never make the same mistake twice.",
-          "originalDescription": "Your agents should never make the same mistake twice. Moda helps you engineer better agents from production data. Find recurring failures, understand what caused them, and build evals from real agent runs. Compare models on the tasks your users actually need. Test changes to your prompts, tools, and workflows against past production traffic before you ship. Know what broke, what to change, and whether the fix worked.",
-          "published": "",
-          "story": "这是帮工程团队改进智能体质量的基础设施公司。如果你是一个负责智能体的工程负责人，上线后最怕的就是用户反复遇到同一类失败，而你在日志里翻半天也说不清到底哪里出了问题。Moda 从生产数据入手，帮你找出反复出现的失败、理解其成因，并用真实运行记录构建评估，让你在用户真正需要的任务上比较不同模型，在发布前用过往生产流量测试提示词、工具和工作流的改动，从而知道什么坏了、该改什么、改完是否有效。它来自 YC 冬季 2026 批次，团队六人，目前不在招聘。这类工具值得看的地方在于，智能体越往生产环境走，靠感觉调优就越不够用。",
-          "rank": 4
-        },
-        {
-          "id": 30977,
-          "name": "Rovi Health",
-          "url": "https://www.rovi.health",
-          "sourceUrl": "https://www.ycombinator.com/companies/rovi-health",
-          "location": "New York City, NY, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Consumer Health Services",
-            "Health Tech",
-            "Digital Health",
-            "Healthcare",
-            "Health Insurance"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 3,
-          "originalOneLiner": "AI healthcare concierge for employees",
-          "originalDescription": "We deliver high-quality, cost-effective healthcare to employees through text. Employers cut 10–20% of healthcare spend. Employees get concierge care that improves outcomes. Our AI agents analyze clinical data to identify care needs. We treat common conditions through our integrated virtual clinic. For more complex care, our agents find the best in-network providers using millions of price and quality data points, and handle end-to-end appointment booking.",
-          "published": "",
-          "story": "这是面向员工提供医疗礼宾服务的数字健康公司。假如你是一家公司的福利负责人，每年医疗支出居高不下，员工却常常不知道该去哪里看、看什么，小问题拖成大问题。Rovi Health 通过短信把医疗服务送到员工手边，它的智能体分析临床数据识别照护需求，常见病症由整合的线上诊所直接处理，更复杂的情况则由智能体借助海量价格与质量数据找到网络内合适的医生，并完成从预约到落地的全流程安排。公司称雇主可削减一到两成的医疗支出，员工则获得改善结果的礼宾式照护。它来自 YC 秋季 2025 批次，团队三人，正在招聘。",
-          "rank": 5
-        },
-        {
-          "id": 30635,
-          "name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
-          "url": "https://gru.space",
-          "sourceUrl": "https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space",
-          "location": "Los Angeles, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": true,
-          "teamSize": 5,
-          "originalOneLiner": "Moon Hotel -> The Intergalactic Construction Company of Earth",
-          "originalDescription": "GRU Space is building permanent lunar infrastructure to make humanity interplanetary within our lifetime, starting with the first hotel on the Moon. In just 6 weeks, we built the world's first Moon factory: patent-pending hardware that turns lunar regolith into bricks and inflates modular pressurized habitats designed to withstand lunar temperature and pressure extremes. Our first mission lands on the Moon in 2027 to demonstrate in-situ brick manufacturing and habitat deployment. A second mission lays the hotel's foundation inside a lunar cave, and a third opens the first lunar hotel, targeted for 2032. We don’t stop at Moon hotels. GRU’s long-term plan: 1. Build the first hotel on the Moon. GRU solves off‑world surface habitation. 2. Become the Moon Base Company of America: build roads, mass drivers, warehouses, and physical infrastructure. 3. Repeat on Mars and build the first cities there. 4. Own property on the Moon and Mars as these economies grow. 5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond—reaching our final form: Galactic Resource Utilization. GRU Space is backed by investors in SpaceX and Anduril, is part of Nvidia's Inception program, and our launch generated 1B+ views across 60+ countries, earning invitations to the White House, Senate, and Pentagon.",
-          "published": "",
-          "story": "这家公司做的是月球基础设施，方向听起来遥远，但落点很具体。想象你是一名负责月球基地前期建设的任务工程师，最头疼的是把建材从地球运上去成本高得离谱，而月面环境又对温度和压力极其苛刻。GRU Space 用六周时间造出了他们所称的全球首个月球工厂，这套正在申请专利的硬件能把月壤变成砖块，并充气展开模块化加压居住舱。他们的首次任务计划 2027 年登月，演示原位制砖与居住舱部署，第二次任务在月洞内铺设酒店地基，第三次目标是在 2032 年开出首个月球酒店，长期则想成为月面基建公司，再把模式复制到火星。它来自 YC 冬季 2026 批次，团队五人，正在招聘。",
-          "rank": 6
-        },
-        {
-          "id": 33017,
-          "name": "ProvenMetal",
-          "url": "https://provenmetal.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/provenmetal",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Hardware",
-            "Manufacturing",
-            "Electronics"
-          ],
-          "batch": "Summer 2026",
-          "isHiring": true,
-          "teamSize": 4,
-          "originalOneLiner": "AI-native electronics manufacturing for the American industrial base",
-          "originalDescription": "ProvenMetal manufactures the fastest circuit boards in the United States. Domestic circuit board manufacturing is slow and expensive, and while reshoring is happening, the supply chain isn't there yet. We automate the bottlenecks - part procurement, DFM review, and assembly - delivering circuit boards in days instead of weeks.",
-          "published": "",
-          "story": "这是做电子制造的公司，切的是美国本土电路板供应链。如果你是一家硬件初创公司的工程负责人，样机改完就等电路板回来，可本土厂商报价高、周期长，回流制造的口号喊了几年，配套供应链却没跟上，项目进度只能干等。ProvenMetal 自称制造美国最快的电路板，把零件采购、可制造性审查和组装这些瓶颈环节自动化，把交付周期从数周压缩到数天。它来自 YC 夏季 2026 批次，团队四人，正在招聘。值得关注的地方在于，硬件公司对速度的敏感度极高，打样和迭代的节奏往往直接决定产品能否按时推出。",
-          "rank": 7
-        },
-        {
-          "id": 30218,
-          "name": "Toothy AI",
-          "url": "https://www.toothy.ai/",
-          "sourceUrl": "https://www.ycombinator.com/companies/toothy-ai",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Health Tech",
-            "Healthcare",
-            "Dental",
-            "AI",
-            "Conversational AI"
-          ],
-          "batch": "Winter 2025",
-          "isHiring": true,
-          "teamSize": 15,
-          "originalOneLiner": "AI for insurance verification & billing at dental clinics",
-          "originalDescription": "We’re Toothy.ai. We’re building AI agents for dental practices that handle everything related to patient insurance. The average dental clinic spends over 160 hours a month on insurance tasks like verifying patient policies, billing, and claims processing. Our AI agents automate this entire workflow—including making insurance calls with voice AI—saving clinics time, reducing costs, and ensuring faster reimbursements.",
-          "published": "",
-          "story": "这是给牙科诊所做保险核验与账单处理的公司。假如你是一家牙科诊所的运营负责人，每个月有超过一百六十个小时耗在保险相关事务上，核验患者保单、处理账单、跟进理赔，电话打了一通又一通，前台忙得团团转，回款却总是慢。Toothy AI 用智能体把这一整套流程自动化，包括用语音人工智能直接打电话给保险公司，帮诊所省时间、降成本，并让报销更快到账。它来自 YC 冬季 2025 批次，团队十五人，正在招聘。这个场景值得看，是因为牙科诊所规模普遍不大，保险事务却格外琐碎，人力很难靠加人解决。",
-          "rank": 8
-        },
-        {
-          "id": 30884,
-          "name": "Flick",
-          "url": "https://flick.art",
-          "sourceUrl": "https://www.ycombinator.com/companies/flick",
-          "location": "Santa Barbara, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [
-            "Creator Economy",
-            "AI"
-          ],
-          "batch": "Fall 2025",
-          "isHiring": true,
-          "teamSize": 2,
-          "originalOneLiner": "We Handle AI. You Direct Films.",
-          "originalDescription": "Flick is an AI filmmaking software that lets people create Hollywood-level short films completely using AI end-to-end. There are many AI tools that can give you 8-second casual clips to post on social media, but when it comes to creating truly high-quality films with coherent storylines, consistent characters, and cinematic aesthetics, they don’t come close due to their lack of flexibility, creative control, and fragmented creative flow. Founded by an award-winning filmmaker and a founding engineer at Instagram, Flick defines an interface specifically designed for native AI filmmaking that feels natural and enables end-to-end creative flows. Think of Flick as Figma for AI filmmaking. There are 4 complete AI short films created using Flick that got 20+ awards in international film festivals already and our early creator residency community are generating several AI short films every week. We are also building a community where we produce our own AI films as well as collaborating with other well-known filmmakers to share their “behind-the-scenes” workflows as resuable templates to inspire users in our community. We not only build product, we also build world-class content. The whole film industry will be revolutionized by AI and our goal is to be “the product” that defines this category.",
-          "published": "",
-          "story": "这是做人工智能电影创作软件的公司。想象你是一位独立导演，脑子里有一个完整的短片故事，可市面上的生成工具只能给你八秒钟的零散片段，角色前后不一致，镜头之间接不上，创作流程被切得七零八落。Flick 想做的是让人工智能端到端完成一部短片的创作，界面专为这种原生流程设计，创始人把它比作人工智能电影创作领域的 Figma，让创作者保有控制权和连贯的创作节奏。据公司介绍，已有四部用它完成的短片在国际电影节拿到二十多个奖项，早期创作者社区每周都在产出新片。它来自 YC 秋季 2025 批次，团队两人，正在招聘。",
-          "rank": 9
-        },
-        {
-          "id": 31177,
-          "name": "Prana",
-          "url": "https://pranadoc.com",
-          "sourceUrl": "https://www.ycombinator.com/companies/prana-health",
-          "location": "San Francisco, CA, USA",
-          "source": [
-            "Y Combinator"
-          ],
-          "tags": [],
-          "batch": "Winter 2026",
-          "isHiring": false,
-          "teamSize": 4,
-          "originalOneLiner": "An AI primary care doctor in your pocket",
-          "originalDescription": "Prana replaces the reactive, 15-minute annual physical with continuous, proactive care. We connect to your medical records and wearables to watch for \"clinical drift,\" catching subtle declines in health that human doctors miss between visits. Most AI health apps are just chatbots. Prana is a full-stack medical provider. Our AI acts as a always-on physician that watches your data, explains your labs, and manages your prescriptions. Safety & Scale: We automate 90% of the \"grunt work\" (history taking, logistics, triage) so our human doctors can focus purely on high-leverage decisions. This allows us to offer 24/7 physician care for a fraction of the cost of traditional care. The Team: - Meer Patel (CEO): JHU BME. Deferred Brown Medical School to build Prana because code scales better than appointments. - Vishvam Rawal (CTO): Ex-Quant. Building high-frequency data infrastructure for health signals. - Sanjit Menon (CHO): Graduating MD Candidate. Deep clinical expertise to ensure our models practice good medicine. Traction: Live in beta with early users.",
-          "published": "",
-          "story": "这是做人工智能初级保健服务的公司。如果你是一个平时不太去医院的人，每年一次十五分钟体检之外，身体指标的细微下滑往往没人盯着，等到发现时已经拖成了问题。Prana 想把这套被动模式换成持续主动的照护，它连接你的病历和可穿戴设备，监测所谓临床漂移，捕捉医生在两次就诊之间容易漏掉的缓慢变化。与多数只是聊天机器人的人工智能健康应用不同，它自称是全栈医疗服务提供方，人工智能像随时在线的医生一样看数据、解释化验结果、管理处方，同时把九成的病史采集、事务安排和分诊等基础工作自动化，让人工医生专注关键决策。它来自 YC 冬季 2026 批次，团队四人。",
-          "rank": 10
-        }
-      ],
-      "readings": [
-        {
-          "id": "TechCrunch-aHR0cHM6Ly90",
-          "title": "Billionaire Palmer Luckey isn&#8217;t leaving California over the wealth tax",
-          "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-          "source": "TechCrunch",
-          "published": "Tue, 27 Oct 2026 13:01:00 +0000",
-          "story": "每逢加税或政策风向变化，总有人问：那些有钱人会不会搬走？普通人关心的是税能不能收上来，创业者关心的是自己会不会被顺带波及。这篇报道讲的是亿万富翁 Palmer Luckey 面对加州财富税时的表态，值得读的地方在于，它把“富人用脚投票”这个常见想象放回到一个具体的人身上，让你看到真实的选择可能比口号复杂。读的时候可以留意作者怎么交代背景、怎么引用当事人的话，以及他有没有追问：留下或离开，究竟取决于税本身，还是别的什么。"
-        },
-        {
-          "id": "Cloudflare-aHR0cHM6Ly9i",
-          "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
-          "url": "https://blog.cloudflare.com/php-ctf/",
-          "source": "Cloudflare",
-          "published": "Tue, 27 Oct 2026 13:00:00 GMT",
-          "story": "写 PHP 的人大概都有过这种时刻：代码跑起来了，但你不确定它到底安全不安全。这类担心平时藏在日常开发里，直到有人把它变成一场比赛。Cloudflare 办的这个 PHP 安全夺旗挑战，就是让参与者去攻击、去发现漏洞，在解题中理解代码会在哪里出错。它值得读，是因为它展示了一家公司怎么把内部关心的安全问题变成对外可参与的形式。读的时候可以看题目怎么设计、难度怎么分层，以及组织者希望参与者带走什么。"
-        },
-        {
-          "id": "hn-50257959",
-          "title": "Show HN: Diagonals (Diago) – a chess variation where the pieces stay diagonally",
-          "url": "https://diagonals.vercel.app/",
-          "source": "Hacker News",
-          "published": "2026-10-27T12:11:35Z",
-          "story": "做小产品的人常有一种冲动：把一个大家熟悉的东西改一条规则，看看会变成什么样。国际象棋被改了无数次，这次有人让棋子只能沿对角线走，还把它做成了能直接玩的网页，放到 Hacker News 上。它值得读，不是因为规则多深奥，而是因为它是一个完整的示范：一个想法怎么在几天内变成别人能上手试的东西。读的时候可以留意作者怎么介绍规则、怎么处理例外情况，以及社区里的人在争论什么，是玩法本身，还是这种动手做的劲头。"
         }
       ]
     }
