@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-16T18:27:38.017Z",
+  "updatedAt": "2026-11-18T17:12:39.661Z",
   "readings": [
+    {
+      "key": "blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "usedAt": "2026-11-18",
+      "site": "startup-radar"
+    },
+    {
+      "key": "status.elevenlabs.io/united-states",
+      "title": "ElevenLabs Down",
+      "url": "https://status.elevenlabs.io/united-states",
+      "usedAt": "2026-11-18",
+      "site": "startup-radar"
+    },
+    {
+      "key": "techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl",
+      "title": "Sony&#8217;s updated turntable is an easy entry into the world of vinyl",
+      "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
+      "usedAt": "2026-11-18",
+      "site": "startup-radar"
+    },
     {
       "key": "aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore",
       "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
